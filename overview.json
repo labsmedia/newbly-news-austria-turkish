@@ -1,0 +1,20 @@
+{
+  "country": "at",
+  "language": "tr",
+  "categories": [
+    {
+      "category": "POLITICS",
+      "newsArticles": [
+        {
+          "id": "123456",
+          "titleSource": "Österreich verstößt bei Schweinehaltung gegen EU-Recht",
+          "titleTarget": "Avusturya domuz yetistiriciliginde AB yasasini ihlal ediyor",
+          "imgUrl": "https://media.diepresse.com/images/uploads_685/b/f/1/5884913/E8344B23-A067-4E9C-BFEB-8BC7A4A27C2C_v0_l.jpg",
+          "imgSource": "Fabry",
+          "articleSource": "https://www.diepresse.com/5884913/osterreich-verstosst-bei-schweinehaltung-gegen-eu-recht",
+          "copyright": "diepresse.com"
+        }
+      ]
+    }
+  ]
+}
