@@ -4,46 +4,52 @@
       "category": "POLITICS",
       "newsArticles": [
         {
-          "articleId": "WOg6Iddy",
+          "id": "WOg6Iddy",
           "titleSource": "Verfasssungsgerichtshof kippt Mindestabstand zwischen Gastro-Tischen",
           "titleTarget": "Anayasa Mahkemesi gastro masalar arasindaki asgari mesafeyi bozdu ",
-          "url": "https://kurier.at/politik/inland/coronavirus-vfgh-kippt-mindestabstand-zwischen-gastro-tischen/401080812"
+          "url": "https://kurier.at/politik/inland/coronavirus-vfgh-kippt-mindestabstand-zwischen-gastro-tischen/401080812",
+          "imgUrl": "https://image.kurier.at/images/cfs_landscape_616w_347h/4316639/20200516-ABD0018-1-1.jpg"
         },
         {
-          "articleId": "x6gNtjFF",
-          "titleSource": "Leistungsnachweis oder Rauswurf: Uni-Novelle sorgt für Ärger",
-          "titleTarget": "Basari veya ihraç kaniti: Uni-Novelle sorun yaratir ",
-          "url": "https://kurier.at/politik/inland/leistungsnachweis-oder-rauswurf-uni-novelle-sorgt-fuer-aerger/401079261"
+          "id": "x6gNtjFF",
+          "titleSource": "Leistungsnachweis oder Rauswurf: Uni-Novelle sorgt fï¿½r ï¿½rger",
+          "titleTarget": "Basari veya ihraï¿½ kaniti: Uni-Novelle sorun yaratir ",
+          "url": "https://kurier.at/politik/inland/leistungsnachweis-oder-rauswurf-uni-novelle-sorgt-fuer-aerger/401079261",
+          "imgUrl": "https://image.kurier.at/images/cfs_landscape_616w_347h/1887619/studenten-000_APA_HELMUT%252BFOHRINGER.jpg"
         },
         {
-          "articleId": "gwbk2xRs",
-          "titleSource": "\"Jede Stunde zählt\": Rendi-Wagner rechnet mit Lockdown in zehn Tagen",
-          "titleTarget": "&quot;Her saat önemlidir&quot;: Rendi-Wagner, on gün içinde kilitlenmeyi bekliyor ",
+          "id": "gwbk2xRs",
+          "titleSource": "\"Jede Stunde zï¿½hlt\": Rendi-Wagner rechnet mit Lockdown in zehn Tagen",
+          "titleTarget": "&quot;Her saat ï¿½nemlidir&quot;: Rendi-Wagner, on gï¿½n iï¿½inde kilitlenmeyi bekliyor ",
           "url": "https://kurier.at/politik/inland/rendi-wagner-zu-lockdown-jetzt-zaehlt-jede-stunde/401080620"
         },
         {
-          "articleId": "rGirtRGF",
-          "titleSource": "Corona: Maßnahmen gegen private Partys",
-          "titleTarget": "Corona: özel taraflara karsi önlemler ",
-          "url": "https://kurier.at/politik/inland/corona-massnahmen-gegen-private-partys/401080041"
+          "id": "rGirtRGF",
+          "titleSource": "Corona: Maï¿½nahmen gegen private Partys",
+          "titleTarget": "Corona: ï¿½zel taraflara karsi ï¿½nlemler ",
+          "url": "https://kurier.at/politik/inland/corona-massnahmen-gegen-private-partys/401080041",
+          "imgUrl": "https://image.kurier.at/images/cfs_landscape_616w_347h/4725903/46-168500076.jpg"
         },
         {
-          "articleId": "kcZ633ri",
-          "titleSource": "Corona-Ampel könnte österreichweit auf Rot gestellt werden",
+          "id": "kcZ633ri",
+          "titleSource": "Corona-Ampel kï¿½nnte ï¿½sterreichweit auf Rot gestellt werden",
           "titleTarget": "Corona trafik isiklari, Avusturya genelinde kirmiziya ayarlanabilir ",
-          "url": "https://kurier.at/politik/inland/corona-ampel-koennte-oesterreichweit-auf-rot-gestellt-werden/401080209"
+          "url": "https://kurier.at/politik/inland/corona-ampel-koennte-oesterreichweit-auf-rot-gestellt-werden/401080209",
+          "imgUrl": "https://image.kurier.at/images/cfs_landscape_616w_347h/4714773/46-168266146.jpg"
         },
         {
-          "articleId": "KYLYzLsX",
+          "id": "KYLYzLsX",
           "titleSource": "Kontrollen im Privaten: Experten kritisch",
           "titleTarget": "Gizli kontroller: uzmanlar kritiktir ",
-          "url": "https://kurier.at/politik/inland/kontrollen-im-privaten-experten-kritisch/401080269"
+          "url": "https://kurier.at/politik/inland/kontrollen-im-privaten-experten-kritisch/401080269",
+          "imgUrl": "https://image.kurier.at/images/cfs_landscape_616w_347h/4726356/46-167813761.jpg"
         },
         {
-          "articleId": "FGokXSuX",
-          "titleSource": "Expertenrunde berät heute im Kanzleramt",
-          "titleTarget": "Bugün Basbakanlikta bir grup uzman danismanlik yapiyor ",
-          "url": "https://kurier.at/politik/inland/224-kranke-auf-intensivstationen-anschober-in-groesster-sorge/401079945"
+          "id": "FGokXSuX",
+          "titleSource": "Expertenrunde berï¿½t heute im Kanzleramt",
+          "titleTarget": "Bugï¿½n Basbakanlikta bir grup uzman danismanlik yapiyor ",
+          "url": "https://kurier.at/politik/inland/224-kranke-auf-intensivstationen-anschober-in-groesster-sorge/401079945",
+          "imgUrl":  "https://image.kurier.at/images/cfs_landscape_616w_347h/4725867/46-168493125.jpg"
         }
       ]
     },
@@ -51,46 +57,53 @@
       "category": "ECONOMICS",
       "newsArticles": [
         {
-          "articleId": "j4CCERbQ",
-          "titleSource": "Laudamotion darf Schwangere nicht kündigen",
+          "id": "j4CCERbQ",
+          "titleSource": "Laudamotion darf Schwangere nicht kï¿½ndigen",
           "titleTarget": "Laudamotion hamile kadinlari sonlandirmayabilir ",
-          "url": "https://kurier.at/wirtschaft/laudamotion-darf-schwangere-nicht-kuendigen/401080578"
+          "url": "https://kurier.at/wirtschaft/laudamotion-darf-schwangere-nicht-kuendigen/401080578",
+          "imgUrl":  "https://image.kurier.at/images/cfs_landscape_616w_347h/4437083/20200602-ABD0064-1-1.jpg"
         },
         {
-          "articleId": "62gIDfom",
+          "id": "62gIDfom",
           "titleSource": "CBD: Streit um das Kraut",
-          "titleTarget": "CBD: bitki üzerindeki anlasmazlik ",
-          "url": "https://www.diepresse.com/5889372/CBD_Streit-um-das-Kraut?from=rss"
+          "titleTarget": "CBD: bitki ï¿½zerindeki anlasmazlik ",
+          "url": "https://www.diepresse.com/5889372/CBD_Streit-um-das-Kraut?from=rss",
+          "imgUrl":  "https://media.diepresse.com/images/thumb/q40/2880x1320/c/3/6/5889078/gras_1603901859629261_v0_h.jpg"
         },
         {
-          "articleId": "kcWiextQ",
-          "titleSource": "Coronakrise macht die Österreicher sparsamer",
+          "id": "kcWiextQ",
+          "titleSource": "Coronakrise macht die ï¿½sterreicher sparsamer",
           "titleTarget": "Corona krizi Avusturyalilari daha ekonomik hale getiriyor ",
-          "url": "https://www.diepresse.com/5889243/Umfrage_Coronakrise-macht-die-Oesterreicher-sparsamer?from=rss"
+          "url": "https://www.diepresse.com/5889243/Umfrage_Coronakrise-macht-die-Oesterreicher-sparsamer?from=rss",
+          "imgUrl":  "https://media.diepresse.com/images/q75/uploads_685/c/d/b/5889243/Nach-der-Lockerung-der-Schutzmanahmen-sieht-die-Einkaufsstrae-und-Fugngerzone-Neuhauser-Strae-Kaufingerstrae-in-d_1603962471379863_v0_h.jpg"
         },
         {
-          "articleId": "DU5fSVze",
-          "titleSource": "OMV leidet unter Ölpreisverfall, Quartalsgewinn bricht ein",
-          "titleTarget": "OMV düsen petrol fiyatlarindan muzdarip, üç aylik kâr çöküyor ",
-          "url": "https://www.diepresse.com/5889226/Wirtschaft_OMV-leidet-unter-Oelpreisverfall-Quartalsgewinn-bricht-ein?from=rss"
+          "id": "DU5fSVze",
+          "titleSource": "OMV leidet unter ï¿½lpreisverfall, Quartalsgewinn bricht ein",
+          "titleTarget": "OMV dï¿½sen petrol fiyatlarindan muzdarip, ï¿½ï¿½ aylik kï¿½r ï¿½ï¿½kï¿½yor ",
+          "url": "https://www.diepresse.com/5889226/Wirtschaft_OMV-leidet-unter-Oelpreisverfall-Quartalsgewinn-bricht-ein?from=rss",
+          "imgUrl":  "https://media.diepresse.com/images/q75/uploads_685/c/c/a/5889226/5E89888F-8FCB-4881-859B-23A29E842BEC_v0_h.jpg"
         },
         {
-          "articleId": "vaRKzOfr",
-          "titleSource": "Steuerrichtlinien für Kryptohändler",
-          "titleTarget": "Kripto tüccarlari için vergi kurallari ",
-          "url": "https://www.diepresse.com/5888992/Steuern_Steuerrichtlinien-fuer-Kryptohaendler?from=rss"
+          "id": "vaRKzOfr",
+          "titleSource": "Steuerrichtlinien fï¿½r Kryptohï¿½ndler",
+          "titleTarget": "Kripto tï¿½ccarlari iï¿½in vergi kurallari ",
+          "url": "https://www.diepresse.com/5888992/Steuern_Steuerrichtlinien-fuer-Kryptohaendler?from=rss",
+          "imgUrl":  "https://media.diepresse.com/images/q75/uploads_685/b/e/0/5888992/04BD413B-6A96-478A-AB68-FF266BBEC348_1603897082995661_v0_h.jpg"
         },
         {
-          "articleId": "7TO0nigZ",
+          "id": "7TO0nigZ",
           "titleSource": "Andritz im dritten Quartal mit 50 Mio. Euro Konzerngewinn",
-          "titleTarget": "Andritz üçüncü çeyrekte 50 milyon euro konsolide kar açikladi ",
-          "url": "https://www.diepresse.com/5888848/Industriekonzern_Andritz-im-dritten-Quartal-mit-50-Mio-Euro?from=rss"
+          "titleTarget": "Andritz ï¿½ï¿½ï¿½ncï¿½ ï¿½eyrekte 50 milyon euro konsolide kar aï¿½ikladi ",
+          "url": "https://www.diepresse.com/5888848/Industriekonzern_Andritz-im-dritten-Quartal-mit-50-Mio-Euro?from=rss",
+          "imgUrl": "https://media.diepresse.com/images/q75/uploads_685/b/5/0/5888848/ANDRITZ-AG-JAHRESERGEBNIS-2016-LEITNER_1603884733994186_v0_h.jpg"
         },
         {
-          "articleId": "7aDTf42H",
+          "id": "7aDTf42H",
           "titleSource": "Uber bietet in Wien jetzt auch Taxifahrten an",
           "titleTarget": "Uber artik Viyana&#39;da taksi gezileri de sunuyor ",
-          "url": "https://www.diepresse.com/5888759/Fahrtenanbieter_Uber-bietet-in-Wien-jetzt-auch-Taxifahrten-an?from=rss"
+          "url": "https://www.diepresse.com/5888759/Fahrtenanbieter_Uber-bietet-in-Wien-jetzt-auch-Taxifahrten-an?from=rss",
+          "imgUrl": "https://media.diepresse.com/images/q75/uploads_685/a/f/7/5888759/SPAIN-TRANSPORT-TAXI-DEMO-VIRUS-HEALTH_1603877695221881_v0_h.jpg"
         }
       ]
     },
@@ -98,46 +111,52 @@
       "category": "CHRONICLE",
       "newsArticles": [
         {
-          "articleId": "2z0wVdPU",
+          "id": "2z0wVdPU",
           "titleSource": "Demo: Yoga-Lehrer rebellieren gegen neue Corona-Auflagen",
-          "titleTarget": "Demo: Yoga ögretmenleri yeni korona gereksinimlerine isyan ediyor ",
-          "url": "https://kurier.at/chronik/oesterreich/demo-yoga-lehrer-rebellieren-gegen-neue-corona-auflagen/401079948"
+          "titleTarget": "Demo: Yoga ï¿½gretmenleri yeni korona gereksinimlerine isyan ediyor ",
+          "url": "https://kurier.at/chronik/oesterreich/demo-yoga-lehrer-rebellieren-gegen-neue-corona-auflagen/401079948",
+          "imgUrl":  "https://image.kurier.at/images/cfs_landscape_616w_347h/4725621/46-167193176.jpg"
         },
         {
-          "articleId": "nRUajASw",
-          "titleSource": "Erstmals über 4.000 Neuinfektionen in Österreich",
+          "id": "nRUajASw",
+          "titleSource": "Erstmals ï¿½ber 4.000 Neuinfektionen in ï¿½sterreich",
           "titleTarget": "Avusturya&#39;da ilk kez 4.000&#39;den fazla yeni enfeksiyon ",
-          "url": "https://kurier.at/chronik/oesterreich/coronavirus-erstmals-ueber-4000-neuinfektionen-in-oesterreich/401080524"
+          "url": "https://kurier.at/chronik/oesterreich/coronavirus-erstmals-ueber-4000-neuinfektionen-in-oesterreich/401080524",
+          "imgUrl":  "https://image.kurier.at/images/cfs_landscape_616w_347h/4726671/46-168266070.jpg"
         },
         {
-          "articleId": "CSSIQl23",
+          "id": "CSSIQl23",
           "titleSource": "Infektiologe Wenisch: \"Ich hoffe, dass man nicht weiter zuschaut\"",
           "titleTarget": "Enfeksiyon uzmani Wenisch: &quot;Umarim artik izlemiyorsundur&quot; ",
           "url": "https://kurier.at/chronik/oesterreich/infektiologe-wenisch-ich-hoffe-dass-man-nicht-weiter-zuschaut/401080230"
         },
         {
-          "articleId": "GjXyWuq5",
-          "titleSource": "Ampel: Ganz Österreich wird Rot; Mehr positiv Getestete in Ö als in China",
-          "titleTarget": "Trafik isigi: tüm Avusturya kirmiziya döner; Avusturya&#39;da Çin&#39;dekinden daha olumlu testçiler ",
-          "url": "https://kurier.at/chronik/oesterreich/heute-beraet-expertenrunde-im-kanzleramt-lockdown-in-frankreich-ab-freitag/401080266"
+          "id": "GjXyWuq5",
+          "titleSource": "Ampel: Ganz ï¿½sterreich wird Rot; Mehr positiv Getestete in ï¿½ als in China",
+          "titleTarget": "Trafik isigi: tï¿½m Avusturya kirmiziya dï¿½ner; Avusturya&#39;da ï¿½in&#39;dekinden daha olumlu testï¿½iler ",
+          "url": "https://kurier.at/chronik/oesterreich/heute-beraet-expertenrunde-im-kanzleramt-lockdown-in-frankreich-ab-freitag/401080266",
+          "imgUrl":  "https://image.kurier.at/images/cfs_landscape_616w_347h/2044140/rote_ampel.jpg"
         },
         {
-          "articleId": "rCctf4Op",
+          "id": "rCctf4Op",
           "titleSource": "Datenchaos bei AGES: Wie viele Infizierte gibt es wirklich?",
-          "titleTarget": "AGES&#39;te veri kaosu: Gerçekten enfekte olan kaç kisi var? ",
-          "url": "https://kurier.at/chronik/oesterreich/datenchaos-bei-ages-wie-viele-infizierte-gibt-es-wirklich/401080521"
+          "titleTarget": "AGES&#39;te veri kaosu: Gerï¿½ekten enfekte olan kaï¿½ kisi var? ",
+          "url": "https://kurier.at/chronik/oesterreich/datenchaos-bei-ages-wie-viele-infizierte-gibt-es-wirklich/401080521",
+          "imgUrl":  "https://image.kurier.at/images/cfs_landscape_932w_524h/4726644/46-168497993.jpg"
         },
         {
-          "articleId": "JiG74LJk",
-          "titleSource": "KURIER-Redakteure berichten: So fühlt sich die Quarantäne an",
-          "titleTarget": "KURIER editörlerinin bildirdigine göre: Karantina böyle hissettiriyor ",
-          "url": "https://kurier.at/chronik/oesterreich/erfahrungsberichte-wie-fuehlt-sich-die-corona-quarantaene-an/401079882"
+          "id": "JiG74LJk",
+          "titleSource": "KURIER-Redakteure berichten: So fï¿½hlt sich die Quarantï¿½ne an",
+          "titleTarget": "KURIER editï¿½rlerinin bildirdigine gï¿½re: Karantina bï¿½yle hissettiriyor ",
+          "url": "https://kurier.at/chronik/oesterreich/erfahrungsberichte-wie-fuehlt-sich-die-corona-quarantaene-an/401079882",
+          "imgUrl":  "https://image.kurier.at/images/cfs_landscape_616w_347h/4726215/46-168073560.jpg"
         },
         {
-          "articleId": "6kSFN1yY",
-          "titleSource": "Napoleonische Kriege: Feldlager in Niederösterreich entdeckt",
+          "id": "6kSFN1yY",
+          "titleSource": "Napoleonische Kriege: Feldlager in Niederï¿½sterreich entdeckt",
           "titleTarget": "Napolyon Savaslari: Asagi Avusturya&#39;da kesfedilen saha kampi ",
-          "url": "https://kurier.at/chronik/oesterreich/napoleonische-kriege-feldlager-in-niederoesterreich-entdeckt/401080038"
+          "url": "https://kurier.at/chronik/oesterreich/napoleonische-kriege-feldlager-in-niederoesterreich-entdeckt/401080038",
+          "imgUrl":  "https://image.kurier.at/images/cfs_landscape_616w_347h/4725900/dsc_2959.jpg"
         }
       ]
     },
@@ -145,46 +164,53 @@
       "category": "CULTURE",
       "newsArticles": [
         {
-          "articleId": "aeHrNcnV",
-          "titleSource": "Heavy Hoff: David Hasselhoff nahm mit Österreichern Metal-Song auf",
+          "id": "aeHrNcnV",
+          "titleSource": "Heavy Hoff: David Hasselhoff nahm mit ï¿½sterreichern Metal-Song auf",
           "titleTarget": "Heavy Hoff: David Hasselhoff, Avusturyalilarla metal sarkilar kaydetti ",
-          "url": "https://kurier.at/kultur/heavy-hoff-david-hasselhoff-nahm-mit-oesterreichern-metal-song-auf/401079441"
+          "url": "https://kurier.at/kultur/heavy-hoff-david-hasselhoff-nahm-mit-oesterreichern-metal-song-auf/401079441",
+          "imgUrl":  "https://image.kurier.at/images/cfs_landscape_616w_347h/4724391/hasselmetal.jpg"
         },
         {
-          "articleId": "vQCn6R6P",
-          "titleSource": "Italien im Kultur-Lockdown: Scala kämpft um Saisonstart",
-          "titleTarget": "Italya kültürde kilitlendi: Scala sezona baslamak için mücadele ediyor ",
-          "url": "https://kurier.at/kultur/italien-im-kultur-lockdown-mailaender-scala-kaempft-um-saisonstart/401079369"
+          "id": "vQCn6R6P",
+          "titleSource": "Italien im Kultur-Lockdown: Scala kï¿½mpft um Saisonstart",
+          "titleTarget": "Italya kï¿½ltï¿½rde kilitlendi: Scala sezona baslamak iï¿½in mï¿½cadele ediyor ",
+          "url": "https://kurier.at/kultur/italien-im-kultur-lockdown-mailaender-scala-kaempft-um-saisonstart/401079369",
+          "imgUrl":  "https://image.kurier.at/images/cfs_landscape_616w_347h/4724286/46-166086887.jpg"
         },
         {
-          "articleId": "EVzXUkQe",
+          "id": "EVzXUkQe",
           "titleSource": "\"Eine spezielle Auswertung zu Clustern im Kulturbereich gibt es nicht\"",
-          "titleTarget": "&quot;Kültür sektöründeki kümelerin özel bir degerlendirmesi yoktur&quot; ",
-          "url": "https://kurier.at/kultur/trenklers-tratsch-contact-tracing-eine-spezielle-auswertung-zu-clustern-im-kulturbereich-gibt-es/401078730"
+          "titleTarget": "&quot;Kï¿½ltï¿½r sektï¿½rï¿½ndeki kï¿½melerin ï¿½zel bir degerlendirmesi yoktur&quot; ",
+          "url": "https://kurier.at/kultur/trenklers-tratsch-contact-tracing-eine-spezielle-auswertung-zu-clustern-im-kulturbereich-gibt-es/401078730",
+          "imgUrl":  "https://image.kurier.at/images/cfs_landscape_932w_524h/4723929/46-167057625.jpg"
         },
         {
-          "articleId": "ZlSh83Gi",
-          "titleSource": "\"Das zarte Ende des Skulpturbegriffs ist eine schöne Ecke\"",
-          "titleTarget": "&quot;Heykelciligin hassas sonu güzel bir köse&quot; ",
-          "url": "https://kurier.at/kultur/das-zarte-ende-des-skulpturbegriffs-ist-eine-schoene-ecke/401079663"
+          "id": "ZlSh83Gi",
+          "titleSource": "\"Das zarte Ende des Skulpturbegriffs ist eine schï¿½ne Ecke\"",
+          "titleTarget": "&quot;Heykelciligin hassas sonu gï¿½zel bir kï¿½se&quot; ",
+          "url": "https://kurier.at/kultur/das-zarte-ende-des-skulpturbegriffs-ist-eine-schoene-ecke/401079663",
+          "imgUrl":  "https://image.kurier.at/images/cfs_landscape_616w_347h/4725171/46-168362701.jpg"
         },
         {
-          "articleId": "Xep6f3Ys",
-          "titleSource": "... und wieder 21 Bücher, ganz kurz",
-          "titleTarget": "... ve yine 21 kitap, çok kisaca ",
-          "url": "https://kurier.at/kultur/buch/und-wieder-21-buecher-ganz-kurz/401079564"
+          "id": "Xep6f3Ys",
+          "titleSource": "... und wieder 21 Bï¿½cher, ganz kurz",
+          "titleTarget": "... ve yine 21 kitap, ï¿½ok kisaca ",
+          "url": "https://kurier.at/kultur/buch/und-wieder-21-buecher-ganz-kurz/401079564",
+          "imgUrl":  "https://image.kurier.at/images/cfs_landscape_616w_347h/4709717/46-168282779.jpg"
         },
         {
-          "articleId": "z3PDKAps",
+          "id": "z3PDKAps",
           "titleSource": "Nach Protesten: Museum stoppte Verkauf von Warhol & Co",
-          "titleTarget": "Protestolardan sonra: Müze Warhol &amp; Co satisini durdurdu ",
-          "url": "https://kurier.at/kultur/nach-protesten-museum-stoppte-verkauf-von-warhol-co/401080491"
+          "titleTarget": "Protestolardan sonra: Mï¿½ze Warhol &amp; Co satisini durdurdu ",
+          "url": "https://kurier.at/kultur/nach-protesten-museum-stoppte-verkauf-von-warhol-co/401080491",
+          "imgUrl":  "https://image.kurier.at/images/cfs_landscape_616w_347h/4726614/46-168399413.jpg"
         },
         {
-          "articleId": "NFS66s6u",
+          "id": "NFS66s6u",
           "titleSource": "Viennale-Highlight:  Orson Welles trifft auf  Dennis Hopper",
-          "titleTarget": "Viyana&#39;da öne çikanlar: Orson Welles, Dennis Hopper ile tanisiyor ",
-          "url": "https://kurier.at/kultur/viennale-highlight-orson-welles-trifft-auf-dennis-hopper/401078871"
+          "titleTarget": "Viyana&#39;da ï¿½ne ï¿½ikanlar: Orson Welles, Dennis Hopper ile tanisiyor ",
+          "url": "https://kurier.at/kultur/viennale-highlight-orson-welles-trifft-auf-dennis-hopper/401078871",
+          "imgUrl": "https://image.kurier.at/images/cfs_landscape_616w_347h/4723125/46-168459612.jpg"
         }
       ]
     },
@@ -196,46 +222,52 @@
       "category": "SPORT",
       "newsArticles": [
         {
-          "articleId": "K6E3VQWG",
+          "id": "K6E3VQWG",
           "titleSource": "So feiert man Geburtstage: Hajduk-Ultras lassen Split explodieren",
-          "titleTarget": "Dogum günleri nasil kutlanir: Hajduk ultras, Split patlasin ",
+          "titleTarget": "Dogum gï¿½nleri nasil kutlanir: Hajduk ultras, Split patlasin ",
           "url": "https://kurier.at/sport/fussball/so-feiert-man-geburtstage-hajduk-ultras-lassen-split-explodieren/401080767"
         },
         {
-          "articleId": "CNhOCgDP",
-          "titleSource": "Die Vienna holt Ex-ÖFB-Teamkapitän Andreas Ivanschitz",
-          "titleTarget": "Viyana, eski ÖFB takim kaptani Andreas Ivanschitz&#39;i getiriyor ",
-          "url": "https://kurier.at/sport/fussball/fussball-ostliga-die-vienna-holt-ex-oefb-teamkapitaen-andreas-ivanschitz/401080104"
+          "id": "CNhOCgDP",
+          "titleSource": "Die Vienna holt Ex-ï¿½FB-Teamkapitï¿½n Andreas Ivanschitz",
+          "titleTarget": "Viyana, eski ï¿½FB takim kaptani Andreas Ivanschitz&#39;i getiriyor ",
+          "url": "https://kurier.at/sport/fussball/fussball-ostliga-die-vienna-holt-ex-oefb-teamkapitaen-andreas-ivanschitz/401080104",
+          "imgUrl":  "https://image.kurier.at/images/cfs_landscape_616w_347h/4726107/46-125745064.jpg"
         },
         {
-          "articleId": "grCFPuaJ",
-          "titleSource": "Nächste Corona-bedingte Spielabsage in der Handball-Liga",
-          "titleTarget": "Hentbol liginde bir sonraki korona ile ilgili maç iptali ",
-          "url": "https://kurier.at/sport/naechste-corona-bedingte-spielabsage-in-der-handball-liga-baernbachkoeflach-west-wien/401080797"
+          "id": "grCFPuaJ",
+          "titleSource": "Nï¿½chste Corona-bedingte Spielabsage in der Handball-Liga",
+          "titleTarget": "Hentbol liginde bir sonraki korona ile ilgili maï¿½ iptali ",
+          "url": "https://kurier.at/sport/naechste-corona-bedingte-spielabsage-in-der-handball-liga-baernbachkoeflach-west-wien/401080797",
+          "imgUrl":  "https://image.kurier.at/images/cfs_landscape_616w_347h/4727028/46-147491055.jpg"
         },
         {
-          "articleId": "tj7odz0a",
+          "id": "tj7odz0a",
           "titleSource": "Formel 1: Alfa Romeo bleibt auch 2021 Sauber-Namensgeber",
           "titleTarget": "Formula 1: Alfa Romeo, 2021&#39;de Sauber&#39;e ismini vermeye devam edecek ",
-          "url": "https://kurier.at/sport/motorsport/formel-1-alfa-romeo-bleibt-auch-2021-sauber-namensgeber/401080662"
+          "url": "https://kurier.at/sport/motorsport/formel-1-alfa-romeo-bleibt-auch-2021-sauber-namensgeber/401080662",
+          "imgUrl":  "https://image.kurier.at/images/cfs_landscape_616w_347h/4726809/46-168407637.jpg"
         },
         {
-          "articleId": "09ttQe4d",
-          "titleSource": "Drei Tore aberkannt: Juve-Stürmer Morata als tragischer Held",
-          "titleTarget": "Üç gol reddedildi: Juve forvet oyuncusu Morata trajik bir kahraman olarak ",
-          "url": "https://kurier.at/sport/fussball/drei-tore-aberkannt-juve-stuermer-morata-als-tragischer-held/401080554"
+          "id": "09ttQe4d",
+          "titleSource": "Drei Tore aberkannt: Juve-Stï¿½rmer Morata als tragischer Held",
+          "titleTarget": "ï¿½ï¿½ gol reddedildi: Juve forvet oyuncusu Morata trajik bir kahraman olarak ",
+          "url": "https://kurier.at/sport/fussball/drei-tore-aberkannt-juve-stuermer-morata-als-tragischer-held/401080554",
+          "imgUrl":  "https://image.kurier.at/images/cfs_landscape_616w_347h/4726716/46-168511155.jpg"
         },
         {
-          "articleId": "QsnFukel",
+          "id": "QsnFukel",
           "titleSource": "NY Red Bulls ziehen in Major League Soccer in Play-offs ein",
           "titleTarget": "NY Red Bulls Play-Off&#39;ta Major League Soccer&#39;da Ziehen ",
-          "url": "https://kurier.at/sport/fussball/fussball-ny-red-bulls-zogen-in-major-league-soccer-in-play-offs-ein/401080467"
+          "url": "https://kurier.at/sport/fussball/fussball-ny-red-bulls-zogen-in-major-league-soccer-in-play-offs-ein/401080467",
+          "imgUrl":  "https://image.kurier.at/images/cfs_landscape_616w_347h/4726596/46-168513041.jpg"
         },
         {
-          "articleId": "QmuhPnaN",
+          "id": "QmuhPnaN",
           "titleSource": "WAC & LASK: Ein wenig Respekt und viel mehr Zuversicht",
-          "titleTarget": "WAC &amp; LASK: Biraz saygi ve çok daha fazla güven ",
-          "url": "https://kurier.at/sport/fussball/wac-lask-ein-wenig-respekt-und-viel-mehr-zuversicht/401080095"
+          "titleTarget": "WAC &amp; LASK: Biraz saygi ve ï¿½ok daha fazla gï¿½ven ",
+          "url": "https://kurier.at/sport/fussball/wac-lask-ein-wenig-respekt-und-viel-mehr-zuversicht/401080095",
+          "imgUrl":  "https://image.kurier.at/images/cfs_landscape_616w_347h/4726083/46-168428812.jpg"
         }
       ]
     }
