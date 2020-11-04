@@ -59,35 +59,35 @@
       "titleTarget" : "Westbahn 50 çalışanı açıkladı: sendika devlet yardımı çağrısında bulundu",
       "url" : "https://kurier.at/wirtschaft/westbahn-kuendigt-50-mitarbeiter-gewerkschaft-fordert-aus-fuer-hilfen/401084469"
     }, {
-      "id" : "PCt0hctS",
-      "imgUrl" : "https://image.kurier.at/images/original/4733316/46-168330550.jpg",
-      "titleSource" : "Lockdown-Hilfe: Auch null Prozent Kurzarbeit möglich",
-      "titleTarget" : "Kilitleme yardımı: Yüzde sıfır kısa süreli çalışma da mümkündür",
-      "url" : "https://kurier.at/wirtschaft/live-neue-regeln-fuer-corona-kurzarbeit/401083593"
-    }, {
-      "id" : "opllH8nB",
-      "imgUrl" : "https://image.kurier.at/images/original/4733868/46-168039948.jpg",
-      "titleSource" : "Lockdown: Kurzarbeit neu, Trinkgeldersatz, viele offene Fragen",
-      "titleTarget" : "Kilitleme: Yeni kısa süreli çalışma, uç değiştirme, birçok açık soru",
-      "url" : "https://kurier.at/wirtschaft/lockdown-kurzarbeit-neu-trinkgeldersatz-viele-offene-fragen/401083767"
-    }, {
       "id" : "odXZOuuB",
       "imgUrl" : "https://image.kurier.at/images/original/4196489/78370011353713326_BLD_Online.jpg",
       "titleSource" : "Vor dem Lockdown: Kein Hamstern in Supermärkten, Lager voll",
       "titleTarget" : "Kilitlemeden önce: süpermarketlerde hamster yok, depo dolu",
       "url" : "https://kurier.at/wirtschaft/vor-dem-lockdown-kein-hamstern-in-supermaerkten-lager-voll/401084472"
     }, {
-      "id" : "bQ1CChz4",
-      "imgUrl" : "https://image.kurier.at/images/original/4733931/46-166799639.jpg",
-      "titleSource" : "Kitzsteinhorn schließt trotz Hochsaison",
-      "titleTarget" : "Kitzsteinhorn yüksek sezona rağmen kapanıyor",
-      "url" : "https://kurier.at/wirtschaft/kitzsteinhorn-schliesst-trotz-hochsaison/401083788"
+      "id" : "1kzBtgJp",
+      "imgUrl" : "https://image.kurier.at/images/original/4480421/46-165836184.jpg",
+      "titleSource" : "Bayer: In einem Jahr vom Milliardengewinn zum Milliardenverlust",
+      "titleTarget" : "Bayer: Milyarlarca kazanmaktan milyarlarca kaybetmeye kadar bir yılda",
+      "url" : "https://kurier.at/wirtschaft/bayer-in-einem-jahr-vom-milliardengewinn-zum-milliardenverlust/401085891"
     }, {
-      "id" : "ek3UzJ1H",
-      "imgUrl" : "https://image.kurier.at/images/original/4729023/46-168461711.jpg",
-      "titleSource" : "Auf Holz gebaut - vom Boom über den nachhaltigen Baustoff",
-      "titleTarget" : "Ahşap üzerine inşa edildi - bomdan sürdürülebilir yapı malzemelerine",
-      "url" : "https://kurier.at/wirtschaft/immobiz/auf-holz-gebaut-vom-boom-ueber-den-nachhaltigen-baustoff/401081697"
+      "id" : "VpFwdG0V",
+      "imgUrl" : "https://image.kurier.at/images/original/2538250/46-108110257.jpg",
+      "titleSource" : "Buchtipps: Neu erschienen im Oktober",
+      "titleTarget" : "Kitap ipuçları: Ekim'de yeni yayınlandı",
+      "url" : "https://kurier.at/wirtschaft/karriere/buchtipps-neu-erschienen-im-oktober/401080779"
+    }, {
+      "id" : "YBlZSUS6",
+      "imgUrl" : "https://image.kurier.at/images/original/4596434/20200825-ABD0042-1-1.jpg",
+      "titleSource" : "Deutscher Finanzminister Scholz: Digitaler Euro nur eine Ergänzung",
+      "titleTarget" : "Almanya Maliye Bakanı Scholz: Dijital euro sadece bir ek",
+      "url" : "https://kurier.at/wirtschaft/deutscher-finanzminister-scholz-digitaler-euro-nur-eine-ergaenzung/401085963"
+    }, {
+      "id" : "zNIgdQDB",
+      "imgUrl" : "https://image.kurier.at/images/original/1727424/46-87835017.jpg",
+      "titleSource" : "Rache Pekings? Mega-Börsengang von Alibaba-Ableger Ant geplatzt",
+      "titleTarget" : "Pekin'in intikamı mı? Alibaba şubesinin devasa halka arzı Ant patlaması",
+      "url" : "https://kurier.at/wirtschaft/rache-pekings-mega-boersengang-von-alibaba-ableger-ant-geplatzt/401085996"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -97,12 +97,6 @@
       "titleSource" : "Diese Polizeieinheiten sind im Einsatz",
       "titleTarget" : "Bu polis birimleri hareket halinde",
       "url" : "https://kurier.at/chronik/oesterreich/diese-polizeieinheiten-sind-im-einsatz/401085120"
-    }, {
-      "id" : "IKk2g93A",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/e/5/5891557/4EC2D2DE-9C7C-412F-B13F-2C7B733B1201_v0_l.jpg",
-      "titleSource" : "Im verriegelten Burgtheater: Protokoll einer langen Nacht",
-      "titleTarget" : "Kilitli Burgtheater'da: uzun bir gecenin dakikaları",
-      "url" : "https://www.diepresse.com/5891557/Terror-in-Wien_Im-verriegelten-Burgtheater_Protokoll-einer-langen?from=rss"
     }, {
       "id" : "bflmh0dy",
       "imgUrl" : "https://image.kurier.at/images/original/4736565/46-168624216.jpg",
@@ -133,6 +127,12 @@
       "titleSource" : "4.182 neue Corona-Infektionen in Österreich",
       "titleTarget" : "Avusturya'da 4.182 yeni korona enfeksiyonu",
       "url" : "https://kurier.at/chronik/oesterreich/4152-neue-corona-infektionen-in-oesterreich/401085714"
+    }, {
+      "id" : "G02vvyAq",
+      "imgUrl" : "https://image.kurier.at/images/original/4735125/46-168068695.jpg",
+      "titleSource" : "Corona-Lockdown: Wiener Linien beobachten Fahrgastzahlen, ÖBB plant keine Änderungen",
+      "titleTarget" : "Corona kilitlenmesi: Wiener Linien yolcu sayılarını izliyor, ÖBB herhangi bir değişiklik planlamıyor",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-lockdown-wiener-linien-beobachten-fahrgastzahlen-oebb-plant-keine-aenderungen/401084454"
     } ]
   }, {
     "category" : "CULTURE",
@@ -233,12 +233,6 @@
       "titleTarget" : "ASVÖ Başkanı'nın çağrısı: \"Akla daha çok spor getirin\"",
       "url" : "https://kurier.at/sport/appell-des-asvoe-praesidenten-sport-mehr-in-die-koepfe-bringen/401084649"
     }, {
-      "id" : "ME1H6got",
-      "imgUrl" : "https://image.kurier.at/images/original/4735311/img_20200907_150752.jpg",
-      "titleSource" : "Coronavirus: Breitensport-Dachverbände fordern Ausnahmen",
-      "titleTarget" : "Coronavirus: Popüler spor şemsiye organizasyonları istisna çağrısı yapıyor",
-      "url" : "https://kurier.at/sport/coronavirus-breitensport-dachverbaende-fordern-ausnahmen/401084550"
-    }, {
       "id" : "J8TJGef4",
       "imgUrl" : "https://image.kurier.at/images/original/4737066/46-168480316.jpg",
       "titleSource" : "Salzburg-Star Szoboszlai im Visier des AC Milan",
@@ -267,6 +261,12 @@
       "titleSource" : "Tormann wird zum tragischen Helden und zum Internet-Hit",
       "titleTarget" : "Kaleci trajik bir kahraman ve internette bir hit olur",
       "url" : "https://kurier.at/sport/fussball/tormann-wird-zum-tragischen-helden-und-zum-internet-hit/401084946"
+    }, {
+      "id" : "89UAziAc",
+      "imgUrl" : "https://image.kurier.at/images/original/4737054/480px-martin_stockinger_fis_cross-country_world_cup_2012_quebec.jpg",
+      "titleSource" : "Doping: Ex-Langläufer Stockinger wegen EPO-Besitzes 2 Jahre gesperrt",
+      "titleTarget" : "Doping: Eski kros kayakçısı Stockinger, EPO'ya sahip olduğu için 2 yıl yasaklandı",
+      "url" : "https://kurier.at/sport/wintersport/doping-ex-langlaeufer-stockinger-wegen-epo-besitzes-2-jahre-gesperrt/401085666"
     } ]
   } ],
   "country" : "austria",
