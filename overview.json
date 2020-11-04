@@ -2,23 +2,11 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "vgulRy2M",
-      "imgUrl" : "https://image.kurier.at/images/original/4734312/46-168572443.jpg",
-      "titleSource" : "Kurz erhofft sich niedriges Niveau bei den Zahlen",
-      "titleTarget" : "Kurz rakamların düşük olmasını umuyor",
-      "url" : "https://kurier.at/politik/inland/kurz-erhofft-sich-niedriges-niveau-bei-den-zahlen/401083941"
-    }, {
       "id" : "honFisR1",
       "imgUrl" : "https://image.kurier.at/images/original/4734312/46-168572443.jpg",
       "titleSource" : "Kanzler verurteilt \"widerwärtigen Terroranschlag\", VdB \"tief betroffen\"",
       "titleTarget" : "Şansölye \"iğrenç terör saldırısını\" kınadı, VdB \"derinden etkilendi\"",
       "url" : "https://kurier.at/politik/inland/anschlag-in-wien-kanzler-kurz-in-gespraechen-mit-politischen-playern/401085087"
-    }, {
-      "id" : "99G95mu2",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/1/3/5891091/A8B3ECDF-D12F-444F-8500-52D49449DFB6_v0_h.jpg",
-      "titleSource" : "Auch Anschober geht in der Nacht hinaus",
-      "titleTarget" : "Anchober da geceleri dışarı çıkıyor",
-      "url" : "https://www.diepresse.com/5891091/Coronavirus_Auch-Anschober-geht-in-der-Nacht-hinaus?from=rss"
     }, {
       "id" : "HCd1JMQe",
       "imgUrl" : "https://image.kurier.at/images/original/4737642/46-168625810.jpg",
@@ -43,6 +31,18 @@
       "titleSource" : "Die Polizei verstärkt den Streifendienst",
       "titleTarget" : "Polis devriye görevini güçlendiriyor",
       "url" : "https://kurier.at/politik/inland/die-polizei-verstaerkt-den-streifendienst/401084964"
+    }, {
+      "id" : "tQ0JNE48",
+      "imgUrl" : "https://image.kurier.at/images/original/4735998/20201102-ABD0101-1-1.jpg",
+      "titleSource" : "IKG schloss alle Synagogen in Österreich",
+      "titleTarget" : "IKG, Avusturya'daki tüm sinagogları kapattı",
+      "url" : "https://kurier.at/politik/inland/ikg-schloss-alle-synagogen-in-oesterreich/401085318"
+    }, {
+      "id" : "1lQw2KCY",
+      "imgUrl" : "https://image.kurier.at/images/original/4733967/78350011457284198_BLD_Online.jpg",
+      "titleSource" : "Rendi-Wagner: \"Feiger Angriff auf unsere Freiheit\"",
+      "titleTarget" : "Rendi-Wagner: \"Özgürlüğümüze korkakça saldırı\"",
+      "url" : "https://kurier.at/politik/inland/rendi-wagner-feiger-angriff-auf-unsere-freiheit/401085351"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -59,6 +59,12 @@
       "titleTarget" : "Westbahn 50 çalışanı açıkladı: sendika devlet yardımı çağrısında bulundu",
       "url" : "https://kurier.at/wirtschaft/westbahn-kuendigt-50-mitarbeiter-gewerkschaft-fordert-aus-fuer-hilfen/401084469"
     }, {
+      "id" : "ANTpdmbS",
+      "imgUrl" : "https://image.kurier.at/images/original/4737843/46-168605201.jpg",
+      "titleSource" : "Doch nicht um 19 Uhr zu: Meiste Supermärkte haben normal offen",
+      "titleTarget" : "Ancak 19: 00'da değil: Çoğu süpermarket normalde açıktır",
+      "url" : "https://kurier.at/wirtschaft/doch-nicht-um-19-uhr-zu-meiste-supermaerkte-haben-normal-offen/401086047"
+    }, {
       "id" : "odXZOuuB",
       "imgUrl" : "https://image.kurier.at/images/original/4196489/78370011353713326_BLD_Online.jpg",
       "titleSource" : "Vor dem Lockdown: Kein Hamstern in Supermärkten, Lager voll",
@@ -71,23 +77,17 @@
       "titleTarget" : "Bayer: Milyarlarca kazanmaktan milyarlarca kaybetmeye kadar bir yılda",
       "url" : "https://kurier.at/wirtschaft/bayer-in-einem-jahr-vom-milliardengewinn-zum-milliardenverlust/401085891"
     }, {
-      "id" : "VpFwdG0V",
-      "imgUrl" : "https://image.kurier.at/images/original/2538250/46-108110257.jpg",
-      "titleSource" : "Buchtipps: Neu erschienen im Oktober",
-      "titleTarget" : "Kitap ipuçları: Ekim'de yeni yayınlandı",
-      "url" : "https://kurier.at/wirtschaft/karriere/buchtipps-neu-erschienen-im-oktober/401080779"
+      "id" : "7IGfkOKI",
+      "imgUrl" : "https://image.kurier.at/images/original/1176729/46-27653829.jpg",
+      "titleSource" : "Stahlkonzern Salzgitter tief in den roten Zahlen",
+      "titleTarget" : "Çelik grubu Salzgitter kırmızının derinliklerinde",
+      "url" : "https://kurier.at/wirtschaft/stahlkonzern-salzgitter-tief-in-den-roten-zahlen/401086107"
     }, {
       "id" : "YBlZSUS6",
       "imgUrl" : "https://image.kurier.at/images/original/4596434/20200825-ABD0042-1-1.jpg",
       "titleSource" : "Deutscher Finanzminister Scholz: Digitaler Euro nur eine Ergänzung",
       "titleTarget" : "Almanya Maliye Bakanı Scholz: Dijital euro sadece bir ek",
       "url" : "https://kurier.at/wirtschaft/deutscher-finanzminister-scholz-digitaler-euro-nur-eine-ergaenzung/401085963"
-    }, {
-      "id" : "zNIgdQDB",
-      "imgUrl" : "https://image.kurier.at/images/original/1727424/46-87835017.jpg",
-      "titleSource" : "Rache Pekings? Mega-Börsengang von Alibaba-Ableger Ant geplatzt",
-      "titleTarget" : "Pekin'in intikamı mı? Alibaba şubesinin devasa halka arzı Ant patlaması",
-      "url" : "https://kurier.at/wirtschaft/rache-pekings-mega-boersengang-von-alibaba-ableger-ant-geplatzt/401085996"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -116,23 +116,23 @@
       "titleTarget" : "Saldırıya Schönborn: Kurbanlar ve acil servisler için dua etmek",
       "url" : "https://kurier.at/chronik/oesterreich/schoenborn-zum-anschlag-beten-fuer-die-opfer-und-die-einsatzkraefte/401085102"
     }, {
-      "id" : "PrOxSL0r",
-      "imgUrl" : "https://image.kurier.at/images/original/4735665/46-168611159.jpg",
-      "titleSource" : "78 Prozent mehr Intensivpatienten binnen einer Woche; Handel schließt bereits um 19 Uhr",
-      "titleTarget" : "Bir hafta içinde yüzde 78 daha fazla yoğun bakım hastası; Ticaret saat 19: 00'da kapanır.",
-      "url" : "https://kurier.at/chronik/oesterreich/13750-neuinfektionen-moeglich-bis-lockdown-greift-was-sich-in-der-schule-jetzt-aendert/401083917"
-    }, {
       "id" : "medUQngL",
       "imgUrl" : "https://image.kurier.at/images/original/4737099/46-168560947.jpg",
       "titleSource" : "4.182 neue Corona-Infektionen in Österreich",
       "titleTarget" : "Avusturya'da 4.182 yeni korona enfeksiyonu",
       "url" : "https://kurier.at/chronik/oesterreich/4152-neue-corona-infektionen-in-oesterreich/401085714"
     }, {
-      "id" : "G02vvyAq",
-      "imgUrl" : "https://image.kurier.at/images/original/4735125/46-168068695.jpg",
-      "titleSource" : "Corona-Lockdown: Wiener Linien beobachten Fahrgastzahlen, ÖBB plant keine Änderungen",
-      "titleTarget" : "Corona kilitlenmesi: Wiener Linien yolcu sayılarını izliyor, ÖBB herhangi bir değişiklik planlamıyor",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-lockdown-wiener-linien-beobachten-fahrgastzahlen-oebb-plant-keine-aenderungen/401084454"
+      "id" : "JsdqHpZc",
+      "imgUrl" : "https://image.kurier.at/images/original/4733547/46-168502393.jpg",
+      "titleSource" : "Weitere Bundesländer fahren OPs zurück",
+      "titleTarget" : "Diğer federal eyaletler ameliyathaneleri geri çekiyor",
+      "url" : "https://kurier.at/chronik/oesterreich/naechstes-bundesland-faehrt-ops-zurueck/401085822"
+    }, {
+      "id" : "B1sDcPOr",
+      "imgUrl" : "https://image.kurier.at/images/original/4737612/20201103-ABD0165-1-1.jpg",
+      "titleSource" : "Weitere Bundesländer verschieben Operationen; Mehr Junge an Corona erkrankt",
+      "titleTarget" : "Diğer federal eyaletler operasyonları erteledi; Daha fazla genç insanda korona var",
+      "url" : "https://kurier.at/chronik/oesterreich/zweiter-lockdown-in-oesterreich-gestartet-aber-unter-eindruck-des-terroranschlags-von-wien/401085210"
     } ]
   }, {
     "category" : "CULTURE",
@@ -227,23 +227,11 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "fr8zOT8B",
-      "imgUrl" : "https://image.kurier.at/images/original/4735518/46-168611028.jpg",
-      "titleSource" : "Appell des ASVÖ-Präsidenten: „Sport mehr in die Köpfe bringen“",
-      "titleTarget" : "ASVÖ Başkanı'nın çağrısı: \"Akla daha çok spor getirin\"",
-      "url" : "https://kurier.at/sport/appell-des-asvoe-praesidenten-sport-mehr-in-die-koepfe-bringen/401084649"
-    }, {
       "id" : "J8TJGef4",
       "imgUrl" : "https://image.kurier.at/images/original/4737066/46-168480316.jpg",
       "titleSource" : "Salzburg-Star Szoboszlai im Visier des AC Milan",
       "titleTarget" : "AC Milan'ın manzaralarında Salzburg yıldızı Szoboszlai",
       "url" : "https://kurier.at/sport/fussball/salzburg-star-szoboszlai-im-visier-des-ac-milan/401085717"
-    }, {
-      "id" : "jCDvdYSl",
-      "imgUrl" : "https://image.kurier.at/images/original/4736922/screenshot_2020-11-03_at_11.08.14.png",
-      "titleSource" : "So reagiert die Sportwelt auf Anschlag: \"Bleib stark, Wien\" ",
-      "titleTarget" : "Spor dünyası saldırıya şöyle tepki verir: \"Güçlü kal Viyana\"",
-      "url" : "https://kurier.at/sport/so-reagiert-die-sportwelt-auf-anschlag-bleib-stark-wien/401085555"
     }, {
       "id" : "KGFJoTk7",
       "imgUrl" : "https://image.kurier.at/images/original/4735755/46-45593548.jpg",
@@ -251,22 +239,35 @@
       "titleTarget" : "Sporda korku: Tüm kohortlar kilit altında kırılabilir",
       "url" : "https://kurier.at/sport/angst-im-sport-ganze-jahrgaenge-koennten-im-corona-lockdown-wegbrechen/401084841"
     }, {
-      "id" : "uCu31Zzq",
-      "imgUrl" : "https://image.kurier.at/images/original/4737225/46-167445929.jpg",
-      "titleSource" : "Alaba und Thiem als Favoriten für \"Sportler des Jahres\"",
-      "titleTarget" : "Alaba ve Thiem, \"Yılın Sporcusu\" için favoriler",
-      "url" : "https://kurier.at/sport/sportlerwahl-alaba-und-thiem-als-favoriten-fuer-sportler-des-jahres/401085744"
-    }, {
-      "id" : "oH5MSbCx",
-      "titleSource" : "Tormann wird zum tragischen Helden und zum Internet-Hit",
-      "titleTarget" : "Kaleci trajik bir kahraman ve internette bir hit olur",
-      "url" : "https://kurier.at/sport/fussball/tormann-wird-zum-tragischen-helden-und-zum-internet-hit/401084946"
+      "id" : "jCDvdYSl",
+      "imgUrl" : "https://image.kurier.at/images/original/4736922/screenshot_2020-11-03_at_11.08.14.png",
+      "titleSource" : "So reagiert die Sportwelt auf Anschlag: \"Bleib stark, Wien\" ",
+      "titleTarget" : "Spor dünyası saldırıya şöyle tepki verir: \"Güçlü kal Viyana\"",
+      "url" : "https://kurier.at/sport/so-reagiert-die-sportwelt-auf-anschlag-bleib-stark-wien/401085555"
     }, {
       "id" : "89UAziAc",
       "imgUrl" : "https://image.kurier.at/images/original/4737054/480px-martin_stockinger_fis_cross-country_world_cup_2012_quebec.jpg",
       "titleSource" : "Doping: Ex-Langläufer Stockinger wegen EPO-Besitzes 2 Jahre gesperrt",
       "titleTarget" : "Doping: Eski kros kayakçısı Stockinger, EPO'ya sahip olduğu için 2 yıl yasaklandı",
       "url" : "https://kurier.at/sport/wintersport/doping-ex-langlaeufer-stockinger-wegen-epo-besitzes-2-jahre-gesperrt/401085666"
+    }, {
+      "id" : "uCu31Zzq",
+      "imgUrl" : "https://image.kurier.at/images/original/4737225/46-167445929.jpg",
+      "titleSource" : "Alaba und Thiem als Favoriten für \"Sportler des Jahres\"",
+      "titleTarget" : "Alaba ve Thiem, \"Yılın Sporcusu\" için favoriler",
+      "url" : "https://kurier.at/sport/sportlerwahl-alaba-und-thiem-als-favoriten-fuer-sportler-des-jahres/401085744"
+    }, {
+      "id" : "MJEzTKYa",
+      "imgUrl" : "https://image.kurier.at/images/original/4737360/46-101732756.jpg",
+      "titleSource" : "Frauen-Bundesliga, Futsal- und Jugendliga dürfen im Lockdown spielen",
+      "titleTarget" : "Kadınlar Bundesliga, futsal ve gençlik liglerinin kilit altında oynamasına izin verilir",
+      "url" : "https://kurier.at/sport/fussball/fussball-frauen-bundesliga-futsal-und-jugendliga-duerfen-im-lockdown-spielen/401085792"
+    }, {
+      "id" : "8Gvqxf6t",
+      "imgUrl" : "https://image.kurier.at/images/original/4737855/46-164936217.jpg",
+      "titleSource" : "ÖFB-Cupspiele am Dienstag und Mittwoch werden doch abgesagt",
+      "titleTarget" : "Salı ve Çarşamba günkü ÖFB Kupası maçları iptal edildi",
+      "url" : "https://kurier.at/sport/fussball/fussball-oefb-cupspiele-am-dienstag-und-mittwoch-werden-doch-abgesagt/401085462"
     } ]
   } ],
   "country" : "austria",
