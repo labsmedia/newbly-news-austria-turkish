@@ -53,6 +53,18 @@
       "titleTarget" : "Novomatic, genel merkezinde 120 kişiyi işten çıkarıyor",
       "url" : "https://kurier.at/wirtschaft/novomatic-baut-120-jobs-in-der-zentrale-ab/401086503"
     }, {
+      "id" : "YpLi0ksS",
+      "imgUrl" : "https://image.kurier.at/images/original/4253585/81731350854148622_BLD_Online.jpg",
+      "titleSource" : "Weniger Lehrlinge: Corona bremst Lehre aus",
+      "titleTarget" : "Daha az çırak: Corona çıraklık eğitimlerini yavaşlatıyor",
+      "url" : "https://kurier.at/wirtschaft/weniger-lehrlinge-corona-bremst-lehre-aus/401087529"
+    }, {
+      "id" : "vp8V9sd2",
+      "imgUrl" : "https://image.kurier.at/images/original/4585856/78370011356033656_BLD_Online.jpg",
+      "titleSource" : "Verluste: AUA fliegt tiefer in rote Zone",
+      "titleTarget" : "Kayıplar: AUA kırmızı bölgeye daha derin uçuyor",
+      "url" : "https://kurier.at/wirtschaft/verluste-aua-fliegt-tiefer-in-rote-zone/401087562"
+    }, {
       "id" : "RaXXCoL9",
       "imgUrl" : "https://image.kurier.at/images/original/4673254/46-163747842.jpg",
       "titleSource" : "Neues Tourismus-Problem: Ein \"Warte\"-Monat auf die Kurzarbeit",
@@ -76,18 +88,6 @@
       "titleSource" : "Erlesenes rund um Wohnen und Design",
       "titleTarget" : "Yaşam ve tasarımla ilgili mükemmel şeyler",
       "url" : "https://kurier.at/wirtschaft/immobiz/erlesenes-rund-um-wohnen-und-design/401087214"
-    }, {
-      "id" : "Yn0wOObc",
-      "imgUrl" : "https://image.kurier.at/images/original/4484639/78370011355236668_BLD_Online.jpg",
-      "titleSource" : "ams hat die Macht bei Osram übernommen",
-      "titleTarget" : "ams Osram'da iktidarı ele geçirdi",
-      "url" : "https://kurier.at/wirtschaft/ams-hat-die-macht-bei-osram-uebernommen/401086242"
-    }, {
-      "id" : "ab8TvyRv",
-      "imgUrl" : "https://image.kurier.at/images/original/4000704/81710357852237570_BLD_Online.jpg",
-      "titleSource" : "Deutschland will Amazon & Co zu mehr Transparenz zwingen",
-      "titleTarget" : "Almanya, Amazon & Co'yu daha şeffaf olmaya zorlamak istiyor",
-      "url" : "https://kurier.at/wirtschaft/deutschland-will-amazon-co-zu-mehr-transparenz-zwingen/401086248"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -111,9 +111,9 @@
       "url" : "https://kurier.at/chronik/oesterreich/rekonstruktion-einer-wahnsinnstat/401086239"
     }, {
       "id" : "MBCzSblu",
-      "imgUrl" : "https://image.kurier.at/images/original/4742127/46-168612404.jpg",
-      "titleSource" : "Höchststand: Über 7.400 Neuinfektionen in Österreich; Wifo: Wirtschaft bricht noch stärker ein",
-      "titleTarget" : "Yüksek: Avusturya'da 7.400'den fazla yeni enfeksiyon; Wifo: Ekonomi daha da çöküyor",
+      "imgUrl" : "https://image.kurier.at/images/original/4742880/46-168689502.jpg",
+      "titleSource" : "Über 7.400 Neuinfektionen in Ö; Vorarlberg baut Notversorgungszentrum",
+      "titleTarget" : "Avusturya'da 7.400'den fazla yeni enfeksiyon; Vorarlberg bir acil durum tedarik merkezi kuruyor",
       "url" : "https://kurier.at/chronik/oesterreich/wien-baut-seine-testkapazitaeten-aus-england-fast-500-tote-binnen-24h/401087508"
     }, {
       "id" : "fVpzHJX1",
@@ -155,6 +155,12 @@
       "titleTarget" : "\"Aşk Fırtınası\" aktörü Dietrich Adam öldü",
       "url" : "https://kurier.at/kultur/medien/sturm-der-liebe-darsteller-dietrich-adam-gestorben/401086671"
     }, {
+      "id" : "FNVcP3wv",
+      "imgUrl" : "https://image.kurier.at/images/original/4740540/thecrown_405_unit_02042_rt.jpg",
+      "titleSource" : "5 Serien, auf die wir uns im November bei Netflix & Co freuen",
+      "titleTarget" : "Kasım ayında Netflix & Co'da dört gözle beklediğimiz 5 dizi",
+      "url" : "https://kurier.at/kultur/medien/5-serien-auf-die-wir-uns-im-november-bei-netflix-co-freuen/401082747"
+    }, {
       "id" : "e3ij2MgZ",
       "imgUrl" : "https://image.kurier.at/images/original/4739631/46-168444529.jpg",
       "titleSource" : "Staatsoper startet ihr Streamingangebot für den Lockdown verspätet",
@@ -172,12 +178,6 @@
       "titleSource" : "Netflix verfilmt \"München\" mit Jeremy Irons, August Diehl & Co",
       "titleTarget" : "Netflix, Jeremy Irons, August Diehl & Co ile birlikte \"Münih\" i filme aldı",
       "url" : "https://kurier.at/kultur/medien/netflix-verfilmt-muenchen-mit-jeremy-irons-august-diehl-co/401086539"
-    }, {
-      "id" : "RYYFk8Uy",
-      "imgUrl" : "https://image.kurier.at/images/original/4735677/46-164698855.jpg",
-      "titleSource" : "Schwammerl, Topfen, Bier: Wie sich Twitter für den Lockdown rüstet",
-      "titleTarget" : "Mantarlar, lor peyniri, bira: Twitter kilitlenmeye nasıl hazırlanıyor",
-      "url" : "https://kurier.at/kultur/medien/schwammerl-topfen-und-bier-wie-sich-twitter-fuer-den-zweiten-lockdown-ruestet/401084811"
     } ]
   }, {
     "category" : "HEALTH",
@@ -227,11 +227,17 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "Qztn8rVx",
-      "imgUrl" : "https://image.kurier.at/images/original/4737825/46-168510450.jpg",
-      "titleSource" : "Erst Brügge, dann Bayern: Tage der Wahrheit für Dortmund",
-      "titleTarget" : "Önce Bruges, sonra Bavyera: Dortmund için gerçek günler",
-      "url" : "https://kurier.at/sport/fussball/erst-bruegge-dann-bayern-tage-der-wahrheit-fuer-borussia-dortmund/401086044"
+      "id" : "zBemRXY7",
+      "imgUrl" : "https://image.kurier.at/images/original/4740516/46-168657179.jpg",
+      "titleSource" : "The Show must go on: Rapid spielt nach dem Terror gegen Dundalk",
+      "titleTarget" : "Gösteri devam etmeli: Dundalk'a karşı terörden sonra hızlı oyunlar",
+      "url" : "https://kurier.at/sport/fussball/the-show-must-go-on-rapid-spielt-in-der-europa-league-nach-dem-terror-in-wien-gegen-dundalk/401087301"
+    }, {
+      "id" : "bOKAfAAb",
+      "imgUrl" : "https://image.kurier.at/images/original/4741179/screenshot_2020-11-05_at_09.27.02.png",
+      "titleSource" : "Ein fieser Elfer-Trick aus Kroatien geht um die Welt",
+      "titleTarget" : "Hırvatistan'dan iğrenç bir penaltı numarası tüm dünyayı dolaşıyor",
+      "url" : "https://kurier.at/sport/fussball/fussball-ein-raffinierter-elfer-trick-aus-kroatien-ging-um-die-welt/401087652"
     }, {
       "id" : "5k1GHcGF",
       "imgUrl" : "https://image.kurier.at/images/original/4740723/46-167962618.jpg",
@@ -239,35 +245,29 @@
       "titleTarget" : "Haksız doping yasağı: WADA profesyonel futbolcudan özür diler",
       "url" : "https://kurier.at/sport/fussball/ungerechtfertigte-dopingsperre-wada-entschuldigt-sich-bei-fussball-profi-mamadou-sakho/401087397"
     }, {
-      "id" : "zBemRXY7",
-      "imgUrl" : "https://image.kurier.at/images/original/4740516/46-168657179.jpg",
-      "titleSource" : "The Show must go on: Rapid spielt nach dem Terror gegen Dundalk",
-      "titleTarget" : "Gösteri devam etmeli: Dundalk'a karşı terörden sonra hızlı oyunlar",
-      "url" : "https://kurier.at/sport/fussball/the-show-must-go-on-rapid-spielt-in-der-europa-league-nach-dem-terror-in-wien-gegen-dundalk/401087301"
+      "id" : "f9HKB61B",
+      "imgUrl" : "https://image.kurier.at/images/original/4740174/46-164923877.jpg",
+      "titleSource" : "Kein Schnee: Ski-Weltcuprennen in Zürs verschoben",
+      "titleTarget" : "Kar yok: Zürs'teki Kayak Dünya Kupası yarışları ertelendi",
+      "url" : "https://kurier.at/sport/wintersport/kein-schnee-weltcuprennen-in-zuers-verschoben/401087115"
     }, {
-      "id" : "cmtJk8mq",
-      "imgUrl" : "https://image.kurier.at/images/original/4738884/46-168644510.jpg",
-      "titleSource" : "Liverpool fertigte Atalanta ab, Erster CL-Sieg für Real Madrid",
-      "titleTarget" : "Liverpool, Real Madrid'in ilk CL zaferi olan Atalanta'yı ele aldı",
-      "url" : "https://kurier.at/sport/fussball/champions-league-liverpool-fertigte-atalanta-ab-erster-sieg-fuer-real-madrid/401086353"
+      "id" : "vmrNjhYs",
+      "imgUrl" : "https://image.kurier.at/images/original/4740522/46-168646113.jpg",
+      "titleSource" : "In der Champions League sind die Salzburger Teilzeit-Arbeiter",
+      "titleTarget" : "Salzburg işçileri, Şampiyonlar Ligi'nde yarı zamanlı işçilerdir",
+      "url" : "https://kurier.at/sport/fussball/in-der-champions-league-sind-die-salzburger-teilzeit-arbeiter/401087298"
     }, {
-      "id" : "Dz5xkJaF",
-      "imgUrl" : "https://image.kurier.at/images/original/4739760/46-168647197.jpg",
-      "titleSource" : "Salzburgs 2:6 gegen Bayern: \"Dafür gibt es keine Entschuldigung\"",
-      "titleTarget" : "Salzburg'un Bayern'e karşı 6-2'lik galibiyeti: \"Bunun mazereti yok\"",
-      "url" : "https://kurier.at/sport/fussball/salzburg-verliert-in-der-champions-league-gegen-bayern-mit-26-dafuer-gibt-es-keine-entschuldigung/401086395"
+      "id" : "PExkWDrp",
+      "imgUrl" : "https://image.kurier.at/images/original/4740585/46-168665117.jpg",
+      "titleSource" : "Vuelta: Belgier Wellens gewinnt 14. Etappe, Roglic weiter in Rot",
+      "titleTarget" : "Vuelta: Belçikalı Wellens 14. etabı kazandı, Roglic kırmızıyla devam ediyor",
+      "url" : "https://kurier.at/sport/vuelta-belgier-wellens-gewinnt-14-etappe-roglic-weiter-in-rot/401087328"
     }, {
-      "id" : "2kdI9igZ",
-      "imgUrl" : "https://image.kurier.at/images/original/4739391/46-168647176.jpg",
-      "titleSource" : "Bayern-Chef Rummenigge über Alaba: \"Wir drehen uns im Kreis\"",
-      "titleTarget" : "Bayern patronu Rummenigge Alaba'da: \"Daireler halinde gidiyoruz\"",
-      "url" : "https://kurier.at/sport/fussball/bayern-chef-karl-heinz-rummenigge-ueber-vertrags-poker-mit-david-alaba-wir-drehen-uns-im-kreis/401086605"
-    }, {
-      "id" : "E5i8UXi2",
-      "imgUrl" : "https://image.kurier.at/images/original/4739457/46-168531784.jpg",
-      "titleSource" : "Corona-Cluster bei WAC-Gegner Zagreb: Trainer und fünf Spieler positiv",
-      "titleTarget" : "WAC rakibi Zagreb'de Corona kümesi: teknik direktör ve beş oyuncu pozitif",
-      "url" : "https://kurier.at/sport/fussball/corona-cluster-bei-wac-gegner-dinamo-zagreb-trainer-und-fuenf-spieler-positiv-getestet/401086614"
+      "id" : "ITU4Hccp",
+      "imgUrl" : "https://image.kurier.at/images/original/4739208/46-168547052.jpg",
+      "titleSource" : "Nach Gehirnblutung: Diego Maradona wurde erfolgreich operiert",
+      "titleTarget" : "Beyin kanamasından sonra: Diego Maradona başarıyla ameliyat edildi",
+      "url" : "https://kurier.at/sport/fussball/nach-gehirnblutung-fussball-legende-diego-maradona-wurde-erfolgreich-operiert/401086509"
     } ]
   } ],
   "country" : "austria",
