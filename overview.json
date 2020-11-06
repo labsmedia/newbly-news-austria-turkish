@@ -2,57 +2,51 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "qp5qCrBF",
-      "imgUrl" : "https://image.kurier.at/images/original/4731933/20201031-ABD0061-1-1.jpg",
-      "titleSource" : "Kickl verteidigt grüne Justizministerin und fordert Rücktritt Nehammers",
-      "titleTarget" : "Kickl, Yeşil Adalet Bakanı'nı savunuyor ve Nehammer'ı istifaya çağırıyor",
-      "url" : "https://kurier.at/politik/inland/kickl-verteidigt-gruene-justizministerin-und-fordert-ruecktritt-nehammers/401087088"
+      "id" : "B3SG8gzY",
+      "imgUrl" : "https://image.kurier.at/images/original/4742160/78350011457353508_BLD_Online.jpg",
+      "titleSource" : "Gerüchte um Schulschließungen - Faßmann dementiert",
+      "titleTarget" : "Okulların kapanmasıyla ilgili söylentiler - Faßmann yalanladı",
+      "url" : "https://kurier.at/politik/inland/coronavirus-fassmann-schliesst-schulschliessungen-derzeit-aus/401088201"
     }, {
-      "id" : "YlrfZHNV",
-      "imgUrl" : "https://image.kurier.at/images/original/4739817/46-168643942.jpg",
-      "titleSource" : "Jus-Studentinnen bringen Corona-Ausgangssperre vor den VfGH",
-      "titleTarget" : "Hukuk öğrencileri, VfGH'ye Corona sokağa çıkma yasağı getirdi",
-      "url" : "https://kurier.at/politik/inland/jus-studentinnen-bringen-corona-ausgangssperre-vor-den-vfgh/401086884"
+      "id" : "8lR6f6Gq",
+      "imgUrl" : "https://image.kurier.at/images/original/4740939/46-167673188.jpg",
+      "titleSource" : "Corona: Sonderbetreuungszeit wird mit Rechtsanspruch verlängert",
+      "titleTarget" : "Corona: Özel bakım süresi yasal hak ile uzatıldı",
+      "url" : "https://kurier.at/politik/inland/coronavirus-rechtsanspruch-auf-sonderbetreuungszeit-kommt-wohl/401087550"
     }, {
-      "id" : "da9CyJkg",
-      "imgUrl" : "https://image.kurier.at/images/original/4739754/46-168168689.jpg",
-      "titleSource" : "Coronahilfen: Prognose falsch, Wohlhabende profitieren am meisten",
-      "titleTarget" : "Corona yardımı: yanlış tahmin, en zengin fayda",
-      "url" : "https://kurier.at/politik/inland/coronahilfen-prognose-falsch-wohlhabende-profitieren-am-meisten/401086836"
+      "id" : "dXq5fz71",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/1/a/5893146/257ADD13-E2C5-4DAA-9AB2-10573D660140_v0_l.jpg",
+      "titleSource" : "Terror in Wien: Suche nach dem Schuldigen",
+      "titleTarget" : "Viyana'da terör: Suçluyu arayın",
+      "url" : "https://www.diepresse.com/5893146/Schuldzuweisungen_Terror-in-Wien_Suche-nach-dem-Schuldigen?from=rss"
     }, {
-      "id" : "kc4Tn93E",
-      "imgUrl" : "https://image.kurier.at/images/original/4613957/46-167192890.jpg",
-      "titleSource" : "Anschlag in Wien: Ministerin Zadic weist Kritik an frühzeitiger Haftentlassung zurück",
-      "titleTarget" : "Viyana'da saldırı: Bakan Zadiç erken tahliyeye yönelik eleştiriyi reddetti",
-      "url" : "https://kurier.at/politik/inland/anschlag-in-wien-ministerin-zadic-weist-kritik-an-justiz-zurueck/401086134"
+      "id" : "3iOFj8ey",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/9/8/5893016/EE68A0E1-247B-445F-A370-6096C6F3ED8A_v0_h.jpg",
+      "titleSource" : "Minister Faßmann schließt Schulschließungen derzeit aus",
+      "titleTarget" : "Bakan Faßmann şu anda okulların kapanmasını reddediyor",
+      "url" : "https://www.diepresse.com/5893016/Bildung_Minister-Fassmann-schliesst-Schulschliessungen-derzeit-aus?from=rss"
     }, {
-      "id" : "OEUNq5mG",
-      "imgUrl" : "https://image.kurier.at/images/original/4607453/20200831-ABD0013-1-1.jpg",
-      "titleSource" : "Zadic: Justiz erfuhr von versuchtem Munitionskauf des Täters erst nach dem Terrorakt",
-      "titleTarget" : "Zadiç: Yargı, failin cephane alma girişimini ancak terör eyleminden sonra öğrendi",
-      "url" : "https://kurier.at/politik/inland/zadic-justiz-erfuhr-von-versuchtem-munitionskauf-des-attentaeters-erst-nach-dem-terrorakt/401087475"
+      "id" : "qu60gI8a",
+      "imgUrl" : "https://image.kurier.at/images/original/4741767/46-168680536.jpg",
+      "titleSource" : "NR-Sondersitzung: Opposition setzt Nehammer unter Druck",
+      "titleTarget" : "NR özel oturumu: Muhalefet Nehammer'ı baskı altına alıyor",
+      "url" : "https://kurier.at/politik/inland/nr-sondersitzung-nehammer-schwer-unter-beschuss-der-opposition/401087604"
     }, {
-      "id" : "nBVSkhU0",
-      "imgUrl" : "https://image.kurier.at/images/original/4720515/78350011457172110_BLD_Online.jpg",
-      "titleSource" : "Anschlag in Wien - Kurz: Vorzeitige Entlassung \"definitiv falsch\"",
-      "titleTarget" : "Viyana'da saldırı - kısaca: erken sürüm \"kesinlikle yanlış\"",
-      "url" : "https://kurier.at/politik/inland/kurz-vorzeitige-entlassung-des-attentaeter-2019-definitiv-falsch/401086305"
+      "id" : "Qu5yF3Qt",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/f/8/5892856/D17F48F7-A29B-4C91-B250-37A7B5857769_v0_l.jpg",
+      "titleSource" : "Kurz will gegen \"Feinde\" vorgehen, Kogler pocht auf \"Neustart\" des BVT",
+      "titleTarget" : "Kurz \"düşmanlara\" karşı harekete geçmek istiyor, Kogler BVT'nin \"yeniden başlatılmasında\" ısrar ediyor",
+      "url" : "https://www.diepresse.com/5892856/Sondersitzung_Kurz-will-gegen-Feinde-vorgehen-Kogler-pocht-auf?from=rss"
     }, {
-      "id" : "PJL3rBjF",
-      "imgUrl" : "https://image.kurier.at/images/original/4607450/20200831-ABD0012-1-1.jpg",
-      "titleSource" : "Nach Todesdrohungen gegen Zadic: 68-Jähriger in Anstalt eingewiesen",
-      "titleTarget" : "Zadiç'e yönelik ölüm tehditlerinin ardından: 68 yaşındaki kuruma başvurdu",
-      "url" : "https://kurier.at/politik/inland/nach-todesdrohungen-gegen-zadic-68-jaehriger-in-anstalt-eingewiesen/401087055"
+      "id" : "pFMJVH9D",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/8/6/5892742/F0ABB201-D0C4-4912-8AB3-A1736B89FF8E_v0_l.jpg",
+      "titleSource" : "Justizministerin Zadic will potenzielle Gefährder \"engmaschiger kontrollieren",
+      "titleTarget" : "Adalet Bakanı Zadiç \"potansiyel tehditleri daha yakından izlemek istiyor",
+      "url" : "https://www.diepresse.com/5892742/Terror-in-Wien_Justizministerin-Zadic-will-potenzielle-Gefaehrder?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "SrZa3Ubx",
-      "imgUrl" : "https://image.kurier.at/images/original/4672162/78350011456750780_BLD_Online.jpg",
-      "titleSource" : "Novomatic baut 120 Jobs in der Zentrale ab",
-      "titleTarget" : "Novomatic, genel merkezinde 120 kişiyi işten çıkarıyor",
-      "url" : "https://kurier.at/wirtschaft/novomatic-baut-120-jobs-in-der-zentrale-ab/401086503"
-    }, {
       "id" : "YpLi0ksS",
       "imgUrl" : "https://image.kurier.at/images/original/4253585/81731350854148622_BLD_Online.jpg",
       "titleSource" : "Weniger Lehrlinge: Corona bremst Lehre aus",
@@ -65,50 +59,50 @@
       "titleTarget" : "Kayıplar: AUA kırmızı bölgeye daha derin uçuyor",
       "url" : "https://kurier.at/wirtschaft/verluste-aua-fliegt-tiefer-in-rote-zone/401087562"
     }, {
-      "id" : "RaXXCoL9",
-      "imgUrl" : "https://image.kurier.at/images/original/4673254/46-163747842.jpg",
-      "titleSource" : "Neues Tourismus-Problem: Ein \"Warte\"-Monat auf die Kurzarbeit",
-      "titleTarget" : "Yeni turizm sorunu: Kısa süreli çalışma için \"bekle\" ayı",
-      "url" : "https://kurier.at/wirtschaft/neues-tourismus-problem-ein-warte-monat-auf-die-kurzarbeit/401086848"
+      "id" : "DXGVYA7V",
+      "imgUrl" : "https://image.kurier.at/images/original/4238807/78350011454038786_BLD_Online.jpg",
+      "titleSource" : "Unmut über AMS-Schulungen trotz Lockdowns",
+      "titleTarget" : "Kilitlenmelere rağmen AMS eğitiminden hoşnutsuzluk",
+      "url" : "https://kurier.at/wirtschaft/unmut-ueber-ams-schulungen-trotz-lockdowns/401088426"
     }, {
-      "id" : "IIgDmIxK",
-      "imgUrl" : "https://image.kurier.at/images/original/2740649/46-111494186.jpg",
-      "titleSource" : "Corona setzt Lenzing unter Preis- und Mengendruck",
-      "titleTarget" : "Corona, Lenzing'i fiyat ve hacim baskısı altına alıyor",
-      "url" : "https://kurier.at/wirtschaft/corona-setzt-lenzing-unter-preis-und-mengendruck/401086878"
+      "id" : "yDm2IB5r",
+      "imgUrl" : "https://image.kurier.at/images/original/4318802/81670356454629994_BLD_Online.jpg",
+      "titleSource" : "Ischgl plant Saisonstart am 17. Dezember",
+      "titleTarget" : "Ischgl, sezona 17 Aralık'ta başlamayı planlıyor",
+      "url" : "https://kurier.at/wirtschaft/ischgl-plant-saisonstart-am-17-dezember/401088339"
     }, {
-      "id" : "opnamn2M",
-      "imgUrl" : "https://image.kurier.at/images/original/4726683/81650355557225008_BLD_Online.jpg",
-      "titleSource" : "Mehr als 6 Millionen: OMV-Chef Seele auch 2019 Gagenkaiser",
-      "titleTarget" : "6 milyondan fazla: OMV patronu Seele Gagenkaiser, 2019'da yeniden",
-      "url" : "https://kurier.at/wirtschaft/mehr-als-6-millionen-omv-chef-seele-auch-2019-gagenkaiser/401086488"
+      "id" : "agAoYuZ9",
+      "imgUrl" : "https://image.kurier.at/images/original/866769/Konjunktur-000_APA_HELMUT%252BFOHRINGER.jpg",
+      "titleSource" : "Wifo: Zweiter Lockdown bremst Erholung aus",
+      "titleTarget" : "Wifo: İkinci kilitlenme kurtarmayı yavaşlatır",
+      "url" : "https://kurier.at/wirtschaft/wirtschaftswachstum-2021-zwischen-28-und-41-prozent/401087868"
     }, {
-      "id" : "ZlnEZGnl",
-      "imgUrl" : "https://image.kurier.at/images/original/3964865/46-150825287.jpg",
-      "titleSource" : "Erlesenes rund um Wohnen und Design",
-      "titleTarget" : "Yaşam ve tasarımla ilgili mükemmel şeyler",
-      "url" : "https://kurier.at/wirtschaft/immobiz/erlesenes-rund-um-wohnen-und-design/401087214"
+      "id" : "iOG5iRmn",
+      "imgUrl" : "https://image.kurier.at/images/original/4741014/46-78315659.jpg",
+      "titleSource" : "Anlagenbauer Andritz verdreifacht Gewinn",
+      "titleTarget" : "Tesis üreticisi Andritz kârı üçe katladı",
+      "url" : "https://kurier.at/wirtschaft/anlagenbauer-andritz-verdreifacht-gewinn/401087616"
+    }, {
+      "id" : "5FFoscFX",
+      "imgUrl" : "https://image.kurier.at/images/original/3244043/78452305846856836_BLD_Online.jpg",
+      "titleSource" : "Bezos verkaufte Amazon-Aktien für über drei Milliarden Dollar",
+      "titleTarget" : "Bezos, Amazon hisselerini 3 milyar doların üzerinde sattı",
+      "url" : "https://kurier.at/wirtschaft/bezos-verkaufte-amazon-aktien-fuer-ueber-drei-milliarden-dollar/401087601"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "cB5OD320",
-      "imgUrl" : "https://image.kurier.at/images/original/4737696/20201103-ABD0170-1-1.jpg",
-      "titleSource" : "Innenminister sieht Behörden-Versagen: „Täter nützte das System perfide aus“",
-      "titleTarget" : "İçişleri Bakanı yetki hatası görüyor: \"Failler sistemi haince kullandı\"",
-      "url" : "https://kurier.at/chronik/oesterreich/innenminister-sieht-behoerden-versagen-taeter-nuetzte-das-system-perfide-aus/401086281"
+      "id" : "tHEZxmcg",
+      "imgUrl" : "https://image.kurier.at/images/original/4742964/46-168618883.jpg",
+      "titleSource" : "Cobra-Chef: Wie der Attentäter identifiziert wurde",
+      "titleTarget" : "Kobra patronu: Suikastçı nasıl belirlendi",
+      "url" : "https://kurier.at/chronik/oesterreich/cobra-chef-wie-der-attentaeter-identifiziert-wurde/401088573"
     }, {
-      "id" : "dRtUWEFh",
-      "imgUrl" : "https://image.kurier.at/images/original/4740390/46-168560917.jpg",
-      "titleSource" : "6.211 neue Corona-Infektionen in Österreich",
-      "titleTarget" : "Avusturya'da 6.211 yeni korona enfeksiyonu",
-      "url" : "https://kurier.at/chronik/oesterreich/6211-neue-corona-infektionen-in-oesterreich/401086881"
-    }, {
-      "id" : "GUPTyF6z",
-      "imgUrl" : "https://image.kurier.at/images/original/4738194/46-168624115.jpg",
-      "titleSource" : "Rekonstruktion einer Wahnsinnstat",
-      "titleTarget" : "Çılgın bir eylemin yeniden inşası",
-      "url" : "https://kurier.at/chronik/oesterreich/rekonstruktion-einer-wahnsinnstat/401086239"
+      "id" : "tmNpTXuc",
+      "imgUrl" : "https://image.kurier.at/images/original/4741806/46-168497278.jpg",
+      "titleSource" : "Mehr als 7.400 neue Corona-Infektionen in Österreich",
+      "titleTarget" : "Avusturya'da 7.400'den fazla yeni korona enfeksiyonu",
+      "url" : "https://kurier.at/chronik/oesterreich/mehr-als-7000-neue-corona-infektionen-in-oesterreich/401087994"
     }, {
       "id" : "MBCzSblu",
       "imgUrl" : "https://image.kurier.at/images/original/4742880/46-168689502.jpg",
@@ -116,44 +110,44 @@
       "titleTarget" : "Avusturya'da 7.400'den fazla yeni enfeksiyon; Vorarlberg bir acil durum tedarik merkezi kuruyor",
       "url" : "https://kurier.at/chronik/oesterreich/wien-baut-seine-testkapazitaeten-aus-england-fast-500-tote-binnen-24h/401087508"
     }, {
-      "id" : "fVpzHJX1",
-      "imgUrl" : "https://image.kurier.at/images/original/4613957/46-167192890.jpg",
-      "titleSource" : "Prozess gegen Wiener, der Zadic mit dem Tod bedrohte",
-      "titleTarget" : "Zadiç'i ölümle tehdit eden Wiener'e dava",
-      "url" : "https://kurier.at/chronik/oesterreich/prozess-gegen-wiener-der-zadic-mit-dem-tod-bedrohte/401086320"
+      "id" : "OggVUpoz",
+      "imgUrl" : "https://image.kurier.at/images/original/4741407/46-168659178.jpg",
+      "titleSource" : "Mehrere Verdächtige in Haft: Das Netzwerk des Attentäters von Wien",
+      "titleTarget" : "Birkaç şüpheli gözaltında: Viyana suikastçısının ağı",
+      "url" : "https://kurier.at/chronik/oesterreich/anschlag-in-wien-14-verdaechtige-in-u-haft-mehrere-terrorverdaechtige-dabei/401087409"
     }, {
-      "id" : "kk1KY43A",
-      "imgUrl" : "https://image.kurier.at/images/original/4740552/46-168658747.jpg",
-      "titleSource" : "18 steirische Meter: Weihnachtsbaum in Schönbrunn aufgestellt",
-      "titleTarget" : "18 Steiermark metre: Schönbrunn'da Noel ağacı kuruldu",
-      "url" : "https://kurier.at/chronik/oesterreich/18-steirische-meter-weihnachtsbaum-in-schoenbrunn-aufgestellt/401087319"
+      "id" : "INa0rMQG",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/9/2/5893010/98CBB728-8B54-4D59-8A20-2F1C4647E56C_v0_h.jpg",
+      "titleSource" : "Anschlag: Acht Vorbestrafte unter Festgenommenen, erster Polizeischuss nach drei Minuten",
+      "titleTarget" : "Saldırı: Tutuklananlardan sekiz hükümlü, üç dakika sonra ilk polis vuruldu",
+      "url" : "https://www.diepresse.com/5893010/Terrorismus_Anschlag_Acht-Vorbestrafte-unter-Festgenommenen?from=rss"
     }, {
-      "id" : "rlbLgaQ7",
-      "imgUrl" : "https://image.kurier.at/images/original/4740606/46-168642333.jpg",
-      "titleSource" : "Trauma nach Terror: Bilder, die nicht aus dem Kopf verschwinden",
-      "titleTarget" : "Terör Sonrası Travma: Aklınızdan Kaybolmayan Görüntüler",
-      "url" : "https://kurier.at/chronik/oesterreich/trauma-nach-terror-bilder-die-nicht-aus-dem-kopf-verschwinden/401087334"
+      "id" : "RO2abBPE",
+      "imgUrl" : "https://image.kurier.at/images/original/4741833/46-101839050.jpg",
+      "titleSource" : "Nach Terror: Razzien in Justizanstalten",
+      "titleTarget" : "Terörden sonra: cezaevlerine baskınlar",
+      "url" : "https://kurier.at/chronik/oesterreich/nach-terror-razzien-in-justizanstalten/401088033"
+    }, {
+      "id" : "XhkeDGhV",
+      "imgUrl" : "https://image.kurier.at/images/original/4742232/46-163986947.jpg",
+      "titleSource" : "Coronavirus: Vorarlberg baut Notversorgungszentrum auf",
+      "titleTarget" : "Coronavirus: Vorarlberg bir acil bakım merkezi inşa ediyor",
+      "url" : "https://kurier.at/chronik/oesterreich/coronavirus-vorarlberg-baut-notversorgungszentrum-auf/401088222"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "ASCB8yxG",
-      "imgUrl" : "https://image.kurier.at/images/original/4736940/46-166037860.jpg",
-      "titleSource" : "Anzeigenstornos nach Terrorvideos auf oe24.at",
-      "titleTarget" : "Oe24.at adresindeki terörist videolarından sonra reklam iptali",
-      "url" : "https://kurier.at/kultur/medien/anzeigenstornos-nach-terrorvideos-auf-oe24at/401085573"
+      "id" : "WS7bkGiH",
+      "imgUrl" : "https://image.kurier.at/images/original/4743243/gettyimages-150185620.jpg",
+      "titleSource" : "\"Zurück in die Zukunft\", \"Titanic\": Schauspielerin Elsa Raven mit 91 gestorben",
+      "titleTarget" : "\"Geleceğe Dönüş\", \"Titanik\": Oyuncu Elsa Raven 91 yaşında öldü",
+      "url" : "https://kurier.at/kultur/zurueck-in-die-zukunft-titanic-schauspielerin-elsa-raven-mit-91-gestorben/401088657"
     }, {
-      "id" : "04C9PceU",
-      "imgUrl" : "https://image.kurier.at/images/original/4736478/46-168620787.jpg",
-      "titleSource" : "Terrornacht in den Kulturinstitutionen: Publikum harrte stundenlang aus",
-      "titleTarget" : "Kültür kurumlarında terör gecesi: seyirci saatlerce bekledi",
-      "url" : "https://kurier.at/kultur/terrornacht-in-den-kulturinstitutionen-publikum-harrte-stundenlang-vor-evakuierung-aus/401085297"
-    }, {
-      "id" : "wtdtyLm3",
-      "imgUrl" : "https://image.kurier.at/images/original/4739487/46-163414649.jpg",
-      "titleSource" : "\"Sturm der Liebe\"-Darsteller Dietrich Adam gestorben",
-      "titleTarget" : "\"Aşk Fırtınası\" aktörü Dietrich Adam öldü",
-      "url" : "https://kurier.at/kultur/medien/sturm-der-liebe-darsteller-dietrich-adam-gestorben/401086671"
+      "id" : "6PyCroJT",
+      "imgUrl" : "https://image.kurier.at/images/original/4742694/46-83159920.jpg",
+      "titleSource" : "Keyboarder von Uriah Heep: Ken Hensley gestorben",
+      "titleTarget" : "Uriah Heep'in klavyecisi: Ken Hensley öldü",
+      "url" : "https://kurier.at/kultur/keyboarder-von-uriah-heep-ken-hensley-gestorben/401088414"
     }, {
       "id" : "FNVcP3wv",
       "imgUrl" : "https://image.kurier.at/images/original/4740540/thecrown_405_unit_02042_rt.jpg",
@@ -161,77 +155,59 @@
       "titleTarget" : "Kasım ayında Netflix & Co'da dört gözle beklediğimiz 5 dizi",
       "url" : "https://kurier.at/kultur/medien/5-serien-auf-die-wir-uns-im-november-bei-netflix-co-freuen/401082747"
     }, {
-      "id" : "e3ij2MgZ",
-      "imgUrl" : "https://image.kurier.at/images/original/4739631/46-168444529.jpg",
-      "titleSource" : "Staatsoper startet ihr Streamingangebot für den Lockdown verspätet",
-      "titleTarget" : "Devlet Operası, ertelenen kilitlenme için yayın teklifine başladı",
-      "url" : "https://kurier.at/kultur/medien/staatsoper-startet-heute-ihr-streamingangebot-fuer-den-lockdown/401086752"
+      "id" : "moZQmDee",
+      "imgUrl" : "https://image.kurier.at/images/original/4742772/46-147655039.jpg",
+      "titleSource" : "Eine Frau übernimmt die 007: Warum Bond trotzdem männlich bleibt",
+      "titleTarget" : "007'yi bir kadın devraldı: Bond neden yine de erkek kalıyor",
+      "url" : "https://kurier.at/kultur/eine-frau-uebernimmt-die-007-warum-bond-trotzdem-maennlich-bleibt/401088492"
     }, {
-      "id" : "7T6nHR2r",
-      "imgUrl" : "https://image.kurier.at/images/original/4094664/podcast_illu_hell-01.png",
-      "titleSource" : "5 Podcast-Tipps für den November",
-      "titleTarget" : "Kasım için 5 podcast ipucu",
-      "url" : "https://kurier.at/kultur/medien/5-podcast-tipps-fuer-den-november/401084766"
+      "id" : "iHOP6bun",
+      "imgUrl" : "https://image.kurier.at/images/original/4742100/orf_noberbuch_20201105151909.jpg",
+      "titleSource" : "Neuer Sendetermin für abgebrochene \"Vienna Blood\"-Folge",
+      "titleTarget" : "İptal edilen \"Vienna Blood\" bölümünün yeni yayın tarihi",
+      "url" : "https://kurier.at/kultur/medien/neuer-sendetermin-fuer-abgebrochene-vienna-blood-folge/401088114"
     }, {
-      "id" : "rfklO74Y",
-      "imgUrl" : "https://image.kurier.at/images/original/4093623/78452305852919866_BLD_Online.jpg",
-      "titleSource" : "Netflix verfilmt \"München\" mit Jeremy Irons, August Diehl & Co",
-      "titleTarget" : "Netflix, Jeremy Irons, August Diehl & Co ile birlikte \"Münih\" i filme aldı",
-      "url" : "https://kurier.at/kultur/medien/netflix-verfilmt-muenchen-mit-jeremy-irons-august-diehl-co/401086539"
+      "id" : "aE3sGSHv",
+      "imgUrl" : "https://image.kurier.at/images/original/4743126/orf_noberbuch_20201105194920.jpg",
+      "titleSource" : "Nach Anschlag in Wien: ORF verschiebt Ausstrahlung von Schirachs \"Gott\"",
+      "titleTarget" : "Viyana'daki saldırıdan sonra: ORF, Schirach'ın \"Gott\" yayınını erteledi",
+      "url" : "https://kurier.at/kultur/medien/nach-terror-in-wien-orf-verschiebt-ausstrahlung-von-schirachs-gott/401088618"
+    }, {
+      "id" : "uhYQXcI9",
+      "imgUrl" : "https://image.kurier.at/images/original/4742331/46-168679898.jpg",
+      "titleSource" : "\"Trust\": Starbesetzte Mini-Serie über die Getty-Entführung",
+      "titleTarget" : "\"Güven\": Getty kaçırılmasıyla ilgili yıldızlarla dolu mini dizi",
+      "url" : "https://kurier.at/kultur/trust-starbesetzte-mini-serie-ueber-die-getty-entfuehrung/401088456"
     } ]
   }, {
     "category" : "HEALTH",
-    "newsArticles" : [ {
-      "id" : "sWTx8xJb",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/2/2/5549346/imago86314101h_1545295471812995.jpg",
-      "titleSource" : "Eiweißriegel enthalten zu viel Zucker",
-      "titleTarget" : "Protein çubukları çok fazla şeker içeriyor",
-      "url" : "https://www.diepresse.com/5549346/Eiweissriegel-enthalten-zu-viel-Zucker?from=rss"
-    }, {
-      "id" : "BjH4ikF1",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/6/b/5530987/imago86062494h_1542365733707856.jpg",
-      "titleSource" : "#InheritYourFuture: Wohin entwickeln wir uns?",
-      "titleTarget" : "# InheritYourFuture: Nereye gidiyoruz?",
-      "url" : "https://www.diepresse.com/5530987/InheritYourFuture_Wohin-entwickeln-wir-uns?from=rss"
-    }, {
-      "id" : "TxAYek9A",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/2/1/5532449/50D5E3B1-E697-4B9A-8C36-37FE47330F7D_v0_h.jpg",
-      "titleSource" : "Orthopäden warnen vor \"Smartphone-Nacken\" und \"SMS-Daumen\"",
-      "titleTarget" : "Ortopedistler \"akıllı telefon boynu\" ve \"SMS başparmağına\" karşı uyarıda bulundu",
-      "url" : "https://www.diepresse.com/5532449/Orthopaeden-warnen-vor-SmartphoneNacken-und-SMSDaumen?from=rss"
-    }, {
-      "id" : "eNYNh4l2",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/9/6/5536406/46E96D4B-3C10-49EB-B273-48D8A425EBEC_v0_h.jpg",
-      "titleSource" : "Fehlerhafte Medizinprodukte: US-Marktführer könnte für 9300 Todesfälle verantwortlich sein",
-      "titleTarget" : "Hatalı tıbbi cihazlar: ABD pazar lideri 9.300 ölümden sorumlu olabilir",
-      "url" : "https://www.diepresse.com/5536406/Fehlerhafte-Medizinprodukte_USMarktfuehrer-koennte-fuer-9300?from=rss"
-    }, {
-      "id" : "qARgc3cY",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/a/4/5538980/Woman-and-Dalmatian-mongrel-lying-on-white-bed-sheet-model-released-Symbolfoto-property-released-PUB_1543574217348842.jpg",
-      "titleSource" : "Studie: Frauen schlafen mit Hund im Bett besser",
-      "titleTarget" : "Ders çalışma: Kadınlar yatakta bir köpekle daha iyi uyur",
-      "url" : "https://www.diepresse.com/5538980/Studie_Frauen-schlafen-mit-Hund-im-Bett-besser?from=rss"
-    }, {
-      "id" : "DPMqaAhS",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/5/4/5539924/2946CA56-A160-47D4-A348-8E5FB85B1791_v0_l.jpg",
-      "titleSource" : "Studie: ADHS häufiger bei früh Eingeschulten diagnostiziert",
-      "titleTarget" : "Ders çalışma: Okuldan erken ayrılanlarda DEHB daha sık teşhis edildi",
-      "url" : "https://www.diepresse.com/5539924/Studie_ADHS-haeufiger-bei-frueh-Eingeschulten-diagnostiziert?from=rss"
-    }, {
-      "id" : "usPUqrQj",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/5/2/5540946/photo-1515377905703-c4788e5_1543920353073774.jpg",
-      "titleSource" : "Kosmetika der Mutter beeinflussen Pubertät des Nachwuchses",
-      "titleTarget" : "Annenin kozmetik ürünleri yavrularda ergenliği etkiliyor",
-      "url" : "https://www.diepresse.com/5540946/Kosmetika-der-Mutter-beeinflussen-Pubertaet-des-Nachwuchses?from=rss"
-    } ]
+    "newsArticles" : [ ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
+      "id" : "7BwPJwM0",
+      "imgUrl" : "https://image.kurier.at/images/original/3707453/46-148366629.jpg",
+      "titleSource" : "Spieler der Woche: Auszeichnung für Robert Gucher in der Serie B",
+      "titleTarget" : "Haftanın Oyuncusu: Serie B'de Robert Gucher Ödülü",
+      "url" : "https://kurier.at/sport/fussball/spieler-der-woche-auszeichnung-fuer-robert-gucher-in-der-serie-b/401087739"
+    }, {
       "id" : "zBemRXY7",
       "imgUrl" : "https://image.kurier.at/images/original/4740516/46-168657179.jpg",
       "titleSource" : "The Show must go on: Rapid spielt nach dem Terror gegen Dundalk",
       "titleTarget" : "Gösteri devam etmeli: Dundalk'a karşı terörden sonra hızlı oyunlar",
       "url" : "https://kurier.at/sport/fussball/the-show-must-go-on-rapid-spielt-in-der-europa-league-nach-dem-terror-in-wien-gegen-dundalk/401087301"
+    }, {
+      "id" : "TL3X0K4x",
+      "imgUrl" : "https://image.kurier.at/images/original/4743186/46-168694322.jpg",
+      "titleSource" : "Blamage verhindert: Rapid holt knappen EL-Sieg gegen Dundalk",
+      "titleTarget" : "Utanç önlendi: Hızlı, Dundalk'a karşı dar EL zaferini kazandı",
+      "url" : "https://kurier.at/sport/fussball/glanzloser-heimsieg-gegen-dundalk-rapid-wien-jubelt-erstmals-in-der-europa-league/401087913"
+    }, {
+      "id" : "oqpOuEDp",
+      "imgUrl" : "https://image.kurier.at/images/original/4743162/46-168693686.jpg",
+      "titleSource" : "Europa League live: So steht es bei Rapid Wien gegen Dundalk",
+      "titleTarget" : "Avrupa Ligi canlı: Rapid Vienna'da Dundalk'a karşı durum böyle",
+      "url" : "https://kurier.at/sport/fussball/europa-league-live-so-steht-es-bei-rapid-wien-gegen-dundalk/401087913"
     }, {
       "id" : "bOKAfAAb",
       "imgUrl" : "https://image.kurier.at/images/original/4741179/screenshot_2020-11-05_at_09.27.02.png",
@@ -239,35 +215,16 @@
       "titleTarget" : "Hırvatistan'dan iğrenç bir penaltı numarası tüm dünyayı dolaşıyor",
       "url" : "https://kurier.at/sport/fussball/fussball-ein-raffinierter-elfer-trick-aus-kroatien-ging-um-die-welt/401087652"
     }, {
-      "id" : "5k1GHcGF",
-      "imgUrl" : "https://image.kurier.at/images/original/4740723/46-167962618.jpg",
-      "titleSource" : "Ungerechtfertigte Dopingsperre: WADA entschuldigt sich bei Fußball-Profi",
-      "titleTarget" : "Haksız doping yasağı: WADA profesyonel futbolcudan özür diler",
-      "url" : "https://kurier.at/sport/fussball/ungerechtfertigte-dopingsperre-wada-entschuldigt-sich-bei-fussball-profi-mamadou-sakho/401087397"
+      "id" : "Ox4VQLcR",
+      "titleSource" : "Torjäger Haaland musste \"eines der schrägsten Interviews\" führen",
+      "titleTarget" : "Forvet Haaland \"en tuhaf röportajlardan birini\" yapmak zorunda kaldı",
+      "url" : "https://kurier.at/sport/fussball/nach-champions-league-doppelpack-torjaeger-haaland-musste-eines-der-schraegsten-interviews-fuehren/401087910"
     }, {
-      "id" : "f9HKB61B",
-      "imgUrl" : "https://image.kurier.at/images/original/4740174/46-164923877.jpg",
-      "titleSource" : "Kein Schnee: Ski-Weltcuprennen in Zürs verschoben",
-      "titleTarget" : "Kar yok: Zürs'teki Kayak Dünya Kupası yarışları ertelendi",
-      "url" : "https://kurier.at/sport/wintersport/kein-schnee-weltcuprennen-in-zuers-verschoben/401087115"
-    }, {
-      "id" : "vmrNjhYs",
-      "imgUrl" : "https://image.kurier.at/images/original/4740522/46-168646113.jpg",
-      "titleSource" : "In der Champions League sind die Salzburger Teilzeit-Arbeiter",
-      "titleTarget" : "Salzburg işçileri, Şampiyonlar Ligi'nde yarı zamanlı işçilerdir",
-      "url" : "https://kurier.at/sport/fussball/in-der-champions-league-sind-die-salzburger-teilzeit-arbeiter/401087298"
-    }, {
-      "id" : "PExkWDrp",
-      "imgUrl" : "https://image.kurier.at/images/original/4740585/46-168665117.jpg",
-      "titleSource" : "Vuelta: Belgier Wellens gewinnt 14. Etappe, Roglic weiter in Rot",
-      "titleTarget" : "Vuelta: Belçikalı Wellens 14. etabı kazandı, Roglic kırmızıyla devam ediyor",
-      "url" : "https://kurier.at/sport/vuelta-belgier-wellens-gewinnt-14-etappe-roglic-weiter-in-rot/401087328"
-    }, {
-      "id" : "ITU4Hccp",
-      "imgUrl" : "https://image.kurier.at/images/original/4739208/46-168547052.jpg",
-      "titleSource" : "Nach Gehirnblutung: Diego Maradona wurde erfolgreich operiert",
-      "titleTarget" : "Beyin kanamasından sonra: Diego Maradona başarıyla ameliyat edildi",
-      "url" : "https://kurier.at/sport/fussball/nach-gehirnblutung-fussball-legende-diego-maradona-wurde-erfolgreich-operiert/401086509"
+      "id" : "qG13QNNb",
+      "imgUrl" : "https://image.kurier.at/images/original/4743255/46-168697167.jpg",
+      "titleSource" : "Europa League: LASK siegt in Unterzahl, WAC erstmals geschlagen",
+      "titleTarget" : "Avrupa Ligi: LASK sayıca üstün, WAC ilk kez yenildi",
+      "url" : "https://kurier.at/sport/fussball/europa-league-lask-siegt-in-unterzahl-bei-antwerpen-wac-bei-dinamo-zagreb-erstmals-geschlagen/401087925"
     } ]
   } ],
   "country" : "austria",
