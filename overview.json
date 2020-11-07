@@ -20,29 +20,28 @@
       "titleTarget" : "Gider meselesi: Strache'nin Nepp'e açtığı dava reddedildi",
       "url" : "https://kurier.at/politik/inland/spesen-affaere-straches-klage-gegen-nepp-abgewiesen/401088882"
     }, {
+      "id" : "Qhl55elg",
+      "imgUrl" : "https://image.kurier.at/images/original/3558418/78350011449030896_BLD_Online.jpg",
+      "titleSource" : "Expertenhearing zum Verbot von homosexuellen Blutspendern",
+      "titleTarget" : "Eşcinsel kan bağışçılarının yasağına ilişkin uzman duruşması",
+      "url" : "https://kurier.at/politik/inland/expertenhearing-zum-verbot-von-homosexuellen-blutspendern/401089803"
+    }, {
       "id" : "J2S9VWmQ",
       "imgUrl" : "https://image.kurier.at/images/original/4743468/46-168481789.jpg",
       "titleSource" : "Anti-Terror-Kampf: Überwachung, Isolation, Haft - und exportierte Gefährder",
       "titleTarget" : "Terörizme karşı mücadele: gözetim, tecrit, alıkoyma ve ihracat tehditleri",
       "url" : "https://kurier.at/politik/inland/anti-terror-kampf-ueberwachung-isolation-haft-und-exportierte-gefaehrder/401088804"
     }, {
+      "id" : "iZeTulyL",
+      "titleSource" : "Petschnig mit 52 Prozent neuer FPÖ-Parteiobmann im Burgenland",
+      "titleTarget" : "Petschnig, Burgenland'da yüzde 52 yeni FPÖ parti başkanı ile",
+      "url" : "https://www.diepresse.com/5893882/Parteitag_Petschnig-mit-52-Prozent-neuer-FPOeParteiobmann-im?from=rss"
+    }, {
       "id" : "o1oSkBvS",
       "imgUrl" : "https://image.kurier.at/images/original/4743507/46-168606192.jpg",
       "titleSource" : "Nur noch bei jedem Vierten ist Infektionsquelle bekannt",
       "titleTarget" : "Enfeksiyonun kaynağı yalnızca dörtte biri için bilinir",
       "url" : "https://kurier.at/politik/inland/nur-noch-bei-jedem-vierten-ist-infektionsquelle-bekannt/401088843"
-    }, {
-      "id" : "EeTdBC7f",
-      "imgUrl" : "https://image.kurier.at/images/original/4743507/46-168606192.jpg",
-      "titleSource" : "Anschober-Expertin: Nur noch bei jedem Vierten ist Infektionsquelle bekannt",
-      "titleTarget" : "Çapa uzmanı: Enfeksiyonun kaynağı yalnızca dörtte biri tarafından biliniyor",
-      "url" : "https://kurier.at/politik/inland/anschober-expertin-nur-noch-bei-jedem-vierten-ist-infektionsquelle-bekannt/401088843"
-    }, {
-      "id" : "ZcpsuQfM",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/0/8/5893384/251EC929-2C53-4388-BF1C-E934EE78FA0E_v0_l.jpg",
-      "titleSource" : "Anschober: \"Skeptiker sollten sich Zahlen ein bisschen anschauen\"",
-      "titleTarget" : "Anschober: \"Şüpheciler sayılara biraz bakmalı\"",
-      "url" : "https://www.diepresse.com/5893384/Coronavirus_Anschober_Skeptiker-sollten-sich-Zahlen-ein-bisschen?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -77,11 +76,11 @@
       "titleTarget" : "Sert adım: Papa, Vatikan maliyesini yeniden düzenledi",
       "url" : "https://kurier.at/wirtschaft/drastischer-schritt-papst-ordnet-vatikan-finanzen-neu/401089005"
     }, {
-      "id" : "gXtuBbQE",
-      "imgUrl" : "https://image.kurier.at/images/original/4214993/78370011353855660_BLD_Online.jpg",
-      "titleSource" : "US-Notenbank hält Kurs in den Nachwirren der Wahl",
-      "titleTarget" : "ABD Federal Rezervi, seçimin ardından rotasını koruyor",
-      "url" : "https://kurier.at/wirtschaft/us-notenbank-haelt-kurs-in-den-nachwirren-der-wahl/401088627"
+      "id" : "QuCy0Bzd",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/e/c/8/5893832/F161DB94-ABAA-44A2-AB7B-31BD2B47B398_v0_l.jpg",
+      "titleSource" : "Verfügbares Einkommen sinkt",
+      "titleTarget" : "Harcanabilir gelir azalır",
+      "url" : "https://www.diepresse.com/5893832/Umfrage_Verfuegbares-Einkommen-sinkt?from=rss"
     }, {
       "id" : "8eIe5deZ",
       "imgUrl" : "https://media.diepresse.com/images/uploads/d/2/7/5893415/lockdown2_1604654875394875.jpg",
@@ -92,29 +91,17 @@
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "uMpzJ4rc",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/45/33/crops/w=1280/743505_opener_258033_ak47_002.jpg?s=fca529cacd31d8e4092e068aa11b1ea67600baae",
-      "titleSource" : "Terroralarm wegen Maschinenpistolen-Attrappe",
-      "titleTarget" : "Sahte hafif makineli tüfek nedeniyle terör uyarısı",
-      "url" : "https://kaernten.orf.at/stories/3074714/"
-    }, {
-      "id" : "Jt3xMy2a",
-      "imgUrl" : "https://image.kurier.at/images/original/4704405/78350011457015854_BLD_Online.jpg",
-      "titleSource" : "Terroralarm in Villach: \"Da ist jemand mit Kalaschnikow\"",
-      "titleTarget" : "Villach'ta terör uyarısı: \"Kalaşnikoflu biri var\"",
-      "url" : "https://kurier.at/chronik/oesterreich/terrorarlarm-in-villach-da-ist-jemand-mit-kalaschnikow/401089065"
+      "id" : "i9OKLdwh",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/17/38/crops/w=1280/541601_opener_183838_mosque-897526_1920.jpg?s=89e8ae84f09c3b30863a02184817d5f7a1b38d07",
+      "titleSource" : "FPÖ fordert Schließung steirischer Moscheen",
+      "titleTarget" : "FPÖ, Steiermark camilerinin kapatılması çağrısında bulundu",
+      "url" : "https://steiermark.orf.at/stories/3074803/"
     }, {
       "id" : "KejZZcU4",
       "imgUrl" : "https://image.kurier.at/images/original/4742370/46-168550064.jpg",
       "titleSource" : "Coronavirus: 250 Todesfälle in nur einer Woche",
       "titleTarget" : "Coronavirus: Sadece bir haftada 250 ölüm",
       "url" : "https://kurier.at/chronik/oesterreich/coronavirus-6464-neuinfektionen-am-freitag/401089020"
-    }, {
-      "id" : "DX0wlnza",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/45/43/crops/w=1280/744129_opener_258243_toter.jpg?s=9ee34fddb264eaab1b85e48d8e2f8ced63a5dcb4",
-      "titleSource" : "Mordverdacht in Klagenfurt Fischl",
-      "titleTarget" : "Klagenfurt Fischl'de cinayet şüphesi",
-      "url" : "https://kaernten.orf.at/stories/3074775/"
     }, {
       "id" : "iAtxkyrX",
       "imgUrl" : "https://image.kurier.at/images/original/4705689/78350011457032546_BLD_Online.jpg",
@@ -133,27 +120,45 @@
       "titleSource" : "Bundesheer: Grundwehrdienst kann künftig verlängert werden",
       "titleTarget" : "Silahlı Kuvvetler: Temel askerlik hizmeti gelecekte uzatılabilir",
       "url" : "https://kurier.at/chronik/oesterreich/bundesheer-grundwehrdienst-kann-kuenftig-verlaengert-werden/401088768"
+    }, {
+      "id" : "8KMrM2pc",
+      "imgUrl" : "https://image.kurier.at/images/original/4745052/46-168464239.jpg",
+      "titleSource" : "59-Jähriger soll ohne Ausbildung als Arzt praktiziert haben",
+      "titleTarget" : "59 yaşında eğitim almadan doktorluk yaptığı söyleniyor",
+      "url" : "https://kurier.at/chronik/oesterreich/59-jaehriger-soll-ohne-ausbildung-als-arzt-praktiziert-haben/401089719"
+    }, {
+      "id" : "7r4Mcvik",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/45/81/crops/w=1280/744385_opener_258281_probe_ilona.jpg?s=d768f717f7bdc2f195448a2748b9c91a3a38c118",
+      "titleSource" : "Am Samstag startet „Konzert frei Haus“",
+      "titleTarget" : "\"Bedava konser\" Cumartesi günü başlıyor",
+      "url" : "https://kaernten.orf.at/stories/3074815/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "WS7bkGiH",
-      "imgUrl" : "https://image.kurier.at/images/original/4743243/gettyimages-150185620.jpg",
-      "titleSource" : "\"Zurück in die Zukunft\", \"Titanic\": Schauspielerin Elsa Raven mit 91 gestorben",
-      "titleTarget" : "\"Geleceğe Dönüş\", \"Titanik\": Oyuncu Elsa Raven 91 yaşında öldü",
-      "url" : "https://kurier.at/kultur/zurueck-in-die-zukunft-titanic-schauspielerin-elsa-raven-mit-91-gestorben/401088657"
+      "id" : "uzDfVx4M",
+      "imgUrl" : "https://image.kurier.at/images/original/4744146/46-145210253.jpg",
+      "titleSource" : "Der neue \"Metzger\": Ohne Vanille versinkt die Welt im Chaos",
+      "titleTarget" : "Yeni \"kasap\": Vanilya olmazsa dünya kaosa batar",
+      "url" : "https://kurier.at/kultur/buch/der-neue-metzger-ohne-vanille-versinkt-die-welt-im-chaos/401089239"
     }, {
-      "id" : "RboG2SkA",
-      "imgUrl" : "https://image.kurier.at/images/original/4743639/46-168701269.jpg",
-      "titleSource" : "Das sind die neuen Hilfeleistungen für die Kulturbranche",
-      "titleTarget" : "Bunlar kültür endüstrisi için yeni yardımlar",
-      "url" : "https://kurier.at/kultur/das-sind-die-neuen-hilfeleistungen-fuer-die-kulturbranche/401088846"
+      "id" : "E59LJKpP",
+      "imgUrl" : "https://image.kurier.at/images/original/4744131/46-130276714.jpg",
+      "titleSource" : "Restitution von Kolonialgütern: Frankreich setzt konkrete Schritte",
+      "titleTarget" : "Sömürge mallarının iadesi: Fransa somut adımlar atıyor",
+      "url" : "https://kurier.at/kultur/restitution-von-kolonialguetern-frankreich-setzt-konkrete-schritte/401089206"
     }, {
       "id" : "dGd4zjGM",
       "imgUrl" : "https://image.kurier.at/images/original/4720908/46-168388640.jpg",
       "titleSource" : "Von Wien Modern bis Staatsoper: Wo man Kultur jetzt streamen kann",
       "titleTarget" : "Wien Modern'den Devlet Operasına: kültürü şimdi izleyebileceğiniz yer",
       "url" : "https://kurier.at/kultur/von-wien-modern-bis-staatsoper-wo-man-kultur-jetzt-streamen-kann/401088510"
+    }, {
+      "id" : "RboG2SkA",
+      "imgUrl" : "https://image.kurier.at/images/original/4743639/46-168701269.jpg",
+      "titleSource" : "Das sind die neuen Hilfeleistungen für die Kulturbranche",
+      "titleTarget" : "Bunlar kültür endüstrisi için yeni yardımlar",
+      "url" : "https://kurier.at/kultur/das-sind-die-neuen-hilfeleistungen-fuer-die-kulturbranche/401088846"
     }, {
       "id" : "RMYkP9zi",
       "imgUrl" : "https://image.kurier.at/images/original/4744365/46-168334002.jpg",
@@ -166,12 +171,6 @@
       "titleSource" : "Grazer Schauspielhaus-Chefin übernimmt 2023 Deutsches Theater Berlin",
       "titleTarget" : "Grazer Schauspielhaus patronu 2023'te Deutsches Theater Berlin'i devralacak",
       "url" : "https://kurier.at/kultur/grazer-schauspielhaus-chefin-uebernimmt-2023-deutsches-theater-berlin/401089263"
-    }, {
-      "id" : "E59LJKpP",
-      "imgUrl" : "https://image.kurier.at/images/original/4744131/46-130276714.jpg",
-      "titleSource" : "Restitution von Kolonialgütern: Frankreich setzt konkrete Schritte",
-      "titleTarget" : "Sömürge mallarının iadesi: Fransa somut adımlar atıyor",
-      "url" : "https://kurier.at/kultur/restitution-von-kolonialguetern-frankreich-setzt-konkrete-schritte/401089206"
     }, {
       "id" : "pRqAPUvx",
       "imgUrl" : "https://image.kurier.at/images/original/4743444/46-167920087.jpg",
@@ -191,17 +190,21 @@
       "titleTarget" : "Rapid'den hedef dörtlüsü: 4: 3'te kendi kendini inşa ederek kurtarma",
       "url" : "https://kurier.at/sport/fussball/das-tor-quartett-von-rapid-rettung-durch-den-eigenbau-beim-43-gegen-dundalk/401088669"
     }, {
-      "id" : "TL3X0K4x",
-      "imgUrl" : "https://image.kurier.at/images/original/4743186/46-168694322.jpg",
-      "titleSource" : "Blamage verhindert: Rapid holt knappen EL-Sieg gegen Dundalk",
-      "titleTarget" : "Utanç önlendi: Hızlı, Dundalk'a karşı dar EL zaferini kazandı",
-      "url" : "https://kurier.at/sport/fussball/glanzloser-heimsieg-gegen-dundalk-rapid-wien-jubelt-erstmals-in-der-europa-league/401087913"
-    }, {
       "id" : "5mXgZ05z",
       "imgUrl" : "https://image.kurier.at/images/original/4744194/46-164573372.jpg",
       "titleSource" : "Corona-Krise: Sport Austria mit Resolution an die Regierung",
       "titleTarget" : "Corona krizi: Hükümete çözüm bulunan Sport Austria",
       "url" : "https://kurier.at/sport/corona-krise-sport-austria-mit-resolution-an-die-regierung/401089287"
+    }, {
+      "id" : "bfY9ISjy",
+      "titleSource" : "LASK mischt weiterhin vorne mit",
+      "titleTarget" : "LASK ön planda olmaya devam ediyor",
+      "url" : "https://sport.orf.at/stories/3069017/"
+    }, {
+      "id" : "1M5goP8z",
+      "titleSource" : "CoV-Fälle: WAC gegen Sturm verschoben",
+      "titleTarget" : "CoV vakaları: WAC, Sturm'a karşı ertelendi",
+      "url" : "https://sport.orf.at/stories/3069043/"
     }, {
       "id" : "1LJ2zX0q",
       "imgUrl" : "https://image.kurier.at/images/original/4744398/46-168694323.jpg",
@@ -209,23 +212,17 @@
       "titleTarget" : "Avrupa Kupası dörtlüsü, UEFA'nın beş yıllık sıralamasında onuncu sırayı aldı",
       "url" : "https://kurier.at/sport/fussball/europacup-quartett-salzburg-rapid-lask-und-wac-sichert-platz-zehn-in-uefa-fuenfjahreswertung/401089386"
     }, {
-      "id" : "qG13QNNb",
-      "imgUrl" : "https://image.kurier.at/images/original/4743255/46-168697167.jpg",
-      "titleSource" : "Europa League: LASK siegt in Unterzahl, WAC erstmals geschlagen",
-      "titleTarget" : "Avrupa Ligi: LASK sayıca üstün, WAC ilk kez yenildi",
-      "url" : "https://kurier.at/sport/fussball/europa-league-lask-siegt-in-unterzahl-bei-antwerpen-wac-bei-dinamo-zagreb-erstmals-geschlagen/401087925"
+      "id" : "NYelj9N5",
+      "imgUrl" : "https://image.kurier.at/images/original/4713012/46-167399374.jpg",
+      "titleSource" : "Pucher sei Dank: Wie sich der Aufstieg der Rapid-Talente auszahlt",
+      "titleTarget" : "Pucher'a teşekkürler: Hızlı Yeteneklerin yükselişi nasıl sonuç veriyor?",
+      "url" : "https://kurier.at/sport/fussball/martin-pucher-sei-dank-wie-sich-der-aufstieg-der-talente-von-rapid-ii-auszahlt/401088369"
     }, {
-      "id" : "WN5yBPHO",
-      "imgUrl" : "https://image.kurier.at/images/original/4743516/46-168697897.jpg",
-      "titleSource" : "Europa League: LASK-Sieg könnte ein kurioses Nachspiel haben",
-      "titleTarget" : "Avrupa Ligi: LASK zaferinin tuhaf sonuçları olabilir",
-      "url" : "https://kurier.at/sport/fussball/fussball-europa-league-lask-sieg-koennte-noch-ein-kurioses-nachspiel-haben/401088867"
-    }, {
-      "id" : "FdwoIvIL",
-      "imgUrl" : "https://image.kurier.at/images/original/4744512/46-168697081.jpg",
-      "titleSource" : "Corona-Cluster beim WAC: Virus setzt Bundesligisten außer Gefecht",
-      "titleTarget" : "WAC'deki Corona kümesi: Virüs, Bundesliga kulüplerini çalışma dışı bırakıyor",
-      "url" : "https://kurier.at/sport/fussball/zu-viele-neue-corona-faelle-wac-spiel-gegen-sturm-in-der-bundesliga-wurde-abgesagt/401089497"
+      "id" : "x3tX4xHR",
+      "imgUrl" : "https://image.kurier.at/images/original/4744875/46-150902695.jpg",
+      "titleSource" : "Corona-Lockdown und Terror: Drei ÖFB-Teamspiele in Krisenzeiten",
+      "titleTarget" : "Corona kilitlenmesi ve terör: Kriz zamanlarında üç ÖFB takım oyunu",
+      "url" : "https://kurier.at/sport/fussball/corona-lockdown-und-terror-drei-oefb-teamspiele-in-krisenzeiten/401089599"
     } ]
   } ],
   "country" : "austria",
