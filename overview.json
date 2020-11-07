@@ -2,11 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "0fwGlfS1",
-      "imgUrl" : "https://image.kurier.at/images/original/4743036/20201105-ABD0165-1-1.jpg",
-      "titleSource" : "Terroranschlag in Wien: Bürgerinitiative bereitet Amtshaftungsklage vor",
-      "titleTarget" : "Viyana'da terör saldırısı: vatandaşların girişimi resmi sorumluluk davası hazırlıyor",
-      "url" : "https://kurier.at/politik/inland/terroranschlag-in-wien-buergerinitiative-bereitet-amtshaftungsklage-vor/401088951"
+      "id" : "4nepPxCT",
+      "imgUrl" : "https://image.kurier.at/images/original/4745463/46-166092957.jpg",
+      "titleSource" : "Terror in Wien: SPÖ fordert Änderung des Staatsbürgerschaftsrechts",
+      "titleTarget" : "Viyana'da terör: SPÖ vatandaşlık hukukunda değişiklik çağrısı yapıyor",
+      "url" : "https://kurier.at/politik/inland/terror-in-wien-spoe-fordert-aenderung-des-staatsbuergerschaftsrechts/401089851"
+    }, {
+      "id" : "4jEWtZgo",
+      "imgUrl" : "https://image.kurier.at/images/original/4745445/46-168589021.jpg",
+      "titleSource" : "Aschbacher will Arbeitslose als \"Contract Tracer\" vermitteln",
+      "titleTarget" : "Aschbacher işsizleri \"sözleşmeli izleyici\" olarak yerleştirmek istiyor",
+      "url" : "https://kurier.at/politik/inland/aschbacher-will-arbeitslose-als-contract-tracer-vermitteln/401089848"
     }, {
       "id" : "N0IdIW5F",
       "imgUrl" : "https://image.kurier.at/images/original/4744161/46-168706897.jpg",
@@ -14,49 +20,61 @@
       "titleTarget" : "SPÖ, Yeşiller: \"Saldırı öncesi hapis cezası için geçerli kanun yeterli olurdu\"",
       "url" : "https://kurier.at/politik/inland/sicherungshaft-spoe-gruene-geltendes-recht-haette-fuer-inhaftierung-vor-dem-attentat-ausgereicht/401089242"
     }, {
-      "id" : "U1sh4n4l",
-      "imgUrl" : "https://image.kurier.at/images/original/4692303/46-168108280.jpg",
-      "titleSource" : "Spesen-Affäre: Straches Klage gegen Nepp abgewiesen",
-      "titleTarget" : "Gider meselesi: Strache'nin Nepp'e açtığı dava reddedildi",
-      "url" : "https://kurier.at/politik/inland/spesen-affaere-straches-klage-gegen-nepp-abgewiesen/401088882"
-    }, {
       "id" : "Qhl55elg",
       "imgUrl" : "https://image.kurier.at/images/original/3558418/78350011449030896_BLD_Online.jpg",
       "titleSource" : "Expertenhearing zum Verbot von homosexuellen Blutspendern",
       "titleTarget" : "Eşcinsel kan bağışçılarının yasağına ilişkin uzman duruşması",
       "url" : "https://kurier.at/politik/inland/expertenhearing-zum-verbot-von-homosexuellen-blutspendern/401089803"
     }, {
-      "id" : "J2S9VWmQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4743468/46-168481789.jpg",
-      "titleSource" : "Anti-Terror-Kampf: Überwachung, Isolation, Haft - und exportierte Gefährder",
-      "titleTarget" : "Terörizme karşı mücadele: gözetim, tecrit, alıkoyma ve ihracat tehditleri",
-      "url" : "https://kurier.at/politik/inland/anti-terror-kampf-ueberwachung-isolation-haft-und-exportierte-gefaehrder/401088804"
+      "id" : "kdmhz815",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/4/4/5893956/47F714ED-AAE7-4D8F-872E-6F547B54AB7E_v0_l.jpg",
+      "titleSource" : "Österreicher wegen Ausbreitung des Coronavirus \"besorgt\"",
+      "titleTarget" : "Avusturyalılar koronavirüsün yayılmasından \"endişe duyuyor\"",
+      "url" : "https://www.diepresse.com/5893956/Umfrage_Oesterreicher-wegen-Ausbreitung-des-Coronavirus-besorgt?from=rss"
+    }, {
+      "id" : "VoLM9bgo",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/3/7/5893943/5AC5A374-0650-4C25-9802-9BF87C38C999_v0_l.jpg",
+      "titleSource" : "Anschlag in Wien: FPÖ erstattet Anzeige wegen Amtsmissbrauchs",
+      "titleTarget" : "Viyana'da saldırı: FPÖ görevi kötüye kullanma suçlamasında bulundu",
+      "url" : "https://www.diepresse.com/5893943/Vorwuerfe_Anschlag-in-Wien_FPOe-erstattet-Anzeige-wegen?from=rss"
     }, {
       "id" : "iZeTulyL",
       "titleSource" : "Petschnig mit 52 Prozent neuer FPÖ-Parteiobmann im Burgenland",
       "titleTarget" : "Petschnig, Burgenland'da yüzde 52 yeni FPÖ parti başkanı ile",
       "url" : "https://www.diepresse.com/5893882/Parteitag_Petschnig-mit-52-Prozent-neuer-FPOeParteiobmann-im?from=rss"
-    }, {
-      "id" : "o1oSkBvS",
-      "imgUrl" : "https://image.kurier.at/images/original/4743507/46-168606192.jpg",
-      "titleSource" : "Nur noch bei jedem Vierten ist Infektionsquelle bekannt",
-      "titleTarget" : "Enfeksiyonun kaynağı yalnızca dörtte biri için bilinir",
-      "url" : "https://kurier.at/politik/inland/nur-noch-bei-jedem-vierten-ist-infektionsquelle-bekannt/401088843"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "fbV7pprm",
-      "imgUrl" : "https://image.kurier.at/images/original/4334198/78370011354774248_BLD_Online.jpg",
-      "titleSource" : "Corona-Hilfe: Umsatzersatz im Lockdown ist ab heute zu beantragen",
-      "titleTarget" : "Corona yardımı: Bugünden itibaren kilitli satış değişikliği için başvurabilirsiniz",
-      "url" : "https://kurier.at/wirtschaft/live-schnuert-regieurng-ein-neues-corona-hilfspaket/401088822"
-    }, {
       "id" : "MyrCysJp",
       "imgUrl" : "https://image.kurier.at/images/original/3063714/78370011345472818_BLD_Online.jpg",
       "titleSource" : "Massive Einkommensverluste schon vor zweitem Lockdown",
       "titleTarget" : "İkinci kilitlenmeden önce bile büyük gelir kaybı",
       "url" : "https://kurier.at/wirtschaft/massive-einkommensverluste-schon-vor-zweitem-lockdown/401089089"
+    }, {
+      "id" : "zPE6JGag",
+      "imgUrl" : "https://image.kurier.at/images/original/4745004/46-166492704.jpg",
+      "titleSource" : "Mahrer: Auch Firmen helfen, die an Gastronomie und Hotellerie dranhängen",
+      "titleTarget" : "Mahrer: Yemek ve otelcilik sektörüyle ilgilenen şirketler de yardımcı oluyor",
+      "url" : "https://kurier.at/wirtschaft/harald-mahrer-auch-eine-frage-der-fairness/401089692"
+    }, {
+      "id" : "yaP6Y9nO",
+      "imgUrl" : "https://image.kurier.at/images/original/4741578/46-168661288.jpg",
+      "titleSource" : "Eine (ent)spannende Geschichte",
+      "titleTarget" : "(Rahatlatıcı) heyecan verici bir hikaye",
+      "url" : "https://kurier.at/wirtschaft/karriere/eine-entspannende-geschichte/401088132"
+    }, {
+      "id" : "mFjDQF9Q",
+      "imgUrl" : "https://image.kurier.at/images/original/4742256/46-168629918.jpg",
+      "titleSource" : "Neue Designs  in der Arztpraxis",
+      "titleTarget" : "Muayenehanede yeni tasarımlar",
+      "url" : "https://kurier.at/wirtschaft/immobiz/neue-designs-in-der-arztpraxis/401088195"
+    }, {
+      "id" : "1ceDKW4W",
+      "imgUrl" : "https://image.kurier.at/images/original/4742238/46-168630684.jpg",
+      "titleSource" : "Überlebenskampf der Gastro: Wenn der Koch aufs Fahrrad steigt",
+      "titleTarget" : "Gastronun hayatta kalma mücadelesi: Şef bisikletine bindiğinde",
+      "url" : "https://kurier.at/wirtschaft/karriere/ueberlebenskampf-der-gastro-wenn-der-koch-aufs-fahrrad-steigt/401088174"
     }, {
       "id" : "0rL23pWG",
       "imgUrl" : "https://image.kurier.at/images/original/4221029/20200326-ABD0060-1-1.jpg",
@@ -69,24 +87,6 @@
       "titleSource" : "Corona-Gewinner: Semperit erhöht erneut Prognose für 2020",
       "titleTarget" : "Corona galibi: Semperit 2020 tahminini tekrar artırdı",
       "url" : "https://kurier.at/wirtschaft/corona-gewinner-semperit-erhoeht-erneut-prognose-fuer-2020/401089161"
-    }, {
-      "id" : "hGbIrO69",
-      "imgUrl" : "https://image.kurier.at/images/original/4611836/78350011456252146_BLD_Online.jpg",
-      "titleSource" : "Drastischer Schritt: Papst ordnet Vatikan-Finanzen neu",
-      "titleTarget" : "Sert adım: Papa, Vatikan maliyesini yeniden düzenledi",
-      "url" : "https://kurier.at/wirtschaft/drastischer-schritt-papst-ordnet-vatikan-finanzen-neu/401089005"
-    }, {
-      "id" : "QuCy0Bzd",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/e/c/8/5893832/F161DB94-ABAA-44A2-AB7B-31BD2B47B398_v0_l.jpg",
-      "titleSource" : "Verfügbares Einkommen sinkt",
-      "titleTarget" : "Harcanabilir gelir azalır",
-      "url" : "https://www.diepresse.com/5893832/Umfrage_Verfuegbares-Einkommen-sinkt?from=rss"
-    }, {
-      "id" : "8eIe5deZ",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/d/2/7/5893415/lockdown2_1604654875394875.jpg",
-      "titleSource" : "In der ersten Stunde bereits 1200 Anträge auf Umsatzersatz für Betriebe",
-      "titleTarget" : "İlk saatte, şirketler için ciro değişimi için zaten 1200 başvuru",
-      "url" : "https://www.diepresse.com/5893415/Lockdown_In-der-ersten-Stunde-bereits-1200-Antraege-auf?from=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -96,30 +96,6 @@
       "titleSource" : "FPÖ fordert Schließung steirischer Moscheen",
       "titleTarget" : "FPÖ, Steiermark camilerinin kapatılması çağrısında bulundu",
       "url" : "https://steiermark.orf.at/stories/3074803/"
-    }, {
-      "id" : "KejZZcU4",
-      "imgUrl" : "https://image.kurier.at/images/original/4742370/46-168550064.jpg",
-      "titleSource" : "Coronavirus: 250 Todesfälle in nur einer Woche",
-      "titleTarget" : "Coronavirus: Sadece bir haftada 250 ölüm",
-      "url" : "https://kurier.at/chronik/oesterreich/coronavirus-6464-neuinfektionen-am-freitag/401089020"
-    }, {
-      "id" : "iAtxkyrX",
-      "imgUrl" : "https://image.kurier.at/images/original/4705689/78350011457032546_BLD_Online.jpg",
-      "titleSource" : "Verbotene Ausfahrt nach 20 Uhr: Vier Jugendliche gestoppt",
-      "titleTarget" : "Saat 20: 00'den sonra çıkış yasaklandı: dört genç durdu",
-      "url" : "https://kurier.at/chronik/oesterreich/verbotene-ausfahrt-nach-20-uhr-vier-jugendliche-gestoppt/401088903"
-    }, {
-      "id" : "adn7d8bN",
-      "imgUrl" : "https://image.kurier.at/images/original/4744422/46-168389523.jpg",
-      "titleSource" : "250 Todesfälle in nur einer Woche; Skepsis gegenüber zweitem Lockdown",
-      "titleTarget" : "Sadece bir haftada 250 ölüm; İkinci tecrit hakkında şüphecilik",
-      "url" : "https://kurier.at/chronik/oesterreich/ampel-ganz-oesterreich-rot-vorarlberg-baut-notversorgung-aus/401088717"
-    }, {
-      "id" : "2ncDCgIJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4743441/46-168443972.jpg",
-      "titleSource" : "Bundesheer: Grundwehrdienst kann künftig verlängert werden",
-      "titleTarget" : "Silahlı Kuvvetler: Temel askerlik hizmeti gelecekte uzatılabilir",
-      "url" : "https://kurier.at/chronik/oesterreich/bundesheer-grundwehrdienst-kann-kuenftig-verlaengert-werden/401088768"
     }, {
       "id" : "8KMrM2pc",
       "imgUrl" : "https://image.kurier.at/images/original/4745052/46-168464239.jpg",
@@ -132,6 +108,30 @@
       "titleSource" : "Am Samstag startet „Konzert frei Haus“",
       "titleTarget" : "\"Bedava konser\" Cumartesi günü başlıyor",
       "url" : "https://kaernten.orf.at/stories/3074815/"
+    }, {
+      "id" : "U07mce1R",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/13/60/crops/w=1280/514576_opener_173660_adobestock_294837291.jpeg?s=fa0172186707d22a9c63523d2d20e1fcabba322d",
+      "titleSource" : "Alle Intensivbetten in Hohenems belegt",
+      "titleTarget" : "Hohenems'teki tüm yoğun bakım yatakları dolu",
+      "url" : "https://vorarlberg.orf.at/stories/3074850/"
+    }, {
+      "id" : "oIeeprHR",
+      "imgUrl" : "https://image.kurier.at/images/original/4744260/46-168708114.jpg",
+      "titleSource" : "Diese Route nahm der Attentäter von Wien",
+      "titleTarget" : "Suikastçı bu rotayı Viyana'dan aldı",
+      "url" : "https://kurier.at/chronik/oesterreich/diese-route-nahm-der-attentaeter-von-wien/401089338"
+    }, {
+      "id" : "UywguyjV",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/45/03/crops/w=1280/744616_opener_258403_img_8035.jpg?s=1e4f652a272bb0304b129ac7deffa3add003e61a",
+      "titleSource" : "Heuer gibt es das Martinigansl „to go“",
+      "titleTarget" : "Bu yıl Martinigansl \"gidilecek\" var.",
+      "url" : "https://noe.orf.at/stories/3074824/"
+    }, {
+      "id" : "i500BNBu",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/45/53/crops/w=1280/744441_opener_258353_pet2-ok.jpg?s=1dadada75eb8918227c3be82d7effc473dfcf225",
+      "titleSource" : "Petschnig neuer FPÖ-Landesparteiobmann",
+      "titleTarget" : "Petschnig yeni FPÖ devlet partisi lideri",
+      "url" : "https://burgenland.orf.at/stories/3074786/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -148,17 +148,23 @@
       "titleTarget" : "Sömürge mallarının iadesi: Fransa somut adımlar atıyor",
       "url" : "https://kurier.at/kultur/restitution-von-kolonialguetern-frankreich-setzt-konkrete-schritte/401089206"
     }, {
-      "id" : "dGd4zjGM",
-      "imgUrl" : "https://image.kurier.at/images/original/4720908/46-168388640.jpg",
-      "titleSource" : "Von Wien Modern bis Staatsoper: Wo man Kultur jetzt streamen kann",
-      "titleTarget" : "Wien Modern'den Devlet Operasına: kültürü şimdi izleyebileceğiniz yer",
-      "url" : "https://kurier.at/kultur/von-wien-modern-bis-staatsoper-wo-man-kultur-jetzt-streamen-kann/401088510"
+      "id" : "jb9ciKhB",
+      "imgUrl" : "https://image.kurier.at/images/original/4744143/46-149882403.jpg",
+      "titleSource" : "Karl Ove Knausgård reist an jene Orte, wo die Erinnerungen sind",
+      "titleTarget" : "Karl Ove Knausgård, anıların olduğu yerlere seyahat ediyor",
+      "url" : "https://kurier.at/kultur/buch/karl-ove-knausgard-reist-an-jene-orte-wo-die-erinnerungen-sind/401089236"
     }, {
-      "id" : "RboG2SkA",
-      "imgUrl" : "https://image.kurier.at/images/original/4743639/46-168701269.jpg",
-      "titleSource" : "Das sind die neuen Hilfeleistungen für die Kulturbranche",
-      "titleTarget" : "Bunlar kültür endüstrisi için yeni yardımlar",
-      "url" : "https://kurier.at/kultur/das-sind-die-neuen-hilfeleistungen-fuer-die-kulturbranche/401088846"
+      "id" : "2hSTe2HX",
+      "imgUrl" : "https://image.kurier.at/images/original/4744137/46-167283326.jpg",
+      "titleSource" : "Buchkritik: Tom Barbash und \"Mein Vater, John Lennon und das beste Jahr unseres Lebens\"",
+      "titleTarget" : "Kitap incelemesi: Tom Barbash ve \"Babam, John Lennon ve hayatımızın en iyi yılı\"",
+      "url" : "https://kurier.at/kultur/buch/buchkritik-tom-barbash-und-mein-vater-john-lennon-und-das-beste-jahr-unseres-lebens/401089230"
+    }, {
+      "id" : "sa7OhjWp",
+      "imgUrl" : "https://image.kurier.at/images/original/4744134/46-167283820.jpg",
+      "titleSource" : "Wo Bob Dylan auf sein Gäste pfiff: \"Big Sur\" von Jens Rosteck",
+      "titleTarget" : "Bob Dylan'ın misafirleri için ıslık çaldığı yer: Jens Rosteck'ten \"Big Sur\"",
+      "url" : "https://kurier.at/kultur/buch/wo-bob-dylan-auf-sein-gaeste-pfiff-big-sur-von-jens-rosteck/401089233"
     }, {
       "id" : "RMYkP9zi",
       "imgUrl" : "https://image.kurier.at/images/original/4744365/46-168334002.jpg",
@@ -171,12 +177,6 @@
       "titleSource" : "Grazer Schauspielhaus-Chefin übernimmt 2023 Deutsches Theater Berlin",
       "titleTarget" : "Grazer Schauspielhaus patronu 2023'te Deutsches Theater Berlin'i devralacak",
       "url" : "https://kurier.at/kultur/grazer-schauspielhaus-chefin-uebernimmt-2023-deutsches-theater-berlin/401089263"
-    }, {
-      "id" : "pRqAPUvx",
-      "imgUrl" : "https://image.kurier.at/images/original/4743444/46-167920087.jpg",
-      "titleSource" : "Crowdfunding-Kampagne will Bond-Film \"retten\"",
-      "titleTarget" : "Kitle fonlaması kampanyası Bond filmini \"kurtarmak\" istiyor",
-      "url" : "https://kurier.at/kultur/crowdfunding-kampagne-will-bond-film-retten/401088783"
     } ]
   }, {
     "category" : "HEALTH",
@@ -184,11 +184,16 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "oBvU9xAH",
-      "imgUrl" : "https://image.kurier.at/images/original/4743276/46-168693900.jpg",
-      "titleSource" : "Das Tor-Quartett von Rapid: Rettung durch den Eigenbau beim 4:3",
-      "titleTarget" : "Rapid'den hedef dörtlüsü: 4: 3'te kendi kendini inşa ederek kurtarma",
-      "url" : "https://kurier.at/sport/fussball/das-tor-quartett-von-rapid-rettung-durch-den-eigenbau-beim-43-gegen-dundalk/401088669"
+      "id" : "bfY9ISjy",
+      "titleSource" : "LASK mischt weiterhin vorne mit",
+      "titleTarget" : "LASK ön planda olmaya devam ediyor",
+      "url" : "https://sport.orf.at/stories/3069017/"
+    }, {
+      "id" : "NYelj9N5",
+      "imgUrl" : "https://image.kurier.at/images/original/4713012/46-167399374.jpg",
+      "titleSource" : "Pucher sei Dank: Wie sich der Aufstieg der Rapid-Talente auszahlt",
+      "titleTarget" : "Pucher'a teşekkürler: Hızlı Yeteneklerin yükselişi nasıl sonuç veriyor?",
+      "url" : "https://kurier.at/sport/fussball/martin-pucher-sei-dank-wie-sich-der-aufstieg-der-talente-von-rapid-ii-auszahlt/401088369"
     }, {
       "id" : "5mXgZ05z",
       "imgUrl" : "https://image.kurier.at/images/original/4744194/46-164573372.jpg",
@@ -196,10 +201,10 @@
       "titleTarget" : "Corona krizi: Hükümete çözüm bulunan Sport Austria",
       "url" : "https://kurier.at/sport/corona-krise-sport-austria-mit-resolution-an-die-regierung/401089287"
     }, {
-      "id" : "bfY9ISjy",
-      "titleSource" : "LASK mischt weiterhin vorne mit",
-      "titleTarget" : "LASK ön planda olmaya devam ediyor",
-      "url" : "https://sport.orf.at/stories/3069017/"
+      "id" : "37tjf95Y",
+      "titleSource" : "Hasenhüttl führt „Saints“ an die Spitze",
+      "titleTarget" : "Hasenhüttl \"Azizler\" i zirveye çıkarıyor",
+      "url" : "https://sport.orf.at/stories/3069062/"
     }, {
       "id" : "1M5goP8z",
       "titleSource" : "CoV-Fälle: WAC gegen Sturm verschoben",
@@ -212,17 +217,10 @@
       "titleTarget" : "Avrupa Kupası dörtlüsü, UEFA'nın beş yıllık sıralamasında onuncu sırayı aldı",
       "url" : "https://kurier.at/sport/fussball/europacup-quartett-salzburg-rapid-lask-und-wac-sichert-platz-zehn-in-uefa-fuenfjahreswertung/401089386"
     }, {
-      "id" : "NYelj9N5",
-      "imgUrl" : "https://image.kurier.at/images/original/4713012/46-167399374.jpg",
-      "titleSource" : "Pucher sei Dank: Wie sich der Aufstieg der Rapid-Talente auszahlt",
-      "titleTarget" : "Pucher'a teşekkürler: Hızlı Yeteneklerin yükselişi nasıl sonuç veriyor?",
-      "url" : "https://kurier.at/sport/fussball/martin-pucher-sei-dank-wie-sich-der-aufstieg-der-talente-von-rapid-ii-auszahlt/401088369"
-    }, {
-      "id" : "x3tX4xHR",
-      "imgUrl" : "https://image.kurier.at/images/original/4744875/46-150902695.jpg",
-      "titleSource" : "Corona-Lockdown und Terror: Drei ÖFB-Teamspiele in Krisenzeiten",
-      "titleTarget" : "Corona kilitlenmesi ve terör: Kriz zamanlarında üç ÖFB takım oyunu",
-      "url" : "https://kurier.at/sport/fussball/corona-lockdown-und-terror-drei-oefb-teamspiele-in-krisenzeiten/401089599"
+      "id" : "IbjehCqu",
+      "titleSource" : "Ist das das kürzeste Fußball-Spiel aller Zeiten?",
+      "titleTarget" : "Bu şimdiye kadarki en kısa futbol oyunu mu?",
+      "url" : "https://kurier.at/sport/fussball/kurioses-aus-serbien-schlusspfiff-nach-neun-sekunden/401088906"
     } ]
   } ],
   "country" : "austria",
