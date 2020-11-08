@@ -2,17 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "4nepPxCT",
-      "imgUrl" : "https://image.kurier.at/images/original/4745463/46-166092957.jpg",
-      "titleSource" : "Terror in Wien: SPÖ fordert Änderung des Staatsbürgerschaftsrechts",
-      "titleTarget" : "Viyana'da terör: SPÖ vatandaşlık hukukunda değişiklik çağrısı yapıyor",
-      "url" : "https://kurier.at/politik/inland/terror-in-wien-spoe-fordert-aenderung-des-staatsbuergerschaftsrechts/401089851"
-    }, {
       "id" : "FNhRNCfF",
       "imgUrl" : "https://image.kurier.at/images/original/4745958/46-168629113.jpg",
       "titleSource" : "Van der Bellen hat sich bei Sturz verletzt",
       "titleTarget" : "Van der Bellen düşerek yaralandı",
       "url" : "https://kurier.at/politik/inland/van-der-bellen-hat-sich-bei-sturz-verletzt/401090274"
+    }, {
+      "id" : "4nepPxCT",
+      "imgUrl" : "https://image.kurier.at/images/original/4745463/46-166092957.jpg",
+      "titleSource" : "Terror in Wien: SPÖ fordert Änderung des Staatsbürgerschaftsrechts",
+      "titleTarget" : "Viyana'da terör: SPÖ vatandaşlık hukukunda değişiklik çağrısı yapıyor",
+      "url" : "https://kurier.at/politik/inland/terror-in-wien-spoe-fordert-aenderung-des-staatsbuergerschaftsrechts/401089851"
     }, {
       "id" : "4jEWtZgo",
       "imgUrl" : "https://image.kurier.at/images/original/4745445/46-168589021.jpg",
@@ -26,14 +26,8 @@
       "titleTarget" : "Anchober: \"vazgeçilebilir\" i suçla",
       "url" : "https://kurier.at/politik/inland/anschober-schuldzuweisungen-entbehrlich/401090088"
     }, {
-      "id" : "Qhl55elg",
-      "imgUrl" : "https://image.kurier.at/images/original/3558418/78350011449030896_BLD_Online.jpg",
-      "titleSource" : "Expertenhearing zum Verbot von homosexuellen Blutspendern",
-      "titleTarget" : "Eşcinsel kan bağışçılarının yasağına ilişkin uzman duruşması",
-      "url" : "https://kurier.at/politik/inland/expertenhearing-zum-verbot-von-homosexuellen-blutspendern/401089803"
-    }, {
       "id" : "iyKkZM79",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/e/8/5894120/B9BE278F-8186-4A97-9472-7DF0FC7EDEF1_v0_h.jpg",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/e/8/5894120/50D5268D-76AE-47BA-9CE9-3967A126CCA0_v0_h.jpg",
       "titleSource" : "Van der Bellen nach Sturz im Krankenhaus",
       "titleTarget" : "Van der Bellen hastanede düştükten sonra",
       "url" : "https://www.diepresse.com/5894120/Verletzung_Van-der-Bellen-nach-Sturz-im-Krankenhaus?from=rss"
@@ -43,6 +37,11 @@
       "titleSource" : "\"Kritische\" Situation in Spitälern, Anschober deutet mögliche Verschärfungen an",
       "titleTarget" : "Hastanelerde \"kritik\" durum, Anschober olası sıkılaşmaya işaret ediyor",
       "url" : "https://www.diepresse.com/5894000/Epidemie_Kritische-Situation-in-Spitaelern-Anschober-deutet?from=rss"
+    }, {
+      "id" : "4NNbJ9La",
+      "titleSource" : "Anschober nicht explizit gegen Sicherungshaft",
+      "titleTarget" : "Anchober, önleyici gözaltına açıkça karşı değil",
+      "url" : "https://www.diepresse.com/5894067/Terrorismus_Anschober-nicht-explizit-gegen-Sicherungshaft?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -104,11 +103,17 @@
       "titleTarget" : "Avusturya'da 8.241 yeni enfeksiyon",
       "url" : "https://kurier.at/chronik/oesterreich/8241-neuinfektionen-in-oesterreich/401090076"
     }, {
-      "id" : "U07mce1R",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/11/78/crops/w=1280/745210_opener_169578_coronaeinkauf_06.jpg?s=d4b42f10bb959470981c52060ee06e21dd3d4bbd",
-      "titleSource" : "Alle Intensivbetten in Hohenems belegt",
-      "titleTarget" : "Hohenems'teki tüm yoğun bakım yatakları dolu",
-      "url" : "https://vorarlberg.orf.at/stories/3074850/"
+      "id" : "tHQkm4OJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4746072/46-168709457.jpg",
+      "titleSource" : "Mehr als 8.000 Neuinfektionen: Neue Maßnahmen stehen im Raum",
+      "titleTarget" : "8.000'den fazla yeni enfeksiyon: Yeni önlemler odada",
+      "url" : "https://kurier.at/chronik/oesterreich/mehr-als-8000-neuinfektionen-neue-massnahmen-stehen-im-raum/401090316"
+    }, {
+      "id" : "Sdh89k9L",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/45/75/crops/w=1280/745476_opener_258675_van_der_bellen.jpg?s=13494edef7eae8c0227c351c9de005fa61607ef5",
+      "titleSource" : "Van der Bellen nach Sturz im AKH",
+      "titleTarget" : "AKH'deki düşüşün ardından Van der Bellen",
+      "url" : "https://wien.orf.at/stories/3074941/"
     }, {
       "id" : "3BUgyDko",
       "imgUrl" : "https://image.kurier.at/images/original/4745661/46-168226066.jpg",
@@ -116,23 +121,17 @@
       "titleTarget" : "Coronavirus: Anschober, daha fazla sıkılaşmanın olası olduğunu belirtti",
       "url" : "https://kurier.at/chronik/oesterreich/coronavirus-anschober-deutete-moegliche-weitere-verschaerfungen-an/401090031"
     }, {
-      "id" : "lGpiNtVK",
-      "imgUrl" : "https://image.kurier.at/images/original/4745661/46-168226066.jpg",
-      "titleSource" : "Coronavirus: Anschober deutete weitere Verschärfungen an",
-      "titleTarget" : "Coronavirus: Anschober daha da sıkılaşmaya işaret etti",
-      "url" : "https://kurier.at/chronik/oesterreich/coronavirus-anschober-deutete-weitere-verschaerfungen-an/401090031"
+      "id" : "4LZfob75",
+      "imgUrl" : "https://image.kurier.at/images/original/4745634/46-168008017.jpg",
+      "titleSource" : "Umfrage: 55 Prozent halten Ausgangsbeschränkungen für angemessen",
+      "titleTarget" : "Anket: Yüzde 55'i çıkış kısıtlamalarının uygun olduğunu düşünüyor",
+      "url" : "https://kurier.at/chronik/oesterreich/umfrage-55-prozent-halten-ausgangsbeschraenkungen-fuer-angemessen/401090025"
     }, {
-      "id" : "4lAdJzWz",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/40/04/crops/w=1280/701586_opener_242604_gurgeltest3.jpg?s=cf83ffad6747697c224ed6b47f1cb7512ab37d60",
-      "titleSource" : "Anteil der Kinder bei Infektionen gesunken",
-      "titleTarget" : "Enfeksiyonlu çocukların yüzdesi azaldı",
-      "url" : "https://wien.orf.at/stories/3074887/"
-    }, {
-      "id" : "Sdh89k9L",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/45/75/crops/w=1280/745476_opener_258675_van_der_bellen.jpg?s=13494edef7eae8c0227c351c9de005fa61607ef5",
-      "titleSource" : "Van der Bellen nach Sturz im AKH",
-      "titleTarget" : "AKH'deki düşüşün ardından Van der Bellen",
-      "url" : "https://wien.orf.at/stories/3074941/"
+      "id" : "25dZub2R",
+      "imgUrl" : "https://image.kurier.at/images/original/4745769/46-168689048.jpg",
+      "titleSource" : "Anschlag in Wien: Attentäter war \"nie emotional oder aufbrausend\"",
+      "titleTarget" : "Viyana'da saldırı: suikastçı \"asla duygusal veya çabuk sinirlenmemiş\"",
+      "url" : "https://kurier.at/chronik/oesterreich/anschlag-in-wien-attentaeter-war-nie-emotional-oder-aufbrausend/401090118"
     } ]
   }, {
     "category" : "CULTURE",
@@ -184,32 +183,32 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "bfY9ISjy",
-      "titleSource" : "LASK mischt weiterhin vorne mit",
-      "titleTarget" : "LASK ön planda olmaya devam ediyor",
-      "url" : "https://sport.orf.at/stories/3069017/"
-    }, {
-      "id" : "37tjf95Y",
-      "titleSource" : "Hasenhüttl führt „Saints“ an die Spitze",
-      "titleTarget" : "Hasenhüttl \"Azizler\" i zirveye çıkarıyor",
-      "url" : "https://sport.orf.at/stories/3069062/"
-    }, {
       "id" : "Z6qlZhr2",
       "titleSource" : "Suljovic/Rodriguez im WM-Viertelfinale",
       "titleTarget" : "Suljovic / Rodriguez Dünya Kupası çeyrek finalinde",
       "url" : "https://sport.orf.at/stories/3069071/"
-    }, {
-      "id" : "ZrRGGvOt",
-      "imgUrl" : "https://image.kurier.at/images/original/4745415/46-168720996.jpg",
-      "titleSource" : "\"Stop the Count\": Hasenhüttl an der Spitze der Premier League",
-      "titleTarget" : "\"Count the Count\": Hasenhüttl, Premier Lig'in zirvesinde",
-      "url" : "https://kurier.at/sport/fussball/hasenhuettl-steht-an-der-spitze-der-premier-league/401089824"
     }, {
       "id" : "2P7EdvSg",
       "imgUrl" : "https://image.kurier.at/images/original/4745271/wien-bleibt-stark-hd-jersey-mock-up_1.jpg",
       "titleSource" : "Nach dem Terror: Capitals starten die Aktion \"Wien bleibt stark\"",
       "titleTarget" : "Terörden sonra: Başkentler \"Viyana güçlü kalıyor\" kampanyasını başlatıyor",
       "url" : "https://kurier.at/sport/wintersport/nach-dem-terror-capitals-starten-die-aktion-wien-bleibt-stark/401089653"
+    }, {
+      "id" : "XPUX17xv",
+      "titleSource" : "Bayern schlagen BVB auch dank Alaba",
+      "titleTarget" : "Bayern, Alaba sayesinde BVB'yi yendi",
+      "url" : "https://sport.orf.at/stories/3069086/"
+    }, {
+      "id" : "d2EpgXv9",
+      "imgUrl" : "https://image.kurier.at/images/original/4746237/46-168732268.jpg",
+      "titleSource" : "Rummenigge: Tür für Alaba bei Bayern \"noch einen Spalt auf\"",
+      "titleTarget" : "Rummenigge: Bavyera yakınlarındaki Alaba kapısı \"sadece bir çatlak\"",
+      "url" : "https://kurier.at/sport/fussball/rummenigge-tuer-fuer-alaba-bei-bayern-noch-einen-spalt-auf/401090388"
+    }, {
+      "id" : "GuH43Kuq",
+      "titleSource" : "Ried schießt sich aus Tabellenkeller",
+      "titleTarget" : "Ried masa mahzeninden kendini vuruyor",
+      "url" : "https://sport.orf.at/stories/3069081/"
     }, {
       "id" : "aqyoYCly",
       "imgUrl" : "https://image.kurier.at/images/original/4745814/46-168373459.jpg",
