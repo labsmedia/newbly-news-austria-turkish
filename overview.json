@@ -8,61 +8,50 @@
       "titleTarget" : "Van der Bellen düşerek yaralandı",
       "url" : "https://kurier.at/politik/inland/van-der-bellen-hat-sich-bei-sturz-verletzt/401090274"
     }, {
-      "id" : "4nepPxCT",
-      "imgUrl" : "https://image.kurier.at/images/original/4745463/46-166092957.jpg",
-      "titleSource" : "Terror in Wien: SPÖ fordert Änderung des Staatsbürgerschaftsrechts",
-      "titleTarget" : "Viyana'da terör: SPÖ vatandaşlık hukukunda değişiklik çağrısı yapıyor",
-      "url" : "https://kurier.at/politik/inland/terror-in-wien-spoe-fordert-aenderung-des-staatsbuergerschaftsrechts/401089851"
-    }, {
-      "id" : "4jEWtZgo",
-      "imgUrl" : "https://image.kurier.at/images/original/4745445/46-168589021.jpg",
-      "titleSource" : "Aschbacher will Arbeitslose als \"Contract Tracer\" vermitteln",
-      "titleTarget" : "Aschbacher işsizleri \"sözleşmeli izleyici\" olarak yerleştirmek istiyor",
-      "url" : "https://kurier.at/politik/inland/aschbacher-will-arbeitslose-als-contract-tracer-vermitteln/401089848"
-    }, {
       "id" : "5Pj64Ffs",
       "imgUrl" : "https://image.kurier.at/images/original/4745733/46-168605877.jpg",
       "titleSource" : "Anschober: Schuldzuweisungen \"entbehrlich\"",
       "titleTarget" : "Anchober: \"vazgeçilebilir\" i suçla",
       "url" : "https://kurier.at/politik/inland/anschober-schuldzuweisungen-entbehrlich/401090088"
     }, {
-      "id" : "iyKkZM79",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/e/8/5894120/50D5268D-76AE-47BA-9CE9-3967A126CCA0_v0_h.jpg",
-      "titleSource" : "Van der Bellen nach Sturz im Krankenhaus",
-      "titleTarget" : "Van der Bellen hastanede düştükten sonra",
-      "url" : "https://www.diepresse.com/5894120/Verletzung_Van-der-Bellen-nach-Sturz-im-Krankenhaus?from=rss"
+      "id" : "zpanJh3l",
+      "imgUrl" : "https://image.kurier.at/images/original/4744230/78350011457369840_BLD_Online.jpg",
+      "titleSource" : "Attentat in Wien: Verfassungsschutz ließ Minister im Dunkeln tappen",
+      "titleTarget" : "Viyana'da saldırı: Anayasanın koruması, bakanların karanlıkta el yordamasına neden oldu",
+      "url" : "https://kurier.at/politik/inland/verfassungsschutz-liess-minister-im-dunkeln-tappen/401090427"
     }, {
-      "id" : "XR1FZtEP",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/7/0/5894000/0DAF8B86-EECC-49D0-A8E8-D265D5E1C0CB_v0_l.jpg",
-      "titleSource" : "\"Kritische\" Situation in Spitälern, Anschober deutet mögliche Verschärfungen an",
-      "titleTarget" : "Hastanelerde \"kritik\" durum, Anschober olası sıkılaşmaya işaret ediyor",
-      "url" : "https://www.diepresse.com/5894000/Epidemie_Kritische-Situation-in-Spitaelern-Anschober-deutet?from=rss"
+      "id" : "yJGOnHJz",
+      "imgUrl" : "https://image.kurier.at/images/original/4746309/46-168707402.jpg",
+      "titleSource" : "Jetzt spricht der WEGA-Chef: „50 Fake-Einsätze in der Terrornacht“",
+      "titleTarget" : "Şimdi WEGA patronu konuşuyor: \"terör gecesinde 50 sahte görev\"",
+      "url" : "https://kurier.at/politik/inland/jetzt-spricht-der-wega-chef-50-fake-einsaetze-in-der-terrornacht/401090418"
     }, {
-      "id" : "4NNbJ9La",
-      "titleSource" : "Anschober nicht explizit gegen Sicherungshaft",
-      "titleTarget" : "Anchober, önleyici gözaltına açıkça karşı değil",
-      "url" : "https://www.diepresse.com/5894067/Terrorismus_Anschober-nicht-explizit-gegen-Sicherungshaft?from=rss"
+      "id" : "RSDOQfnS",
+      "imgUrl" : "https://image.kurier.at/images/original/4746378/46-168218589.jpg",
+      "titleSource" : "Raab zu Moscheen: \"Dort herrscht eine Ideologie, die Hass begünstigt\"",
+      "titleTarget" : "Raab zu Mosche: \"Orada nefretten yana bir ideoloji var\"",
+      "url" : "https://kurier.at/politik/inland/raab-zu-moscheen-dort-herrscht-eine-ideologie-die-hass-beguenstigt/401090433"
+    }, {
+      "id" : "7A5ID1xF",
+      "imgUrl" : "https://image.kurier.at/images/original/4464737/46-165549653.jpg",
+      "titleSource" : "Gerichtsprotokoll des Mörders: Köpfen? „Weiß nicht, ob ich das gemacht hätte“",
+      "titleTarget" : "Katilin mahkeme kaydı: kafalar mı? \"Bunu yapar mıydım bilmiyorum\"",
+      "url" : "https://kurier.at/politik/inland/gerichtsprotokoll-des-moerders-koepfen-weiss-nicht-ob-ich-das-gemacht-haette/401090430"
+    }, {
+      "id" : "T3jR9UWf",
+      "imgUrl" : "https://image.kurier.at/images/original/4637132/corona.jpg",
+      "titleSource" : "Gesundheitsreferenten appellieren, Maßnahmen einzuhalten",
+      "titleTarget" : "Sağlık yetkilileri önlem almaya itiraz ediyor",
+      "url" : "https://kurier.at/politik/inland/gesundheitsreferenten-appellieren-massnahmen-einzuhalten/401090646"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "zPE6JGag",
-      "imgUrl" : "https://image.kurier.at/images/original/4745004/46-166492704.jpg",
-      "titleSource" : "Mahrer: Auch Firmen helfen, die an Gastronomie und Hotellerie dranhängen",
-      "titleTarget" : "Mahrer: Yemek ve otelcilik sektörüyle ilgilenen şirketler de yardımcı oluyor",
-      "url" : "https://kurier.at/wirtschaft/harald-mahrer-auch-eine-frage-der-fairness/401089692"
-    }, {
-      "id" : "yaP6Y9nO",
-      "imgUrl" : "https://image.kurier.at/images/original/4741578/46-168661288.jpg",
-      "titleSource" : "Eine (ent)spannende Geschichte",
-      "titleTarget" : "(Rahatlatıcı) heyecan verici bir hikaye",
-      "url" : "https://kurier.at/wirtschaft/karriere/eine-entspannende-geschichte/401088132"
-    }, {
-      "id" : "mFjDQF9Q",
-      "imgUrl" : "https://image.kurier.at/images/original/4742256/46-168629918.jpg",
-      "titleSource" : "Neue Designs  in der Arztpraxis",
-      "titleTarget" : "Muayenehanede yeni tasarımlar",
-      "url" : "https://kurier.at/wirtschaft/immobiz/neue-designs-in-der-arztpraxis/401088195"
+      "id" : "9x7hcnZQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4742358/46-168605276.jpg",
+      "titleSource" : "Internationaler Hochhaus Preis 2020 verliehen",
+      "titleTarget" : "Uluslararası yüksek katlı fiyat 2020 ödüllendirildi",
+      "url" : "https://kurier.at/wirtschaft/immobiz/internationaler-hochhaus-preis-2020-verliehen/401088234"
     }, {
       "id" : "D4dHmnPl",
       "imgUrl" : "https://image.kurier.at/images/original/4169826/78350011453513474_BLD_Online.jpg",
@@ -70,17 +59,17 @@
       "titleTarget" : "Çin'in bir buçuk yıldan fazla süredir en hızlı büyüyen ihracatı",
       "url" : "https://kurier.at/wirtschaft/chinas-exporte-mit-groesstem-wachstum-seit-mehr-als-eineinhalb-jahren/401090043"
     }, {
+      "id" : "UyF70tjM",
+      "imgUrl" : "https://image.kurier.at/images/original/4742196/46-168662325.jpg",
+      "titleSource" : "84-jährige Unternehmerin: „Ich bleibe, solange ich kann“",
+      "titleTarget" : "84 yaşındaki girişimci: \"Elimden geldiğince kalacağım\"",
+      "url" : "https://kurier.at/wirtschaft/karriere/84-jaehrige-unternehmerin-ich-bleibe-solange-ich-kann/401088153"
+    }, {
       "id" : "5aNOP6CS",
       "imgUrl" : "https://image.kurier.at/images/original/2884851/46-112825601.jpg",
       "titleSource" : "Nemetschek will mit Zukäufen an die Umsatz-Milliarde kommen",
       "titleTarget" : "Nemetschek, satın almalarla satışlarda milyarlarca dolara ulaşmak istiyor",
       "url" : "https://kurier.at/wirtschaft/nemetschek-will-mit-zukaeufen-an-die-umsatz-milliarde-kommen/401090055"
-    }, {
-      "id" : "1ceDKW4W",
-      "imgUrl" : "https://image.kurier.at/images/original/4742238/46-168630684.jpg",
-      "titleSource" : "Überlebenskampf der Gastro: Wenn der Koch aufs Fahrrad steigt",
-      "titleTarget" : "Gastronun hayatta kalma mücadelesi: Şef bisikletine bindiğinde",
-      "url" : "https://kurier.at/wirtschaft/karriere/ueberlebenskampf-der-gastro-wenn-der-koch-aufs-fahrrad-steigt/401088174"
     }, {
       "id" : "6tAG9uDw",
       "imgUrl" : "https://media.diepresse.com/images/uploads/f/7/6/5894006/6D14D694-C957-4BE8-942E-60063511DEDD_v0_l.jpg",
@@ -91,23 +80,11 @@
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "xgrMEkAa",
-      "imgUrl" : "https://image.kurier.at/images/original/4745499/46-168570354.jpg",
-      "titleSource" : "Anschlag in Wien:  FPÖ erstattet Anzeige wegen Amtsmissbrauchs",
-      "titleTarget" : "Viyana'da saldırı: FPÖ görevi kötüye kullanma suçlamasında bulundu",
-      "url" : "https://kurier.at/chronik/oesterreich/anschlag-in-wien-fpoe-erstattet-anzeige-wegen-amtsmissbrauchs/401089884"
-    }, {
       "id" : "AaYDRt0K",
       "imgUrl" : "https://image.kurier.at/images/original/4745739/46-168671249.jpg",
       "titleSource" : "8.241 Neuinfektionen in Österreich",
       "titleTarget" : "Avusturya'da 8.241 yeni enfeksiyon",
       "url" : "https://kurier.at/chronik/oesterreich/8241-neuinfektionen-in-oesterreich/401090076"
-    }, {
-      "id" : "tHQkm4OJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4746072/46-168709457.jpg",
-      "titleSource" : "Mehr als 8.000 Neuinfektionen: Neue Maßnahmen stehen im Raum",
-      "titleTarget" : "8.000'den fazla yeni enfeksiyon: Yeni önlemler odada",
-      "url" : "https://kurier.at/chronik/oesterreich/mehr-als-8000-neuinfektionen-neue-massnahmen-stehen-im-raum/401090316"
     }, {
       "id" : "Sdh89k9L",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/45/75/crops/w=1280/745476_opener_258675_van_der_bellen.jpg?s=13494edef7eae8c0227c351c9de005fa61607ef5",
@@ -115,11 +92,23 @@
       "titleTarget" : "AKH'deki düşüşün ardından Van der Bellen",
       "url" : "https://wien.orf.at/stories/3074941/"
     }, {
+      "id" : "tHQkm4OJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4746072/46-168709457.jpg",
+      "titleSource" : "Mehr als 8.000 Neuinfektionen: Neue Maßnahmen stehen im Raum",
+      "titleTarget" : "8.000'den fazla yeni enfeksiyon: Yeni önlemler odada",
+      "url" : "https://kurier.at/chronik/oesterreich/mehr-als-8000-neuinfektionen-neue-massnahmen-stehen-im-raum/401090316"
+    }, {
       "id" : "3BUgyDko",
       "imgUrl" : "https://image.kurier.at/images/original/4745661/46-168226066.jpg",
       "titleSource" : "Coronavirus: Anschober deutete mögliche weitere Verschärfungen an",
       "titleTarget" : "Coronavirus: Anschober, daha fazla sıkılaşmanın olası olduğunu belirtti",
       "url" : "https://kurier.at/chronik/oesterreich/coronavirus-anschober-deutete-moegliche-weitere-verschaerfungen-an/401090031"
+    }, {
+      "id" : "veBQqdOf",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/45/54/crops/w=1280/745388_opener_258654_albrecht2.jpg?s=490fc192283309c87abf95dff42bd93455356376",
+      "titleSource" : "WEGA-Chef: Wollten Attentäter „stören“",
+      "titleTarget" : "WEGA patronu: saldırganı \"rahatsız etmek\" istedi",
+      "url" : "https://wien.orf.at/stories/3074891/"
     }, {
       "id" : "4LZfob75",
       "imgUrl" : "https://image.kurier.at/images/original/4745634/46-168008017.jpg",
@@ -127,38 +116,20 @@
       "titleTarget" : "Anket: Yüzde 55'i çıkış kısıtlamalarının uygun olduğunu düşünüyor",
       "url" : "https://kurier.at/chronik/oesterreich/umfrage-55-prozent-halten-ausgangsbeschraenkungen-fuer-angemessen/401090025"
     }, {
-      "id" : "25dZub2R",
-      "imgUrl" : "https://image.kurier.at/images/original/4745769/46-168689048.jpg",
-      "titleSource" : "Anschlag in Wien: Attentäter war \"nie emotional oder aufbrausend\"",
-      "titleTarget" : "Viyana'da saldırı: suikastçı \"asla duygusal veya çabuk sinirlenmemiş\"",
-      "url" : "https://kurier.at/chronik/oesterreich/anschlag-in-wien-attentaeter-war-nie-emotional-oder-aufbrausend/401090118"
+      "id" : "tXJyOh3y",
+      "imgUrl" : "https://image.kurier.at/images/original/4701447/46-164493590.jpg",
+      "titleSource" : "Coronavirus - Situation in Wiener Spitälern \"durchaus kritisch\"",
+      "titleTarget" : "Coronavirus - Viyana hastanelerindeki durum \"oldukça kritik\"",
+      "url" : "https://kurier.at/chronik/oesterreich/coronavirus-situation-in-wiener-spitaelern-durchaus-kritisch/401090190"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "jb9ciKhB",
-      "imgUrl" : "https://image.kurier.at/images/original/4744143/46-149882403.jpg",
-      "titleSource" : "Karl Ove Knausgård reist an jene Orte, wo die Erinnerungen sind",
-      "titleTarget" : "Karl Ove Knausgård, anıların olduğu yerlere seyahat ediyor",
-      "url" : "https://kurier.at/kultur/buch/karl-ove-knausgard-reist-an-jene-orte-wo-die-erinnerungen-sind/401089236"
-    }, {
-      "id" : "2hSTe2HX",
-      "imgUrl" : "https://image.kurier.at/images/original/4744137/46-167283326.jpg",
-      "titleSource" : "Buchkritik: Tom Barbash und \"Mein Vater, John Lennon und das beste Jahr unseres Lebens\"",
-      "titleTarget" : "Kitap incelemesi: Tom Barbash ve \"Babam, John Lennon ve hayatımızın en iyi yılı\"",
-      "url" : "https://kurier.at/kultur/buch/buchkritik-tom-barbash-und-mein-vater-john-lennon-und-das-beste-jahr-unseres-lebens/401089230"
-    }, {
-      "id" : "sa7OhjWp",
-      "imgUrl" : "https://image.kurier.at/images/original/4744134/46-167283820.jpg",
-      "titleSource" : "Wo Bob Dylan auf sein Gäste pfiff: \"Big Sur\" von Jens Rosteck",
-      "titleTarget" : "Bob Dylan'ın misafirleri için ıslık çaldığı yer: Jens Rosteck'ten \"Big Sur\"",
-      "url" : "https://kurier.at/kultur/buch/wo-bob-dylan-auf-sein-gaeste-pfiff-big-sur-von-jens-rosteck/401089233"
-    }, {
-      "id" : "XKbDjWuZ",
-      "imgUrl" : "https://image.kurier.at/images/original/4745592/46-168243061.jpg",
-      "titleSource" : "\"Dancing Stars\": Das Aus von Ogris sahen im Schnitt 755.000 Zuschauer",
-      "titleTarget" : "\"Dans Eden Yıldızlar\": Ogris'in sonu ortalama 755.000 izleyici gördü",
-      "url" : "https://kurier.at/kultur/medien/dancing-stars-das-aus-von-ogris-sahen-im-schnitt-755000-zuschauer/401089989"
+      "id" : "AlwUW8Wy",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/b/d/5894077/675C669F-86CB-449D-89F4-89D965F950FF_v0_l.jpg",
+      "titleSource" : "Bridget Jones  schwarz und politisch",
+      "titleTarget" : "Bridget Jones siyah ve politik",
+      "url" : "https://www.diepresse.com/5894077/Literatur_Bridget-Jones-schwarz-und-politisch?from=rss"
     }, {
       "id" : "Qsu9SxKX",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/c/f/5893839/1LAA_103_Unit_00066_R_1604685511126184_v0_l.jpg",
@@ -170,12 +141,6 @@
       "titleSource" : "Der Weltuntergang ist recht fad",
       "titleTarget" : "Dünyanın sonu oldukça mülayim",
       "url" : "https://www.diepresse.com/5894079/Song-der-Woche_Der-Weltuntergang-ist-recht-fad?from=rss"
-    }, {
-      "id" : "Kn68v7qv",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/5/d/5893981/8378875A-E258-43A9-8AAD-DA60BAAD564F_v0_l.jpg",
-      "titleSource" : "Tom Holland als \"Spider-Man\" mit doppelter Maske",
-      "titleTarget" : "Çift maskeli \"Örümcek Adam\" olarak Tom Holland",
-      "url" : "https://www.diepresse.com/5893981/Filmset_Tom-Holland-als-SpiderMan-mit-doppelter-Maske?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -183,21 +148,16 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "Z6qlZhr2",
-      "titleSource" : "Suljovic/Rodriguez im WM-Viertelfinale",
-      "titleTarget" : "Suljovic / Rodriguez Dünya Kupası çeyrek finalinde",
-      "url" : "https://sport.orf.at/stories/3069071/"
+      "id" : "ADXsValA",
+      "imgUrl" : "https://image.kurier.at/images/original/4743186/46-168694322.jpg",
+      "titleSource" : "Srdjan Grahovac: Der umstrittene Spezial-Agent von Rapid",
+      "titleTarget" : "Srdjan Grahovac: Rapid'in tartışmalı özel ajanı",
+      "url" : "https://kurier.at/sport/fussball/srdjan-grahovac-der-umstrittene-spezial-agent-von-rapid-im-einsatz-gegen-salzburg/401090187"
     }, {
-      "id" : "2P7EdvSg",
-      "imgUrl" : "https://image.kurier.at/images/original/4745271/wien-bleibt-stark-hd-jersey-mock-up_1.jpg",
-      "titleSource" : "Nach dem Terror: Capitals starten die Aktion \"Wien bleibt stark\"",
-      "titleTarget" : "Terörden sonra: Başkentler \"Viyana güçlü kalıyor\" kampanyasını başlatıyor",
-      "url" : "https://kurier.at/sport/wintersport/nach-dem-terror-capitals-starten-die-aktion-wien-bleibt-stark/401089653"
-    }, {
-      "id" : "XPUX17xv",
-      "titleSource" : "Bayern schlagen BVB auch dank Alaba",
-      "titleTarget" : "Bayern, Alaba sayesinde BVB'yi yendi",
-      "url" : "https://sport.orf.at/stories/3069086/"
+      "id" : "lI81ZKs0",
+      "titleSource" : "Wels gewinnt OÖ-Derby in BSL gegen Gmunden",
+      "titleTarget" : "Wels, BSL'de Gmunden'e karşı Yukarı Avusturya Derbisini kazandı",
+      "url" : "https://sport.orf.at/stories/3069089/"
     }, {
       "id" : "d2EpgXv9",
       "imgUrl" : "https://image.kurier.at/images/original/4746237/46-168732268.jpg",
@@ -205,21 +165,26 @@
       "titleTarget" : "Rummenigge: Bavyera yakınlarındaki Alaba kapısı \"sadece bir çatlak\"",
       "url" : "https://kurier.at/sport/fussball/rummenigge-tuer-fuer-alaba-bei-bayern-noch-einen-spalt-auf/401090388"
     }, {
-      "id" : "GuH43Kuq",
-      "titleSource" : "Ried schießt sich aus Tabellenkeller",
-      "titleTarget" : "Ried masa mahzeninden kendini vuruyor",
-      "url" : "https://sport.orf.at/stories/3069081/"
-    }, {
       "id" : "aqyoYCly",
       "imgUrl" : "https://image.kurier.at/images/original/4745814/46-168373459.jpg",
       "titleSource" : "Verdacht bestätigt: Kreuzbandriss bei LASK-Stürmer Raguz",
       "titleTarget" : "Şüphe doğrulandı: LASK forvet Raguz'da çapraz bağın kopması",
       "url" : "https://kurier.at/sport/fussball/fussball-verdacht-bestaetigt-kreuzbandriss-bei-lask-stuermer-raguz/401090163"
     }, {
-      "id" : "i3S3E1d9",
-      "titleSource" : "Dortmund und Bayern im Duell um Platz eins",
-      "titleTarget" : "Dortmund ve Bavyera birincilik için düelloda",
-      "url" : "https://sport.orf.at/stories/3069032/"
+      "id" : "XPUX17xv",
+      "titleSource" : "Bayern schlagen BVB auch dank Alaba",
+      "titleTarget" : "Bayern, Alaba sayesinde BVB'yi yendi",
+      "url" : "https://sport.orf.at/stories/3069086/"
+    }, {
+      "id" : "GuH43Kuq",
+      "titleSource" : "Ried schießt sich aus Tabellenkeller",
+      "titleTarget" : "Ried masa mahzeninden kendini vuruyor",
+      "url" : "https://sport.orf.at/stories/3069081/"
+    }, {
+      "id" : "LGLFi3ew",
+      "titleSource" : "ManCity gegen Liverpool unter Druck",
+      "titleTarget" : "ManCity Liverpool'a karşı baskı altında",
+      "url" : "https://sport.orf.at/stories/3069041/"
     } ]
   } ],
   "country" : "austria",
