@@ -2,145 +2,144 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "FNhRNCfF",
-      "imgUrl" : "https://image.kurier.at/images/original/4745958/46-168629113.jpg",
-      "titleSource" : "Van der Bellen hat sich bei Sturz verletzt",
-      "titleTarget" : "Van der Bellen düşerek yaralandı",
-      "url" : "https://kurier.at/politik/inland/van-der-bellen-hat-sich-bei-sturz-verletzt/401090274"
-    }, {
-      "id" : "5Pj64Ffs",
-      "imgUrl" : "https://image.kurier.at/images/original/4745733/46-168605877.jpg",
-      "titleSource" : "Anschober: Schuldzuweisungen \"entbehrlich\"",
-      "titleTarget" : "Anchober: \"vazgeçilebilir\" i suçla",
-      "url" : "https://kurier.at/politik/inland/anschober-schuldzuweisungen-entbehrlich/401090088"
-    }, {
       "id" : "zpanJh3l",
       "imgUrl" : "https://image.kurier.at/images/original/4744230/78350011457369840_BLD_Online.jpg",
       "titleSource" : "Attentat in Wien: Verfassungsschutz ließ Minister im Dunkeln tappen",
       "titleTarget" : "Viyana'da saldırı: Anayasanın koruması, bakanların karanlıkta el yordamasına neden oldu",
       "url" : "https://kurier.at/politik/inland/verfassungsschutz-liess-minister-im-dunkeln-tappen/401090427"
     }, {
-      "id" : "yJGOnHJz",
-      "imgUrl" : "https://image.kurier.at/images/original/4746309/46-168707402.jpg",
-      "titleSource" : "Jetzt spricht der WEGA-Chef: „50 Fake-Einsätze in der Terrornacht“",
-      "titleTarget" : "Şimdi WEGA patronu konuşuyor: \"terör gecesinde 50 sahte görev\"",
-      "url" : "https://kurier.at/politik/inland/jetzt-spricht-der-wega-chef-50-fake-einsaetze-in-der-terrornacht/401090418"
-    }, {
-      "id" : "RSDOQfnS",
-      "imgUrl" : "https://image.kurier.at/images/original/4746378/46-168218589.jpg",
-      "titleSource" : "Raab zu Moscheen: \"Dort herrscht eine Ideologie, die Hass begünstigt\"",
-      "titleTarget" : "Raab zu Mosche: \"Orada nefretten yana bir ideoloji var\"",
-      "url" : "https://kurier.at/politik/inland/raab-zu-moscheen-dort-herrscht-eine-ideologie-die-hass-beguenstigt/401090433"
-    }, {
-      "id" : "7A5ID1xF",
-      "imgUrl" : "https://image.kurier.at/images/original/4464737/46-165549653.jpg",
-      "titleSource" : "Gerichtsprotokoll des Mörders: Köpfen? „Weiß nicht, ob ich das gemacht hätte“",
-      "titleTarget" : "Katilin mahkeme kaydı: kafalar mı? \"Bunu yapar mıydım bilmiyorum\"",
-      "url" : "https://kurier.at/politik/inland/gerichtsprotokoll-des-moerders-koepfen-weiss-nicht-ob-ich-das-gemacht-haette/401090430"
+      "id" : "CB2xkmBg",
+      "imgUrl" : "https://image.kurier.at/images/original/4743714/20201106-ABD0011-1-1.jpg",
+      "titleSource" : "Anschober droht mit Verschärfung des Teil-Lockdowns",
+      "titleTarget" : "Anschober, kısmi kilidi sıkılaştırmakla tehdit ediyor",
+      "url" : "https://kurier.at/politik/inland/anschober-droht-mit-verschaerfung-des-teil-lockdowns/401090832"
     }, {
       "id" : "T3jR9UWf",
       "imgUrl" : "https://image.kurier.at/images/original/4637132/corona.jpg",
       "titleSource" : "Gesundheitsreferenten appellieren, Maßnahmen einzuhalten",
       "titleTarget" : "Sağlık yetkilileri önlem almaya itiraz ediyor",
       "url" : "https://kurier.at/politik/inland/gesundheitsreferenten-appellieren-massnahmen-einzuhalten/401090646"
+    }, {
+      "id" : "8ZaAQlYr",
+      "imgUrl" : "https://image.kurier.at/images/original/4189145/20200311-ABD0097-1-1.jpg",
+      "titleSource" : "Schul-Lockdown: Schäden für alle sind größer als befürchtet",
+      "titleTarget" : "Okul kilitlenmesi: Herkese verilen zarar korkulandan daha büyüktür",
+      "url" : "https://kurier.at/politik/inland/schul-lockdown-schaeden-fuer-alle-sind-groesser-als-befuerchtet/401090940"
+    }, {
+      "id" : "BiF6gVw6",
+      "titleSource" : "Volksanwalt ortet Lücke bei Corona-Zuschuss für Arbeitslose",
+      "titleTarget" : "Ombudsman, işsizler için korona hibesindeki boşluğu tespit etti",
+      "url" : "https://www.diepresse.com/5894368/CoronaHilfen_Volksanwalt-ortet-Luecke-bei-CoronaZuschuss-fuer?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "9x7hcnZQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4742358/46-168605276.jpg",
-      "titleSource" : "Internationaler Hochhaus Preis 2020 verliehen",
-      "titleTarget" : "Uluslararası yüksek katlı fiyat 2020 ödüllendirildi",
-      "url" : "https://kurier.at/wirtschaft/immobiz/internationaler-hochhaus-preis-2020-verliehen/401088234"
-    }, {
-      "id" : "D4dHmnPl",
-      "imgUrl" : "https://image.kurier.at/images/original/4169826/78350011453513474_BLD_Online.jpg",
-      "titleSource" : "Chinas Exporte mit größtem Wachstum seit mehr als eineinhalb Jahren",
-      "titleTarget" : "Çin'in bir buçuk yıldan fazla süredir en hızlı büyüyen ihracatı",
-      "url" : "https://kurier.at/wirtschaft/chinas-exporte-mit-groesstem-wachstum-seit-mehr-als-eineinhalb-jahren/401090043"
-    }, {
       "id" : "UyF70tjM",
       "imgUrl" : "https://image.kurier.at/images/original/4742196/46-168662325.jpg",
       "titleSource" : "84-jährige Unternehmerin: „Ich bleibe, solange ich kann“",
       "titleTarget" : "84 yaşındaki girişimci: \"Elimden geldiğince kalacağım\"",
       "url" : "https://kurier.at/wirtschaft/karriere/84-jaehrige-unternehmerin-ich-bleibe-solange-ich-kann/401088153"
     }, {
-      "id" : "5aNOP6CS",
-      "imgUrl" : "https://image.kurier.at/images/original/2884851/46-112825601.jpg",
-      "titleSource" : "Nemetschek will mit Zukäufen an die Umsatz-Milliarde kommen",
-      "titleTarget" : "Nemetschek, satın almalarla satışlarda milyarlarca dolara ulaşmak istiyor",
-      "url" : "https://kurier.at/wirtschaft/nemetschek-will-mit-zukaeufen-an-die-umsatz-milliarde-kommen/401090055"
+      "id" : "ecsJ4Q9R",
+      "imgUrl" : "https://image.kurier.at/images/original/4171113/78350011453518876_BLD_Online.jpg",
+      "titleSource" : "Aida Cruises: Preiserhöhungen zwischen 10 und 15 Prozent möglich",
+      "titleTarget" : "Aida Cruises: Mümkün olan yüzde 10 ile 15 arasında fiyat artışı",
+      "url" : "https://kurier.at/wirtschaft/aida-cruises-preiserhoehungen-zwischen-10-und-15-prozent-moeglich/401090661"
     }, {
-      "id" : "6tAG9uDw",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/f/7/6/5894006/6D14D694-C957-4BE8-942E-60063511DEDD_v0_l.jpg",
-      "titleSource" : "Abschied vom Berliner Flughafen Tegel",
-      "titleTarget" : "Berlin Tegel Havalimanı'na veda",
-      "url" : "https://www.diepresse.com/5894006/Deutschland_Abschied-vom-Berliner-Flughafen-Tegel?from=rss"
+      "id" : "9x7hcnZQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4742358/46-168605276.jpg",
+      "titleSource" : "Internationaler Hochhaus Preis 2020 verliehen",
+      "titleTarget" : "Uluslararası yüksek katlı fiyat 2020 ödüllendirildi",
+      "url" : "https://kurier.at/wirtschaft/immobiz/internationaler-hochhaus-preis-2020-verliehen/401088234"
+    }, {
+      "id" : "go630C4i",
+      "imgUrl" : "https://image.kurier.at/images/original/4700196/46-166527103.jpg",
+      "titleSource" : "Volkswagen investiert in Bratislava knapp eine Milliarde Euro",
+      "titleTarget" : "Volkswagen, Bratislava'ya bir milyar avronun biraz altında yatırım yapıyor",
+      "url" : "https://kurier.at/wirtschaft/volkswagen-investiert-in-bratislava-knapp-eine-milliarde-euro/401090799"
+    }, {
+      "id" : "JshSRCzq",
+      "imgUrl" : "https://image.kurier.at/images/original/4747074/46-143425124.jpg",
+      "titleSource" : "Traton und Navistar unterzeichneten Vertrag über Zusammenschluss",
+      "titleTarget" : "Traton ve Navistar bir birleşme anlaşması imzaladı",
+      "url" : "https://kurier.at/wirtschaft/traton-und-navistar-unterzeichneten-vertrag-ueber-zusammenschluss/401090760"
+    }, {
+      "id" : "yDOJOthS",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/0/c/8/5894344/EA2710C7-ABF6-4A19-94E8-2643A93D35DE_v0_l.jpg",
+      "titleSource" : "Länder und Verkehrsverbünde gegen Schnellschuss bei  1-2-3-Ticket",
+      "titleTarget" : "Ülkeler ve ulaşım dernekleri 1-2-3 biletle hızlı atışa karşı",
+      "url" : "https://www.diepresse.com/5894344/Oeffentlicher-Verkehr_Laender-und-Verkehrsverbuende-gegen?from=rss"
+    }, {
+      "id" : "Giq6t030",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/0/c/8/5894344/EA2710C7-ABF6-4A19-94E8-2643A93D35DE_v0_l.jpg",
+      "titleSource" : "Länder und Verkehrsverbünde gegen Schnellschuss bei  1-2-3-Ticket",
+      "titleTarget" : "Ülkeler ve ulaşım dernekleri 1-2-3 biletle hızlı atışa karşı",
+      "url" : "https://www.diepresse.com/5894344/Klimaschutz_Laender-und-Verkehrsverbuende-gegen-Schnellschuss-bei?from=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "AaYDRt0K",
-      "imgUrl" : "https://image.kurier.at/images/original/4745739/46-168671249.jpg",
-      "titleSource" : "8.241 Neuinfektionen in Österreich",
-      "titleTarget" : "Avusturya'da 8.241 yeni enfeksiyon",
-      "url" : "https://kurier.at/chronik/oesterreich/8241-neuinfektionen-in-oesterreich/401090076"
+      "id" : "YD5GDZTn",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/1/d/5894429/Lockdown_h.jpg",
+      "titleSource" : "Anschober droht mit Verschärfung des Teil-Lockdowns",
+      "titleTarget" : "Anschober, kısmi kilidi sıkılaştırmakla tehdit ediyor",
+      "url" : "https://www.diepresse.com/5894429/Coronakrise_Anschober-droht-mit-Verschaerfung-des-TeilLockdowns?from=rss"
     }, {
-      "id" : "Sdh89k9L",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/45/75/crops/w=1280/745476_opener_258675_van_der_bellen.jpg?s=13494edef7eae8c0227c351c9de005fa61607ef5",
-      "titleSource" : "Van der Bellen nach Sturz im AKH",
-      "titleTarget" : "AKH'deki düşüşün ardından Van der Bellen",
-      "url" : "https://wien.orf.at/stories/3074941/"
+      "id" : "vF3LpT8G",
+      "titleSource" : "Störaktion mit Schüssen über Boxen",
+      "titleTarget" : "Kutular üzerinden çekimlerle yıkıcı aksiyon",
+      "url" : "https://wien.orf.at/stories/3075007/"
     }, {
-      "id" : "tHQkm4OJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4746072/46-168709457.jpg",
-      "titleSource" : "Mehr als 8.000 Neuinfektionen: Neue Maßnahmen stehen im Raum",
-      "titleTarget" : "8.000'den fazla yeni enfeksiyon: Yeni önlemler odada",
-      "url" : "https://kurier.at/chronik/oesterreich/mehr-als-8000-neuinfektionen-neue-massnahmen-stehen-im-raum/401090316"
+      "id" : "gohi8XlV",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/52/12/crops/w=1280/413745_opener_136212_on-2019-12-27-10h41m51s286.jpg?s=446d1fe9bd2cb0233de0d21e452d007a5acfddc8",
+      "titleSource" : "Lebensmittel-Ausgabestellen sehr gefragt",
+      "titleTarget" : "Gıda dağıtım noktaları büyük talep görüyor",
+      "url" : "https://kaernten.orf.at/stories/3074947/"
     }, {
-      "id" : "3BUgyDko",
-      "imgUrl" : "https://image.kurier.at/images/original/4745661/46-168226066.jpg",
-      "titleSource" : "Coronavirus: Anschober deutete mögliche weitere Verschärfungen an",
-      "titleTarget" : "Coronavirus: Anschober, daha fazla sıkılaşmanın olası olduğunu belirtti",
-      "url" : "https://kurier.at/chronik/oesterreich/coronavirus-anschober-deutete-moegliche-weitere-verschaerfungen-an/401090031"
+      "id" : "AOxfCiC0",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/61/crops/w=1280/746475_opener_259061_lokalaugenschein_tarvis_c0005_00_00_01_08.jpg?s=e1458f7469503cddf5bca6707d7c80b921e54f21",
+      "titleSource" : "Geschlossene Lokale: Kärntner weichen nach Friaul aus",
+      "titleTarget" : "Kapalı barlar: Karintiler Friuli'ye taşınır",
+      "url" : "https://kaernten.orf.at/stories/3075023/"
     }, {
-      "id" : "veBQqdOf",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/45/54/crops/w=1280/745388_opener_258654_albrecht2.jpg?s=490fc192283309c87abf95dff42bd93455356376",
-      "titleSource" : "WEGA-Chef: Wollten Attentäter „stören“",
-      "titleTarget" : "WEGA patronu: saldırganı \"rahatsız etmek\" istedi",
-      "url" : "https://wien.orf.at/stories/3074891/"
+      "id" : "PaWyMFES",
+      "imgUrl" : "https://image.kurier.at/images/original/4720182/46-168307739.jpg",
+      "titleSource" : "5.933 Neuinfektionen in Österreich",
+      "titleTarget" : "Avusturya'da 5,933 yeni enfeksiyon",
+      "url" : "https://kurier.at/chronik/oesterreich/5139-neuinfektionen-in-oesterreich/401090583"
     }, {
-      "id" : "4LZfob75",
-      "imgUrl" : "https://image.kurier.at/images/original/4745634/46-168008017.jpg",
-      "titleSource" : "Umfrage: 55 Prozent halten Ausgangsbeschränkungen für angemessen",
-      "titleTarget" : "Anket: Yüzde 55'i çıkış kısıtlamalarının uygun olduğunu düşünüyor",
-      "url" : "https://kurier.at/chronik/oesterreich/umfrage-55-prozent-halten-ausgangsbeschraenkungen-fuer-angemessen/401090025"
+      "id" : "oj601Vrn",
+      "imgUrl" : "https://image.kurier.at/images/original/4746210/46-168710463.jpg",
+      "titleSource" : "Zucht: Ein Faible für Flusskrebse",
+      "titleTarget" : "Üreme: Kerevit için yumuşak bir nokta",
+      "url" : "https://kurier.at/chronik/oesterreich/zucht-ein-faible-fuer-flusskrebse/401090376"
     }, {
-      "id" : "tXJyOh3y",
-      "imgUrl" : "https://image.kurier.at/images/original/4701447/46-164493590.jpg",
-      "titleSource" : "Coronavirus - Situation in Wiener Spitälern \"durchaus kritisch\"",
-      "titleTarget" : "Coronavirus - Viyana hastanelerindeki durum \"oldukça kritik\"",
-      "url" : "https://kurier.at/chronik/oesterreich/coronavirus-situation-in-wiener-spitaelern-durchaus-kritisch/401090190"
+      "id" : "6dfDNLMD",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/39/15/crops/w=1280/693409_opener_239515_salzburg_coronavirus_-_mediengespraech_zu_aktuelle_entwicklungen_und_informationen_zum_corona-virus_preuner_oevp_.jpg?s=9e4b7b5f302f24626d15f959b9b4a49e04a67e00",
+      "titleSource" : "Stadtchef Preuner doch nicht CoV-positiv",
+      "titleTarget" : "Şehir patronu Preuner CoV pozitif değil",
+      "url" : "https://salzburg.orf.at/stories/3075001/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
+      "id" : "AjMH8uqg",
+      "imgUrl" : "https://image.kurier.at/images/original/4746834/46-166278284.jpg",
+      "titleSource" : "Österreichischer Buchpreis: Von der Bagage zum Krakadzil",
+      "titleTarget" : "Avusturya Kitap Ödülü: Bagage'dan Krakadzil'e",
+      "url" : "https://kurier.at/kultur/buch/oesterreichischer-buchpreis-von-der-bagage-zum-krakadzil/401090586"
+    }, {
+      "id" : "uFfeWUv7",
+      "imgUrl" : "https://image.kurier.at/images/original/4747359/46-168725250.jpg",
+      "titleSource" : "Argentinischer Filmemacher Solanas ist tot",
+      "titleTarget" : "Arjantinli film yapımcısı Solanas öldü",
+      "url" : "https://kurier.at/kultur/argentinischer-filmemacher-solanas-ist-tot/401090865"
+    }, {
       "id" : "AlwUW8Wy",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/b/d/5894077/675C669F-86CB-449D-89F4-89D965F950FF_v0_l.jpg",
       "titleSource" : "Bridget Jones  schwarz und politisch",
       "titleTarget" : "Bridget Jones siyah ve politik",
       "url" : "https://www.diepresse.com/5894077/Literatur_Bridget-Jones-schwarz-und-politisch?from=rss"
-    }, {
-      "id" : "Qsu9SxKX",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/c/f/5893839/1LAA_103_Unit_00066_R_1604685511126184_v0_l.jpg",
-      "titleSource" : "Liebe und Anarchie: Mutproben für Erwachsene",
-      "titleTarget" : "Aşk ve anarşi: yetişkinler için cesaret testleri",
-      "url" : "https://www.diepresse.com/5893839/NetflixSerie_Liebe-und-Anarchie_Mutproben-fuer-Erwachsene?from=rss"
-    }, {
-      "id" : "PywLffJt",
-      "titleSource" : "Der Weltuntergang ist recht fad",
-      "titleTarget" : "Dünyanın sonu oldukça mülayim",
-      "url" : "https://www.diepresse.com/5894079/Song-der-Woche_Der-Weltuntergang-ist-recht-fad?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -154,37 +153,36 @@
       "titleTarget" : "Srdjan Grahovac: Rapid'in tartışmalı özel ajanı",
       "url" : "https://kurier.at/sport/fussball/srdjan-grahovac-der-umstrittene-spezial-agent-von-rapid-im-einsatz-gegen-salzburg/401090187"
     }, {
+      "id" : "as90WrKy",
+      "imgUrl" : "https://image.kurier.at/images/original/4747491/46-168753814.jpg",
+      "titleSource" : "Spitzenspiel live: So steht es bei Rapid Wien gegen Salzburg",
+      "titleTarget" : "Canlı en iyi maç: Rapid Vienna'da Salzburg'a karşı durum böyle",
+      "url" : "https://kurier.at/sport/fussball/bundesliga-spitzenspiel-im-live-ticker-so-steht-es-bei-rapid-wien-gegen-salzburg/401090634"
+    }, {
+      "id" : "GngdqLsa",
+      "titleSource" : "LASK-Lauf soll gegen Admira weitergehen",
+      "titleTarget" : "LASK koşusu Admira'ya karşı devam etmeli",
+      "url" : "https://sport.orf.at/stories/3069066/"
+    }, {
+      "id" : "ZJKIDZnH",
+      "titleSource" : "LASK bleibt sicher in Erfolgsspur",
+      "titleTarget" : "LASK başarıya giden yolda kalacağından emin",
+      "url" : "https://sport.orf.at/stories/3069117/"
+    }, {
+      "id" : "y90EFvtI",
+      "titleSource" : "Vorarlberger Pauger im Weltcup in Valencia 15.",
+      "titleTarget" : "Vorarlberger Pauger, Valencia'daki Dünya Kupası'nda 15.",
+      "url" : "https://sport.orf.at/stories/3069088/"
+    }, {
       "id" : "lI81ZKs0",
       "titleSource" : "Wels gewinnt OÖ-Derby in BSL gegen Gmunden",
       "titleTarget" : "Wels, BSL'de Gmunden'e karşı Yukarı Avusturya Derbisini kazandı",
       "url" : "https://sport.orf.at/stories/3069089/"
     }, {
-      "id" : "d2EpgXv9",
-      "imgUrl" : "https://image.kurier.at/images/original/4746237/46-168732268.jpg",
-      "titleSource" : "Rummenigge: Tür für Alaba bei Bayern \"noch einen Spalt auf\"",
-      "titleTarget" : "Rummenigge: Bavyera yakınlarındaki Alaba kapısı \"sadece bir çatlak\"",
-      "url" : "https://kurier.at/sport/fussball/rummenigge-tuer-fuer-alaba-bei-bayern-noch-einen-spalt-auf/401090388"
-    }, {
-      "id" : "aqyoYCly",
-      "imgUrl" : "https://image.kurier.at/images/original/4745814/46-168373459.jpg",
-      "titleSource" : "Verdacht bestätigt: Kreuzbandriss bei LASK-Stürmer Raguz",
-      "titleTarget" : "Şüphe doğrulandı: LASK forvet Raguz'da çapraz bağın kopması",
-      "url" : "https://kurier.at/sport/fussball/fussball-verdacht-bestaetigt-kreuzbandriss-bei-lask-stuermer-raguz/401090163"
-    }, {
       "id" : "XPUX17xv",
       "titleSource" : "Bayern schlagen BVB auch dank Alaba",
       "titleTarget" : "Bayern, Alaba sayesinde BVB'yi yendi",
       "url" : "https://sport.orf.at/stories/3069086/"
-    }, {
-      "id" : "GuH43Kuq",
-      "titleSource" : "Ried schießt sich aus Tabellenkeller",
-      "titleTarget" : "Ried masa mahzeninden kendini vuruyor",
-      "url" : "https://sport.orf.at/stories/3069081/"
-    }, {
-      "id" : "LGLFi3ew",
-      "titleSource" : "ManCity gegen Liverpool unter Druck",
-      "titleTarget" : "ManCity Liverpool'a karşı baskı altında",
-      "url" : "https://sport.orf.at/stories/3069041/"
     } ]
   } ],
   "country" : "austria",
