@@ -8,23 +8,23 @@
       "titleTarget" : "Anschober, kısmi kilidi sıkılaştırmakla tehdit ediyor",
       "url" : "https://kurier.at/politik/inland/anschober-droht-mit-verschaerfung-des-teil-lockdowns/401090832"
     }, {
-      "id" : "zpanJh3l",
-      "imgUrl" : "https://image.kurier.at/images/original/4744230/78350011457369840_BLD_Online.jpg",
-      "titleSource" : "Attentat in Wien: Verfassungsschutz ließ Minister im Dunkeln tappen",
-      "titleTarget" : "Viyana'da saldırı: Anayasanın koruması, bakanların karanlıkta el yordamasına neden oldu",
-      "url" : "https://kurier.at/politik/inland/verfassungsschutz-liess-minister-im-dunkeln-tappen/401090427"
-    }, {
-      "id" : "T3jR9UWf",
-      "imgUrl" : "https://image.kurier.at/images/original/4637132/corona.jpg",
-      "titleSource" : "Gesundheitsreferenten appellieren, Maßnahmen einzuhalten",
-      "titleTarget" : "Sağlık yetkilileri önlem almaya itiraz ediyor",
-      "url" : "https://kurier.at/politik/inland/gesundheitsreferenten-appellieren-massnahmen-einzuhalten/401090646"
-    }, {
       "id" : "8ZaAQlYr",
       "imgUrl" : "https://image.kurier.at/images/original/4189145/20200311-ABD0097-1-1.jpg",
       "titleSource" : "Schul-Lockdown: Schäden für alle sind größer als befürchtet",
       "titleTarget" : "Okul kilitlenmesi: Herkese verilen zarar korkulandan daha büyüktür",
       "url" : "https://kurier.at/politik/inland/schul-lockdown-schaeden-fuer-alle-sind-groesser-als-befuerchtet/401090940"
+    }, {
+      "id" : "D4H3HHUX",
+      "imgUrl" : "https://image.kurier.at/images/original/4259903/46-164068050.jpg",
+      "titleSource" : "Woche der Entscheidung: Letzte Chance für die Corona-Wende",
+      "titleTarget" : "Karar haftası: Corona dönüşü için son şans",
+      "url" : "https://kurier.at/politik/inland/woche-der-entscheidung-letzte-chance-fuer-die-corona-wende/401090913"
+    }, {
+      "id" : "dwzafNee",
+      "imgUrl" : "https://image.kurier.at/images/original/1744311/46-58503927.jpg",
+      "titleSource" : "Gedenken: Die Nacht, in der die Synagogen brannten",
+      "titleTarget" : "Anma: Sinagogların yandığı gece",
+      "url" : "https://kurier.at/politik/inland/gedenken-die-nacht-in-der-die-synagogen-brannten/401091414"
     }, {
       "id" : "BiF6gVw6",
       "titleSource" : "Volksanwalt ortet Lücke bei Corona-Zuschuss für Arbeitslose",
@@ -34,12 +34,6 @@
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "UyF70tjM",
-      "imgUrl" : "https://image.kurier.at/images/original/4742196/46-168662325.jpg",
-      "titleSource" : "84-jährige Unternehmerin: „Ich bleibe, solange ich kann“",
-      "titleTarget" : "84 yaşındaki girişimci: \"Elimden geldiğince kalacağım\"",
-      "url" : "https://kurier.at/wirtschaft/karriere/84-jaehrige-unternehmerin-ich-bleibe-solange-ich-kann/401088153"
-    }, {
       "id" : "ecsJ4Q9R",
       "imgUrl" : "https://image.kurier.at/images/original/4171113/78350011453518876_BLD_Online.jpg",
       "titleSource" : "Aida Cruises: Preiserhöhungen zwischen 10 und 15 Prozent möglich",
@@ -52,23 +46,35 @@
       "titleTarget" : "Volkswagen, Bratislava'ya bir milyar avronun biraz altında yatırım yapıyor",
       "url" : "https://kurier.at/wirtschaft/volkswagen-investiert-in-bratislava-knapp-eine-milliarde-euro/401090799"
     }, {
-      "id" : "9x7hcnZQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4742358/46-168605276.jpg",
-      "titleSource" : "Internationaler Hochhaus Preis 2020 verliehen",
-      "titleTarget" : "Uluslararası yüksek katlı fiyat 2020 ödüllendirildi",
-      "url" : "https://kurier.at/wirtschaft/immobiz/internationaler-hochhaus-preis-2020-verliehen/401088234"
+      "id" : "jUwwMvPl",
+      "imgUrl" : "https://image.kurier.at/images/original/3346021/81650355547527624_BLD_Online.jpg",
+      "titleSource" : "Ölpreise deutlich gestiegen",
+      "titleTarget" : "Petrol fiyatları önemli ölçüde arttı",
+      "url" : "https://kurier.at/wirtschaft/oelpreise-deutlich-gestiegen/401091111"
+    }, {
+      "id" : "wAcZKsb7",
+      "imgUrl" : "https://image.kurier.at/images/original/4742202/46-168656349.jpg",
+      "titleSource" : "Über unsere Liebe zu Bewertungen, Ranglisten und Vergleichen",
+      "titleTarget" : "İncelemelere, sıralamalara ve karşılaştırmalara olan sevgimiz hakkında",
+      "url" : "https://kurier.at/wirtschaft/karriere/ueber-unsere-liebe-zu-bewertungen-ranglisten-und-vergleichen/401088156"
+    }, {
+      "id" : "10YKcf8e",
+      "imgUrl" : "https://image.kurier.at/images/original/4645829/78370011356539100_BLD_Online.jpg",
+      "titleSource" : "Infineon zahlt nach Gewinneinbruch weniger Dividende für 2019/20",
+      "titleTarget" : "Infineon, kazançlardaki düşüşün ardından 2019/20 için daha az temettü ödüyor",
+      "url" : "https://kurier.at/wirtschaft/infineon-zahlt-nach-gewinneinbruch-weniger-dividende-fuer-201920/401091141"
+    }, {
+      "id" : "kvI9HxdX",
+      "imgUrl" : "https://image.kurier.at/images/original/4647896/46-166403358.jpg",
+      "titleSource" : "Tourismus: \"Werden weitere Zuschüsse brauchen\"",
+      "titleTarget" : "Turizm: \"Daha fazla sübvansiyon gerekecek\"",
+      "url" : "https://kurier.at/wirtschaft/tourismus-werden-weitere-zuschuesse-brauchen/401091060"
     }, {
       "id" : "JshSRCzq",
       "imgUrl" : "https://image.kurier.at/images/original/4747074/46-143425124.jpg",
       "titleSource" : "Traton und Navistar unterzeichneten Vertrag über Zusammenschluss",
       "titleTarget" : "Traton ve Navistar bir birleşme anlaşması imzaladı",
       "url" : "https://kurier.at/wirtschaft/traton-und-navistar-unterzeichneten-vertrag-ueber-zusammenschluss/401090760"
-    }, {
-      "id" : "yDOJOthS",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/0/c/8/5894344/EA2710C7-ABF6-4A19-94E8-2643A93D35DE_v0_l.jpg",
-      "titleSource" : "Länder und Verkehrsverbünde gegen Schnellschuss bei  1-2-3-Ticket",
-      "titleTarget" : "Ülkeler ve ulaşım dernekleri 1-2-3 biletle hızlı atışa karşı",
-      "url" : "https://www.diepresse.com/5894344/Oeffentlicher-Verkehr_Laender-und-Verkehrsverbuende-gegen?from=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -85,35 +91,35 @@
       "titleTarget" : "Anschober, kısmi kilidi sıkılaştırmakla tehdit ediyor",
       "url" : "https://www.diepresse.com/5894429/Coronakrise_Anschober-droht-mit-Verschaerfung-des-TeilLockdowns?from=rss"
     }, {
-      "id" : "PaWyMFES",
-      "imgUrl" : "https://image.kurier.at/images/original/4720182/46-168307739.jpg",
-      "titleSource" : "5.933 Neuinfektionen in Österreich",
-      "titleTarget" : "Avusturya'da 5,933 yeni enfeksiyon",
-      "url" : "https://kurier.at/chronik/oesterreich/5139-neuinfektionen-in-oesterreich/401090583"
+      "id" : "eplmg7fQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4748346/46-168062781.jpg",
+      "titleSource" : "Sofortige Schulschließung gefordert; Schulen zu: Schäden größer als befürchtet",
+      "titleTarget" : "Derhal okul kapatılması gerekir; Okullar da: Korkulandan daha büyük hasar",
+      "url" : "https://kurier.at/chronik/oesterreich/lockdown-anschober-droht-mit-verschaerfung-schulschliessung-schaeden-groesser-als-befuerchtet/401091045"
     }, {
-      "id" : "oj601Vrn",
-      "imgUrl" : "https://image.kurier.at/images/original/4746210/46-168710463.jpg",
-      "titleSource" : "Zucht: Ein Faible für Flusskrebse",
-      "titleTarget" : "Üreme: Kerevit için yumuşak bir nokta",
-      "url" : "https://kurier.at/chronik/oesterreich/zucht-ein-faible-fuer-flusskrebse/401090376"
+      "id" : "Ghsb4QoS",
+      "imgUrl" : "https://image.kurier.at/images/original/4747839/foto_004_c_bmi_.jpg",
+      "titleSource" : "Terror-Razzia gegen Muslimbruderschaft: 1000 Beamte im Einsatz",
+      "titleTarget" : "Müslüman Kardeşler'e terör saldırısı: 1000 görevli",
+      "url" : "https://kurier.at/chronik/oesterreich/razzien-bei-muslimbruderschaft-60-wohnungen-durchsucht/401091099"
     }, {
-      "id" : "eWr9N1oW",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/40/94/crops/w=1280/706947_opener_244594_20201002_120804.jpg?s=cab22ca8d451f9971e858405464ee3a65afcd7c2",
-      "titleSource" : "Gesundheitshotline hat weiter Personal aufgestockt",
-      "titleTarget" : "Sağlık yardım hattı personeli daha da artırdı",
-      "url" : "https://vorarlberg.orf.at/stories/3074977/"
-    }, {
-      "id" : "GUIFHL38",
-      "imgUrl" : "https://image.kurier.at/images/original/4747455/46-168652904.jpg",
-      "titleSource" : "Weltweit 50 Mio. Infektionen; 5.933 Neuinfektionen in Ö",
-      "titleTarget" : "Dünya çapında 50 milyon enfeksiyon; Avusturya'da 5,933 yeni enfeksiyon",
-      "url" : "https://kurier.at/chronik/oesterreich/queen-erstmals-mit-maske-deutschland-verschaerfungen-fuer-einreisende-aus-risikogebieten/401090529"
+      "id" : "yLAo27zO",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/87/crops/w=1280/746556_opener_259087_andrangmoebelhauseroeffnunglutz2.jpg?s=6a8f0cd5e7d393145f809ea26864ef763336c3bd",
+      "titleSource" : "Debatte um Wiedereröffnung von Möbelhaus",
+      "titleTarget" : "Mobilya mağazasının yeniden açılmasıyla ilgili tartışma",
+      "url" : "https://salzburg.orf.at/stories/3075033/"
     }, {
       "id" : "baXleWyP",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/16/86/crops/w=1280/533803_opener_180986_maske3.jpg?s=84ae7f2b036143a331545129fcead06794cb542e",
       "titleSource" : "Warnung vor Augenproblemen durch Masken",
       "titleTarget" : "Maskelerin neden olduğu göz sorunlarına karşı uyarı",
       "url" : "https://salzburg.orf.at/stories/3074894/"
+    }, {
+      "id" : "ITobEduh",
+      "imgUrl" : "https://image.kurier.at/images/original/4747038/46-162855640.jpg",
+      "titleSource" : "Laborpanne: Salzburgs Bürgermeister doch nicht Corona-positiv",
+      "titleTarget" : "Laboratuvar dökümü: Salzburg belediye başkanı korona pozitif değil",
+      "url" : "https://kurier.at/chronik/oesterreich/laborpanne-salzburgs-buergermeister-doch-nicht-corona-positiv/401090733"
     } ]
   }, {
     "category" : "CULTURE",
@@ -130,11 +136,35 @@
       "titleTarget" : "Arjantinli film yapımcısı Solanas öldü",
       "url" : "https://kurier.at/kultur/argentinischer-filmemacher-solanas-ist-tot/401090865"
     }, {
-      "id" : "AlwUW8Wy",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/b/d/5894077/675C669F-86CB-449D-89F4-89D965F950FF_v0_l.jpg",
-      "titleSource" : "Bridget Jones  schwarz und politisch",
-      "titleTarget" : "Bridget Jones siyah ve politik",
-      "url" : "https://www.diepresse.com/5894077/Literatur_Bridget-Jones-schwarz-und-politisch?from=rss"
+      "id" : "h6NDgmtt",
+      "imgUrl" : "https://image.kurier.at/images/original/3896615/78452305851504144_BLD_Online.jpg",
+      "titleSource" : "Koreanische Boygroup BTS größter Gewinner bei MTV Europe Music Awards",
+      "titleTarget" : "Koreli erkek grubu BTS, MTV Avrupa Müzik Ödülleri'nde En Büyük Kazanan",
+      "url" : "https://kurier.at/kultur/koreanische-boygroup-bts-groesster-gewinner-bei-mtv-europe-music-awards/401091159"
+    }, {
+      "id" : "bZumybn0",
+      "imgUrl" : "https://image.kurier.at/images/original/4747926/46-168755106.jpg",
+      "titleSource" : "Langjähriger \"Jeopardy!\"-Moderator Alex Trebek gestorben",
+      "titleTarget" : "Uzun zamandır \"Jeopardy!\" Sunucusu Alex Trebek öldü",
+      "url" : "https://kurier.at/kultur/medien/langjaehriger-jeopardy-moderator-alex-trebek-gestorben/401091165"
+    }, {
+      "id" : "4VUifZoS",
+      "imgUrl" : "https://image.kurier.at/images/original/4748406/46-167124448.jpg",
+      "titleSource" : "BTS: Eine Boyband als Taktgeber des Kunstbetriebs",
+      "titleTarget" : "BTS: Sanat dünyasının hızını belirleyen bir erkek grubu",
+      "url" : "https://kurier.at/kultur/bts-eine-boyband-als-taktgeber-des-kunstbetriebs/401091339"
+    }, {
+      "id" : "dDjjUZLo",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/e/8/5894632/5B6972AE-4508-40BF-83E0-8834CA9F89B8_v0_h.jpg",
+      "titleSource" : "Neuer Volkstheater-Direktor startet mit Grenzgängen",
+      "titleTarget" : "Yeni Volkstheater yönetmeni sınır geçişleriyle başlıyor",
+      "url" : "https://www.diepresse.com/5894632/Spielplan_Neuer-VolkstheaterDirektor-startet-mit-Grenzgaengen?from=rss"
+    }, {
+      "id" : "sd0dJa2R",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/e/8/5894632/5B6972AE-4508-40BF-83E0-8834CA9F89B8_v0_h.jpg",
+      "titleSource" : "Neuer Volkstheater-Direktor startet mit Grenzgängen",
+      "titleTarget" : "Yeni Volkstheater yönetmeni sınır geçişleriyle başlıyor",
+      "url" : "https://www.diepresse.com/5894632/Theater_Neuer-VolkstheaterDirektor-startet-mit-Grenzgaengen?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -148,27 +178,27 @@
       "titleTarget" : "En iyi maçta beraberlik: Hızlı, Salzburg'un galibiyet serisini bitirdi",
       "url" : "https://kurier.at/sport/fussball/11-unentschieden-rapid-wien-beendet-die-bundesliga-siegesserie-von-red-bull-salzburg/401090634"
     }, {
-      "id" : "ADXsValA",
-      "imgUrl" : "https://image.kurier.at/images/original/4743186/46-168694322.jpg",
-      "titleSource" : "Srdjan Grahovac: Der umstrittene Spezial-Agent von Rapid",
-      "titleTarget" : "Srdjan Grahovac: Rapid'in tartışmalı özel ajanı",
-      "url" : "https://kurier.at/sport/fussball/srdjan-grahovac-der-umstrittene-spezial-agent-von-rapid-im-einsatz-gegen-salzburg/401090187"
-    }, {
-      "id" : "u7a3J3Xm",
-      "imgUrl" : "https://image.kurier.at/images/original/4746819/46-168116988.jpg",
-      "titleSource" : "\"Lasst uns niemals zurückblicken\": US-Sporstars jubeln nach US-Wahl",
-      "titleTarget" : "\"Asla geriye bakmayalım\": ABD Spor yıldızları ABD seçimlerinden sonra tezahürat yapıyor",
-      "url" : "https://kurier.at/sport/lasst-uns-niemals-zurueckblicken-us-sporstars-james-rapinoe-und-co-gratulierten-joe-biden-und-kamala/401090556"
+      "id" : "TAcIIrGX",
+      "imgUrl" : "https://image.kurier.at/images/original/4747671/46-168755070.jpg",
+      "titleSource" : "Kühbauer nach dem Hit gegen Salzburg: \"Das macht riesige Freude\"",
+      "titleTarget" : "Salzburg'a yapılan vuruştan sonra Kühbauer: \"Bu büyük bir zevk\"",
+      "url" : "https://kurier.at/sport/fussball/rapid-trainer-kuehbauer-nach-dem-11-im-hit-gegen-salzburg-das-macht-riesige-freude/401090985"
     }, {
       "id" : "ZJKIDZnH",
       "titleSource" : "LASK bleibt sicher in Erfolgsspur",
       "titleTarget" : "LASK başarıya giden yolda kalacağından emin",
       "url" : "https://sport.orf.at/stories/3069117/"
     }, {
-      "id" : "dGN39H3s",
-      "titleSource" : "Mir rückt WM-Krone mit erstem Sieg näher",
-      "titleTarget" : "İlk zaferimle Dünya Kupası tacına yaklaşıyorum",
-      "url" : "https://sport.orf.at/stories/3069110/"
+      "id" : "QSXKbHl1",
+      "titleSource" : "Sechs Teamspieler von Salzburg CoV-positiv",
+      "titleTarget" : "Salzburg CoV'den altı takım oyuncusu pozitif",
+      "url" : "https://sport.orf.at/stories/3069141/"
+    }, {
+      "id" : "ZhLmgsxi",
+      "imgUrl" : "https://image.kurier.at/images/original/4747992/46-168753760.jpg",
+      "titleSource" : "Nach Kracher bei Rapid: Sechs positive Corona-Fälle bei Salzburg",
+      "titleTarget" : "Rapid'de Kracher'in ardından: Salzburg yakınlarında altı pozitif Corona vakası",
+      "url" : "https://kurier.at/sport/fussball/nach-liga-kracher-bei-rapid-wien-sechs-positive-corona-faelle-bei-red-bull-salzburg/401091255"
     }, {
       "id" : "PyDCkeC3",
       "imgUrl" : "https://image.kurier.at/images/original/4747716/46-168757499.jpg",
@@ -176,10 +206,10 @@
       "titleTarget" : "Rapids EL rakipleri Arsenal için Aston Villa'ya karşı iç saha fiyaskosu",
       "url" : "https://kurier.at/sport/fussball/heimdebakel-fuer-rapids-el-gegner-arsenal-gegen-aston-villa/401091000"
     }, {
-      "id" : "PMs6oV90",
-      "titleSource" : "Suljovic/Rodriguez verpassen WM-Sensation",
-      "titleTarget" : "Suljovic / Rodriguez Dünya Kupası heyecanını kaçırdı",
-      "url" : "https://sport.orf.at/stories/3069118/"
+      "id" : "dGN39H3s",
+      "titleSource" : "Mir rückt WM-Krone mit erstem Sieg näher",
+      "titleTarget" : "İlk zaferimle Dünya Kupası tacına yaklaşıyorum",
+      "url" : "https://sport.orf.at/stories/3069110/"
     } ]
   } ],
   "country" : "austria",
