@@ -8,17 +8,23 @@
       "titleTarget" : "Anschober, kısmi kilidi sıkılaştırmakla tehdit ediyor",
       "url" : "https://kurier.at/politik/inland/anschober-droht-mit-verschaerfung-des-teil-lockdowns/401090832"
     }, {
+      "id" : "D4H3HHUX",
+      "imgUrl" : "https://image.kurier.at/images/original/4259903/46-164068050.jpg",
+      "titleSource" : "Woche der Entscheidung: Letzte Chance für die Corona-Wende",
+      "titleTarget" : "Karar haftası: Corona dönüşü için son şans",
+      "url" : "https://kurier.at/politik/inland/woche-der-entscheidung-letzte-chance-fuer-die-corona-wende/401090913"
+    }, {
       "id" : "8ZaAQlYr",
       "imgUrl" : "https://image.kurier.at/images/original/4189145/20200311-ABD0097-1-1.jpg",
       "titleSource" : "Schul-Lockdown: Schäden für alle sind größer als befürchtet",
       "titleTarget" : "Okul kilitlenmesi: Herkese verilen zarar korkulandan daha büyüktür",
       "url" : "https://kurier.at/politik/inland/schul-lockdown-schaeden-fuer-alle-sind-groesser-als-befuerchtet/401090940"
     }, {
-      "id" : "D4H3HHUX",
-      "imgUrl" : "https://image.kurier.at/images/original/4259903/46-164068050.jpg",
-      "titleSource" : "Woche der Entscheidung: Letzte Chance für die Corona-Wende",
-      "titleTarget" : "Karar haftası: Corona dönüşü için son şans",
-      "url" : "https://kurier.at/politik/inland/woche-der-entscheidung-letzte-chance-fuer-die-corona-wende/401090913"
+      "id" : "JKmZY7Yt",
+      "imgUrl" : "https://image.kurier.at/images/original/4748628/46-164857551.jpg",
+      "titleSource" : "Justizministerin Zadić in Selbst-Isolation",
+      "titleTarget" : "Adalet Bakanı Zadić kendini tecritte",
+      "url" : "https://kurier.at/politik/inland/justizministerin-zadic-in-selbst-isolation/401091606"
     }, {
       "id" : "dwzafNee",
       "imgUrl" : "https://image.kurier.at/images/original/1744311/46-58503927.jpg",
@@ -26,31 +32,30 @@
       "titleTarget" : "Anma: Sinagogların yandığı gece",
       "url" : "https://kurier.at/politik/inland/gedenken-die-nacht-in-der-die-synagogen-brannten/401091414"
     }, {
-      "id" : "BiF6gVw6",
-      "titleSource" : "Volksanwalt ortet Lücke bei Corona-Zuschuss für Arbeitslose",
-      "titleTarget" : "Ombudsman, işsizler için korona hibesindeki boşluğu tespit etti",
-      "url" : "https://www.diepresse.com/5894368/CoronaHilfen_Volksanwalt-ortet-Luecke-bei-CoronaZuschuss-fuer?from=rss"
+      "id" : "S7e925D8",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/9/d/5894813/CORONAVIRUS-PK-COVID-19-VORGEHEN-IN-BILDUNGSEINRICHTUNGEN-FASSMANN_1604930826523181_v0_h.jpg",
+      "titleSource" : "ÖH fordert Rücktritt von Bildungsminister Heinz Faßmann",
+      "titleTarget" : "ÖH, Milli Eğitim Bakanı Heinz Faßmann'ın istifasını istedi",
+      "url" : "https://www.diepresse.com/5894813/Beschluss_OeH-fordert-Ruecktritt-von-Bildungsminister-Heinz-Fassmann?from=rss"
+    }, {
+      "id" : "GIXokI8g",
+      "imgUrl" : "https://image.kurier.at/images/original/4291817/was_wir_duerfen.png",
+      "titleSource" : "Österreich im \"Teil-Lockdown\": Diese Regeln gelten jetzt",
+      "url" : "https://kurier.at/politik/inland/lockdown-diese-corona-regeln-gelten-ab-dienstag-0000-uhr/401083170"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "ecsJ4Q9R",
-      "imgUrl" : "https://image.kurier.at/images/original/4171113/78350011453518876_BLD_Online.jpg",
-      "titleSource" : "Aida Cruises: Preiserhöhungen zwischen 10 und 15 Prozent möglich",
-      "titleTarget" : "Aida Cruises: Mümkün olan yüzde 10 ile 15 arasında fiyat artışı",
-      "url" : "https://kurier.at/wirtschaft/aida-cruises-preiserhoehungen-zwischen-10-und-15-prozent-moeglich/401090661"
+      "id" : "B5lpNAdo",
+      "imgUrl" : "https://image.kurier.at/images/original/4620992/46-163582645.jpg",
+      "titleSource" : "BioNTech plant Zulassungsantrag für Corona‐Impfstoff",
+      "titleTarget" : "BioNTech, korona aşısı için onay başvurusu planlıyor",
+      "url" : "https://kurier.at/wirtschaft/biontech-plant-zulassungsantrag-fuer-corona-impfstoff/401091657"
     }, {
-      "id" : "go630C4i",
-      "imgUrl" : "https://image.kurier.at/images/original/4700196/46-166527103.jpg",
-      "titleSource" : "Volkswagen investiert in Bratislava knapp eine Milliarde Euro",
-      "titleTarget" : "Volkswagen, Bratislava'ya bir milyar avronun biraz altında yatırım yapıyor",
-      "url" : "https://kurier.at/wirtschaft/volkswagen-investiert-in-bratislava-knapp-eine-milliarde-euro/401090799"
-    }, {
-      "id" : "jUwwMvPl",
-      "imgUrl" : "https://image.kurier.at/images/original/3346021/81650355547527624_BLD_Online.jpg",
-      "titleSource" : "Ölpreise deutlich gestiegen",
-      "titleTarget" : "Petrol fiyatları önemli ölçüde arttı",
-      "url" : "https://kurier.at/wirtschaft/oelpreise-deutlich-gestiegen/401091111"
+      "id" : "kvI9HxdX",
+      "imgUrl" : "https://image.kurier.at/images/original/4647896/46-166403358.jpg",
+      "titleSource" : "Tourismus: \"Werden weitere Zuschüsse brauchen\"",
+      "url" : "https://kurier.at/wirtschaft/tourismus-werden-weitere-zuschuesse-brauchen/401091060"
     }, {
       "id" : "wAcZKsb7",
       "imgUrl" : "https://image.kurier.at/images/original/4742202/46-168656349.jpg",
@@ -58,50 +63,56 @@
       "titleTarget" : "İncelemelere, sıralamalara ve karşılaştırmalara olan sevgimiz hakkında",
       "url" : "https://kurier.at/wirtschaft/karriere/ueber-unsere-liebe-zu-bewertungen-ranglisten-und-vergleichen/401088156"
     }, {
-      "id" : "10YKcf8e",
-      "imgUrl" : "https://image.kurier.at/images/original/4645829/78370011356539100_BLD_Online.jpg",
-      "titleSource" : "Infineon zahlt nach Gewinneinbruch weniger Dividende für 2019/20",
-      "titleTarget" : "Infineon, kazançlardaki düşüşün ardından 2019/20 için daha az temettü ödüyor",
-      "url" : "https://kurier.at/wirtschaft/infineon-zahlt-nach-gewinneinbruch-weniger-dividende-fuer-201920/401091141"
+      "id" : "qgrKmENT",
+      "imgUrl" : "https://image.kurier.at/images/original/4697412/78370011356966558_BLD_Online.jpg",
+      "titleSource" : "Österreichs Export-Rückgang verstärkte sich im August wieder etwas",
+      "titleTarget" : "Avusturya'nın ihracat düşüşü Ağustos ayında bir miktar yoğunlaştı",
+      "url" : "https://kurier.at/wirtschaft/oesterreichs-export-rueckgang-verstaerkte-sich-im-august-wieder-etwas/401091468"
     }, {
-      "id" : "kvI9HxdX",
-      "imgUrl" : "https://image.kurier.at/images/original/4647896/46-166403358.jpg",
-      "titleSource" : "Tourismus: \"Werden weitere Zuschüsse brauchen\"",
-      "titleTarget" : "Turizm: \"Daha fazla sübvansiyon gerekecek\"",
-      "url" : "https://kurier.at/wirtschaft/tourismus-werden-weitere-zuschuesse-brauchen/401091060"
+      "id" : "mvOu3nls",
+      "imgUrl" : "https://image.kurier.at/images/original/4747647/46-110980614.jpg",
+      "titleSource" : "Europas Leitbörsen zur Eröffnung mit deutlichen Zugewinnen",
+      "titleTarget" : "Açılışta net kazançlar elde eden Avrupa'nın lider borsaları",
+      "url" : "https://kurier.at/wirtschaft/europas-leitboersen-zur-eroeffnung-mit-deutlichen-zugewinnen/401091318"
     }, {
-      "id" : "JshSRCzq",
-      "imgUrl" : "https://image.kurier.at/images/original/4747074/46-143425124.jpg",
-      "titleSource" : "Traton und Navistar unterzeichneten Vertrag über Zusammenschluss",
-      "titleTarget" : "Traton ve Navistar bir birleşme anlaşması imzaladı",
-      "url" : "https://kurier.at/wirtschaft/traton-und-navistar-unterzeichneten-vertrag-ueber-zusammenschluss/401090760"
+      "id" : "jUwwMvPl",
+      "imgUrl" : "https://image.kurier.at/images/original/3346021/81650355547527624_BLD_Online.jpg",
+      "titleSource" : "Ölpreise deutlich gestiegen",
+      "titleTarget" : "Petrol fiyatları önemli ölçüde arttı",
+      "url" : "https://kurier.at/wirtschaft/oelpreise-deutlich-gestiegen/401091111"
+    }, {
+      "id" : "o1JoIZcO",
+      "imgUrl" : "https://image.kurier.at/images/original/4223291/46-163735382.jpg",
+      "titleSource" : "Goldpreis steigt nach Biden-Sieg auf höchsten Stand seit September",
+      "titleTarget" : "Altın fiyatı, Biden zaferinin ardından Eylül ayından bu yana en yüksek seviyesine yükseldi",
+      "url" : "https://kurier.at/wirtschaft/goldpreis-steigt-nach-biden-sieg-auf-hoechsten-stand-seit-september/401091663"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "AOxfCiC0",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/61/crops/w=1280/746475_opener_259061_lokalaugenschein_tarvis_c0005_00_00_01_08.jpg?s=e1458f7469503cddf5bca6707d7c80b921e54f21",
-      "titleSource" : "Geschlossene Lokale: Kärntner weichen nach Friaul aus",
-      "titleTarget" : "Kapalı barlar: Karintiler Friuli'ye taşınır",
-      "url" : "https://kaernten.orf.at/stories/3075023/"
-    }, {
       "id" : "YD5GDZTn",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/1/d/5894429/Lockdown_h.jpg",
       "titleSource" : "Anschober droht mit Verschärfung des Teil-Lockdowns",
       "titleTarget" : "Anschober, kısmi kilidi sıkılaştırmakla tehdit ediyor",
       "url" : "https://www.diepresse.com/5894429/Coronakrise_Anschober-droht-mit-Verschaerfung-des-TeilLockdowns?from=rss"
     }, {
-      "id" : "eplmg7fQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4748346/46-168062781.jpg",
-      "titleSource" : "Sofortige Schulschließung gefordert; Schulen zu: Schäden größer als befürchtet",
-      "titleTarget" : "Derhal okul kapatılması gerekir; Okullar da: Korkulandan daha büyük hasar",
-      "url" : "https://kurier.at/chronik/oesterreich/lockdown-anschober-droht-mit-verschaerfung-schulschliessung-schaeden-groesser-als-befuerchtet/401091045"
-    }, {
       "id" : "Ghsb4QoS",
       "imgUrl" : "https://image.kurier.at/images/original/4747839/foto_004_c_bmi_.jpg",
-      "titleSource" : "Terror-Razzia gegen Muslimbruderschaft: 1000 Beamte im Einsatz",
-      "titleTarget" : "Müslüman Kardeşler'e terör saldırısı: 1000 görevli",
+      "titleSource" : "Terror-Razzia: Weder Waffen noch Sprengstoff gefunden",
+      "titleTarget" : "Terör baskını: ne silah ne de patlayıcı bulundu",
       "url" : "https://kurier.at/chronik/oesterreich/razzien-bei-muslimbruderschaft-60-wohnungen-durchsucht/401091099"
+    }, {
+      "id" : "eplmg7fQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4748883/46-168523372.jpg",
+      "titleSource" : "Fast 5.600 CoV-Neuinfektionen in Österreich; Aschbacher: 500.000 Arbeitslose bis Jahresende",
+      "titleTarget" : "Avusturya'da yaklaşık 5.600 yeni CoV enfeksiyonu; Aschbacher: Yıl sonuna kadar 500.000 işsiz",
+      "url" : "https://kurier.at/chronik/oesterreich/lockdown-anschober-droht-mit-verschaerfung-schulschliessung-schaeden-groesser-als-befuerchtet/401091045"
+    }, {
+      "id" : "FvEd5iJl",
+      "imgUrl" : "https://image.kurier.at/images/original/4748634/46-168769043.jpg",
+      "titleSource" : "Trotz Corona: 8.000 Besucher bei Möbelhaus-Eröffnung am Wochenende",
+      "titleTarget" : "Corona'ya rağmen: Hafta sonu açılan mobilya mağazasında 8.000 ziyaretçi",
+      "url" : "https://kurier.at/chronik/oesterreich/8000-besucher-bei-moebelhaus-eroeffnung-kulturzentrum-reagiert-mit-humor/401091501"
     }, {
       "id" : "yLAo27zO",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/87/crops/w=1280/746556_opener_259087_andrangmoebelhauseroeffnunglutz2.jpg?s=6a8f0cd5e7d393145f809ea26864ef763336c3bd",
@@ -109,17 +120,17 @@
       "titleTarget" : "Mobilya mağazasının yeniden açılmasıyla ilgili tartışma",
       "url" : "https://salzburg.orf.at/stories/3075033/"
     }, {
-      "id" : "baXleWyP",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/16/86/crops/w=1280/533803_opener_180986_maske3.jpg?s=84ae7f2b036143a331545129fcead06794cb542e",
-      "titleSource" : "Warnung vor Augenproblemen durch Masken",
-      "titleTarget" : "Maskelerin neden olduğu göz sorunlarına karşı uyarı",
-      "url" : "https://salzburg.orf.at/stories/3074894/"
+      "id" : "dq8SVobM",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/44/17/crops/w=1280/735528_opener_255317_biosampak-salami-v2.jpg?s=13456f3e31fbd57656aec11b4bae11e259d311f3",
+      "titleSource" : "Bio-Verpackung „made in Klagenfurt“",
+      "titleTarget" : "Organik ambalaj \"Klagenfurt'ta üretilmiştir\"",
+      "url" : "https://kaernten.orf.at/stories/3073577/"
     }, {
-      "id" : "ITobEduh",
-      "imgUrl" : "https://image.kurier.at/images/original/4747038/46-162855640.jpg",
-      "titleSource" : "Laborpanne: Salzburgs Bürgermeister doch nicht Corona-positiv",
-      "titleTarget" : "Laboratuvar dökümü: Salzburg belediye başkanı korona pozitif değil",
-      "url" : "https://kurier.at/chronik/oesterreich/laborpanne-salzburgs-buergermeister-doch-nicht-corona-positiv/401090733"
+      "id" : "AZpPMon3",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/09/crops/w=1280/746930_opener_259209_bergungbrandberg1.jpg?s=acc46fcebe9b9c680c2178b855f38f101344ae3d",
+      "titleSource" : "Bergnot bei Hochtour im Zillertal",
+      "titleTarget" : "Zillertal'daki yüksek turlar sırasında dağ zorlukları",
+      "url" : "https://tirol.orf.at/stories/3075092/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -136,17 +147,16 @@
       "titleTarget" : "Arjantinli film yapımcısı Solanas öldü",
       "url" : "https://kurier.at/kultur/argentinischer-filmemacher-solanas-ist-tot/401090865"
     }, {
-      "id" : "h6NDgmtt",
-      "imgUrl" : "https://image.kurier.at/images/original/3896615/78452305851504144_BLD_Online.jpg",
-      "titleSource" : "Koreanische Boygroup BTS größter Gewinner bei MTV Europe Music Awards",
-      "titleTarget" : "Koreli erkek grubu BTS, MTV Avrupa Müzik Ödülleri'nde En Büyük Kazanan",
-      "url" : "https://kurier.at/kultur/koreanische-boygroup-bts-groesster-gewinner-bei-mtv-europe-music-awards/401091159"
+      "id" : "Abmv7VV4",
+      "imgUrl" : "https://image.kurier.at/images/original/4748607/46-107788903.jpg",
+      "titleSource" : "Nach Streit mit Verlag: Autorin Maron wechselt zu Hoffmann und Campe",
+      "titleTarget" : "Yayıncı ile bir anlaşmazlığın ardından: Yazar Maron, Hoffmann und Campe olarak değiştirildi",
+      "url" : "https://kurier.at/kultur/nach-streit-mit-verlag-autorin-maron-wechselt-zu-hoffmann-und-campe/401091579"
     }, {
-      "id" : "bZumybn0",
-      "imgUrl" : "https://image.kurier.at/images/original/4747926/46-168755106.jpg",
-      "titleSource" : "Langjähriger \"Jeopardy!\"-Moderator Alex Trebek gestorben",
-      "titleTarget" : "Uzun zamandır \"Jeopardy!\" Sunucusu Alex Trebek öldü",
-      "url" : "https://kurier.at/kultur/medien/langjaehriger-jeopardy-moderator-alex-trebek-gestorben/401091165"
+      "id" : "7hrpni4P",
+      "imgUrl" : "https://image.kurier.at/images/original/4748478/46-145245717.jpg",
+      "titleSource" : "Trump-Imitator Baldwin: \"War nie so überglücklich, einen Job zu verlieren\"",
+      "url" : "https://kurier.at/kultur/medien/trump-imitator-baldwin-war-nie-so-uebergluecklich-einen-job-zu-verlieren/401091531"
     }, {
       "id" : "4VUifZoS",
       "imgUrl" : "https://image.kurier.at/images/original/4748406/46-167124448.jpg",
@@ -154,17 +164,17 @@
       "titleTarget" : "BTS: Sanat dünyasının hızını belirleyen bir erkek grubu",
       "url" : "https://kurier.at/kultur/bts-eine-boyband-als-taktgeber-des-kunstbetriebs/401091339"
     }, {
-      "id" : "dDjjUZLo",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/e/8/5894632/5B6972AE-4508-40BF-83E0-8834CA9F89B8_v0_h.jpg",
-      "titleSource" : "Neuer Volkstheater-Direktor startet mit Grenzgängen",
-      "titleTarget" : "Yeni Volkstheater yönetmeni sınır geçişleriyle başlıyor",
-      "url" : "https://www.diepresse.com/5894632/Spielplan_Neuer-VolkstheaterDirektor-startet-mit-Grenzgaengen?from=rss"
+      "id" : "rzl4wFns",
+      "imgUrl" : "https://image.kurier.at/images/original/4748229/46-168766230.jpg",
+      "titleSource" : "Volkstheater startet in erste Voges-Spielzeit: Von Jandl bis Meese",
+      "titleTarget" : "Volkstheater ilk Voges sezonunda başlıyor: Jandl'dan Meese'ye",
+      "url" : "https://kurier.at/kultur/volkstheater-startet-in-erste-voges-spielzeit-von-jandl-bis-meese/401091336"
     }, {
-      "id" : "sd0dJa2R",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/e/8/5894632/5B6972AE-4508-40BF-83E0-8834CA9F89B8_v0_h.jpg",
-      "titleSource" : "Neuer Volkstheater-Direktor startet mit Grenzgängen",
-      "titleTarget" : "Yeni Volkstheater yönetmeni sınır geçişleriyle başlıyor",
-      "url" : "https://www.diepresse.com/5894632/Theater_Neuer-VolkstheaterDirektor-startet-mit-Grenzgaengen?from=rss"
+      "id" : "h6NDgmtt",
+      "imgUrl" : "https://image.kurier.at/images/original/3896615/78452305851504144_BLD_Online.jpg",
+      "titleSource" : "Koreanische Boygroup BTS größter Gewinner bei MTV Europe Music Awards",
+      "titleTarget" : "Koreli erkek grubu BTS, MTV Avrupa Müzik Ödülleri'nde En Büyük Kazanan",
+      "url" : "https://kurier.at/kultur/koreanische-boygroup-bts-groesster-gewinner-bei-mtv-europe-music-awards/401091159"
     } ]
   }, {
     "category" : "HEALTH",
@@ -181,13 +191,17 @@
       "id" : "TAcIIrGX",
       "imgUrl" : "https://image.kurier.at/images/original/4747671/46-168755070.jpg",
       "titleSource" : "Kühbauer nach dem Hit gegen Salzburg: \"Das macht riesige Freude\"",
-      "titleTarget" : "Salzburg'a yapılan vuruştan sonra Kühbauer: \"Bu büyük bir zevk\"",
       "url" : "https://kurier.at/sport/fussball/rapid-trainer-kuehbauer-nach-dem-11-im-hit-gegen-salzburg-das-macht-riesige-freude/401090985"
     }, {
       "id" : "ZJKIDZnH",
       "titleSource" : "LASK bleibt sicher in Erfolgsspur",
       "titleTarget" : "LASK başarıya giden yolda kalacağından emin",
       "url" : "https://sport.orf.at/stories/3069117/"
+    }, {
+      "id" : "kMJQeI1K",
+      "titleSource" : "Salzburg meldet neuen CoV-Cluster",
+      "titleTarget" : "Salzburg yeni CoV kümesini bildirdi",
+      "url" : "https://sport.orf.at/stories/3069142/"
     }, {
       "id" : "QSXKbHl1",
       "titleSource" : "Sechs Teamspieler von Salzburg CoV-positiv",
@@ -200,16 +214,10 @@
       "titleTarget" : "Rapid'de Kracher'in ardından: Salzburg yakınlarında altı pozitif Corona vakası",
       "url" : "https://kurier.at/sport/fussball/nach-liga-kracher-bei-rapid-wien-sechs-positive-corona-faelle-bei-red-bull-salzburg/401091255"
     }, {
-      "id" : "PyDCkeC3",
-      "imgUrl" : "https://image.kurier.at/images/original/4747716/46-168757499.jpg",
-      "titleSource" : "Heimdebakel für Rapids EL-Gegner Arsenal gegen Aston Villa",
-      "titleTarget" : "Rapids EL rakipleri Arsenal için Aston Villa'ya karşı iç saha fiyaskosu",
-      "url" : "https://kurier.at/sport/fussball/heimdebakel-fuer-rapids-el-gegner-arsenal-gegen-aston-villa/401091000"
-    }, {
-      "id" : "dGN39H3s",
-      "titleSource" : "Mir rückt WM-Krone mit erstem Sieg näher",
-      "titleTarget" : "İlk zaferimle Dünya Kupası tacına yaklaşıyorum",
-      "url" : "https://sport.orf.at/stories/3069110/"
+      "id" : "anwgcaHm",
+      "titleSource" : "Interimscoach Milot neuer Cheftrainer von Steyr",
+      "titleTarget" : "Geçici antrenör Milot, Steyr'in yeni baş antrenörü",
+      "url" : "https://sport.orf.at/stories/3069126/"
     } ]
   } ],
   "country" : "austria",
