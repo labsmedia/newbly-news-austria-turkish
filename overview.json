@@ -8,12 +8,6 @@
       "titleTarget" : "\"Kısmi kilitlemede\" Avusturya: Bu kurallar artık geçerlidir",
       "url" : "https://kurier.at/politik/inland/lockdown-diese-corona-regeln-gelten-ab-dienstag-0000-uhr/401083170"
     }, {
-      "id" : "D4H3HHUX",
-      "imgUrl" : "https://image.kurier.at/images/original/4259903/46-164068050.jpg",
-      "titleSource" : "Woche der Entscheidung: Letzte Chance für die Corona-Wende",
-      "titleTarget" : "Karar haftası: Corona dönüşü için son şans",
-      "url" : "https://kurier.at/politik/inland/woche-der-entscheidung-letzte-chance-fuer-die-corona-wende/401090913"
-    }, {
       "id" : "o2qpeVxI",
       "imgUrl" : "https://image.kurier.at/images/original/4656913/78370011356625816_BLD_Online.jpg",
       "titleSource" : "Kampf dem Terror: Kurz reist am Dienstag zu Macron nach Frankreich",
@@ -26,23 +20,29 @@
       "titleTarget" : "Adalet Bakanı Zadić kendini tecritte",
       "url" : "https://kurier.at/politik/inland/justizministerin-zadic-in-selbst-isolation/401091606"
     }, {
-      "id" : "dwzafNee",
-      "imgUrl" : "https://image.kurier.at/images/original/1744311/46-58503927.jpg",
-      "titleSource" : "Gedenken: Die Nacht, in der die Synagogen brannten",
-      "titleTarget" : "Anma: Sinagogların yandığı gece",
-      "url" : "https://kurier.at/politik/inland/gedenken-die-nacht-in-der-die-synagogen-brannten/401091414"
-    }, {
       "id" : "EMF181G0",
       "imgUrl" : "https://image.kurier.at/images/original/4746081/46-168704287.jpg",
       "titleSource" : "Anschober: \"Gute Chance\" für Corona-Vakzine Anfang 2021",
       "titleTarget" : "Anschober: 2021'in başlarında korona aşıları için \"iyi şans\"",
       "url" : "https://kurier.at/politik/inland/anschober-gute-chance-fuer-corona-vakzine-anfang-2021/401092146"
     }, {
+      "id" : "weCNg6Dt",
+      "imgUrl" : "https://image.kurier.at/images/original/4745817/78350011457383838_BLD_Online.jpg",
+      "titleSource" : "Nach Anschober-Gespräch: Opposition kritisiert \"Blindflug\" bei Corona-Strategie",
+      "titleTarget" : "Bir Anschober konuşmasının ardından: Muhalefet korona stratejisindeki \"kör uçuşu\" eleştiriyor",
+      "url" : "https://kurier.at/politik/inland/nach-anschober-gespraech-opposition-kritisiert-blindflug-bei-corona-strategie/401092245"
+    }, {
       "id" : "9NtINZjF",
       "imgUrl" : "https://image.kurier.at/images/original/4749837/46-168777582.jpg",
       "titleSource" : "Michel bei Kondolenz-Besuch in Wien: Idee zu \"EU-Institut zur Ausbildung von Imamen\"",
       "titleTarget" : "Michel, Viyana'ya taziye ziyaretinde: \"AB İmamların Eğitimi Enstitüsü\" fikri",
       "url" : "https://kurier.at/politik/inland/michel-bei-kondolenz-besuch-in-wien-idee-zu-eu-institut-zur-ausbildung-von-imamen/401092179"
+    }, {
+      "id" : "lJB3Afuu",
+      "imgUrl" : "https://image.kurier.at/images/original/4734084/20201101-ABD0158-1-1.jpg",
+      "titleSource" : "U-Ausschuss: Sobotka will in Nationalbibliothek ausweichen",
+      "titleTarget" : "U Komitesi: Sobotka milli kütüphaneye gitmek istiyor",
+      "url" : "https://kurier.at/politik/inland/untersuchungsausschuss-sobotka-will-in-die-nationalbibliothek-ausweichen/401091882"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -53,11 +53,17 @@
       "titleTarget" : "Sağlıksız yiyecekler için reklam yasağından korkuluyor: Kargaşa içinde sanayi",
       "url" : "https://kurier.at/wirtschaft/werbeverbot-fuer-ungesunde-lebensmittel-befuerchtet-branche-in-aufruhr/401091705"
     }, {
-      "id" : "yF0SFfPC",
-      "imgUrl" : "https://image.kurier.at/images/original/4722174/78370011357187136_BLD_Online.jpg",
-      "titleSource" : "Arbeitsministerin erwartet 500.000 Arbeitslose bis Ende des Jahres",
-      "titleTarget" : "Çalışma Bakanı yıl sonuna kadar 500.000 işsiz bekliyor",
-      "url" : "https://kurier.at/wirtschaft/arbeitsministerin-erwartet-500000-arbeitslose-bis-ende-des-jahres/401091765"
+      "id" : "3qxP88Rj",
+      "imgUrl" : "https://image.kurier.at/images/original/1836369/KonjunkturCBuongiornocom_400x318.jpg",
+      "titleSource" : "Ökonom Felbermayr: \"Impfstoff ändert für die Konjunktur alles\"",
+      "titleTarget" : "Ekonomist Felbermayr: \"Aşı ekonomi için her şeyi değiştiriyor\"",
+      "url" : "https://kurier.at/wirtschaft/oekonom-felbermayr-impfstoff-aendert-fuer-die-konjunktur-alles/401092377"
+    }, {
+      "id" : "auzz2lR4",
+      "imgUrl" : "https://image.kurier.at/images/original/4559981/78370011355812184_BLD_Online.jpg",
+      "titleSource" : "voestalpine: Massive Verluste zum Halbjahr",
+      "titleTarget" : "voestalpine: İlk yarıda büyük kayıplar",
+      "url" : "https://kurier.at/wirtschaft/voestalpine-massive-verluste-zum-halbjahr/401092347"
     }, {
       "id" : "aMYhed3y",
       "imgUrl" : "https://image.kurier.at/images/original/4748217/46-164264731.jpg",
@@ -65,29 +71,23 @@
       "titleTarget" : "Coronavirus: Okul kapanışları yüksek maliyetlerle sonuçlanıyor",
       "url" : "https://kurier.at/wirtschaft/coronavirus-schulschliessungen-ziehen-hohe-kosten-nach-sich/401091861"
     }, {
+      "id" : "yF0SFfPC",
+      "imgUrl" : "https://image.kurier.at/images/original/4722174/78370011357187136_BLD_Online.jpg",
+      "titleSource" : "Arbeitsministerin erwartet 500.000 Arbeitslose bis Ende des Jahres",
+      "titleTarget" : "Çalışma Bakanı yıl sonuna kadar 500.000 işsiz bekliyor",
+      "url" : "https://kurier.at/wirtschaft/arbeitsministerin-erwartet-500000-arbeitslose-bis-ende-des-jahres/401091765"
+    }, {
+      "id" : "f1TzkpOJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4062498/78370011352679120_BLD_Online.jpg",
+      "titleSource" : "Boeing 737 Max könnte noch im November Starterlaubnis erhalten",
+      "titleTarget" : "Boeing 737 Max, Kasım ayında kalkış izni alabilir",
+      "url" : "https://kurier.at/wirtschaft/boeing-737-max-koennte-noch-im-november-starterlaubnis-erhalten/401092356"
+    }, {
       "id" : "36A7a2AW",
       "imgUrl" : "https://image.kurier.at/images/original/4749726/46-168776482.jpg",
       "titleSource" : "Streetwear-Label Supreme für 2,1 Mrd. Dollar verkauft",
       "titleTarget" : "Streetwear markası Supreme 2,1 milyar dolara satıldı",
       "url" : "https://kurier.at/wirtschaft/streetwear-label-supreme-fuer-21-mrd-dollar-verkauft/401092128"
-    }, {
-      "id" : "lGBrfoqR",
-      "imgUrl" : "https://image.kurier.at/images/original/4442312/46-163464797.jpg",
-      "titleSource" : "Impfstoff-Hoffnung sorgt europaweit für Kursfeuerwerk an den Börsen",
-      "titleTarget" : "Aşı umudu, Avrupa borsalarında fiyatların havaya uçmasına neden oluyor",
-      "url" : "https://kurier.at/wirtschaft/impfstoff-hoffnung-sorgt-europaweit-fuer-kursfeuerwerk-an-den-boersen/401091717"
-    }, {
-      "id" : "oK1bd85C",
-      "imgUrl" : "https://image.kurier.at/images/original/1530939/handel-000_Deutsch%252BGerhard.jpg",
-      "titleSource" : "Handelsverband ortet \"dramatische Umsatzverluste\"",
-      "titleTarget" : "Ticaret birliği \"dramatik satış kayıplarını\" tespit ediyor",
-      "url" : "https://kurier.at/wirtschaft/handelsverband-ortet-dramatische-umsatzverluste/401092134"
-    }, {
-      "id" : "o1JoIZcO",
-      "imgUrl" : "https://image.kurier.at/images/original/4223291/46-163735382.jpg",
-      "titleSource" : "Goldpreis steigt nach Biden-Sieg auf höchsten Stand seit September",
-      "titleTarget" : "Altın fiyatı, Biden zaferinin ardından Eylül ayından bu yana en yüksek seviyesine yükseldi",
-      "url" : "https://kurier.at/wirtschaft/goldpreis-steigt-nach-biden-sieg-auf-hoechsten-stand-seit-september/401091663"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -104,12 +104,6 @@
       "titleTarget" : "CoV ile enfekte kişi sayısı tekrar düştü",
       "url" : "https://tirol.orf.at/stories/3075204/"
     }, {
-      "id" : "eplmg7fQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4749570/46-164336549.jpg",
-      "titleSource" : "Ö: Spitäler fahren Operationen zurück; USA: Höchste Zahl an Infizierten weltweit",
-      "titleTarget" : "Avusturya'da yaklaşık 5.600 yeni CoV enfeksiyonu; Aschbacher: Yıl sonuna kadar 500.000 işsiz",
-      "url" : "https://kurier.at/chronik/oesterreich/lockdown-anschober-droht-mit-verschaerfung-schulschliessung-schaeden-groesser-als-befuerchtet/401091045"
-    }, {
       "id" : "BHhV5zOu",
       "imgUrl" : "https://image.kurier.at/images/original/4277528/illus_corona_24.4_oe_bezirke.png",
       "titleSource" : "Coronavirus: Aktuelle Infektionszahlen in Österreich",
@@ -122,17 +116,23 @@
       "titleTarget" : "Mobilya mağazası açılışı: kültür için eşit olmayan muamele",
       "url" : "https://salzburg.orf.at/stories/3075199/"
     }, {
-      "id" : "TaIhccXP",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/03/67/crops/w=1280/435871_opener_144267_on-2020-01-17-16h25m34s921.jpg?s=339488a296c8650c191bbac6fd0eda1a06afa0e6",
-      "titleSource" : "Elf-Städte-Tour wurde abgesagt",
-      "titleTarget" : "On bir şehir turu iptal edildi",
-      "url" : "https://kaernten.orf.at/stories/3075183/"
+      "id" : "AIUDacH1",
+      "imgUrl" : "https://image.kurier.at/images/original/4749720/46-168746645.jpg",
+      "titleSource" : "Illegaler Waffenhandel: Drei Mal verurteilt, doch nie in Haft",
+      "titleTarget" : "Yasadışı silah ticareti: üç kez mahkum edildi, ancak asla hapse atılmadı",
+      "url" : "https://kurier.at/chronik/oesterreich/illegaler-waffenhandel-drei-mal-verurteilt-doch-nie-in-haft/401092122"
     }, {
       "id" : "r3ikEL32",
       "imgUrl" : "https://image.kurier.at/images/original/4748127/46-168709491.jpg",
       "titleSource" : "Fast 5.600 neue Corona-Infektionen in Österreich",
       "titleTarget" : "Avusturya'da yaklaşık 5.600 yeni korona enfeksiyonu",
       "url" : "https://kurier.at/chronik/oesterreich/etwas-mehr-als-5500-neue-corona-infektionen-in-oesterreich/401091270"
+    }, {
+      "id" : "CKarIoMg",
+      "imgUrl" : "https://image.kurier.at/images/original/4516610/46-165802616.jpg",
+      "titleSource" : "Ab morgen: Geschäfte schließen um 19 Uhr; Kinderärzte gegen Schulschließungen",
+      "titleTarget" : "Yarından itibaren: mağazalar 19: 00'da kapanıyor; Çocuk doktorları okulların kapanmasına karşı",
+      "url" : "https://kurier.at/chronik/oesterreich/forscher-sind-im-kritischen-bereich-angekommen-spitaeler-fahren-operationen-zurueck/401092296"
     } ]
   }, {
     "category" : "CULTURE",
@@ -149,23 +149,17 @@
       "titleTarget" : "Trump taklitçisi Baldwin: \"Bir işini kaybetmekten hiç bu kadar mutlu olmamıştı\"",
       "url" : "https://kurier.at/kultur/medien/trump-imitator-baldwin-war-nie-so-uebergluecklich-einen-job-zu-verlieren/401091531"
     }, {
+      "id" : "jeLxNsfy",
+      "imgUrl" : "https://image.kurier.at/images/original/4749147/46-168725064.jpg",
+      "titleSource" : "Neue Folgen von \"Meiberger\" auf ServusTV",
+      "titleTarget" : "ServusTV'de yeni \"Meiberger\" bölümleri",
+      "url" : "https://kurier.at/kultur/neue-folgen-von-meiberger-auf-servustv/401091933"
+    }, {
       "id" : "X9TlSFkw",
       "imgUrl" : "https://image.kurier.at/images/original/4749516/46-54197233.jpg",
       "titleSource" : "Zeitzeuge George Newman (1924–2020) verstorben",
       "titleTarget" : "Çağdaş tanık George Newman (1924–2020) vefat etti",
       "url" : "https://kurier.at/kultur/zeitzeuge-george-newman-1924-2020-verstorben/401091987"
-    }, {
-      "id" : "4VUifZoS",
-      "imgUrl" : "https://image.kurier.at/images/original/4748406/46-167124448.jpg",
-      "titleSource" : "BTS: Eine Boyband als Taktgeber des Kunstbetriebs",
-      "titleTarget" : "BTS: Sanat dünyasının hızını belirleyen bir erkek grubu",
-      "url" : "https://kurier.at/kultur/bts-eine-boyband-als-taktgeber-des-kunstbetriebs/401091339"
-    }, {
-      "id" : "rzl4wFns",
-      "imgUrl" : "https://image.kurier.at/images/original/4748229/46-168766230.jpg",
-      "titleSource" : "Volkstheater startet in erste Voges-Spielzeit: Von Jandl bis Meese",
-      "titleTarget" : "Volkstheater ilk Voges sezonunda başlıyor: Jandl'dan Meese'ye",
-      "url" : "https://kurier.at/kultur/volkstheater-startet-in-erste-voges-spielzeit-von-jandl-bis-meese/401091336"
     }, {
       "id" : "Ei9mEjJh",
       "imgUrl" : "https://image.kurier.at/images/original/2356890/marvelous-mrs-maisel_6.jpg",
@@ -178,6 +172,12 @@
       "titleSource" : "Causa Erl: 177.100 Euro Strafzahlung für Kuhn und Festspiele",
       "titleTarget" : "Causa Erl: Kuhn ve Festival için 177.100 € para cezası",
       "url" : "https://kurier.at/kultur/causa-erl-177100-euro-strafzahlung-fuer-kuhn-und-festspiele/401091957"
+    }, {
+      "id" : "DQ4EY5ZV",
+      "imgUrl" : "https://image.kurier.at/images/original/4684035/46-167158929.jpg",
+      "titleSource" : "Netflix testet klassisch-lineares Fernsehen in Frankreich",
+      "titleTarget" : "Netflix, Fransa'da klasik doğrusal televizyonu test ediyor",
+      "url" : "https://kurier.at/kultur/medien/netflix-testet-klassisch-lineares-fernsehen-in-frankreich/401091939"
     } ]
   }, {
     "category" : "HEALTH",
@@ -185,43 +185,41 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "TAcIIrGX",
-      "imgUrl" : "https://image.kurier.at/images/original/4747671/46-168755070.jpg",
-      "titleSource" : "Kühbauer nach dem Hit gegen Salzburg: \"Das macht riesige Freude\"",
-      "titleTarget" : "Salzburg'a yapılan vuruştan sonra Kühbauer: \"Bu büyük bir zevk\"",
-      "url" : "https://kurier.at/sport/fussball/rapid-trainer-kuehbauer-nach-dem-11-im-hit-gegen-salzburg-das-macht-riesige-freude/401090985"
-    }, {
-      "id" : "DJyhmeGm",
-      "titleSource" : "Perfekte Steelers und „Abreibung“ für Brady",
-      "titleTarget" : "Perfect Steelers ve Brady için \"ovalama\"",
-      "url" : "https://sport.orf.at/stories/3069135/"
-    }, {
-      "id" : "Piw2kIrN",
-      "imgUrl" : "https://image.kurier.at/images/original/4748220/46-168111144.jpg",
-      "titleSource" : "Beim Masturbieren gefilmt: WM-Held fliegt aus Nationalteam",
-      "titleTarget" : "Mastürbasyon yaparken çekildi: Dünya Kupası kahramanı milli takımdan uçuyor",
-      "url" : "https://kurier.at/sport/fussball/beim-masturbieren-gefilmt-russischer-wm-held-artem-dzyuba-fliegt-aus-nationalteam/401091384"
-    }, {
-      "id" : "kMJQeI1K",
-      "titleSource" : "Salzburg meldet neuen CoV-Cluster",
-      "titleTarget" : "Salzburg yeni CoV kümesini bildirdi",
-      "url" : "https://sport.orf.at/stories/3069142/"
-    }, {
-      "id" : "ZhLmgsxi",
-      "imgUrl" : "https://image.kurier.at/images/original/4747992/46-168753760.jpg",
-      "titleSource" : "Nach Kracher bei Rapid: Sechs positive Corona-Fälle bei Salzburg",
-      "titleTarget" : "Rapid'de Kracher'in ardından: Salzburg yakınlarında altı pozitif Corona vakası",
-      "url" : "https://kurier.at/sport/fussball/nach-liga-kracher-bei-rapid-wien-sechs-positive-corona-faelle-bei-red-bull-salzburg/401091255"
+      "id" : "nlpRj5sA",
+      "titleSource" : "Alle Salzburg-Spieler CoV-negativ getestet",
+      "titleTarget" : "Tüm Salzburg oyuncuları CoV negatif test etti",
+      "url" : "https://sport.orf.at/stories/3069166/"
     }, {
       "id" : "WYekwbCd",
       "titleSource" : "Österreicher fahren im Herbst die Ernte ein",
       "titleTarget" : "Avusturyalılar hasadı sonbaharda getirir",
       "url" : "https://sport.orf.at/stories/3069149/"
     }, {
-      "id" : "QSXKbHl1",
-      "titleSource" : "Sechs Teamspieler von Salzburg CoV-positiv",
-      "titleTarget" : "Salzburg CoV'den altı takım oyuncusu pozitif",
-      "url" : "https://sport.orf.at/stories/3069141/"
+      "id" : "8cOVcIua",
+      "imgUrl" : "https://image.kurier.at/images/original/4749924/46-168755135.jpg",
+      "titleSource" : "Bänderriss! Rapid-Kapitän Ljubicic fällt mehrere Wochen aus",
+      "titleTarget" : "Yırtık bağ! Hızlı kaptan Ljubicic birkaç haftadır dışarıda.",
+      "url" : "https://kurier.at/sport/fussball/baenderriss-rapid-kapitaen-ljubicic-faellt-mehrere-wochen-aus/401092224"
+    }, {
+      "id" : "WY6vXwjf",
+      "titleSource" : "KAC rutscht gegen Nachzügler Dornbirn aus",
+      "titleTarget" : "KAC, başıboş Dornbirn'e karşı kayıyor",
+      "url" : "https://sport.orf.at/stories/3069163/"
+    }, {
+      "id" : "n5Y3v9vH",
+      "titleSource" : "Nach neuerlichen CoV-Tests: Alle Salzburg-Spieler negativ",
+      "titleTarget" : "Yeni CoV testlerinden sonra: tüm Salzburg oyuncuları negatif",
+      "url" : "https://sport.orf.at/stories/3069167/"
+    }, {
+      "id" : "85uMGx5r",
+      "titleSource" : "Salzburg-Cluster zieht weite Kreise",
+      "titleTarget" : "Salzburg kümesi geniş daireler çiziyor",
+      "url" : "https://sport.orf.at/stories/3069154/"
+    }, {
+      "id" : "mD4Jbu5j",
+      "titleSource" : "Erstes Teamtraining mit nur 13 Spielern",
+      "titleTarget" : "Sadece 13 oyuncuyla ilk takım eğitimi",
+      "url" : "https://sport.orf.at/stories/3069160/"
     } ]
   } ],
   "country" : "austria",
