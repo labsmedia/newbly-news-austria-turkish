@@ -2,29 +2,11 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "ePZuyyay",
-      "imgUrl" : "https://image.kurier.at/images/original/4777698/46-168883907.jpg",
-      "titleSource" : "Regierung verdoppelt Inseratenbudget und plant Kampagne für Eigen-PR",
-      "titleTarget" : "Hükümet, reklam bütçesini ikiye katladı ve kendi kendine PR kampanyası planlıyor",
-      "url" : "https://kurier.at/politik/inland/regierung-will-sich-um-30-mio-euro-selbst-bewerben/401108022"
-    }, {
-      "id" : "x4fLotUY",
-      "imgUrl" : "https://image.kurier.at/images/original/4777578/46-165722114.jpg",
-      "titleSource" : "Statt Weihnachtsfeiern: 365-Euro-Gutscheine für Mitarbeiter",
-      "titleTarget" : "Noel partileri yerine: çalışanlar için 365 euro kupon",
-      "url" : "https://kurier.at/politik/inland/statt-weihnachtsfeiern-365-euro-gutscheine-fuer-mitarbeiter/401107890"
-    }, {
-      "id" : "AuKrmaNl",
-      "imgUrl" : "https://image.kurier.at/images/original/4777953/46-167149950.jpg",
-      "titleSource" : "Testunwillige Lehrer könnten zu FFP2-Masken im Unterricht verpflichtet werden",
-      "titleTarget" : "Test etmek istemeyen öğretmenler sınıfta FFP2 maskeleri kullanmak zorunda kalabilir",
-      "url" : "https://kurier.at/politik/inland/verfassungsjurist-lehrer-oder-beamte-koennen-nicht-zu-massentest-gezwungen-werden/401108001"
-    }, {
-      "id" : "h1TFcy2F",
-      "imgUrl" : "https://image.kurier.at/images/original/4778163/46-166737548.jpg",
-      "titleSource" : "Grüne sind gegen Statistik zu Abtreibungen, ÖVP-Ministerinnen dafür",
-      "titleTarget" : "Yeşiller kürtaj istatistiklerine karşı, ÖVP bakanları destekliyor",
-      "url" : "https://kurier.at/politik/inland/gruene-sind-gegen-statistik-zu-abtreibungen-oevp-ministerinnen-dafuer/401108301"
+      "id" : "lzdOuaqz",
+      "imgUrl" : "https://image.kurier.at/images/original/4756362/46-168837584.jpg",
+      "titleSource" : "FPÖ ruft indirekt zum Boykott der Massentests auf - ÖVP schäumt",
+      "titleTarget" : "FPÖ dolaylı yoldan kitle testlerini boykot çağrısında bulundu - ÖVP köpükleri",
+      "url" : "https://kurier.at/politik/inland/coronavirus-fpoe-ruft-indirekt-zum-boykott-der-massentests-auf/401109117"
     }, {
       "id" : "1Oz0O9vA",
       "imgUrl" : "https://image.kurier.at/images/original/4779054/46-168915195.jpg",
@@ -32,50 +14,56 @@
       "titleTarget" : "Doktor patronu: \"Toplu test yararlı, ancak parti yapma yetkisi değil\"",
       "url" : "https://kurier.at/politik/inland/aerzte-chef-massentest-hilfreich-aber-kein-freibrief-zum-partyfeiern/401108649"
     }, {
-      "id" : "Y38QvoWb",
-      "imgUrl" : "https://image.kurier.at/images/original/4777923/46-169054904.jpg",
-      "titleSource" : "Anschober: Kein Contact Tracing nach flächendeckenden Massentests",
-      "titleTarget" : "Anchober: Kapsamlı kütle testlerinden sonra temas izi yok",
-      "url" : "https://kurier.at/politik/inland/anschober-kein-vollstaendiges-contact-tracing-nach-massentests/401108148"
-    }, {
       "id" : "1YehlrSu",
       "imgUrl" : "https://image.kurier.at/images/original/4666363/78350011456704856_BLD_Online.jpg",
       "titleSource" : "Parlament mietet um 500.000 Euro Ausweichquartier für Ausschuss an",
       "titleTarget" : "Parlamento, komite için 500.000 avroya alternatif mahalleler kiraladı",
       "url" : "https://kurier.at/politik/inland/parlament-mietet-um-500000-euro-ausweichquartier-fuer-ausschuss-an/401108790"
+    }, {
+      "id" : "t0XRivot",
+      "imgUrl" : "https://image.kurier.at/images/original/4779726/20201125-ABD0036-1-1.jpg",
+      "titleSource" : "\"Sehr, sehr behutsam\": Öffnungsplan nach dem Lockdown kommt nächste Woche",
+      "titleTarget" : "\"Çok, çok dikkatli\": Kilitleme sonrası açılış planı gelecek hafta gelecek",
+      "url" : "https://kurier.at/politik/inland/corona-tests-und-impfung-als-licht-am-ende-des-tunnels/401109150"
+    }, {
+      "id" : "B0MNy7Ts",
+      "imgUrl" : "https://image.kurier.at/images/original/4599467/46-143422317.jpg",
+      "titleSource" : "Mindeststudienleistung hinuntergeschraubt",
+      "titleTarget" : "Minimum akademik başarı düşürüldü",
+      "url" : "https://kurier.at/politik/inland/mindeststudienleistung-hinuntergeschraubt/401108973"
+    }, {
+      "id" : "TBPuxSGu",
+      "imgUrl" : "https://image.kurier.at/images/original/4779543/46-168812299.jpg",
+      "titleSource" : "Ministerrat beschließt Impfstrategie und Massentests",
+      "titleTarget" : "Bakanlar Kurulu aşılama stratejisini ve toplu testleri benimser",
+      "url" : "https://kurier.at/politik/inland/ministerrat-beschliesst-impfstrategie-und-massentests/401109150"
+    }, {
+      "id" : "Z16GbDz1",
+      "imgUrl" : "https://image.kurier.at/images/original/4766022/46-167203898.jpg",
+      "titleSource" : "Justiz-Online bringt gebührenfreie Akteneinsicht",
+      "titleTarget" : "Justiz-Online dosyalara ücretsiz erişim sağlar",
+      "url" : "https://kurier.at/politik/inland/justiz-online-bringt-gebuehrenfreie-akteneinsicht/401109387"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "WdvmlXmV",
-      "imgUrl" : "https://image.kurier.at/images/original/4484807/78370011355238142_BLD_Online.jpg",
-      "titleSource" : "Lufthansa will keinen Impfnachweis von Passagieren - Qantas schon",
-      "titleTarget" : "Lufthansa yolcuların aşı olmasını istemiyor - Qantas aşı",
-      "url" : "https://kurier.at/wirtschaft/aua-mutter-lufthansa-will-keinen-impfnachweis-von-passagieren/401107860"
-    }, {
-      "id" : "JLxn02UF",
-      "imgUrl" : "https://image.kurier.at/images/original/4110102/46-155893517.jpg",
-      "titleSource" : "Tesla‐Chef Musk überholt Bill Gates in Milliardärs‐Rangliste",
-      "titleTarget" : "Tesla patronu Musk, milyarder sıralamasında Bill Gates'i geride bıraktı",
-      "url" : "https://kurier.at/wirtschaft/tesla-chef-musk-ueberholt-bill-gates-in-milliardaers-rangliste/401108118"
-    }, {
-      "id" : "DATLZOgJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4777941/78350011457646906_BLD_Online.jpg",
-      "titleSource" : "160 Millionen Dosen: EU-Kommission fixiert Vertrag mit Impfhersteller Moderna",
-      "titleTarget" : "160 milyon doz: AB Komisyonu, aşı üreticisi Moderna ile sözleşmeyi düzeltti",
-      "url" : "https://kurier.at/wirtschaft/160-millionen-dosen-eu-kommission-fixiert-vertrag-mit-impfhersteller-moderna/401108382"
-    }, {
-      "id" : "3kiq7hvc",
-      "imgUrl" : "https://image.kurier.at/images/original/4765776/homeoffice-magenta.jpg",
-      "titleSource" : "Schreibtisch, Sessel, Arbeitszeit: Woran es im Homeoffice hapert",
-      "titleTarget" : "Masa, koltuk, çalışma saatleri: Ev ofiste eksik olan şeyler",
-      "url" : "https://kurier.at/wirtschaft/schreibtisch-sessel-arbeitszeit-woran-es-im-homeoffice-hapert/401107938"
+      "id" : "IGktS7WN",
+      "imgUrl" : "https://image.kurier.at/images/original/4761864/20201116-ABD0049-1-1.jpg",
+      "titleSource" : "Coronahilfen: Handel bekommt über eine Milliarde zurück",
+      "titleTarget" : "Corona yardımı: ticaret bir milyarı aştı",
+      "url" : "https://kurier.at/wirtschaft/coronahilfen-handel-bekommt-ueber-eine-milliarde-zurueck/401109126"
     }, {
       "id" : "5kiucBrx",
       "imgUrl" : "https://image.kurier.at/images/original/4778814/46-169007883.jpg",
       "titleSource" : "Die Anleger sind zu optimistisch",
       "titleTarget" : "Yatırımcılar çok iyimser",
       "url" : "https://kurier.at/wirtschaft/die-anleger-sind-zu-optimistisch/401108511"
+    }, {
+      "id" : "pMWiflFW",
+      "imgUrl" : "https://image.kurier.at/images/original/4071699/81650355552759448_BLD_Online.jpg",
+      "titleSource" : "Kritik an EU-Kommission nach Auftrag an US-Investor Blackrock",
+      "titleTarget" : "ABD'li yatırımcı Blackrock'un talimatının ardından AB Komisyonu'nun eleştirisi",
+      "url" : "https://kurier.at/wirtschaft/kritik-an-eu-kommission-nach-auftrag-an-us-investor-blackrock/401109003"
     }, {
       "id" : "EUjCvEM3",
       "imgUrl" : "https://image.kurier.at/images/original/1373694/zte.jpg",
@@ -88,66 +76,95 @@
       "titleSource" : "Wirtschaftsweise: Lockdown-Verlängerung schwächt nicht Konjunktur",
       "titleTarget" : "Ekonomi: Kilitlemenin uzatılması ekonomiyi zayıflatmaz",
       "url" : "https://kurier.at/wirtschaft/wirtschaftsweise-lockdown-verlaengerung-schwaecht-nicht-konjunktur/401108832"
+    }, {
+      "id" : "4JZ53oa6",
+      "imgUrl" : "https://image.kurier.at/images/original/621357/%2525C3%252596l_oel_oil_EPA_SHERWIN.jpg",
+      "titleSource" : "Ölpreise weiter im Aufwind: WTI und Brent mit Höchstständen seit März",
+      "titleTarget" : "Petrol fiyatları yükselmeye devam ediyor: WTI ve Brent, Mart ayından bu yana yüksek seviyelerde",
+      "url" : "https://kurier.at/wirtschaft/oelpreise-weiter-im-aufwind-wti-und-brent-mit-hoechststaenden-seit-maerz/401108748"
+    }, {
+      "id" : "iEeuALO3",
+      "imgUrl" : "https://image.kurier.at/images/original/1434243/usa-flagge.jpg",
+      "titleSource" : "Trotz Corona: US-Wirtschaft wuchs im Sommer im Rekordtempo",
+      "titleTarget" : "Corona'ya rağmen: ABD ekonomisi yaz aylarında rekor bir hızla büyüdü",
+      "url" : "https://kurier.at/wirtschaft/trotz-corona-us-wirtschaft-wuchs-im-sommer-im-rekordtempo/401109441"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "3Z9P2nKC",
-      "imgUrl" : "https://image.kurier.at/images/original/4778205/46-168909747.jpg",
-      "titleSource" : "Jurist zu Massentests: \"Bundesheer darf Leitung nicht übernehmen\"",
-      "titleTarget" : "Toplu testlerde avukat: \"Silahlı Kuvvetler yönetimi devralamaz\"",
-      "url" : "https://kurier.at/chronik/oesterreich/jurist-zu-massentests-bundesheer-darf-nicht-leitung-uebernehmen/401108310"
+      "id" : "UMDIU01U",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/45/20/crops/w=1280/358611_opener_115220_schweinefleisch_gentechnik_greenpeace_row.jpg?s=613603f294009f5392329036812a6f2da491bdcb",
+      "titleSource" : "Schweinefleisch: 90 Prozent ohne Tierwohl",
+      "titleTarget" : "Domuz eti: Hayvan sağlığı olmadan yüzde 90",
+      "url" : "https://oesterreich.orf.at/stories/3077564/"
     }, {
-      "id" : "yQq9sdPV",
-      "imgUrl" : "https://image.kurier.at/images/original/4778064/teaserbildwellen.jpg",
-      "titleSource" : "Trendwende im Kampf gegen Corona: Was uns die Infektionszahlen sagen",
-      "titleTarget" : "Corona ile mücadelede trendin tersine dönmesi: Enfeksiyon sayıları bize ne anlatıyor?",
-      "url" : "https://kurier.at/chronik/oesterreich/trendwende-im-kampf-gegen-corona-was-uns-die-infektionszahlen-sagen/401108088"
+      "id" : "ZL2BzzAm",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/22/crops/w=1280/762700_opener_265022_20201124_112749.jpg?s=867ab85b5ca4622f35238d055e4a734b62a064e7",
+      "titleSource" : "CoV-Spital: Optimismus trotz Dauerbelastung",
+      "titleTarget" : "CoV-Spital: Sürekli strese rağmen iyimserlik",
+      "url" : "https://noe.orf.at/stories/3077554/"
+    }, {
+      "id" : "vXHgYzQv",
+      "imgUrl" : "https://image.kurier.at/images/original/4762869/46-17918045.jpg",
+      "titleSource" : "Trotz Corona-Pandemie: Nikolo darf doch kommen",
+      "titleTarget" : "Korona salgınına rağmen: Nikolo'nun gelmesine izin verilir",
+      "url" : "https://kurier.at/chronik/oesterreich/trotz-corona-pandemie-nikolo-darf-doch-kommen/401108988"
+    }, {
+      "id" : "wn2j81sC",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "5.802 Corona-Neuinfektionen in Österreich",
+      "titleTarget" : "Avusturya'da 5.802 yeni korona enfeksiyonu",
+      "url" : "https://kurier.at/chronik/oesterreich/5802-corona-neuinfektionen-in-oesterreich/401108886"
     }, {
       "id" : "eOw1hmy0",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/44/crops/w=1280/762481_opener_264944_skiing-4835024_1920.jpg?s=2912f90b475c97084fe9b33695efbbce36370705",
-      "titleSource" : "Diskussion um Skifahrverbot über Weihnachten",
+      "titleSource" : "Vorarlberg will Wintersaison nicht absagen",
       "titleTarget" : "Noel'de kayak yasağı hakkında tartışma",
       "url" : "https://vorarlberg.orf.at/stories/3077516/"
     }, {
-      "id" : "jHjuX4IP",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/23/80/crops/w=1280/169331_opener_42880_themenbild_mietwagenservice_taxi_uber_.jpg?s=2c3e0b212f76687820b6eb529a8832decc7b7a85",
-      "titleSource" : "Taxi-Demo gegen „Sozialdumping“",
-      "titleTarget" : "\"Sosyal damping\" karşı taksi demosu",
-      "url" : "https://wien.orf.at/stories/3077459/"
+      "id" : "nYIZyguu",
+      "imgUrl" : "https://image.kurier.at/images/original/3148481/78350011446111544_BLD_Online.jpg",
+      "titleSource" : "Corona-Krise: Großfeuerwerke dürften zu Silvester weitgehend ausfallen",
+      "titleTarget" : "Corona krizi: Büyük havai fişeklerin Yılbaşı gecesi büyük ölçüde başarısız olması muhtemel",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-krise-grossfeuerwerke-duerften-zu-silvester-weitgehend-ausfallen/401108679"
     }, {
-      "id" : "NME7KONh",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/61/crops/w=1280/762285_opener_264861_feuerwehr1.jpg?s=87f374790850de9e68f1c05c7ac724de96a0c06a",
-      "titleSource" : "Feuerwehr bietet Hilfe bei Massentests an",
-      "titleTarget" : "İtfaiye, toplu testlerde yardım sunuyor",
-      "url" : "https://noe.orf.at/stories/3077484/"
-    }, {
-      "id" : "iQ7hxnh0",
-      "imgUrl" : "https://image.kurier.at/images/original/4736742/78350011457312004_BLD_Online.jpg",
-      "titleSource" : "Grenze zu Bayern: Antrag zweier Schüler kippt Testpflicht für Pendler",
-      "titleTarget" : "Bavyera ile Sınır: İki öğrencinin başvurusu, işe gidip gelenler için zorunlu sınavı geçersiz kıldı",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-testpflicht-fuer-grenzpendler-in-bayern-ausser-kraft/401108421"
-    }, {
-      "id" : "GP8Ur2PC",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/32/81/crops/w=1280/250297_opener_73581_bruecke5.jpg?s=8c567023c98090de6a3b5b371cee0dad204cf587",
-      "titleSource" : "Testpflicht für Pendler nach Bayern gefallen",
-      "titleTarget" : "Bavyera'ya giden yolcular için test yükümlülüğü kaldırıldı",
-      "url" : "https://salzburg.orf.at/stories/3077522/"
+      "id" : "87KSBNjA",
+      "titleSource" : "Schlepper in Kemeten gefasst",
+      "titleTarget" : "Kemeten'de römorkör yakalandı",
+      "url" : "https://burgenland.orf.at/stories/3077633/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "Jlp2EweW",
-      "imgUrl" : "https://image.kurier.at/images/original/4777986/barbaren.jpg",
-      "titleSource" : "\"Die Barbaren\" stellen neuen Startrekord bei Netflix auf",
-      "titleTarget" : "\"Barbarlar\" Netflix'te yeni bir rekor kırdı",
-      "url" : "https://kurier.at/kultur/medien/die-barbaren-stellen-neuen-startrekord-bei-netflix-auf/401108196"
-    }, {
       "id" : "1ksPXURK",
       "imgUrl" : "https://image.kurier.at/images/original/4778322/sharktank_5-byaaronhader.jpg",
       "titleSource" : "Sharktank mit \"Bad Energy“ gegen die Corona-Tristesse",
       "titleTarget" : "Korona kasvetine karşı \"Kötü Enerji\" ile Sharktank",
       "url" : "https://kurier.at/kultur/sharktank-mit-bad-energy-gegen-die-corona-tristesse/401108322"
+    }, {
+      "id" : "dLKUv2eM",
+      "imgUrl" : "https://image.kurier.at/images/original/4241654/46-163923394.jpg",
+      "titleSource" : "Nach Aus für \"SOKO Kitz\": Linz wird neue \"SOKO\"-Stadt",
+      "titleTarget" : "\"SOKO Kitz\" in sona ermesinden sonra: Linz yeni \"SOKO\" şehri olur",
+      "url" : "https://kurier.at/kultur/medien/nach-aus-fuer-soko-kitz-linz-wird-neue-soko-stadt/401109045"
+    }, {
+      "id" : "AnWqi35U",
+      "imgUrl" : "https://image.kurier.at/images/original/4778241/46-169262527.jpg",
+      "titleSource" : "\"Her Story\" auf Sky: Vier Frauen für ein Halleluja",
+      "titleTarget" : "Gökyüzündeki Hikayesi: Şükürler olsun için dört kadın",
+      "url" : "https://kurier.at/kultur/her-story-auf-sky-vier-frauen-fuer-ein-halleluja/401108325"
+    }, {
+      "id" : "MOnQBj3k",
+      "imgUrl" : "https://image.kurier.at/images/original/4762503/thecrown_403_unit_02388_rt.jpg",
+      "titleSource" : "Nach \"The Crown\"-Erfolg: Netflix steckt 1 Milliarde in britische Produktionen",
+      "titleTarget" : "\"The Crown\" başarısından sonra: Netflix, İngiliz prodüksiyonlarına 1 milyar koydu",
+      "url" : "https://kurier.at/kultur/medien/nach-the-crown-erfolg-netflix-steckt-1-milliarde-in-britische-produktionen/401109138"
+    }, {
+      "id" : "y5gfCi67",
+      "imgUrl" : "https://image.kurier.at/images/original/4778079/lil_zoo_in_action_c_little_shao_red_bull_content_pool.jpg",
+      "titleSource" : "Breakdance-Weltfinale in Salzburg: Lil Zoo setzt auf Heimvorteil",
+      "titleTarget" : "Salzburg'daki Breakdance dünya finalleri: Lil Hayvanat Bahçesi ev avantajına güveniyor",
+      "url" : "https://kurier.at/kultur/red-bull-bc-one-finale-in-salzburg-lil-zoo-setzt-auf-heimvorteil/401108244"
     }, {
       "id" : "D68zUzq7",
       "imgUrl" : "https://image.kurier.at/images/original/4765515/81452305857555040_BLD_Online.jpg",
@@ -160,24 +177,6 @@
       "titleSource" : "Beyonce: Neun Grammy-Nominierungen in acht Kategorien",
       "titleTarget" : "Beyonce: Sekiz kategoride dokuz Grammy adaylığı",
       "url" : "https://kurier.at/kultur/beyonce-neun-grammy-nominierungen-in-acht-kategorien/401108619"
-    }, {
-      "id" : "yU5jIWX3",
-      "imgUrl" : "https://image.kurier.at/images/original/4269539/78370011354267484_BLD_Online.jpg",
-      "titleSource" : "1,8 Millionen Euro für Expressionisten-Dame: Auktion in Wien",
-      "titleTarget" : "Ekspresyonist bayan için 1,8 milyon euro: Viyana'da müzayede",
-      "url" : "https://kurier.at/kultur/18-millionen-euro-fuer-expressionisten-dame-auktion-in-wien/401108613"
-    }, {
-      "id" : "dLKUv2eM",
-      "imgUrl" : "https://image.kurier.at/images/original/4241654/46-163923394.jpg",
-      "titleSource" : "Nach Aus für \"SOKO Kitz\": Linz wird neue \"SOKO\"-Stadt",
-      "titleTarget" : "\"SOKO Kitz\" in sona ermesinden sonra: Linz yeni \"SOKO\" şehri olur",
-      "url" : "https://kurier.at/kultur/medien/nach-aus-fuer-soko-kitz-linz-wird-neue-soko-stadt/401109045"
-    }, {
-      "id" : "y5gfCi67",
-      "imgUrl" : "https://image.kurier.at/images/original/4778079/lil_zoo_in_action_c_little_shao_red_bull_content_pool.jpg",
-      "titleSource" : "Breakdance-Weltfinale in Salzburg: Lil Zoo setzt auf Heimvorteil",
-      "titleTarget" : "Salzburg'daki Breakdance dünya finalleri: Lil Hayvanat Bahçesi ev avantajına güveniyor",
-      "url" : "https://kurier.at/kultur/red-bull-bc-one-finale-in-salzburg-lil-zoo-setzt-auf-heimvorteil/401108244"
     } ]
   }, {
     "category" : "HEALTH",
@@ -185,20 +184,27 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "6ZIZlmLH",
-      "titleSource" : "Sturzopfer Jakobsen trainiert wieder",
-      "titleTarget" : "Sonbahar kurbanı Jakobsen yeniden antrenman yapıyor",
-      "url" : "https://sport.orf.at/stories/3069730/"
+      "id" : "SZ1Rq9UW",
+      "titleSource" : "Coronavirus-Ausbruch bei Österreichs Herren",
+      "titleTarget" : "Avusturya erkekleri arasında koronavirüs salgını",
+      "url" : "https://sport.orf.at/stories/3069754/"
     }, {
-      "id" : "wpSj9XOt",
-      "titleSource" : "Coronavirus stoppt Schwarz vor Lech/Zürs",
-      "titleTarget" : "Coronavirüs Schwarz'ı Lech / Zürs'ün önünde durdurdu",
-      "url" : "https://sport.orf.at/stories/3069717/"
+      "id" : "JEv84ZRR",
+      "imgUrl" : "https://image.kurier.at/images/original/3262598/78390011546969134_BLD_Online.jpg",
+      "titleSource" : "Mehrere Corona-Fälle bei ÖSV-Adlern - Team zurückgezogen",
+      "titleTarget" : "ÖSV-Adler'de çok sayıda korona vakası - ekip geri çekildi",
+      "url" : "https://kurier.at/sport/wintersport/skispringen-mehrere-corona-faelle-bei-oesv-adlern-schlierenzauer-aschenwald-widhoelzl-betroffen/401109087"
     }, {
       "id" : "vVpkHXYX",
       "titleSource" : "Sturm müht sich über Hürde Wacker",
       "titleTarget" : "Fırtına engeli aşıyor Wacker",
       "url" : "https://sport.orf.at/stories/3069738/"
+    }, {
+      "id" : "OisHXY37",
+      "imgUrl" : "https://image.kurier.at/images/original/4099065/78390011552964904_BLD_Online.jpg",
+      "titleSource" : "Rekordjäger: Wo Haaland Ronaldo, Messi & Co. voraus ist",
+      "titleTarget" : "Rekortmenler: Haaland'ın Ronaldo, Messi & Co.'nun önünde olduğu yer.",
+      "url" : "https://kurier.at/sport/fussball/fussball-rekordjaeger-wo-haaland-ronaldo-messi-co-voraus-ist/401108970"
     }, {
       "id" : "72p8C3hE",
       "imgUrl" : "https://image.kurier.at/images/original/4779339/46-149270063.jpg",
@@ -212,16 +218,10 @@
       "titleTarget" : "Dünya Kupası kahramanı Franz-Josef Rehrl: \"Bende çok şey ters gitti\"",
       "url" : "https://kurier.at/sport/wintersport/wm-held-und-kombinierer-franz-josef-rehrl-bei-mir-ist-einiges-falsch-gelaufen/401108298"
     }, {
-      "id" : "2mUggAPA",
-      "imgUrl" : "https://image.kurier.at/images/original/4777617/46-168230922.jpg",
-      "titleSource" : "Positiver Corona-Test: Skistar Schwarz verpasst den Heimweltcup",
-      "titleTarget" : "Pozitif korona testi: Skistar Schwarz ev sahibi olduğu Dünya Kupası'nı kaçırdı",
-      "url" : "https://kurier.at/sport/wintersport/positiver-covid-test-skistar-marco-schwarz-verpasst-den-heimweltcup/401107965"
-    }, {
-      "id" : "GKOqz3Cj",
-      "titleSource" : "Umstrittener Elfer hält Paris SG im Rennen",
-      "titleTarget" : "Tartışmalı 911, Paris SG'yi çalışır durumda tutuyor",
-      "url" : "https://sport.orf.at/stories/3069740/"
+      "id" : "M2muMLfl",
+      "titleSource" : "Salzburg setzt in München auf Lerneffekt",
+      "titleTarget" : "Salzburg, Münih'te öğrenmeye güveniyor",
+      "url" : "https://sport.orf.at/stories/3069726/"
     } ]
   } ],
   "country" : "austria",
