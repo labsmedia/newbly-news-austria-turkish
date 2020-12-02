@@ -2,23 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "CNofyY4m",
-      "imgUrl" : "https://image.kurier.at/images/original/4792992/46-173271278.jpg",
-      "titleSource" : "Schulen: Rendi-Wagner fordert Maskenpflicht im Unterricht",
-      "titleTarget" : "Okullar: Rendi-Wagner sınıfta bir maskeye ihtiyaç duyulmasını istiyor",
-      "url" : "https://kurier.at/politik/inland/schulen-rendi-wagner-fordert-maskenpflicht-im-unterricht/401115453"
-    }, {
       "id" : "2JUxhEZs",
-      "imgUrl" : "https://image.kurier.at/images/original/4794474/46-168916530.jpg",
-      "titleSource" : "Lockdown: Regierung verkündet heute erste Öffnungsschritte",
+      "imgUrl" : "https://image.kurier.at/images/original/4795572/20201202-ABD0073-1-1.jpg",
+      "titleSource" : "Kurz: Lockerungen \"schrittweise, und ich betone: behutsam\"",
       "titleTarget" : "Kilitleme: Hükümet bugün ilk açılış adımlarını açıkladı",
       "url" : "https://kurier.at/politik/inland/lockdown-regierung-verkuendet-erste-oeffnungsschritte/401116311"
     }, {
-      "id" : "yyQUqdtI",
-      "imgUrl" : "https://image.kurier.at/images/original/4726212/46-168165097.jpg",
-      "titleSource" : "Homeoffice-Regelung verzögert sich: Das sind die offenen Punkte",
-      "titleTarget" : "İç ofis düzenlemesi ertelendi: Bunlar açık noktalar",
-      "url" : "https://kurier.at/politik/inland/homeoffice-regelung-verzoegert-sich-das-sind-die-offenen-punkte/401115384"
+      "id" : "hq3pwCN3",
+      "imgUrl" : "https://image.kurier.at/images/original/4322798/78370011354671720_BLD_Online.jpg",
+      "titleSource" : "Familienbonus dämpfte kalte Progression leicht",
+      "titleTarget" : "Aile bonusu soğuk ilerlemeyi biraz azalttı",
+      "url" : "https://kurier.at/politik/inland/familienbonus-daempfte-kalte-progression-leicht/401116776"
     }, {
       "id" : "HKEiPqRr",
       "imgUrl" : "https://image.kurier.at/images/original/3722183/46-110652691.jpg",
@@ -28,14 +22,27 @@
     }, {
       "id" : "KdynxTyJ",
       "imgUrl" : "https://image.kurier.at/images/original/4782387/20201126-ABD0105-1-1.jpg",
-      "titleSource" : "Geld für Gesetze? \"Die Novomatic macht so etwas nicht\"",
+      "titleSource" : "U-Ausschuss: \"Nein, die Novomatic zahlt nicht alle - aber viele wollen Unterstützung\"",
       "titleTarget" : "Kanunlar için para mı? \"Novomatic bunu yapmaz\"",
       "url" : "https://kurier.at/politik/inland/ibiza-u-ausschuss-preislisten-fuer-gesetze-im-mittelpunkt/401116527"
     }, {
-      "id" : "kKjtqfpG",
-      "titleSource" : "Wien stattet Schulen mit Masken aus, Oberösterreich schickt mobile Teams",
-      "titleTarget" : "Viyana okulları maskelerle donatıyor, Yukarı Avusturya gezici ekipler gönderiyor",
-      "url" : "https://www.diepresse.com/5905751/Wiedereroeffnung_Wien-stattet-Schulen-mit-Masken-aus?from=rss"
+      "id" : "Vsto2AF7",
+      "imgUrl" : "https://image.kurier.at/images/original/4796244/46-173293149.jpg",
+      "titleSource" : "Fahrplan bis 7. Jänner: Der Corona-Weihnachts-Guide",
+      "titleTarget" : "7 Ocak'a kadar takvim: Corona Noel Rehberi",
+      "url" : "https://kurier.at/politik/inland/fahrplan-bis-7-jaenner-der-corona-weihnachts-guide/401117343"
+    }, {
+      "id" : "aU68npLL",
+      "imgUrl" : "https://image.kurier.at/images/original/4796115/46-168062777.jpg",
+      "titleSource" : "Schulöffnung: Ablehnung der Schul-Maskerade",
+      "titleTarget" : "Okul açılışı: Okul maskeli balosunun reddi",
+      "url" : "https://kurier.at/politik/inland/schuloeffnung-ablehnung-der-schul-maskerade/401117304"
+    }, {
+      "id" : "MUzJY4F8",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/2/3/5906211/KAMPAGNENSTART-GRATIS-GRIPPEIMPFUNG-SZEKERES_1606927936494893_v0_l.jpg",
+      "titleSource" : "\"Jein\" zur Covid-Impfpflicht für Ärzte",
+      "titleTarget" : "Doktorlar için zorunlu Covid aşılamasına \"evet ve hayır\"",
+      "url" : "https://www.diepresse.com/5906211/Aerztekammer_Jein-zur-CovidImpfpflicht-fuer-Aerzte?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -46,86 +53,85 @@
       "titleTarget" : "Taksi endüstrisinin reformu ulaşım komitesinden geçiyor",
       "url" : "https://kurier.at/wirtschaft/reform-des-taxigewerbes-geht-durch-verkehrsausschuss/401116155"
     }, {
-      "id" : "Im0MR8ie",
-      "imgUrl" : "https://image.kurier.at/images/original/632667/ams2-000_juerg%252Bchristandl.jpg",
-      "titleSource" : "Warnung vor \"Generation Corona\"",
-      "titleTarget" : "\"Generation Corona\" Uyarısı",
-      "url" : "https://kurier.at/wirtschaft/warnung-vor-generation-corona/401115621"
+      "id" : "rdyPvFXi",
+      "imgUrl" : "https://image.kurier.at/images/original/4254242/20200414-ABD0033-1-1.jpg",
+      "titleSource" : "Handel sperrt am Montag auf, Polizei soll Kundenströme lenken",
+      "titleTarget" : "Ticaret Pazartesi günü kilitlendi, polis müşteri akışını yönlendirmeli",
+      "url" : "https://kurier.at/wirtschaft/handel-sperrt-am-montag-auf-polizei-soll-kundenstroeme-lenken/401117001"
     }, {
-      "id" : "6ynRdCqM",
-      "imgUrl" : "https://image.kurier.at/images/original/4792872/46-173271902.jpg",
-      "titleSource" : "HIV-positiv im Job: Firmen \"outen\" sich gegen Vorurteile",
-      "titleTarget" : "İşyerinde HIV pozitif: şirketler önyargıya \"çıkıyor\"",
-      "url" : "https://kurier.at/wirtschaft/hiv-positiv-im-job-firmen-outen-sich-gegen-vorurteile/401115963"
+      "id" : "NPdSal3a",
+      "imgUrl" : "https://image.kurier.at/images/original/4795563/46-169054298.jpg",
+      "titleSource" : "Lockdown-Verlängerung: Betriebe bekommen 50 Prozent Umsatzersatz",
+      "titleTarget" : "Kilitleme uzantısı: şirketler yüzde 50 gelir tazminatı alıyor",
+      "url" : "https://kurier.at/wirtschaft/lockdown-verlaengerung-betriebe-bekommen-50-prozent-umsatzersatz/401116965"
     }, {
-      "id" : "0oYfa3s6",
-      "imgUrl" : "https://image.kurier.at/images/original/4793625/46-168829661.jpg",
-      "titleSource" : "Weniger Gehalt für Siemens-Chef Joe Kaeser",
-      "titleTarget" : "Siemens patronu Joe Kaeser için daha düşük maaş",
-      "url" : "https://kurier.at/wirtschaft/weniger-gehalt-fuer-siemens-chef-joe-kaeser/401115897"
+      "id" : "ARw8Cbmn",
+      "imgUrl" : "https://image.kurier.at/images/original/4250162/46-149827137.jpg",
+      "titleSource" : "Rettet die Hühner: Singapur erlaubt Hühnerfleisch aus dem Labor",
+      "titleTarget" : "Tavukları kurtarın: Singapur laboratuvardan tavuğa izin veriyor",
+      "url" : "https://kurier.at/wirtschaft/rettet-die-huehner-singapur-erlaubt-huehnerfleisch-aus-dem-labor/401116665"
     }, {
-      "id" : "NI302OnS",
-      "imgUrl" : "https://image.kurier.at/images/original/4793130/46-173254569.jpg",
-      "titleSource" : "\"Kaufhaus Österreich\": Opposition plant Anfragen",
-      "titleTarget" : "\"Avusturya Mağazası\": Muhalefet planları sorgu",
-      "url" : "https://kurier.at/wirtschaft/kaufhaus-oesterreich-opposition-plant-anfragen/401115537"
+      "id" : "TdLhVTTB",
+      "imgUrl" : "https://image.kurier.at/images/original/4795542/46-167356345.jpg",
+      "titleSource" : "Finanz soll Bargeld-Transporte bei Laudamotion prüfen",
+      "titleTarget" : "Finanz, nakit taşımalarını Laudamotion'da kontrol etmeli",
+      "url" : "https://kurier.at/wirtschaft/finanz-soll-bargeld-transporte-bei-laudamotion-pruefen/401116953"
     }, {
-      "id" : "2Jnojv1c",
-      "imgUrl" : "https://image.kurier.at/images/original/4781223/20201126-ABD0003-1-1.jpg",
-      "titleSource" : "Homeoffice beschert der Kosmetikbranche Sorgenfalten",
-      "titleTarget" : "Ev ofisi, kozmetik endüstrisine endişe çizgisi veriyor",
-      "url" : "https://kurier.at/wirtschaft/homeoffice-beschert-der-kosmetikbranche-sorgenfalten/401116371"
+      "id" : "bZGXn8Uf",
+      "imgUrl" : "https://image.kurier.at/images/original/4535510/81710357855624776_BLD_Online.jpg",
+      "titleSource" : "SAP-Rivale Salesforce schluckt Bürochat-Anbieter Slack",
+      "titleTarget" : "SAP rakibi Salesforce, ofis sohbet sağlayıcısı Slack'i yutuyor",
+      "url" : "https://kurier.at/wirtschaft/sap-rivale-salesforce-schluckt-buerochat-anbieter-slack/401116596"
     }, {
-      "id" : "w4TQ4aGS",
-      "imgUrl" : "https://image.kurier.at/images/original/4597106/46-145192405.jpg",
-      "titleSource" : "Miet-Rückstände werden bis März 2021 gestundet",
-      "titleTarget" : "Kira borçları Mart 2021'e ertelenecek",
-      "url" : "https://kurier.at/wirtschaft/miet-rueckstaende-werden-bis-maerz-2021-gestundet/401116347"
+      "id" : "jzCyAcrr",
+      "imgUrl" : "https://image.kurier.at/images/original/4794888/46-68831437.jpg",
+      "titleSource" : "Frankfurter Würstel viel länger genießbar als angegeben",
+      "titleTarget" : "Frankfurter sosisleri belirtilenden çok daha uzun süre tüketilebilir",
+      "url" : "https://kurier.at/wirtschaft/frankfurter-wuerstel-viel-laenger-geniessbar-als-angegeben/401116542"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "JNThOaLf",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "3.033 neue Fälle in Österreich",
-      "titleTarget" : "Avusturya'da 3.033 yeni vaka",
-      "url" : "https://kurier.at/chronik/oesterreich/coronavirus-3033-neue-faelle-in-oesterreich/401115342"
+      "id" : "r562w1Ph",
+      "imgUrl" : "https://image.kurier.at/images/original/4795329/46-173277328.jpg",
+      "titleSource" : "Lockerungen ab 7. Dezember: Das sind die wichtigsten Punkte",
+      "titleTarget" : "7 Aralık'tan itibaren hafifleme: Bunlar en önemli noktalar",
+      "url" : "https://kurier.at/chronik/oesterreich/lockerungen-ab-7-dezember-das-sind-die-wichtigsten-punkte/401116848"
     }, {
-      "id" : "qCM6UElX",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/99/crops/w=1280/769860_opener_267699_image.ashx.jpg?s=bf87a6c6a5a6647608ce7ab0b3856b54a1f4aaf2",
-      "titleSource" : "Langzeitarbeitslose entlasten Pflegepersonal",
-      "titleTarget" : "Uzun süreli işsizler bakım personelinin yükünü alıyor",
-      "url" : "https://steiermark.orf.at/stories/3078488/"
+      "id" : "niBlohDh",
+      "titleSource" : "CoV-Entwarnung an steirischer FPÖ-Spitze",
+      "titleTarget" : "Steiermark FPÖ liderliğinde CoV net",
+      "url" : "https://steiermark.orf.at/stories/3078697/"
+    }, {
+      "id" : "fGIeTDRf",
+      "imgUrl" : "https://image.kurier.at/images/original/4795512/46-173260526.jpg",
+      "titleSource" : "Weihnachtsmärkte fallen heuer aus - Skigebiete öffnen erst am 24. Dezember",
+      "titleTarget" : "Noel pazarları bu yıl iptal edildi - kayak alanları yalnızca 24 Aralık'ta açılıyor",
+      "url" : "https://kurier.at/chronik/oesterreich/weihnachstmaerkte-fallen-heuer-aus-skigebiete-oeffnen-erst-am-24-dezember/401116947"
+    }, {
+      "id" : "QuVfPSgB",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "Corona: 3.972 Neuinfektionen in Österreich",
+      "titleTarget" : "Corona: Avusturya'da 3,972 yeni enfeksiyon",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-3972-neuinfektionen-in-oesterreich/401116470"
+    }, {
+      "id" : "GOmpINeo",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/29/crops/w=1280/770563_opener_267929_kuhfin.jpg?s=e24b665c36fdb885388cbd27ec2df01e00fd4d80",
+      "titleSource" : "Biohof in Radstadt: Kühe werden lebenslang gehalten",
+      "titleTarget" : "Radstadt'ta organik çiftlik: inekler ömür boyu saklanıyor",
+      "url" : "https://salzburg.orf.at/stories/3078666/"
+    }, {
+      "id" : "2xguRMvV",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/25/crops/w=1280/770866_opener_268025_rath.jpg?s=431cea67d9952a9ed69584cbc78cd38830495022",
+      "titleSource" : "Aus für Christkindlmärkte und Punschstände",
+      "titleTarget" : "Noel pazarları ve yumruk standları için kapalı",
+      "url" : "https://wien.orf.at/stories/3078727/"
     }, {
       "id" : "POXgQvVS",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/84/crops/w=1280/770430_opener_267884_wirecard_.jpg?s=e6563f55f7e0b204ec1c64beef56b530b2d2e506",
       "titleSource" : "Wirecard: 50 Mio. Euro Schaden in Österreich",
       "titleTarget" : "Wirecard: Avusturya'da 50 milyon euro hasar",
       "url" : "https://wien.orf.at/stories/3078634/"
-    }, {
-      "id" : "QWEwCtVC",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/34/crops/w=1280/764694_opener_265834_fucking1_472.5051749.jpg?s=7a5039ef8e497865093f77d57386201ae07ce21f",
-      "titleSource" : "Reger Handel mit „Fucking“-Ortstafeln",
-      "titleTarget" : "\"Lanet\" yer adı işaretlerinde tempolu ticaret",
-      "url" : "https://ooe.orf.at/stories/3078582/"
-    }, {
-      "id" : "qGFyd5Wo",
-      "imgUrl" : "https://image.kurier.at/images/original/4793502/46-123742713.jpg",
-      "titleSource" : "Terrorprozess: Der Dschihadist von nebenan",
-      "titleTarget" : "Terör davası: Yandaki cihatçı",
-      "url" : "https://kurier.at/chronik/oesterreich/terrorprozess-der-dschihadist-von-nebenan/401115837"
-    }, {
-      "id" : "BvUycqqU",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/46/crops/w=1280/769964_opener_267746_201201_ooeh_historische_aufarbeitung_bettlerlager_00001001.jpg?s=dc5f6ac77d5b946dcb37eeab7475415fe45d1b59",
-      "titleSource" : "Buch über historisches Bettlerlager",
-      "titleTarget" : "Tarihi dilenci kampı hakkında kitap",
-      "url" : "https://ooe.orf.at/stories/3078598/"
-    }, {
-      "id" : "uyAGPlUz",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/20/06/crops/w=1280/560120_opener_190706_meldungsliste3_12.jpg?s=0aab5a0c58f0e5cfba495d035c715461367a7c22",
-      "titleSource" : "Simplon erzielt deutlich mehr Umsatz",
-      "titleTarget" : "Simplon, önemli ölçüde daha fazla satış üretir",
-      "url" : "https://vorarlberg.orf.at/stories/3078590/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -136,57 +142,98 @@
       "titleTarget" : "Houellebecq'ten Heckling: Schubert's'te ağlıyor",
       "url" : "https://kurier.at/kultur/buch/zwischenrufe-von-houellebecq-bei-schubert-weint-er/401115984"
     }, {
+      "id" : "7KtdOHwb",
+      "imgUrl" : "https://image.kurier.at/images/original/4223837/46-106070032.jpg",
+      "titleSource" : "Museen und Bibliotheken öffnen wieder, Theater bleiben geschlossen",
+      "titleTarget" : "Müzeler ve kütüphaneler yeniden açılıyor, tiyatrolar kapalı kalıyor",
+      "url" : "https://kurier.at/kultur/museen-und-bibliotheken-oeffnen-wieder-theater-bleiben-geschlossen/401116842"
+    }, {
       "id" : "kbLjaUVY",
       "imgUrl" : "https://image.kurier.at/images/original/4794429/46-173257746.jpg",
       "titleSource" : "Die Minoritenkirche und ihre weggeschossene Turmspitze",
       "titleTarget" : "Minorite Kilisesi ve fırlatma kulesi",
       "url" : "https://kurier.at/kultur/die-minoritenkirche-und-ihre-weggeschossene-turmspitze/401116257"
     }, {
-      "id" : "GsIJX09M",
-      "imgUrl" : "https://image.kurier.at/images/original/4794003/46-173271908.jpg",
-      "titleSource" : "„Wir sind Kaiser*in“ schiebt \"Gute Nacht Österreich\" zur Seite",
-      "titleTarget" : "\"Biz imparatoruz\", \"Gute Nacht Österreich\" i bir kenara itiyor",
-      "url" : "https://kurier.at/kultur/medien/wir-sind-kaiserin-schiebt-peter-kliens-gute-nacht-oesterreich-zur-seite/401116110"
+      "id" : "2Xxolcks",
+      "imgUrl" : "https://image.kurier.at/images/original/4795152/46-164203882.jpg",
+      "titleSource" : "Palfraders Kaiser bekommt eine Tochter - im ORF",
+      "titleTarget" : "Palfraders Kaiser'in bir kızı var - ORF'de",
+      "url" : "https://kurier.at/kultur/medien/palfraders-kaiser-bekommt-eine-tochter-im-orf/401116725"
     }, {
-      "id" : "i6PdSMDl",
-      "imgUrl" : "https://image.kurier.at/images/original/4793640/46-173277349.jpg",
-      "titleSource" : "Manuel Legris folgt seinem Ex-Chef an die Mailänder Oper nach",
-      "titleTarget" : "Manuel Legris, Milano Operası'nda eski patronunun yerini aldı",
-      "url" : "https://kurier.at/kultur/manuel-legris-folgt-seinem-ex-chef-an-die-mailaender-oper-nach/401115921"
+      "id" : "rvGXUPn8",
+      "imgUrl" : "https://image.kurier.at/images/original/4795608/46-173271907.jpg",
+      "titleSource" : "\"Bringe das Publikum lieber zum Lachen, als Gänsehaut zu erzeugen\"",
+      "titleTarget" : "\"Tüylerini diken diken etmek yerine seyirciyi güldürmek\"",
+      "url" : "https://kurier.at/kultur/medien/bringe-das-publikum-lieber-zum-lachen-als-gaensehaut-zu-erzeugen/401117052"
     }, {
-      "id" : "HLa4LXh3",
-      "imgUrl" : "https://image.kurier.at/images/original/4793631/46-149038178.jpg",
-      "titleSource" : "Kabarettpreis wird nur im Fernsehen übertragen",
-      "titleTarget" : "Kabare Ödülü sadece televizyonda yayınlanacak",
-      "url" : "https://kurier.at/kultur/kabarettpreis-wird-nur-im-fernsehen-uebertragen/401115903"
+      "id" : "dLUU22wY",
+      "imgUrl" : "https://image.kurier.at/images/original/4795803/46-145848908.jpg",
+      "titleSource" : "Disput um Flüchtlingsboot bei der Venedig-Biennale",
+      "titleTarget" : "Venedik Bienali'nde mülteci teknesiyle ilgili tartışma",
+      "url" : "https://kurier.at/kultur/disput-um-fluechtlingsboot-bei-der-venedig-biennale/401117253"
     }, {
-      "id" : "fvPwrbl6",
-      "imgUrl" : "https://image.kurier.at/images/original/4792839/46-173271666.jpg",
-      "titleSource" : "Koreanische Boygroup BTS landet Nummer-1-Hit in den USA",
-      "titleTarget" : "Koreli erkek grubu BTS, ABD'de 1 numaraya yükseldi",
-      "url" : "https://kurier.at/kultur/koreanische-boygroup-bts-landet-nummer-1-hit-in-den-usa/401115402"
-    }, {
-      "id" : "9h10Q9hX",
-      "imgUrl" : "https://image.kurier.at/images/original/4792194/46-173252909.jpg",
-      "titleSource" : "Trotz Pandemie: Musiker ist statt zu jammern mit der Gitarre losgeradelt",
-      "titleTarget" : "Salgına rağmen müzisyen şikayet etmek yerine gitarını çaldı",
-      "url" : "https://kurier.at/kultur/onk-lou-ist-statt-zu-jammern-mit-der-gitarre-losgeradelt/401114871"
+      "id" : "MYlhz6Vq",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/c/d/5906125/Buehnenfoto_5_Brugger_1606914925639765_v0_h.jpg",
+      "titleSource" : "Hazel Brugger, nun auch auf Netflix",
+      "titleTarget" : "Hazel Brugger, şimdi Netflix'te",
+      "url" : "https://www.diepresse.com/5906125/Comedy_Hazel-Brugger-nun-auch-auf-Netflix?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
-    "newsArticles" : [ ]
+    "newsArticles" : [ {
+      "id" : "hYbW1jza",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/6/b/5530987/imago86062494h_1542365733707856.jpg",
+      "titleSource" : "#InheritYourFuture: Wohin entwickeln wir uns?",
+      "titleTarget" : "# InheritYourFuture: Nereye gidiyoruz?",
+      "url" : "https://www.diepresse.com/5530987/index.do?from=rss"
+    }, {
+      "id" : "TNm1m7KE",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/2/1/5532449/50D5E3B1-E697-4B9A-8C36-37FE47330F7D_v0_h.jpg",
+      "titleSource" : "Orthopäden warnen vor \"Smartphone-Nacken\" und \"SMS-Daumen\"",
+      "titleTarget" : "Ortopedistler \"akıllı telefon boynu\" ve \"SMS başparmağına\" karşı uyarıda bulundu",
+      "url" : "https://www.diepresse.com/5532449/index.do?from=rss"
+    }, {
+      "id" : "whz7Nlcc",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/9/6/5536406/46E96D4B-3C10-49EB-B273-48D8A425EBEC_v0_h.jpg",
+      "titleSource" : "Fehlerhafte Medizinprodukte: US-Marktführer könnte für 9300 Todesfälle verantwortlich sein",
+      "titleTarget" : "Hatalı tıbbi cihazlar: ABD pazar lideri 9.300 ölümden sorumlu olabilir",
+      "url" : "https://www.diepresse.com/5536406/index.do?from=rss"
+    }, {
+      "id" : "vD9daF5D",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/a/4/5538980/Woman-and-Dalmatian-mongrel-lying-on-white-bed-sheet-model-released-Symbolfoto-property-released-PUB_1543574217348842.jpg",
+      "titleSource" : "Studie: Frauen schlafen mit Hund im Bett besser",
+      "titleTarget" : "Ders çalışma: Kadınlar yatakta bir köpekle daha iyi uyur",
+      "url" : "https://www.diepresse.com/5538980/index.do?from=rss"
+    }, {
+      "id" : "sSdDpSCt",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/5/4/5539924/2946CA56-A160-47D4-A348-8E5FB85B1791_v0_l.jpg",
+      "titleSource" : "Studie: ADHS häufiger bei früh Eingeschulten diagnostiziert",
+      "titleTarget" : "Ders çalışma: Okuldan erken ayrılanlarda DEHB daha sık teşhis edildi",
+      "url" : "https://www.diepresse.com/5539924/index.do?from=rss"
+    }, {
+      "id" : "mkMoIxTI",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/5/2/5540946/photo-1515377905703-c4788e5_1543920353073774.jpg",
+      "titleSource" : "Kosmetika der Mutter beeinflussen Pubertät des Nachwuchses",
+      "titleTarget" : "Annenin kozmetik ürünleri yavrularda ergenliği etkiliyor",
+      "url" : "https://www.diepresse.com/5540946/index.do?from=rss"
+    }, {
+      "id" : "pdqmalaA",
+      "titleSource" : "Frau mit transplantiertem Uterus von Verstorbener wurde Mutter",
+      "titleTarget" : "Merhumdan uterusu nakledilen kadın anne oldu",
+      "url" : "https://www.diepresse.com/5541386/index.do?from=rss"
+    } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
+      "id" : "HoB1uqlc",
+      "titleSource" : "Mick Schumacher steigt in Königsklasse auf",
+      "titleTarget" : "Mick Schumacher birinci sınıfa terfi etti",
+      "url" : "https://sport.orf.at/stories/3070103/"
+    }, {
       "id" : "6du8jDsv",
       "titleSource" : "ÖFB-Frauen erkämpfen Erfolg gegen Serbien",
       "titleTarget" : "ÖFB kadınları Sırbistan'a karşı başarı için mücadele ediyor",
       "url" : "https://sport.orf.at/stories/3070088/"
-    }, {
-      "id" : "NR7i8rsI",
-      "titleSource" : "Hamilton nach CoV-Test „am Boden zerstört“",
-      "titleTarget" : "Hamilton, CoV testinden sonra \"harap oldu\"",
-      "url" : "https://sport.orf.at/stories/3070079/"
     }, {
       "id" : "pnEG8mVg",
       "imgUrl" : "https://image.kurier.at/images/original/4794213/46-173282375.jpg",
@@ -194,10 +241,11 @@
       "titleTarget" : "Moskova'da zorunlu zafer: Salzburg'un 16. raund rüyası yaşıyor",
       "url" : "https://kurier.at/sport/fussball/champions-league-sieg-bei-lok-moskau-red-bull-salzburg-bleibt-im-europacup-rennen/401115159"
     }, {
-      "id" : "XScypsdC",
-      "titleSource" : "Norwegen zieht sich aus Weltcup zurück",
-      "titleTarget" : "Norveç Dünya Kupası'ndan çekildi",
-      "url" : "https://sport.orf.at/stories/3070076/"
+      "id" : "pGnO72pp",
+      "imgUrl" : "https://image.kurier.at/images/original/4793637/46-168024942.jpg",
+      "titleSource" : "Rapid-Legende Panenka: \"Fußball ohne Fans ist nur halb so schön\"",
+      "titleTarget" : "Hızlı efsane Panenka: \"Taraftar olmadan futbol sadece yarısı kadar iyidir\"",
+      "url" : "https://kurier.at/sport/fussball/rapid-legende-antonin-panenka-ueber-corona-fussball-ohne-fans-ist-nur-halb-so-schoen/401115909"
     }, {
       "id" : "XX5kLy1H",
       "titleSource" : "Salzburg feiert Schlüsselsieg in Moskau",
@@ -210,10 +258,11 @@
       "titleTarget" : "Hentbol: Beşler bir sonraki hissi zar zor kaçırıyor",
       "url" : "https://kurier.at/sport/handball-european-league-fivers-verpassen-knapp-die-naechste-sensation/401116230"
     }, {
-      "id" : "KNDBhC3B",
-      "titleSource" : "Bayern halten „Bullen“ im Rennen",
-      "titleTarget" : "Bayern \"polisleri\" kaçmaya devam ettiriyor",
-      "url" : "https://sport.orf.at/stories/3070091/"
+      "id" : "16UrPjFI",
+      "imgUrl" : "https://image.kurier.at/images/original/4794717/46-173291174.jpg",
+      "titleSource" : "Nun ist es fix: Ein Schumacher fährt ab 2021 in der Formel 1",
+      "titleTarget" : "Şimdi düzeltildi: 2021'den itibaren bir Schumacher Formula 1'de sürecek",
+      "url" : "https://kurier.at/sport/motorsport/nun-ist-es-fix-mick-schumacher-faehrt-ab-2021-in-der-formel-1/401116416"
     } ]
   } ],
   "country" : "austria",
