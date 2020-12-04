@@ -2,29 +2,29 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "5yCiJAZu",
-      "imgUrl" : "https://image.kurier.at/images/original/4798839/46-147114016.jpg",
-      "titleSource" : "FPÖ-Bundesrat: Dollfuß im Vergleich zu Kurz ein \"Lercherlschas\"",
-      "titleTarget" : "FPÖ Federal Konseyi: Dollfuss ile Kurz a \"Lercherlschas\" karşılaştırması",
-      "url" : "https://kurier.at/politik/inland/fpoe-bundesrat-dollfuss-im-vergleich-zu-kurz-ein-lercherlschas/401118762"
+      "id" : "n9egZDdQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4800651/46-173346062.jpg",
+      "titleSource" : "Grasser zu acht Jahren Haft verurteilt: \"Man wollte mich hängen sehen\"",
+      "titleTarget" : "Grasser, sekiz yıl hapis cezasına çarptırıldı: \"Beni asılı görmek istediler\"",
+      "url" : "https://kurier.at/politik/inland/live-aus-dem-gerichtssaal-urteilsverkuendung-im-grasser-prozess/401119143"
     }, {
-      "id" : "Evyjj7qL",
-      "imgUrl" : "https://image.kurier.at/images/original/4797597/46-173296973.jpg",
-      "titleSource" : "Anschober: \"Intensivstationen stark überlastet und viel zu viele Tote\"",
-      "titleTarget" : "Anschober: \"Yoğun bakım üniteleri aşırı derecede aşırı yüklendi ve çok fazla ölüm\"",
-      "url" : "https://kurier.at/politik/inland/anschober-intensivstationen-stark-ueberlastet-und-viel-zu-viele-tote/401118039"
+      "id" : "XGQuXi07",
+      "imgUrl" : "https://image.kurier.at/images/original/4329800/46-163074057.jpg",
+      "titleSource" : "Nach VfGH-Entscheid: Justizministerin will Video \"ehestmöglich\" liefern",
+      "titleTarget" : "VfGH kararının ardından: Adalet Bakanı \"mümkün olan en kısa sürede\" video çekmek istiyor",
+      "url" : "https://kurier.at/politik/inland/vfgh-justiz-muss-u-ausschuss-ibiza-video-zur-gaenze-zeigen/401119182"
     }, {
-      "id" : "kOjEI3Xq",
-      "imgUrl" : "https://image.kurier.at/images/original/4797924/46-167921075.jpg",
-      "titleSource" : "\"Virus eingeschleppt\": Kogler verlangt von Kurz \"mehr Feingefühl\"",
-      "titleTarget" : "\"Virüs getirildi\": Kogler, Kurz'dan \"daha fazla hassasiyet\" talep ediyor",
-      "url" : "https://kurier.at/politik/inland/virus-eingeschleppt-kogler-verlangt-von-kurz-mehr-respekt-und-feingefuehl/401118279"
+      "id" : "aK2c40AO",
+      "imgUrl" : "https://image.kurier.at/images/original/4779543/46-168812299.jpg",
+      "titleSource" : "Corona: Für Kurz ist Kogler-Vorwurf \"absurd\"",
+      "titleTarget" : "Corona: Kurz için Kogler'in suçlaması \"saçma\"",
+      "url" : "https://kurier.at/politik/inland/corona-fuer-kurz-ist-kogler-vorwurf-absurd/401119095"
     }, {
-      "id" : "EHiKZ30Z",
-      "imgUrl" : "https://image.kurier.at/images/original/4798668/46-173322965.jpg",
-      "titleSource" : "Ende des Lockdowns: Van der Bellen warnt vor \"Jojo-Effekt\" und ruft zum Testen auf",
-      "titleTarget" : "Kilitlemenin sonu: Van der Bellen \"yo-yo etkisi\" konusunda uyarıyor ve test edilmesi çağrısında bulunuyor",
-      "url" : "https://kurier.at/politik/inland/ende-des-lockdowns-van-der-bellen-warnt-vor-jojo-effekt-und-ruft-zum-testen-auf/401118345"
+      "id" : "ukhF1irC",
+      "imgUrl" : "https://image.kurier.at/images/original/4800723/46-173347925.jpg",
+      "titleSource" : "Grasser zu Urteil: \"Traurig und schockiert\"",
+      "titleTarget" : "Grasser'in kararı: \"Üzücü ve şok olmuş\"",
+      "url" : "https://kurier.at/politik/inland/grasser-zu-urteil-man-wollte-mich-haengen-sehen/401119620"
     }, {
       "id" : "aZ0myOyv",
       "imgUrl" : "https://image.kurier.at/images/original/4799073/46-173318086.jpg",
@@ -32,62 +32,61 @@
       "titleTarget" : "Kogler'in Kurz eleştirisinden sonra: Anschober tartışmayı sakin bir şekilde ele alıyor",
       "url" : "https://kurier.at/politik/inland/nach-kogler-kritik-an-kurz-anschober-nimmt-streit-gelassen/401118882"
     }, {
-      "id" : "nQMOfHpz",
-      "imgUrl" : "https://image.kurier.at/images/original/4291817/was_wir_duerfen.png",
-      "titleSource" : "Gelockerter \"Lockdown\": Diese Regeln gelten ab 7. Dezember",
-      "titleTarget" : "Rahat \"kilitleme\": Bu kurallar 7 Aralık'tan itibaren geçerlidir",
-      "url" : "https://kurier.at/politik/inland/oesterreich-im-lockdown-diese-regeln-gelten-ab-7-dezember/401083170"
+      "id" : "rR49JcL1",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/2/b/5906987/E72D6918-7155-4B46-83BD-A1BA77E1F3E4_v0_l.jpg",
+      "titleSource" : "Grasser zu acht Jahren Freiheitsstrafe verurteilt",
+      "titleTarget" : "Grasser sekiz yıl hapis cezasına çarptırıldı",
+      "url" : "https://www.diepresse.com/5906987/BuwogProzess_Grasser-zu-acht-Jahren-Freiheitsstrafe-verurteilt?from=rss"
     }, {
-      "id" : "SP68Ve85",
-      "imgUrl" : "https://image.kurier.at/images/original/4798506/46-173313085.jpg",
-      "titleSource" : "Ibiza-Causa: Rätsel um Verfahren zu \"politischer Einflussnahme\"",
-      "titleTarget" : "Ibiza Causa: \"Siyasi nüfuz\" prosedürünün gizemi",
-      "url" : "https://kurier.at/politik/inland/ibiza-causa-raetsel-um-verfahren-zu-politischer-einflussnahme/401118615"
+      "id" : "3U4lIJMU",
+      "imgUrl" : "https://image.kurier.at/images/original/4777251/20201124-ABD0043-1-1.jpg",
+      "titleSource" : "Klimafonds mit Rekord-Förderbudget von 236 Mio. Euro",
+      "titleTarget" : "236 milyon avroluk rekor bir finansman bütçesine sahip iklim fonu",
+      "url" : "https://kurier.at/politik/inland/klimafonds-mit-rekord-foerderbudget-von-236-mio-euro/401119581"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "kw9FWj4t",
-      "imgUrl" : "https://image.kurier.at/images/original/4745004/46-166492704.jpg",
-      "titleSource" : "Start-ups sollen \"Kaufhaus Österreich\" Leben einhauchen",
-      "titleTarget" : "Start-upların \"Kaufhaus Österreich\" e hayat vermesi gerekiyor",
-      "url" : "https://kurier.at/wirtschaft/start-ups-sollen-kaufhaus-oesterreich-leben-einhauchen/401117907"
+      "id" : "FQB6HoRf",
+      "imgUrl" : "https://image.kurier.at/images/original/4800624/46-173262477.jpg",
+      "titleSource" : "Billa und Merkur lassen Großteil der Geschäfte am 8. Dezember zu",
+      "titleTarget" : "Billa ve Merkur 8 Aralık'ta işin çoğuna izin veriyor",
+      "url" : "https://kurier.at/wirtschaft/billa-und-merkur-lassen-grossteil-der-geschaefte-am-8-dezember-zu/401119572"
     }, {
-      "id" : "mtO6gf7l",
-      "imgUrl" : "https://image.kurier.at/images/original/4480604/20200625-ABD0151-1-1.jpg",
-      "titleSource" : "Ryanair schließt Basis in Wien",
-      "titleTarget" : "Ryanair, Viyana'daki üssü kapattı",
-      "url" : "https://kurier.at/wirtschaft/ryanair-schliesst-basis-in-wien/401118093"
+      "id" : "eFoXA1Rc",
+      "imgUrl" : "https://image.kurier.at/images/original/4799271/46-173324405.jpg",
+      "titleSource" : "Konsumenten dürften am Montag nach dem Lockdown die Geschäfte stürmen",
+      "titleTarget" : "Tüketiciler, kilitlenmeden sonraki Pazartesi günü mağazalara saldıracaklar",
+      "url" : "https://kurier.at/wirtschaft/konsumenten-duerften-am-montag-nach-dem-lockdown-die-geschaefte-stuermen/401119071"
     }, {
-      "id" : "tFoI2qB0",
-      "imgUrl" : "https://image.kurier.at/images/original/4797606/46-89939856.jpg",
-      "titleSource" : "Viele Beschwerden zu Zahldienst Klarna",
-      "titleTarget" : "Klarna ödeme hizmetiyle ilgili birçok şikayet",
-      "url" : "https://kurier.at/wirtschaft/viele-beschwerden-zu-zahldienst-klarna/401118045"
+      "id" : "1qwnf503",
+      "imgUrl" : "https://image.kurier.at/images/original/4800312/46-172443797.jpg",
+      "titleSource" : "Corona: Hotel Sacher \"wird diese Krise überstehen\"",
+      "titleTarget" : "Corona: Hotel Sacher \"bu krizden kurtulacak\"",
+      "url" : "https://kurier.at/wirtschaft/corona-hotel-sacher-wird-diese-krise-ueberstehen/401119404"
     }, {
-      "id" : "oJSDAgmI",
-      "imgUrl" : "https://image.kurier.at/images/original/4751184/78350011457439150_BLD_Online.jpg",
-      "titleSource" : "Beschaffung von Antigentests ausgesetzt und ausgeschrieben",
-      "titleTarget" : "Askıya alınan ve ihale edilen antijen testlerinin tedariki",
-      "url" : "https://kurier.at/wirtschaft/beschaffung-von-antigentest-ausgesetzt-und-ausgeschrieben/401118318"
+      "id" : "VtGaHsqE",
+      "imgUrl" : "https://image.kurier.at/images/original/4801050/46-147816375.jpg",
+      "titleSource" : "Post stockt E-Flotte auf: Bis Jahresende 2.100 Fahrzeuge in Betrieb",
+      "titleTarget" : "Swiss Post, e-filosunu artırıyor: Yıl sonuna kadar 2.100 araç faaliyete geçecek",
+      "url" : "https://kurier.at/wirtschaft/post-stockt-e-flotte-auf-bis-jahresende-2100-fahrzeuge-in-betrieb/401119758"
     }, {
-      "id" : "FJgsObCa",
-      "imgUrl" : "https://image.kurier.at/images/original/4252997/78370011354143758_BLD_Online.jpg",
-      "titleSource" : "Treffen in Wien: Opec will wieder mehr Öl fördern",
-      "titleTarget" : "Viyana'da buluşma: Opec yeniden daha fazla petrol üretmek istiyor",
-      "url" : "https://kurier.at/wirtschaft/treffen-in-wien-opec-will-wieder-mehr-oel-foerdern/401118774"
+      "id" : "xqwBgPvq",
+      "imgUrl" : "https://image.kurier.at/images/original/4800867/46-173291325.jpg",
+      "titleSource" : "Impfstoff-Hoffnung sorgt für Rekord-Kapitalzufluss in Aktien",
+      "titleTarget" : "Aşı Umut, rekor sermaye girişi sağlıyor",
+      "url" : "https://kurier.at/wirtschaft/impfstoff-hoffnung-sorgt-fuer-rekord-kapitalzufluss-in-aktien/401119674"
     }, {
-      "id" : "j8JY8WX1",
-      "imgUrl" : "https://image.kurier.at/images/original/4798695/46-167087690.jpg",
-      "titleSource" : "Austro-Fintech will \"Amazon fresh\" Europas bieten",
-      "titleTarget" : "Austro-Fintech, Avrupa'dan \"taze Amazon\" sunmak istiyor",
-      "url" : "https://kurier.at/wirtschaft/austro-fintech-will-amazon-fresh-europas-bieten/401118702"
+      "id" : "jejY5qRx",
+      "titleSource" : "Coronakrise drückt Tourismus 2020 kräftig nach unten",
+      "titleTarget" : "Corona krizi 2020'de turizmi alt üst ediyor",
+      "url" : "https://kurier.at/wirtschaft/coronakrise-drueckt-tourismus-2020-kraeftig-nach-unten/401119488"
     }, {
-      "id" : "0pjGhUvU",
-      "imgUrl" : "https://image.kurier.at/images/original/4798059/46-169079952.jpg",
-      "titleSource" : "Wohntelefon: Was kann man gegen  Fettgeruch im Haus unternehmen?",
-      "titleTarget" : "Oturma odası telefonu: Evde yağ kokusunu önlemek için ne yapılabilir?",
-      "url" : "https://kurier.at/wirtschaft/immobiz/wohntelefon-was-kann-man-gegen-fettgeruch-im-haus-unternehmen/401118384"
+      "id" : "5qF7J9r8",
+      "imgUrl" : "https://image.kurier.at/images/original/4800207/46-168170576.jpg",
+      "titleSource" : "Mayr-Melnhof Karton investiert 100 Mio. Euro in Frohnleiten",
+      "titleTarget" : "Mayr-Melnhof Karton, Frohnleiten'e 100 milyon euro yatırım yaptı",
+      "url" : "https://kurier.at/wirtschaft/mayr-melnhof-karton-investiert-100-mio-euro-in-frohnleiten/401119350"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -98,40 +97,40 @@
       "titleTarget" : "CoV negatifleri bilgilendirilmez",
       "url" : "https://tirol.orf.at/stories/3079069/"
     }, {
-      "id" : "xpzeCxBW",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/00/crops/w=1280/772450_opener_268600_cf707668-36d1-47f8-9220-e7d336cbfa3a.jpg?s=5a820926fd7a0d8ed17dd38734607f5a1b312dd0",
-      "titleSource" : "Veloce: Kündigung vor Betriebsratsgründung",
-      "titleTarget" : "Veloce: iş konseyi kurulmadan önce fesih",
-      "url" : "https://wien.orf.at/stories/3079026/"
+      "id" : "mHqvTWza",
+      "imgUrl" : "https://image.kurier.at/images/original/4800879/46-142586381.jpg",
+      "titleSource" : "Bis zu zwei Meter Schnee: ÖBB sperren erste Strecken",
+      "titleTarget" : "İki metreye kadar kar: ÖBB ilk uzantıları engelliyor",
+      "url" : "https://kurier.at/chronik/oesterreich/bis-zu-zwei-meter-schnee-oebb-sperren-erste-strecken/401119692"
     }, {
-      "id" : "qVUWmjWj",
-      "imgUrl" : "https://image.kurier.at/images/original/4798608/46-172026867.jpg",
-      "titleSource" : "\"Das ist Katastrophenmedizin\": In Kärnten wurde bereits triagiert",
-      "titleTarget" : "\"Felaket tıbbı budur\": Karintiya'da zaten bir triyaj yapıldı",
-      "url" : "https://kurier.at/chronik/oesterreich/das-ist-katastrophenmedizin-in-kaernten-wurde-bereits-triagiert/401118645"
+      "id" : "Yy5OeWyj",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/01/crops/w=1280/773285_opener_268901_masse1.jpg?s=282d109655f238e98af6b39087942089e831d2a0",
+      "titleSource" : "Bisher 112 positive Fälle bei Massentests",
+      "titleTarget" : "Şu ana kadar kitle testlerinde 112 pozitif vaka",
+      "url" : "https://wien.orf.at/stories/3079022/"
     }, {
-      "id" : "j9H1WF4e",
-      "titleSource" : "Totalsperre der Draubrücke Stein angeordnet",
-      "titleTarget" : "Draubrücke Stein'ın toplam bariyeri düzenlendi",
-      "url" : "https://kaernten.orf.at/stories/3079030/"
+      "id" : "HV9xBIM1",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/d/b/5907163/CORONA-BEGINN-DER-MASSENTESTS-IN-WIEN_1607076960025589_v0_h.jpg",
+      "titleSource" : "Pannenserie bei Massentests: Linz steigt aus IT-Plattform aus",
+      "titleTarget" : "Toplu testlerde bir dizi arıza: Linz BT platformundan çıkıyor",
+      "url" : "https://www.diepresse.com/5907163/Corona_Pannenserie-bei-Massentests_Linz-steigt-aus-ITPlattform-aus?from=rss"
     }, {
-      "id" : "sJ3VmoGL",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "Fast 4.000 Neuinfektionen in Österreich",
-      "titleTarget" : "Avusturya'da yaklaşık 4.000 yeni enfeksiyon",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-fast-4000-neuinfektionen-in-oesterreich/401117754"
+      "id" : "WEgk46b8",
+      "titleSource" : "Keine Suspendierung von Islamforscher",
+      "titleTarget" : "İslam araştırmacılarının askıya alınmaması",
+      "url" : "https://salzburg.orf.at/stories/3079065/"
     }, {
-      "id" : "TbeCrasB",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/28/77/crops/w=1280/217319_opener_60877_makaken_peter6.jpg?s=d2e3957431ebadd52f42395087981978d1379712",
-      "titleSource" : "„Aufstand“ auf Affenberg",
-      "titleTarget" : "Affenberg'de \"Ayaklanma\"",
-      "url" : "https://kaernten.orf.at/stories/3077420/"
+      "id" : "I9rqZD7Z",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/32/crops/w=1280/773077_opener_268832_oesterreichtestet.jpg?s=926ff3859d82d9e12e865b9c8b81b61018bcc27e",
+      "titleSource" : "Massentests: Linz steigt aus Anmeldeplattform aus",
+      "titleTarget" : "Kitle testleri: Linz kayıt platformundan çekildi",
+      "url" : "https://ooe.orf.at/stories/3079096/"
     }, {
-      "id" : "HNlZiQ2o",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/63/crops/w=1280/769232_opener_267463_proz1.jpg?s=bed01aff2a866fa00712f9eabebb904c131858c0",
-      "titleSource" : "Lebenslange Haft für ICE-Anschläge",
-      "titleTarget" : "ICE saldırıları nedeniyle ömür boyu hapis",
-      "url" : "https://wien.orf.at/stories/3079064/"
+      "id" : "SjHGpQMj",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/38/20/crops/w=1280/685614_opener_236820_kh_schulanfang_csfeichter05463_00_18_01_24.jpg?s=2eee22552fe0aafa3e7671e265626aee178c5fbf",
+      "titleSource" : "„Harte Maskenpflicht ist Gefahr für Kinder“",
+      "titleTarget" : "\"Sert maske takmak çocuklar için bir tehlikedir\"",
+      "url" : "https://salzburg.orf.at/stories/3079184/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -142,17 +141,17 @@
       "titleTarget" : "Eckhart'ın \"Edebiyat Dörtlüsü\" ne davetine yönelik güçlü eleştiri",
       "url" : "https://kurier.at/kultur/medien/heftige-kritik-an-einladung-von-lisa-eckhart-ins-literarische-quartett/401118897"
     }, {
-      "id" : "3wYdlK3X",
-      "imgUrl" : "https://image.kurier.at/images/original/4798113/46-105652752.jpg",
-      "titleSource" : "Neujahrskonzert ohne Publikum, Philharmoniker \"klatschen vielleicht selbst“",
-      "titleTarget" : "Seyirci olmadan yeni yıl konseri, Filarmoni \"belki alkışlar\"",
-      "url" : "https://kurier.at/kultur/neujahrskonzert-ohne-publikum-philharmoniker-klatschen-vielleicht-selbst/401118435"
-    }, {
       "id" : "LytCktrV",
       "imgUrl" : "https://image.kurier.at/images/original/4798251/46-173274331.jpg",
-      "titleSource" : "Interview mit Katrina Daschner: \"Ohne Quotenregelung ändert sich nichts\"",
+      "titleSource" : "Katrina Daschner von FC Gloria: \"Ohne Quotenregelung ändert sich nichts\"",
       "titleTarget" : "Katrina Daschner ile röportaj: \"Kota sistemi olmadan hiçbir şey değişmez\"",
       "url" : "https://kurier.at/kultur/interview-mit-katrina-daschner-von-fc-gloria-ohne-quotenregelung-aendert-sich-nichts/401118486"
+    }, {
+      "id" : "pSjwE0ZZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4800363/46-173344840.jpg",
+      "titleSource" : "Salzburger Festspiele: Eidinger neuer \"Jedermann\", Altenberger \"Buhlschaft\"",
+      "titleTarget" : "Salzburg Festivali: Eidinger yeni \"Jedermann\", Altenberger \"Buhlschaft\"",
+      "url" : "https://kurier.at/kultur/salzburger-festspiele-lars-eidinger-wird-neuer-jedermann/401119275"
     }, {
       "id" : "yhXyWZrO",
       "imgUrl" : "https://image.kurier.at/images/original/4797345/46-173308287.jpg",
@@ -160,23 +159,23 @@
       "titleTarget" : "... ve yine 18 kitap, çok kısaca",
       "url" : "https://kurier.at/kultur/buch/und-wieder-18-buecher-ganz-kurz/401118285"
     }, {
-      "id" : "bqzawRdC",
-      "imgUrl" : "https://image.kurier.at/images/original/4797618/46-146587293.jpg",
-      "titleSource" : "Sanktionsdrohungen gegen Architektenbüro Coop Himmelb(l)au",
-      "titleTarget" : "Mimarlar Coop Himmelb (l) au'ya yaptırım tehditleri",
-      "url" : "https://kurier.at/kultur/sanktionsdrohungen-gegen-architektenbuero-coop-himmelblau/401118024"
+      "id" : "xFXMfB5H",
+      "imgUrl" : "https://image.kurier.at/images/original/4798980/46-173327718.jpg",
+      "titleSource" : "Grandiose Charakterdarstellerin: Jutta Lampe (1937 - 2020)",
+      "titleTarget" : "Harika karakter oyuncusu: Jutta Lampe (1937 - 2020)",
+      "url" : "https://kurier.at/kultur/grandiose-charakterdarstellerin-jutta-lampe-1937-2020/401118846"
     }, {
-      "id" : "zVQ0EZ88",
-      "imgUrl" : "https://image.kurier.at/images/original/4799235/46-145225839.jpg",
-      "titleSource" : "Spin-off von \"Game of Thrones\" wird 2021 produziert",
-      "titleTarget" : "Game of Thrones spin-off'u 2021'de üretilecek",
-      "url" : "https://kurier.at/kultur/medien/spin-off-von-game-of-thrones-wird-2021-produziert/401119056"
+      "id" : "n58DJCo7",
+      "imgUrl" : "https://image.kurier.at/images/original/4798971/46-143340758.jpg",
+      "titleSource" : "Warner Bros.: Viele Kinofilme 2021 auch online zu sehen",
+      "titleTarget" : "Warner Bros .: 2021'de İnternet'te izlenecek birçok film",
+      "url" : "https://kurier.at/kultur/medien/warner-bros-viele-kinofilme-2021-auch-online-zu-sehen/401118828"
     }, {
-      "id" : "uAv2ka3q",
-      "imgUrl" : "https://image.kurier.at/images/original/4798479/46-173278078.jpg",
-      "titleSource" : "\"Two Weeks To Live\": Kim Noakes ist die Arya Stark der Gegenwart",
-      "titleTarget" : "\"Yaşamak İçin İki Hafta\": Kim Noakes, günümüzün Arya Stark'ı",
-      "url" : "https://kurier.at/kultur/two-weeks-to-live-kim-noakes-ist-die-arya-stark-der-gegenwart/401118636"
+      "id" : "7gQyrINt",
+      "imgUrl" : "https://image.kurier.at/images/original/4800402/46-166504819.jpg",
+      "titleSource" : "Die Sensation nebenbei: Frauen werden den \"Jedermann\" dominieren",
+      "titleTarget" : "Bu arada duyum: kadınlar \"Jedermann\" a hakim olacak",
+      "url" : "https://kurier.at/kultur/die-sensation-nebenbei-frauen-werden-den-jedermann-dominieren/401119443"
     } ]
   }, {
     "category" : "HEALTH",
@@ -184,6 +183,11 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
+      "id" : "3hSfyYNL",
+      "titleSource" : "LASK scheitert erhobenen Hauptes",
+      "titleTarget" : "LASK kafası yüksekte iken başarısız oluyor",
+      "url" : "https://sport.orf.at/stories/3070181/"
+    }, {
       "id" : "VZ47geg1",
       "titleSource" : "Traumtor bringt WAC Aufstieg nahe",
       "titleTarget" : "Traumtor, WAC tanıtımını yakınlaştırıyor",
@@ -194,32 +198,26 @@
       "titleTarget" : "Tottenham'a karşı 3: 3 LASK için yeterli değil",
       "url" : "https://sport.orf.at/stories/3070166/"
     }, {
-      "id" : "9I3i6USn",
-      "titleSource" : "Linzerinnen starten mit Sieg in CL-Final-Four",
-      "titleTarget" : "Linzerinnen, CL-Final-Four'da zaferle başladı",
-      "url" : "https://sport.orf.at/stories/3070164/"
+      "id" : "DHTO1Q98",
+      "titleSource" : "CoV-Verstöße: ÖSV kündigt Kotrainer",
+      "titleTarget" : "CoV ihlalleri: ÖSV, Kotrainer'ı sonlandırdı",
+      "url" : "https://sport.orf.at/stories/3070195/"
     }, {
-      "id" : "jNQ8awus",
-      "titleSource" : "Schwab führt nach erster Runde in Südafrika",
-      "titleTarget" : "Schwab, Güney Afrika'daki ilk turun ardından lider",
-      "url" : "https://sport.orf.at/stories/3070167/"
+      "id" : "IXU3bNMz",
+      "imgUrl" : "https://image.kurier.at/images/original/4225457/46-159126823.jpg",
+      "titleSource" : "Skispringerin Pinkelnig nach Not-OP: \"Ich werde wieder ganz gesund\"",
+      "titleTarget" : "Kayakla atlama Acil ameliyattan sonra işemek: \"Tekrar tamamen sağlıklı olacağım\"",
+      "url" : "https://kurier.at/sport/wintersport/skispringerin-pinkelnig-nach-not-op-ich-werde-wieder-ganz-gesund/401119278"
     }, {
-      "id" : "VXopuaAN",
-      "imgUrl" : "https://image.kurier.at/images/original/4797783/46-168006879.jpg",
-      "titleSource" : "Herzversagen: DFB-Vizepräsident mit 68 Jahren gestorben",
-      "titleTarget" : "Kalp yetmezliği: DFB başkan yardımcısı 68 yaşında öldü",
-      "url" : "https://kurier.at/sport/fussball/herzversagen-dfb-vizepraesident-erwin-bugar-mit-68-jahren-gestorben/401118159"
+      "id" : "foQfKe3E",
+      "titleSource" : "Speed-Damen rätseln über CoV-Infektionen",
+      "titleTarget" : "Speed bayanlar, CoV enfeksiyonları konusunda kafa karıştırıyor",
+      "url" : "https://sport.orf.at/stories/3070183/"
     }, {
-      "id" : "GQyCcx5f",
-      "titleSource" : "Albin Ouschan holt mit Team Europa Mosconi Cup",
-      "titleTarget" : "Albin Ouschan, Mosconi Kupası'nı Team Europa ile kazandı",
-      "url" : "https://sport.orf.at/stories/3070188/"
-    }, {
-      "id" : "N7lawYqn",
-      "imgUrl" : "https://image.kurier.at/images/original/4799241/46-168116767.jpg",
-      "titleSource" : "Offiziell: Superstars James und Davis bleiben bei NBA-Champ Lakers",
-      "titleTarget" : "Yetkili: Superstars James ve Davis NBA Champ Lakers ile kalıyor",
-      "url" : "https://kurier.at/sport/offiziell-superstars-james-und-davis-bleiben-bei-nba-champion-los-angeles-lakers/401119059"
+      "id" : "f7j9KJP4",
+      "titleSource" : "Österreich festigt Platz zehn in UEFA-Fünfjahreswertung",
+      "titleTarget" : "Avusturya beş yıllık UEFA sıralamasında onuncu sırayı pekiştirdi",
+      "url" : "https://sport.orf.at/stories/3070191/"
     } ]
   } ],
   "country" : "austria",
