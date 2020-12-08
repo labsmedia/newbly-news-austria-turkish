@@ -8,12 +8,6 @@
       "titleTarget" : "\"Bunun hakkında bir şeyler düşündük\": Kurz, Kogler'in teklifini acımasızca reddediyor",
       "url" : "https://kurier.at/politik/inland/haben-uns-dabei-was-gedacht-kurz-weist-kogler-vorschlag-schroff-zurueck/401121771"
     }, {
-      "id" : "sBzR6jmo",
-      "imgUrl" : "https://image.kurier.at/images/original/4805184/46-173343788.jpg",
-      "titleSource" : "Faßmann: 300 symptomlose Lehrer bei Massentest positiv getestet",
-      "titleTarget" : "Fassmann: 300 asemptomatik öğretmen bir kitle testinde keşfedildi",
-      "url" : "https://kurier.at/politik/inland/fassmann-300-symptomlose-lehrer-bei-massentest-entdeckt/401121594"
-    }, {
       "id" : "CZu1m1fR",
       "imgUrl" : "https://image.kurier.at/images/original/4805964/46-173398143.jpg",
       "titleSource" : "Fast 5.000 bei Testaktion des Innenministeriums - einer davon Ressortchef Nehammer",
@@ -43,21 +37,21 @@
       "titleSource" : "Mobile Antigen-Schnelltests statt zweitem Massentest",
       "titleTarget" : "İkinci bir kütle testi yerine mobil hızlı antijen testleri",
       "url" : "https://kurier.at/politik/inland/mobile-antigen-schnelltests-statt-zweitem-massentest/401122413"
+    }, {
+      "id" : "cKroPEyy",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/0/e/5908494/78E4741E-343B-456C-AC6B-FB90989D302E_v0_l.jpg",
+      "titleSource" : "Mehr als acht Jahre werden es nicht für Grasser",
+      "titleTarget" : "Grasser için sekiz yıldan fazla olmayacak",
+      "url" : "https://www.diepresse.com/5908494/Prozess_Mehr-als-acht-Jahre-werden-es-nicht-fuer-Grasser?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "vL7GMtAr",
-      "imgUrl" : "https://image.kurier.at/images/original/4804620/46-173345314.jpg",
-      "titleSource" : "China erlebt Exportboom: Einzige große Volkswirtschaft, die dieses Jahr wächst",
-      "titleTarget" : "Çin bir ihracat patlaması yaşıyor: bu yıl büyüyen tek büyük ekonomi",
-      "url" : "https://kurier.at/wirtschaft/china-erlebt-exportboom-einzige-grosse-volkswirtschaft-die-dieses-jahr-waechst/401121330"
-    }, {
-      "id" : "I7jGbdNc",
-      "imgUrl" : "https://image.kurier.at/images/original/4805343/46-173386176.jpg",
-      "titleSource" : "Handelsobmann kritisiert Rabattschlacht im Möbelhandel",
-      "titleTarget" : "Ticaret başkanı mobilya ticaretindeki indirim savaşını eleştirdi",
-      "url" : "https://kurier.at/wirtschaft/handelsobmann-kritisiert-rabattschlacht-im-moebelhandel/401121639"
+      "id" : "D7ctZB9e",
+      "imgUrl" : "https://image.kurier.at/images/original/3270998/78370011347027098_BLD_Online.jpg",
+      "titleSource" : "Produktrückruf für Naturreis und Weizenmehl von Spar",
+      "titleTarget" : "Spar'dan kahverengi pirinç ve buğday unu için ürün geri çağırma",
+      "url" : "https://kurier.at/wirtschaft/produktrueckruf-fuer-naturreis-und-weizenmehl-von-spar/401122329"
     }, {
       "id" : "PFsVldxk",
       "imgUrl" : "https://image.kurier.at/images/original/4805778/46-173364229.jpg",
@@ -65,11 +59,17 @@
       "titleTarget" : "Mahkeme şirketlerden gelen korona şikayetlerini reddetti",
       "url" : "https://kurier.at/wirtschaft/gericht-lehnte-corona-beschwerden-von-unternehmen-ab/401121795"
     }, {
-      "id" : "D7ctZB9e",
-      "imgUrl" : "https://image.kurier.at/images/original/3270998/78370011347027098_BLD_Online.jpg",
-      "titleSource" : "Produktrückruf für Naturreis und Weizenmehl von Spar",
-      "titleTarget" : "Spar'dan kahverengi pirinç ve buğday unu için ürün geri çağırma",
-      "url" : "https://kurier.at/wirtschaft/produktrueckruf-fuer-naturreis-und-weizenmehl-von-spar/401122329"
+      "id" : "5fwztTto",
+      "imgUrl" : "https://image.kurier.at/images/original/4806849/46-165583331.jpg",
+      "titleSource" : "NoVA-Änderung kostet Unternehmen 1,18 Milliarden Euro",
+      "titleTarget" : "NoVA değişikliği şirketlere 1,18 milyar Euro'ya mal oluyor",
+      "url" : "https://kurier.at/wirtschaft/nova-aenderung-waere-milliarden-belastung/401122302"
+    }, {
+      "id" : "xtEZRDYb",
+      "imgUrl" : "https://image.kurier.at/images/original/4806156/46-76007583.jpg",
+      "titleSource" : "Italien belohnt bargeldloses Bezahlen",
+      "titleTarget" : "İtalya nakitsiz ödemeleri ödüllendiriyor",
+      "url" : "https://kurier.at/wirtschaft/italien-belohnt-bargeldloses-bezahlen/401122062"
     }, {
       "id" : "uO4Fi8lJ",
       "imgUrl" : "https://image.kurier.at/images/original/4806648/46-160083078.jpg",
@@ -77,43 +77,26 @@
       "titleTarget" : "Siemens patronu Wolfgang Hesoun, kumarhanenin denetim kurulu başkanı oldu",
       "url" : "https://kurier.at/wirtschaft/wolfgang-hesoun-wird-casinos-aufsichtsratschef/401122287"
     }, {
-      "id" : "9IPR2jDg",
-      "imgUrl" : "https://image.kurier.at/images/original/3570982/46-109588180.jpg",
-      "titleSource" : "Der Tee-Moment",
-      "titleTarget" : "Çay anı",
-      "url" : "https://kurier.at/wirtschaft/immobiz/der-tee-moment/401119233"
+      "id" : "CGy3fNnw",
+      "imgUrl" : "https://image.kurier.at/images/original/2731007/20180803-ABD0002-1-1.jpg",
+      "titleSource" : "Mehr als eine Billion Dollar Schaden durch Cyberkriminalität",
+      "titleTarget" : "Siber suçlardan bir trilyon dolardan fazla hasar",
+      "url" : "https://kurier.at/wirtschaft/mehr-als-eine-billion-dollar-schaden-durch-cyberkriminalitaet/401122353"
     }, {
-      "id" : "xtEZRDYb",
-      "imgUrl" : "https://image.kurier.at/images/original/4806156/46-76007583.jpg",
-      "titleSource" : "Italien belohnt bargeldloses Bezahlen",
-      "titleTarget" : "İtalya nakitsiz ödemeleri ödüllendiriyor",
-      "url" : "https://kurier.at/wirtschaft/italien-belohnt-bargeldloses-bezahlen/401122062"
+      "id" : "hP1nrdyQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4806447/46-160456462.jpg",
+      "titleSource" : "Europäische Allianz bei Entwicklung von Computerchips",
+      "titleTarget" : "Bilgisayar çiplerinin geliştirilmesinde Avrupa ittifakı",
+      "url" : "https://kurier.at/wirtschaft/europaeische-allianz-bei-entwicklung-von-computerchips/401122134"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "k9v96Knv",
-      "imgUrl" : "https://image.kurier.at/images/original/4804617/46-173346408.jpg",
-      "titleSource" : "Wie kann man sich beim Weihnachtseinkauf schützen?",
-      "titleTarget" : "Noel için alışveriş yaparken kendinizi nasıl koruyabilirsiniz?",
-      "url" : "https://kurier.at/chronik/oesterreich/virologin-redlberger-fritz-abstand-halten-maske-tragen/401121186"
-    }, {
       "id" : "DmQAtKM0",
       "imgUrl" : "https://image.kurier.at/images/original/4802706/20201205-ABD0072-1-1.jpg",
       "titleSource" : "Tirol: Jeder dritte Antigen-Test falsch positiv",
       "titleTarget" : "Tirol: Her üç antijen testinden biri yanlış pozitiftir",
       "url" : "https://kurier.at/chronik/oesterreich/tirol-jeder-dritte-antigen-test-falsch-positiv/401122323"
-    }, {
-      "id" : "RLkpR7zV",
-      "titleSource" : "Das sind die Kärntner Sportler des Jahres",
-      "titleTarget" : "Bunlar yılın Carinthian sporcuları",
-      "url" : "https://kaernten.orf.at/stories/3079564/"
-    }, {
-      "id" : "ndWF0oAg",
-      "imgUrl" : "https://image.kurier.at/images/original/4804899/46-169347975.jpg",
-      "titleSource" : "Frauenministerin Raab präsentiert Handbuch gegen Gewalt an Frauen",
-      "titleTarget" : "Kadın Bakanı Raab kadına yönelik şiddete karşı bir el kitabı sunuyor",
-      "url" : "https://kurier.at/chronik/oesterreich/frauenministerin-raab-praesentiert-handbuch-gegen-gewalt-an-frauen/401121453"
     }, {
       "id" : "tgzdELvt",
       "imgUrl" : "https://image.kurier.at/images/original/4805208/46-173399113.jpg",
@@ -121,17 +104,34 @@
       "titleTarget" : "Kapalı bir yamaçta kayak gezenleri: \"Hayati tehlike var\"",
       "url" : "https://kurier.at/chronik/oesterreich/tourengeher-auf-gesperrter-piste-es-besteht-lebensgefahr/401121678"
     }, {
+      "id" : "RLkpR7zV",
+      "titleSource" : "Das sind die Kärntner Sportler des Jahres",
+      "titleTarget" : "Bunlar yılın Carinthian sporcuları",
+      "url" : "https://kaernten.orf.at/stories/3079564/"
+    }, {
       "id" : "azkjNDNJ",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/89/crops/w=1280/772405_opener_268589_veloce1.jpg?s=49f83b9435285ef041b3c6d8876bc326468ce31a",
       "titleSource" : "Veloce-Mitarbeiter vor Betriebsratswahl",
       "titleTarget" : "Veloce çalışanları iş konseyi seçiminden önce",
       "url" : "https://wien.orf.at/stories/3079545/"
     }, {
-      "id" : "gIgxV08F",
-      "imgUrl" : "https://image.kurier.at/images/original/4804614/illus_corona_fragen.png",
-      "titleSource" : "Lockdown-Ende: Was ab heute wieder geht - und was nicht",
-      "titleTarget" : "Kilitlenme sonu: Bugünden itibaren tekrar işe yarayan ve yaramayan",
-      "url" : "https://kurier.at/chronik/oesterreich/lockdown-ende-was-ab-heute-wieder-geht-und-was-nicht/401121327"
+      "id" : "qu6UGPQt",
+      "imgUrl" : "https://image.kurier.at/images/original/4806438/46-173404909.jpg",
+      "titleSource" : "Nächstes Tief: Im Süden Österreichs fallen heute wieder 50 bis 100 Zentimeter Schnee",
+      "titleTarget" : "Sonraki en düşük seviye: Avusturya'nın güneyinde 50 ila 100 santimetre kar tekrar yağıyor",
+      "url" : "https://kurier.at/chronik/oesterreich/naechstes-tief-erneut-fallen-50-bis-100-zentimeter-schnee/401122140"
+    }, {
+      "id" : "YimZwfdd",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/90/crops/w=1280/777030_opener_270290_20201207_105431.jpg?s=0f959423b46431c3890612d3ac5874b572b3fde2",
+      "titleSource" : "Ein Haus für einen Urwald",
+      "titleTarget" : "Orman için bir ev",
+      "url" : "https://noe.orf.at/stories/3079528/"
+    }, {
+      "id" : "hrL7EcM7",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/36/crops/w=1280/777034_opener_270336_giftigerzucker_2.jpg?s=bc85f8269cb76ea1a30533a7b2a8d292aa91078a",
+      "titleSource" : "Birkenzucker ist für Hunde hochgiftig",
+      "titleTarget" : "Huş ağacı şekeri köpekler için oldukça zehirlidir",
+      "url" : "https://salzburg.orf.at/stories/3079558/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -154,17 +154,11 @@
       "titleTarget" : "ORF-Talk'ta Filzmaier: \"Hükümet politikacıları arasında güven krizi\"",
       "url" : "https://kurier.at/kultur/medien/filzmaier-in-orf-talk-zu-corona-im-zentrum-vertrauenskrise-bei-regierungspolitikern/401122104"
     }, {
-      "id" : "SHSUEnS3",
-      "imgUrl" : "https://image.kurier.at/images/original/4804977/46-173276216.jpg",
-      "titleSource" : "Erste \"Bekenner\" im Hype um mysteriöse Monolithen",
-      "titleTarget" : "Gizemli monolitlerle ilgili aldatmacada ilk \"itirafçılar\"",
-      "url" : "https://kurier.at/kultur/erste-bekenner-im-hype-um-mysterioese-monolithen/401121525"
-    }, {
-      "id" : "zS6FmBF2",
-      "imgUrl" : "https://image.kurier.at/images/original/4801971/46-173342828.jpg",
-      "titleSource" : "Sigur Rós haben Gedicht über Magie der Raben vertont",
-      "titleTarget" : "Sigur Rós, kuzgunların müziğe olan büyüsü hakkında bir şiir yazdı",
-      "url" : "https://kurier.at/kultur/sigur-ros-haben-gedicht-ueber-magie-der-raben-vertont/401120082"
+      "id" : "5sHQB7za",
+      "imgUrl" : "https://image.kurier.at/images/original/4806540/46-173330814.jpg",
+      "titleSource" : "Adolf Loos im MAK: Radikalo und Rebell – aber zugleich Traditionalist",
+      "titleTarget" : "MAK'daki Adolf Loos: radikal ve asi - ama aynı zamanda gelenekçi",
+      "url" : "https://kurier.at/kultur/adolf-loos-im-mak-radikalo-und-rebell-aber-zugleich-traditionalist/401122224"
     }, {
       "id" : "4VcNsa6r",
       "imgUrl" : "https://image.kurier.at/images/original/988923/46-42491032.jpg",
@@ -172,11 +166,17 @@
       "titleTarget" : "Yıl sonunda, Netflix \"Black Mirror\" üreticilerinden haberleri gösterir",
       "url" : "https://kurier.at/kultur/medien/netflix-zeigt-zum-jahresende-neues-von-den-black-mirror-machern/401122299"
     }, {
-      "id" : "5Yr9uBEy",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/2/8/5791784/FILE-PHOTO-Rock-musician-Bob-Dylan-performs-at-the-Wiltern-Theatre-in-Los-Angeles_1585317197369610.jpg",
-      "titleSource" : "Bob Dylan verkauft Rechte an mehr als 600 Songs",
-      "titleTarget" : "Bob Dylan 600'den fazla şarkının haklarını satıyor",
-      "url" : "https://www.diepresse.com/5908397/Bob-Dylan-verkauft-Rechte-an-mehr-als-600-Songs?from=rss"
+      "id" : "vyo0e8NC",
+      "imgUrl" : "https://image.kurier.at/images/original/4806744/46-173345175.jpg",
+      "titleSource" : "Patricia Aulitzky: Landkrimi-Einstand für eine Außenseiterin",
+      "titleTarget" : "Patricia Aulitzky: Bir yabancı için arazi geriliminin başlangıcı",
+      "url" : "https://kurier.at/kultur/medien/patricia-aulitzky-einstand-fuer-eine-aussenseiterin-beim-orf-landkrimi/401122326"
+    }, {
+      "id" : "RHXI595g",
+      "imgUrl" : "https://image.kurier.at/images/original/4806744/46-173345175.jpg",
+      "titleSource" : "Patricia Aulitzky: Landkrimi-Einstand für eine Unangepasste ",
+      "titleTarget" : "Patricia Aulitzky: Kurallara uymayan biri için ülkede suç başlangıcı",
+      "url" : "https://kurier.at/kultur/medien/patricia-aulitzky-einstand-fuer-eine-aussenseiterin-beim-landkrimi/401122326"
     } ]
   }, {
     "category" : "HEALTH",
@@ -184,23 +184,6 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "tIVx8OLX",
-      "imgUrl" : "https://image.kurier.at/images/original/4804929/46-168244474.jpg",
-      "titleSource" : "ÖSV-Boss Schröcksnadel: \"Wir holen unsere Skispringer aus Russland\"",
-      "titleTarget" : "ÖSV patronu Schröcksnadel: \"Kayak atlayıcılarımızı Rusya'dan getiriyoruz\"",
-      "url" : "https://kurier.at/sport/wintersport/oesv-boss-schroecksnadel-wir-holen-unsere-skispringer-aus-russland/401121483"
-    }, {
-      "id" : "vvoYfiWN",
-      "imgUrl" : "https://image.kurier.at/images/original/4803993/46-173383566.jpg",
-      "titleSource" : "Kühbauer nach dem 3:1: \"Für Kelvin Arase freue ich mich ungemein\"",
-      "titleTarget" : "3: 1'den sonra Kühbauer: \"Kelvin Arase için gerçekten mutluyum\"",
-      "url" : "https://kurier.at/sport/fussball/rapid-trainer-didi-kuehbauer-nach-dem-31-sieg-in-hartberg-fuer-kelvin-arase-freue-ich-mich-ungemein/401121207"
-    }, {
-      "id" : "oDuECiDJ",
-      "titleSource" : "Neo-Leader LASK bleibt auf dem Boden",
-      "titleTarget" : "Neo-Lider LASK yerde kalıyor",
-      "url" : "https://sport.orf.at/stories/3070336/"
-    }, {
       "id" : "Tva0tJXi",
       "titleSource" : "ÖFB-Team erwischt lösbare Gruppe",
       "titleTarget" : "ÖFB ekibi ayrılabilir grubu yakaladı",
@@ -217,10 +200,26 @@
       "titleTarget" : "Avusturya'nın Dünya Kupası elemeleri: \"Daha kötü olabilirdi\"",
       "url" : "https://kurier.at/sport/fussball/wm-qualifikation-oesterreich-trifft-auf-daenemark-schottland-israel-faeroeer-und-moldau/401121831"
     }, {
-      "id" : "OMfxVduM",
-      "titleSource" : "Odermatt legt in Santa Caterina vor",
-      "titleTarget" : "Odermatt, Santa Caterina'da sunar",
-      "url" : "https://sport.orf.at/stories/3070339/"
+      "id" : "oa2srJ3v",
+      "imgUrl" : "https://image.kurier.at/images/original/4806549/46-173383595.jpg",
+      "titleSource" : "Rapid-Trainer Kühbauer: \"Ich hoffe, das passiert mir nie wieder\"",
+      "titleTarget" : "Hızlı antrenör Kühbauer: \"Umarım bu bir daha asla başıma gelmez\"",
+      "url" : "https://kurier.at/sport/fussball/rapid-trainer-didi-kuehbauer-im-kurier-interview-ich-hoffe-das-passiert-mir-nie-wieder/401122248"
+    }, {
+      "id" : "xRHloYR7",
+      "titleSource" : "Paris 2024 wird wieder schlanker",
+      "titleTarget" : "Paris 2024 yeniden zayıflayacak",
+      "url" : "https://sport.orf.at/stories/3070360/"
+    }, {
+      "id" : "rhgDQy3c",
+      "titleSource" : "Linz-Froschberg im Champions-League-Finale",
+      "titleTarget" : "Şampiyonlar Ligi finalinde Linz-Froschberg",
+      "url" : "https://sport.orf.at/stories/3070366/"
+    }, {
+      "id" : "J2JKaiLa",
+      "titleSource" : "Wie die USA von Lennons Tod erfuhren",
+      "titleTarget" : "Birleşik Devletler Lennon'ın ölümünü nasıl öğrendi?",
+      "url" : "https://sport.orf.at/stories/3070212/"
     } ]
   } ],
   "country" : "austria",
