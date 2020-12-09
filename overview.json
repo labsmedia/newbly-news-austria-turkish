@@ -2,11 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "MSLGN4Yh",
-      "imgUrl" : "https://image.kurier.at/images/original/4807443/46-173346310.jpg",
-      "titleSource" : "Grüne Umfragewerte mit \"Tendenz nach unten\"",
-      "titleTarget" : "\"Düşüş eğilimi\" olan yeşil anketler",
-      "url" : "https://kurier.at/politik/inland/gruene-umfragewerte-mit-tendenz-nach-unten/401122518"
+      "id" : "Htivy4uf",
+      "imgUrl" : "https://image.kurier.at/images/original/4795578/20201202-ABD0074-1-1.jpg",
+      "titleSource" : "Kanzler sieht heimische Maßnahmen durch deutschen Experten-Rat bestätigt",
+      "titleTarget" : "Şansölye, Alman uzman tavsiyesi ile onaylanan yerel önlemleri görüyor",
+      "url" : "https://kurier.at/politik/inland/kanzler-sieht-heimische-massnahmen-durch-deutschen-experten-rat-bestaetigt/401123613"
+    }, {
+      "id" : "U3rA99MG",
+      "imgUrl" : "https://image.kurier.at/images/original/4808862/46-173319924.jpg",
+      "titleSource" : "Anschober: \"Die kommenden vier Wochen sind die riskantesten\"",
+      "titleTarget" : "Anschober: \"Önümüzdeki dört hafta en riskli olan\"",
+      "url" : "https://kurier.at/politik/inland/live-anschober-und-nehammer-ziehen-erstes-fazit-nach-massentests/401123244"
     }, {
       "id" : "GFlvsdr1",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/9/b/9/5908921/Lehrer-im-Unterricht-mit-Schueler-und-Schuelerinnen--6-Klasse-eines-Gymnasiums-in-Radevormwald--Deutschland--Teache_1607491163634625_v0_l.jpg",
@@ -14,22 +20,11 @@
       "titleTarget" : "Almanca derslerinde işe yaramayan",
       "url" : "https://www.diepresse.com/5908921/Was-in-den-Deutschklassen-alles-nicht-funktioniert?from=rss"
     }, {
-      "id" : "KttlgVVx",
-      "imgUrl" : "https://image.kurier.at/images/original/4808292/46-173408619.jpg",
-      "titleSource" : "Wann kommt das Öffi-Ticket für ganz Österreich?",
-      "titleTarget" : "Tüm Avusturya için toplu taşıma bileti ne zaman geliyor?",
-      "url" : "https://kurier.at/politik/inland/wann-kommt-das-oeffi-ticket-fuer-ganz-oesterreich/401123289"
-    }, {
-      "id" : "Jgyxa4XR",
-      "imgUrl" : "https://image.kurier.at/images/original/4238807/78350011454038786_BLD_Online.jpg",
-      "titleSource" : "Deutschklassen: Lehrer stellen dem Modell kein gutes Zeugnis aus",
-      "titleTarget" : "Almanca dersleri: Öğretmenler modele iyi bir rapor vermiyor",
-      "url" : "https://kurier.at/politik/inland/deutschklassen-lehrer-stellen-dem-modell-kein-gutes-zeugnis-aus/401123178"
-    }, {
-      "id" : "hPlrCUBN",
-      "titleSource" : "Salzburg plant kommendes Jahr 413,5 Millionen Euro an neuen Schulden",
-      "titleTarget" : "Salzburg gelecek yıl 413,5 milyon Euro yeni borç planlıyor",
-      "url" : "https://www.diepresse.com/5909031/Coronakrise_Salzburg-plant-kommendes-Jahr-4135-Millionen-Euro-an?from=rss"
+      "id" : "0KGhzCvt",
+      "imgUrl" : "https://image.kurier.at/images/original/4683720/20201007-ABD0074-1-1.jpg",
+      "titleSource" : "Grasser-Urteil: Freisprüche sind rechtskräftig",
+      "titleTarget" : "Grasser kararı: Beraat kararı kesindir",
+      "url" : "https://kurier.at/politik/inland/grasser-urteil-freisprueche-sind-rechtskraeftig/401124207"
     }, {
       "id" : "eHezooGp",
       "imgUrl" : "https://image.kurier.at/images/original/3619451/81590640249428158_BLD_Online.jpg",
@@ -37,32 +32,44 @@
       "titleTarget" : "Corona: Evlerin daha fazla test için yardıma ihtiyacı var, diyor Diakonie patronu",
       "url" : "https://kurier.at/politik/inland/corona-heime-brauchen-hilfe-fuer-mehr-tests-sagt-diakonie-chefin/401123442"
     }, {
-      "id" : "oZJY9KES",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/9/e/8/5908968/PK-MASSNAHMEN-ZUR-KORRUPTIONSBEKMPFUNG-ZADIC_1607499663639785_v0_h.jpg",
-      "titleSource" : "Zadic will Opferschutz ausbauen",
-      "titleTarget" : "Zadiç, mağdur korumasını genişletmek istiyor",
-      "url" : "https://www.diepresse.com/5908968/Kriminalitaet_Zadic-will-Opferschutz-ausbauen?from=rss"
+      "id" : "kCQW5KrT",
+      "imgUrl" : "https://image.kurier.at/images/original/4809138/46-168655164.jpg",
+      "titleSource" : "Regierung erhöht Förderung für jüdische Gemeinde auf 4 Millionen Euro",
+      "titleTarget" : "Hükümet, Yahudi cemaati için finansmanı 4 milyon avroya çıkardı",
+      "url" : "https://kurier.at/politik/inland/regierung-erhoeht-foerderung-fuer-juedische-gemeinde-auf-4-millionen-euro/401123949"
+    }, {
+      "id" : "KttlgVVx",
+      "imgUrl" : "https://image.kurier.at/images/original/4808292/46-173408619.jpg",
+      "titleSource" : "Wann kommt das Öffi-Ticket für ganz Österreich?",
+      "titleTarget" : "Tüm Avusturya için toplu taşıma bileti ne zaman geliyor?",
+      "url" : "https://kurier.at/politik/inland/wann-kommt-das-oeffi-ticket-fuer-ganz-oesterreich/401123289"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "6UyrdFyo",
-      "imgUrl" : "https://image.kurier.at/images/original/3825029/78370011350962988_BLD_Online.jpg",
-      "titleSource" : "Neue Nachtzug-Verbindungen für Europa",
-      "titleTarget" : "Avrupa için yeni gece treni bağlantıları",
-      "url" : "https://kurier.at/wirtschaft/neue-nachtzug-verbindungen-fuer-europa/401122965"
-    }, {
       "id" : "qcoYHLD9",
       "imgUrl" : "https://image.kurier.at/images/original/4786893/78370011357708696_BLD_Online.jpg",
       "titleSource" : "Commerzialbank Mattersburg kommt unter den Hammer",
       "titleTarget" : "Commerzialbank Mattersburg çekicin altına girdi",
       "url" : "https://kurier.at/wirtschaft/commerzialbank-matterburg-kommt-unter-den-hammer/401123358"
     }, {
-      "id" : "D2iD19KD",
-      "imgUrl" : "https://image.kurier.at/images/original/4767240/20201119-ABD0007-1-1.jpg",
-      "titleSource" : "Fiskus entgehen bis zu 680 Mio. Euro durch Amazon & Co",
-      "titleTarget" : "Hazine, Amazon & Co aracılığıyla 680 milyon Euro'ya kadar kaçıyor",
-      "url" : "https://kurier.at/wirtschaft/fiskus-entgehen-bis-zu-680-mio-euro-durch-amazon-co/401122710"
+      "id" : "AJ34K69v",
+      "imgUrl" : "https://image.kurier.at/images/original/4809276/46-167653148.jpg",
+      "titleSource" : "ÖGK: Neue Regelungen für Krankenstand",
+      "titleTarget" : "ÖGK: Hastalık izni için yeni kurallar",
+      "url" : "https://kurier.at/wirtschaft/oegk-neue-regelungen-fuer-krankenstand/401124075"
+    }, {
+      "id" : "Z0tyRFpg",
+      "imgUrl" : "https://image.kurier.at/images/original/4808874/46-173398680.jpg",
+      "titleSource" : "Ökonomisch Schwächere durch Corona-Pandemie stark unter Druck",
+      "titleTarget" : "Korona salgını nedeniyle büyük baskı altında ekonomik olarak zayıf insanlar",
+      "url" : "https://kurier.at/wirtschaft/oekonomisch-schwaechere-durch-corona-pandemie-stark-unter-druck/401123673"
+    }, {
+      "id" : "3gTEgFu0",
+      "imgUrl" : "https://image.kurier.at/images/original/4762245/78370011357530408_BLD_Online.jpg",
+      "titleSource" : "Krise kostet Luxushersteller fast ein Viertel Umsatz",
+      "titleTarget" : "Kriz lüks üreticilere satışlarının neredeyse dörtte birine mal oluyor",
+      "url" : "https://kurier.at/wirtschaft/krise-kostet-luxushersteller-fast-ein-viertel-umsatz/401123562"
     }, {
       "id" : "kTOBXOns",
       "imgUrl" : "https://image.kurier.at/images/original/4808205/46-168653727.jpg",
@@ -70,83 +77,81 @@
       "titleTarget" : "Uber, robot arabalardan sonra hava taksi projesi de satıyor",
       "url" : "https://kurier.at/wirtschaft/uber-stoesst-nach-roboterautos-auch-flugtaxi-projekt-ab/401123253"
     }, {
-      "id" : "i0OkjtNL",
-      "imgUrl" : "https://image.kurier.at/images/original/3915578/78370011351643288_BLD_Online.jpg",
-      "titleSource" : "ÖBAG-Chef für zusätzliche Staatsbeteiligungen in Ausnahmefällen",
-      "titleTarget" : "İstisnai durumlarda ek devlet holdingleri için ÖBAG patronu",
-      "url" : "https://kurier.at/wirtschaft/oebag-chef-fuer-zusaetzliche-staatsbeteiligungen-in-ausnahmefaellen/401123388"
+      "id" : "KJ1zJXuv",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/a/7/a/5909114/FILES-US-IT-CRIME-HACKING_1607514659823428_v0_l.jpg",
+      "titleSource" : "Internet-Kriminalität: \"Die Zahlen steigen exorbitant\"",
+      "titleTarget" : "İnternet suçu: \"Sayılar fahiş bir şekilde artıyor\"",
+      "url" : "https://www.diepresse.com/5909114/Kriminalitaet_InternetKriminalitaet_Die-Zahlen-steigen-exorbitant?from=rss"
     }, {
-      "id" : "xQARqTuC",
-      "imgUrl" : "https://image.kurier.at/images/original/4728966/81690356757241560_BLD_Online.jpg",
-      "titleSource" : "US-Bundesstaaten mit Wettbewerbsklage gegen Facebook",
-      "titleTarget" : "ABD'de Facebook'a karşı rekabet davası açıldı",
-      "url" : "https://kurier.at/wirtschaft/us-bundesstaaten-mit-wettbewerbsklage-gegen-facebook/401123397"
-    }, {
-      "id" : "rhjQSyfR",
-      "imgUrl" : "https://image.kurier.at/images/original/4808349/46-171946444.jpg",
-      "titleSource" : "Trading-App Robinhood wählt Goldman Sachs für Börsengang",
-      "titleTarget" : "Robinhood ticaret uygulaması halka arz için Goldman Sachs'ı seçti",
-      "url" : "https://kurier.at/wirtschaft/trading-app-robinhood-waehlt-goldman-sachs-fuer-boersengang/401123352"
+      "id" : "uMOrOmqX",
+      "titleSource" : "Christoph Swarovski folgt im Beirat doch nicht auf Helmut",
+      "titleTarget" : "Christoph Swarovski, danışma kurulunda Helmut'un yerini alamadı",
+      "url" : "https://kurier.at/wirtschaft/christoph-swarovski-folgt-im-beirat-doch-nicht-auf-helmut/401124183"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "jXjdJ3Ku",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/34/crops/w=1280/778088_opener_270834_sch08970.jpg?s=66e27ebc5897ef426e0d6d567de95707fc6a4043",
-      "titleSource" : "Aus „Fugging“ wurde wieder „Fucking“",
-      "titleTarget" : "\"Sikişmek\" tekrar \"Sikişmek\" oldu",
-      "url" : "https://ooe.orf.at/stories/3079668/"
+      "id" : "urzbIqMG",
+      "imgUrl" : "https://image.kurier.at/images/original/4808949/46-88967587.jpg",
+      "titleSource" : "Corona: Österreichische Maskenverweigerin legte göttliches Befreiungsattest vor",
+      "titleTarget" : "Corona: Avusturyalı maskeyi reddeden ilahi tahliye sertifikası sundu",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-maskenverweigerin-legte-goettliches-befreiungsattest-vor/401123769"
     }, {
-      "id" : "3WeP8vwG",
-      "imgUrl" : "https://image.kurier.at/images/original/4802706/20201205-ABD0072-1-1.jpg",
-      "titleSource" : "Tirol: Rund 400 positive PCR-Tests nach Massentestung",
-      "titleTarget" : "Tyrol: Kitle testinden sonra yaklaşık 400 pozitif PCR testi",
-      "url" : "https://kurier.at/chronik/oesterreich/tirol-jeder-dritte-positive-antigen-test-falsch-positiv/401122323"
+      "id" : "3x1tZUOg",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/37/crops/w=1280/778601_opener_271037_pk_wiederkehr_cafe_museum_corazza_01724_00_25_01_21.jpg?s=9edd6a9ac7e96d9853e05647a88bc8291fa794e5",
+      "titleSource" : "Kaffeehäuser öffnen für Schüler zum Lernen",
+      "titleTarget" : "Öğrencilerin okuması için açık kahve evleri",
+      "url" : "https://wien.orf.at/stories/3079761/"
     }, {
-      "id" : "1IrDI4cz",
-      "imgUrl" : "https://image.kurier.at/images/original/4807320/46-173419574.jpg",
-      "titleSource" : "Zweiter Shopping-Tag: Der große Kaufrausch blieb aus",
-      "titleTarget" : "Alışveriş günü: Beklendiği kadar büyük değil acele",
-      "url" : "https://kurier.at/chronik/oesterreich/shopping-tag-andrang-bisher-nicht-so-gross-wie-erwartet/401122644"
+      "id" : "Ayk9s8Bj",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/62/crops/w=1280/767903_opener_266962_meldungsliste7_1.jpg?s=a4f6d4650ac47428fe504e11a7727ba48eb4a438",
+      "titleSource" : "Geringe Positivrate bei Massentests",
+      "titleTarget" : "Kütle testlerinde düşük pozitif oran",
+      "url" : "https://wien.orf.at/stories/3079801/"
     }, {
-      "id" : "bkbiQSgi",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/65/crops/w=1280/778128_opener_270865_99bb2466-933a-4af3-bb6b-d35cefe4ab1d.jpg?s=15443b2d15d209adc88cbbf3a634e99f8331d9a7",
-      "titleSource" : "Ansturm auf Einkaufszentren blieb aus",
-      "titleTarget" : "Alışveriş merkezlerine koşuşturma olmadı",
-      "url" : "https://noe.orf.at/stories/3079647/"
+      "id" : "t2z8g86k",
+      "titleSource" : "Frau lag zwei Tage hilflos in Badewanne",
+      "titleTarget" : "Kadın iki gün küvette çaresiz yatıyordu",
+      "url" : "https://kaernten.orf.at/stories/3079785/"
     }, {
-      "id" : "MAswNLmf",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/29/crops/w=1280/778071_opener_270829_fussball1.jpg?s=ce3a0f3f13a878c6b4749c176bf70180532b9ef4",
-      "titleSource" : "Mit Fahrzeug Fußballplatz ruiniert",
-      "titleTarget" : "Araçlı harap futbol sahası",
-      "url" : "https://vorarlberg.orf.at/stories/3079671/"
+      "id" : "J0zHhq42",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/10/05/crops/w=1280/493121_opener_166105_landtag.jpg?s=d6acfca2f1175f70746ae911a99efb2241b47c99",
+      "titleSource" : "2021: Landesbudget mit 413,5 Mio. Euro Neuschulden",
+      "titleTarget" : "2021: 413,5 milyon Euro yeni borçlu devlet bütçesi",
+      "url" : "https://salzburg.orf.at/stories/3079760/"
     }, {
-      "id" : "NIWhIzzg",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/03/crops/w=1280/762402_opener_264903_impfung.jpg?s=66b3bdaa100a32e23598814e9625f2aa55f58e90",
-      "titleSource" : "CoV-Impfung für Spitalspersonal ab Jänner",
-      "titleTarget" : "Ocak ayından itibaren hastane personeli için CoV aşısı",
-      "url" : "https://wien.orf.at/stories/3079644/"
+      "id" : "MzAq7p5z",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/a/4/5909156/FB5048CA-BD87-4BFB-ACB7-F5BAD7544B27_v0_h.jpg",
+      "titleSource" : "Positive Antigentests in Wien großteils falsch positiv",
+      "titleTarget" : "Viyana'da pozitif antijen testleri çoğunlukla yanlış pozitif",
+      "url" : "https://www.diepresse.com/5909156/Massentests_Positive-Antigentests-in-Wien-grossteils-falsch-positiv?from=rss"
     }, {
-      "id" : "BrQDAe3p",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/39/01/crops/w=1280/308131_opener_96301_dsc_0560.jpg?s=d2a5d671ea85fdb1822bd6b20259a3b78acdf98c",
-      "titleSource" : "Hallstätter Gletscher schmilzt drastisch",
-      "titleTarget" : "Hallstatt Buzulu büyük ölçüde eriyor",
-      "url" : "https://ooe.orf.at/stories/3075160/"
+      "id" : "BvLVbbW4",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/53/crops/w=1280/778638_opener_271053_schuetz.jpg?s=453761c1d9063d4f0f07bc2d65caa5971f2c843b",
+      "titleSource" : "Schützenhöfer: „Testen rettet Leben“",
+      "titleTarget" : "Schützenhöfer: \"Test yapmak hayat kurtarır\"",
+      "url" : "https://steiermark.orf.at/stories/3079690/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
+      "id" : "jRq59Phl",
+      "imgUrl" : "https://image.kurier.at/images/original/4368065/5687839.jpg",
+      "titleSource" : "ORF 1 zeigt \"Die Simpsons\" zu Weihnachten auf Österreichisch",
+      "titleTarget" : "ORF 1 Noel'de Avusturya'da \"Simpsonlar\" ı gösteriyor",
+      "url" : "https://kurier.at/kultur/medien/orf-1-zeigt-die-simpsons-zu-weihnachten-auf-oesterreichisch/401123820"
+    }, {
+      "id" : "zQIozDej",
+      "imgUrl" : "https://image.kurier.at/images/original/4809699/omer_meir_wellber_c_pmeisel_661.jpg",
+      "titleSource" : "Wiener Volksoper bekommt 2022 Musikdirektor: Omer Meir Wellber",
+      "titleTarget" : "Viyana Volksoper, 2022'de müzik yönetmeni oldu: Omer Meir Wellber",
+      "url" : "https://kurier.at/kultur/omer-meir-wellber-wird-2022-musikdirektor-der-wiener-volksoper/401124123"
+    }, {
       "id" : "5yAwouDi",
       "imgUrl" : "https://image.kurier.at/images/original/4010316/78350011452298074_BLD_Online.jpg",
       "titleSource" : "Corona bringt Bundesmuseen und Bundestheater in Bedrängnis",
       "titleTarget" : "Corona federal müzeleri ve federal tiyatroları sıkıntıya sokuyor",
       "url" : "https://kurier.at/kultur/corona-bringt-bundesmuseen-und-bundestheater-in-bedraengnis/401123019"
-    }, {
-      "id" : "taMqKKFt",
-      "imgUrl" : "https://image.kurier.at/images/original/3502969/81412305848646536_BLD_Online.jpg",
-      "titleSource" : "Regisseur Christopher Nolan kritisierte Warners Streamingplan",
-      "titleTarget" : "Yönetmen Christopher Nolan, Warner'ın yayın planını eleştirdi",
-      "url" : "https://kurier.at/kultur/regisseur-christopher-nolan-kritisierte-warners-streamingplan/401123028"
     }, {
       "id" : "LcqQlm4s",
       "imgUrl" : "https://image.kurier.at/images/original/4807857/46-173261723.jpg",
@@ -160,23 +165,17 @@
       "titleTarget" : "Aralık için 5 podcast ipucu",
       "url" : "https://kurier.at/kultur/medien/5-podcast-tipps-fuer-den-dezember/401122785"
     }, {
-      "id" : "ZiGxNE2z",
-      "imgUrl" : "https://image.kurier.at/images/original/4807929/46-143753425.jpg",
-      "titleSource" : "Werk-Ensemble von Balthus für über 2,4 Millionen Euro versteigert",
-      "titleTarget" : "Balthus'un eserleri topluluğu 2,4 milyon avronun üzerinde müzayedede",
-      "url" : "https://kurier.at/kultur/werk-ensemble-von-balthus-fuer-ueber-24-millionen-euro-versteigert/401123034"
+      "id" : "taMqKKFt",
+      "imgUrl" : "https://image.kurier.at/images/original/3502969/81412305848646536_BLD_Online.jpg",
+      "titleSource" : "Regisseur Christopher Nolan kritisierte Warners Streamingplan",
+      "titleTarget" : "Yönetmen Christopher Nolan, Warner'ın yayın planını eleştirdi",
+      "url" : "https://kurier.at/kultur/regisseur-christopher-nolan-kritisierte-warners-streamingplan/401123028"
     }, {
-      "id" : "fnsAPmAV",
-      "imgUrl" : "https://image.kurier.at/images/original/4807914/46-173393930.jpg",
-      "titleSource" : "Auszeichnung abgesagt: 2020 selbst für schlechten Sex zu schlecht",
-      "titleTarget" : "Ödül iptal edildi: 2020 kötü seks için bile çok kötü",
-      "url" : "https://kurier.at/kultur/auszeichnung-abgesagt-2020-selbst-fuer-schlechten-sex-zu-schlecht/401123016"
-    }, {
-      "id" : "xfEjtiAP",
-      "imgUrl" : "https://image.kurier.at/images/original/4808793/46-167507509.jpg",
-      "titleSource" : "Hosea Ratschiller \"tanzt elegant direkt am Abgrund\"",
-      "titleTarget" : "Hosea Ratschiller \"tam kenarında zarifçe dans ediyor\"",
-      "url" : "https://kurier.at/kultur/hosea-ratschiller-tanzt-elegant-direkt-am-abgrund/401118090"
+      "id" : "KXPcdHNP",
+      "imgUrl" : "https://image.kurier.at/images/original/4809630/46-173294711.jpg",
+      "titleSource" : "Nach Kogler-Befund: Staatsoper sieht keine \"Bestandsgefährdung\"",
+      "titleTarget" : "Kogler bulgularına göre: Devlet Operası \"varlığına tehdit\" görmüyor",
+      "url" : "https://kurier.at/kultur/nach-kogler-befund-wiener-staatsoper-sieht-trotz-corona-keine-bestandsgefaehrdung/401124273"
     } ]
   }, {
     "category" : "HEALTH",
@@ -195,31 +194,31 @@
       "titleTarget" : "Froschberg'in CL rüyası finalde patladı",
       "url" : "https://sport.orf.at/stories/3070409/"
     }, {
-      "id" : "L4LZndzI",
-      "imgUrl" : "https://image.kurier.at/images/original/4807608/46-173240005.jpg",
-      "titleSource" : "Hamilton nach Corona-Infektion: \"War eine der härtesten Wochen\"",
-      "titleTarget" : "Korona enfeksiyonundan sonra Hamilton: \"En zor haftalardan biriydi\"",
-      "url" : "https://kurier.at/sport/motorsport/formel-1-weltmeister-lewis-hamilton-nach-corona-infektion-war-eine-der-haertesten-wochen/401122908"
+      "id" : "8LL9NTit",
+      "imgUrl" : "https://image.kurier.at/images/original/4808598/gettyimages-646695952.jpg",
+      "titleSource" : "Österreichs Sport trauert um eine Motorsport-Legende",
+      "titleTarget" : "Avusturya sporu bir motor sporları efsanesinin yasını tutuyor",
+      "url" : "https://kurier.at/sport/motorsport/oesterreichs-sport-trauert-um-eine-motorsport-legende/401123424"
     }, {
-      "id" : "gDeKWBPm",
-      "titleSource" : "Katar spielt als Gast in Portugal-Gruppe",
-      "titleTarget" : "Katar, Portekiz grubuna konuk oldu",
-      "url" : "https://sport.orf.at/stories/3070397/"
+      "id" : "uoGzPHOy",
+      "titleSource" : "Höck nimmt Finale an den Ringen ins Visier",
+      "titleTarget" : "Höck, ringlerde Finale'yi hedef alıyor",
+      "url" : "https://sport.orf.at/stories/3070371/"
+    }, {
+      "id" : "44i97t33",
+      "titleSource" : "Rassismuseklat schlägt hohe Wellen",
+      "titleTarget" : "Irkçılık dedikodusu dalgalara neden oluyor",
+      "url" : "https://sport.orf.at/stories/3070421/"
     }, {
       "id" : "IjqGuHKo",
       "titleSource" : "Rassismusskandal bei PSG – Basaksehir",
       "titleTarget" : "PSG'de ırkçılık skandalı - Başakşehir",
       "url" : "https://sport.orf.at/stories/3070404/"
     }, {
-      "id" : "II9l9Jbl",
-      "titleSource" : "Atleticos „Mauer“ steht Salzburg im Weg",
-      "titleTarget" : "Atletico'nun \"Duvarı\" Salzburg'un önünde duruyor",
-      "url" : "https://sport.orf.at/stories/3070353/"
-    }, {
-      "id" : "HJvXuh3U",
-      "titleSource" : "Linz-Froschberg verliert „CL-Finale dahoam“",
-      "titleTarget" : "Linz-Froschberg \"CL finalini evinde\" kaybetti",
-      "url" : "https://sport.orf.at/stories/3070408/"
+      "id" : "uaNqoeT2",
+      "titleSource" : "Lazaro-Tor „hilft Kindern zu träumen“",
+      "titleTarget" : "Lazaro kapısı \"çocukların hayal kurmasına yardımcı olur\"",
+      "url" : "https://sport.orf.at/stories/3070420/"
     } ]
   } ],
   "country" : "austria",
