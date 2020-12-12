@@ -2,11 +2,11 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "R0OvXmkK",
-      "imgUrl" : "https://image.kurier.at/images/original/4799331/78350011457804754_BLD_Online.jpg",
-      "titleSource" : "Doch nicht zu zehnt? Regierung plant Aus für Silvester-Partys",
-      "titleTarget" : "Ama on değil mi? Hükümet Yeni Yıl partileri için planlar yapıyor",
-      "url" : "https://kurier.at/politik/inland/doch-nicht-zu-zehnt-regierung-plant-aus-fuer-silvester-partys/401126454"
+      "id" : "D8ZRtMz9",
+      "imgUrl" : "https://image.kurier.at/images/original/4795023/20201202-ABD0045-1-1.jpg",
+      "titleSource" : "Die Feiertags-Maßnahmen: Keine Silvesterpartys, bundesweiter Massentest, Maske auch im Büro",
+      "titleTarget" : "Tatil ölçütleri: Yeni Yıl partileri yok, ülke çapında kitle testi, ofiste bile maske",
+      "url" : "https://kurier.at/politik/inland/kurz-kogler-live-ab-21-uhr-die-regeln-fuer-weihnachten-und-silvester/401127147"
     }, {
       "id" : "XZhkwJZA",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/8/8/5910152/4F08007E-68EC-439F-90F3-85D3AD4C1AAC_v0_h.jpg",
@@ -14,11 +14,23 @@
       "titleTarget" : "VfGH yardımlı intihar yasağını kaldırdı",
       "url" : "https://www.diepresse.com/5910369/Grundrechte_VfGH-hebt-Verbot-von-Beihilfe-zum-Suizid-auf?from=rss"
     }, {
+      "id" : "R0OvXmkK",
+      "imgUrl" : "https://image.kurier.at/images/original/4799331/78350011457804754_BLD_Online.jpg",
+      "titleSource" : "Doch nicht zu zehnt? Regierung plant Aus für Silvester-Partys",
+      "titleTarget" : "Ama on değil mi? Hükümet Yeni Yıl partileri için planlar yapıyor",
+      "url" : "https://kurier.at/politik/inland/doch-nicht-zu-zehnt-regierung-plant-aus-fuer-silvester-partys/401126454"
+    }, {
       "id" : "LUnSH2uQ",
       "imgUrl" : "https://image.kurier.at/images/original/4610696/46-146134696.jpg",
       "titleSource" : "Verhaftung von Drahtzieher des Ibiza-Videos: So geht es nun weiter",
       "titleTarget" : "İbiza videosunun beyninin tutuklanması: şimdi devam ediyor",
       "url" : "https://kurier.at/politik/inland/ibiza-video-drahtzieher-verhaftet/401125965"
+    }, {
+      "id" : "IgecGeVS",
+      "imgUrl" : "https://image.kurier.at/images/original/3969170/close-up-of-two-flute-glasses-filled-with-sparkling-wine-3036525.jpg",
+      "titleSource" : "Corona - Österreicher wollen sich Silvester nicht verderben lassen",
+      "titleTarget" : "Corona - Avusturyalılar Yılbaşı gecesi için şımarık olmak istemiyor",
+      "url" : "https://kurier.at/politik/inland/corona-oesterreicher-wollen-sich-silvester-nicht-verderben-lassen/401126493"
     }, {
       "id" : "V1w3kL82",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/8/8/5910152/4F08007E-68EC-439F-90F3-85D3AD4C1AAC_v0_h.jpg",
@@ -26,56 +38,32 @@
       "titleTarget" : "Anayasa Mahkemesi ötenazi ve başörtüsü yasağına karar verdi",
       "url" : "https://www.diepresse.com/5910152/Grundrechte_Verfassungsgerichtshof-entschied-ueber-Sterbehilfe-und?from=rss"
     }, {
-      "id" : "8m8RjX4A",
-      "imgUrl" : "https://image.kurier.at/images/original/4657288/46-167696528.jpg",
-      "titleSource" : "VfGH dürfte Sterbehilfeverbot teilweise kippen",
-      "titleTarget" : "VfGH'nin ötenazi yasağını kısmen bozması muhtemel",
-      "url" : "https://kurier.at/politik/inland/vfgh-duerfte-sterbehilfeverbot-teilweise-kippen/401126799"
-    }, {
-      "id" : "yF2lVQ7H",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/2/0/5910048/NATIONALRAT-MAURER--ZADIC--EDTSTADLER_1607678142903881_v0_h.jpg",
-      "titleSource" : "Entwurf zu Polizei-Kontrollen in Wohnungen war \"Lapsus\"",
-      "titleTarget" : "Dairelerde polis kontrolleri için taslak \"Lapsus\" idi",
-      "url" : "https://www.diepresse.com/5910048/Narionalrat_Entwurf-zu-PolizeiKontrollen-in-Wohnungen-war-Lapsus?from=rss"
-    }, {
-      "id" : "IgecGeVS",
-      "imgUrl" : "https://image.kurier.at/images/original/3969170/close-up-of-two-flute-glasses-filled-with-sparkling-wine-3036525.jpg",
-      "titleSource" : "Corona - Österreicher wollen sich Silvester nicht verderben lassen",
-      "titleTarget" : "Corona - Avusturyalılar Yılbaşı gecesi için şımarık olmak istemiyor",
-      "url" : "https://kurier.at/politik/inland/corona-oesterreicher-wollen-sich-silvester-nicht-verderben-lassen/401126493"
+      "id" : "RCQA02rU",
+      "imgUrl" : "https://image.kurier.at/images/original/4815264/46-173463336.jpg",
+      "titleSource" : "Kurz: Impfstoff im ersten Quartal 2021 in Österreich \"nur sehr beschränkt\" verfügbar",
+      "titleTarget" : "Kısaca: aşı, 2021'in ilk çeyreğinde Avusturya'da \"sadece çok sınırlı\".",
+      "url" : "https://kurier.at/politik/inland/kurz-im-ersten-quartal-2021-nur-sehr-beschraenkt-impfstoff-in-oesterreich/401127192"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "8bSSllTm",
-      "imgUrl" : "https://image.kurier.at/images/original/3728276/46-148153670.jpg",
-      "titleSource" : "Schulden machen ist für Österreich derzeit ein Geschäft",
-      "titleTarget" : "Borçlanmak şu anda Avusturya için bir iş",
-      "url" : "https://kurier.at/wirtschaft/schulden-machen-ist-fuer-oesterreich-derzeit-ein-geschaeft/401126637"
-    }, {
       "id" : "kVVsSM48",
       "imgUrl" : "https://image.kurier.at/images/original/4793646/oamtc_.png",
       "titleSource" : "ÖAMTC: NOVA-Erhöhung trifft alle",
       "titleTarget" : "ÖAMTC: NOVA artışı herkesi etkiliyor",
       "url" : "https://kurier.at/wirtschaft/oeamtc-nova-erhoehung-trifft-alle/401126241"
     }, {
-      "id" : "Xi6wCtg0",
-      "imgUrl" : "https://image.kurier.at/images/original/4811694/46-173273489.jpg",
-      "titleSource" : "So reduzieren Sie Ihre Stromkosten im Haushalt",
-      "titleTarget" : "Ev elektrik faturalarınızı bu şekilde azaltırsınız",
-      "url" : "https://kurier.at/wirtschaft/immobiz/so-reduzieren-sie-ihre-stromkosten-im-haushalt/401125308"
+      "id" : "Ri0gtvRK",
+      "imgUrl" : "https://image.kurier.at/images/original/4540442/78370011355665330_BLD_Online.jpg",
+      "titleSource" : "US-Regierung: \"Nord Stream 2 wird nie russisches Gas transportieren\"",
+      "titleTarget" : "ABD hükümeti: \"Kuzey Akım 2 asla Rus gazını taşımayacak\"",
+      "url" : "https://kurier.at/wirtschaft/us-regierung-nord-stream-2-wird-nie-russisches-gas-transportieren/401127099"
     }, {
-      "id" : "KkFtIVud",
-      "imgUrl" : "https://image.kurier.at/images/original/4798059/46-169079952.jpg",
-      "titleSource" : "Wohntelefon: Können Vermieter die  Haltung von Haustieren verbieten?",
-      "titleTarget" : "Oturma odası telefonu: Ev sahipleri evcil hayvan bulundurmayı yasaklayabilir mi?",
-      "url" : "https://kurier.at/wirtschaft/immobiz/wohntelefon-koennen-vermieter-die-haltung-von-haustieren-verbieten/401125311"
-    }, {
-      "id" : "mnzTSepq",
-      "imgUrl" : "https://image.kurier.at/images/original/4812864/46-164519899.jpg",
-      "titleSource" : "Ferrari-Vorstandschef Camilleri tritt zurück - Elkann übernimmt",
-      "titleTarget" : "Ferrari CEO'su Camilleri istifa etti - Elkann devraldı",
-      "url" : "https://kurier.at/wirtschaft/ferrari-vorstandschef-camilleri-tritt-zurueck-elkann-uebernimmt/401125896"
+      "id" : "8bSSllTm",
+      "imgUrl" : "https://image.kurier.at/images/original/3728276/46-148153670.jpg",
+      "titleSource" : "Schulden machen ist für Österreich derzeit ein Geschäft",
+      "titleTarget" : "Borçlanmak şu anda Avusturya için bir iş",
+      "url" : "https://kurier.at/wirtschaft/schulden-machen-ist-fuer-oesterreich-derzeit-ein-geschaeft/401126637"
     }, {
       "id" : "NGS2dFk9",
       "imgUrl" : "https://image.kurier.at/images/original/2809091/46-81205046.jpg",
@@ -88,6 +76,18 @@
       "titleSource" : "Brenner Basistunnel: Bau wird im Herbst 2021 fortgesetzt",
       "titleTarget" : "Brenner temel tüneli: inşaat 2021 sonbaharında devam edecek",
       "url" : "https://kurier.at/wirtschaft/brenner-basistunnel-bau-wird-im-herbst-2021-fortgesetzt/401126775"
+    }, {
+      "id" : "4iDBZnXg",
+      "imgUrl" : "https://image.kurier.at/images/original/2715398/78370011343594188_BLD_Online.jpg",
+      "titleSource" : "Milliarden-Sammelklage gegen Mastercard in Großbritannien",
+      "titleTarget" : "İngiltere'de Mastercard'a karşı milyarlarca sınıf davası",
+      "url" : "https://kurier.at/wirtschaft/milliarden-sammelklage-gegen-mastercard-in-grossbritannien/401126748"
+    }, {
+      "id" : "FylaiwYp",
+      "imgUrl" : "https://image.kurier.at/images/original/3728276/46-148153670.jpg",
+      "titleSource" : "Versicherer schreiben ein Viertel weniger Gewinn",
+      "titleTarget" : "Sigortacılar çeyrek daha az kar yazar",
+      "url" : "https://kurier.at/wirtschaft/versicherer-schreiben-ein-viertel-weniger-gewinn/401126589"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -128,11 +128,11 @@
       "titleTarget" : "Avusturya'da 2.893 yeni korona enfeksiyonu",
       "url" : "https://kurier.at/chronik/oesterreich/2893-neue-corona-infektionen-in-oesterreich/401126034"
     }, {
-      "id" : "iDWaIBLN",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/18/crops/w=1280/781117_opener_271918_messehalle_massentest.jpg?s=33526bc49cf371e07bf2965473075af3b266541b",
-      "titleSource" : "Massentests: Zulauf am Vormittag überschaubar",
-      "titleTarget" : "Kitle testleri: Sabah kalabalığı idare edilebilir",
-      "url" : "https://kaernten.orf.at/stories/3080057/"
+      "id" : "mBQ34Cuu",
+      "imgUrl" : "https://image.kurier.at/images/original/4750005/78350011457432698_BLD_Online.jpg",
+      "titleSource" : "Kurz: Impfstoff im ersten Quartal 2021 in Österreich \"nur sehr beschränkt\" verfügbar",
+      "titleTarget" : "Kısaca: aşı, 2021'in ilk çeyreğinde Avusturya'da \"sadece çok sınırlı\".",
+      "url" : "https://kurier.at/chronik/oesterreich/cov-ampel-seit-fuenf-wochen-rot-gastro-kultur-hotels-registrierung-kommt/401125938"
     } ]
   }, {
     "category" : "CULTURE",
@@ -142,6 +142,12 @@
       "titleSource" : "Neues Banksy-Bild mit niesender Frau aufgetaucht",
       "titleTarget" : "Hapşıran kadının yeni Banksy görüntüsü ortaya çıktı",
       "url" : "https://kurier.at/kultur/neues-banksy-bild-mit-niesender-frau-aufgetaucht/401126331"
+    }, {
+      "id" : "W5ZycFsL",
+      "imgUrl" : "https://image.kurier.at/images/original/4815147/46-167433016.jpg",
+      "titleSource" : "Schauspieler Adi Peichl gestorben",
+      "titleTarget" : "Oyuncu Adi Peichl öldü",
+      "url" : "https://kurier.at/kultur/schauspieler-adi-peichl-gestorben/401127108"
     }, {
       "id" : "1Q4EvCMD",
       "imgUrl" : "https://image.kurier.at/images/original/4813053/46-148090250.jpg",
@@ -155,29 +161,23 @@
       "titleTarget" : "Paul Auster'in dileği okuyucu ile birliktelik",
       "url" : "https://kurier.at/kultur/buch/paul-austers-wunsch-ist-zweisamkeit-mit-dem-leser/401126436"
     }, {
+      "id" : "LSAP05S0",
+      "imgUrl" : "https://image.kurier.at/images/original/4813950/autput_paulsjets_01.jpg",
+      "titleSource" : "\"AUTPUT\": Porträt-Serie über die österreichische Musikszene",
+      "titleTarget" : "\"AUTPUT\": Avusturya müzik sahnesi hakkında portre serisi",
+      "url" : "https://kurier.at/kultur/autput-portraet-serie-ueber-die-oesterreichische-musikszene/401122629"
+    }, {
+      "id" : "O5yhB6tq",
+      "imgUrl" : "https://image.kurier.at/images/original/4531391/46-164762703.jpg",
+      "titleSource" : "Julia Roberts und Reese Witherspoon arbeiten bei neuer TV-Serie zusammen",
+      "titleTarget" : "Julia Roberts ve Reese Witherspoon yeni TV dizisinde işbirliği yapıyor",
+      "url" : "https://kurier.at/kultur/medien/julia-roberts-und-reese-witherspoon-arbeiten-bei-neuer-tv-serie-zusammen/401126022"
+    }, {
       "id" : "DJyjDkag",
       "imgUrl" : "https://image.kurier.at/images/original/4790937/the-mandalorian_baby-yoda_08.jpg",
       "titleSource" : "Disney kündigt 10 neue \"Star Wars\"-Serien an",
       "titleTarget" : "Disney 10 yeni \"Yıldız Savaşları\" serisini duyurdu",
       "url" : "https://kurier.at/kultur/disney-kuendigt-10-neue-star-wars-serien-an/401126010"
-    }, {
-      "id" : "MjXvvqvj",
-      "imgUrl" : "https://image.kurier.at/images/original/4812693/46-173456106.jpg",
-      "titleSource" : "Neue Serie \"Betty\": Skaten gegen das Patriarchat",
-      "titleTarget" : "Yeni dizi \"Betty\": Ataerkilliğe karşı kaymak",
-      "url" : "https://kurier.at/kultur/medien/neue-serie-betty-skaten-gegen-das-patriarchat/401125824"
-    }, {
-      "id" : "OzCll7MY",
-      "imgUrl" : "https://image.kurier.at/images/original/4810794/81452305857897434_BLD_Online.jpg",
-      "titleSource" : "\"Evermore\": Taylor Swift kündigt überraschend weiteres neues Album an",
-      "titleTarget" : "\"Evermore\": Taylor Swift şaşırtıcı bir şekilde yeni bir albüm daha duyurdu",
-      "url" : "https://kurier.at/kultur/taylor-swift-kuendigt-ueberraschend-zweites-neues-album-an/401125806"
-    }, {
-      "id" : "gtSD0dma",
-      "imgUrl" : "https://image.kurier.at/images/original/4814340/46-73041226.jpg",
-      "titleSource" : "Anita Zielina wird neue pinke ORF-Stiftungsrätin",
-      "titleTarget" : "Anita Zielina, yeni pembe ORF yönetim kurulu üyesi oldu",
-      "url" : "https://kurier.at/kultur/medien/anita-zielina-wird-neue-pinke-orf-stiftungsraetin/401126826"
     } ]
   }, {
     "category" : "HEALTH",
@@ -185,44 +185,44 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "JVt3mrwm",
-      "imgUrl" : "https://image.kurier.at/images/original/4812873/46-173480592.jpg",
-      "titleSource" : "Heimsieg und EL-Aufstieg: Der WAC schreibt Klubgeschichte",
-      "titleTarget" : "Ev sahibi galibiyet ve EL'e terfi: WAC kulüp tarihini yazıyor",
-      "url" : "https://kurier.at/sport/fussball/europa-league-wac-siegt-und-schreibt-klubgeschichte-lask-erfolg-zum-abschied/401124855"
-    }, {
-      "id" : "fIgosJRw",
-      "titleSource" : "WAC erkämpft historischen Aufstieg",
-      "titleTarget" : "WAC tarihi ilerlemeye ulaştı",
-      "url" : "https://sport.orf.at/stories/3070472/"
-    }, {
-      "id" : "o3MRlRd1",
-      "titleSource" : "Wolfsberg feiert bisher größten Erfolg",
-      "titleTarget" : "Wolfsberg şimdiye kadarki en büyük başarıyı kutluyor",
-      "url" : "https://sport.orf.at/stories/3070487/"
-    }, {
-      "id" : "6rglHano",
-      "titleSource" : "LASK siegt in Rasgrad nach Rückstand",
-      "titleTarget" : "LASK, geride kaldıktan sonra Rasgrad'da kazandı",
-      "url" : "https://sport.orf.at/stories/3070481/"
-    }, {
-      "id" : "9zrWXNOv",
-      "imgUrl" : "https://image.kurier.at/images/original/4812699/46-173474895.jpg",
-      "titleSource" : "Enttäuschung im Finalspiel: Rapid scheitert in der Europa League",
-      "titleTarget" : "Finalde hayal kırıklığı: Avrupa Ligi'nde hızlı başarısız",
-      "url" : "https://kurier.at/sport/fussball/22-heimremis-im-finalspiel-gegen-molde-fk-rapid-wien-scheitert-in-der-europa-league/401124828"
-    }, {
       "id" : "UCTSej92",
       "imgUrl" : "https://image.kurier.at/images/original/4814802/46-173494334.jpg",
       "titleSource" : "Vierter zur Halbzeit: Hayböck darf von einer WM-Medaille träumen",
       "titleTarget" : "İlk yarıda dördüncü: Hayböck bir Dünya Kupası madalyası hayal edebilir",
       "url" : "https://kurier.at/sport/wintersport/vierter-zur-halbzeit-hayboeck-darf-von-einer-wm-medaille-traeumen/401126991"
     }, {
+      "id" : "aC2l2zLy",
+      "titleSource" : "Rückkehrer und Debütant im Mittelpunkt",
+      "titleTarget" : "Geri dönenlere ve çıkış yapanlara odaklanın",
+      "url" : "https://sport.orf.at/stories/3070516/"
+    }, {
       "id" : "iwSpTfLg",
       "imgUrl" : "https://image.kurier.at/images/original/4812792/46-173477231.jpg",
       "titleSource" : "Nach dem EL-Aus von Rapid: \"Das war wie ein Stich ins Herz\"",
       "titleTarget" : "Rapid'in ortadan kaldırılmasından sonra: \"Kalbinde bir bıçak gibiydi\"",
       "url" : "https://kurier.at/sport/fussball/nach-dem-aus-von-rapid-gegen-molde-in-der-europa-league-das-war-wie-ein-stich-ins-herz/401125854"
+    }, {
+      "id" : "BfAqJyuB",
+      "titleSource" : "Lafnitz will nicht in Bundesliga aufsteigen",
+      "titleTarget" : "Lafnitz, Bundesliga'da yükselmek istemiyor",
+      "url" : "https://sport.orf.at/stories/3070499/"
+    }, {
+      "id" : "P0EFbewz",
+      "imgUrl" : "https://image.kurier.at/images/original/4813320/46-172288643.jpg",
+      "titleSource" : "Zweitliga-Leader Lafnitz will nicht in die Bundesliga aufsteigen",
+      "titleTarget" : "İkinci bölüm lideri Lafnitz, Bundesliga'ya yükselmek istemiyor",
+      "url" : "https://kurier.at/sport/fussball/fussball-zweitliga-leader-lafnitz-will-nicht-in-die-bundesliga-aufsteigen/401126229"
+    }, {
+      "id" : "sVrRzvTc",
+      "imgUrl" : "https://image.kurier.at/images/original/4813125/46-168235369.jpg",
+      "titleSource" : "Vergewaltigungsurteil bestätigt: 9 Jahre Haft für Robinho ",
+      "titleTarget" : "Tecavüz mahkumiyeti doğrulandı: Robinho 9 yıl hapis cezasına çarptırıldı",
+      "url" : "https://kurier.at/sport/fussball/vergewaltigungsurteil-bestaetigt-9-jahre-haft-fuer-ex-fussball-star-robinho/401126094"
+    }, {
+      "id" : "pCYEbYXk",
+      "titleSource" : "Rahmenterminplan für 2021/22 beschlossen",
+      "titleTarget" : "2021/22 için çerçeve takvimi kararlaştırıldı",
+      "url" : "https://sport.orf.at/stories/3070536/"
     } ]
   } ],
   "country" : "austria",
