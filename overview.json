@@ -2,41 +2,41 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "ZTN0A8PO",
-      "imgUrl" : "https://image.kurier.at/images/original/4592393/20200823-ABD0052-1-1.jpg",
-      "titleSource" : "Einreisen nach Österreich? Das heißt: Quarantäne für (fast) alle",
-      "titleTarget" : "Avusturya'ya mı giriyorsunuz? Bunun anlamı: (neredeyse) herkes için karantina",
-      "url" : "https://kurier.at/politik/inland/einreise-nach-oesterreich-das-heisst-quarantaene-fuer-fast-alle/401130363"
+      "id" : "pnj0becw",
+      "imgUrl" : "https://image.kurier.at/images/original/4673455/46-166650356.jpg",
+      "titleSource" : "Corona: Doskozil will kompletten Lockdown",
+      "titleTarget" : "Corona: Doskozil tamamen tecrit istiyor",
+      "url" : "https://kurier.at/politik/inland/corona-doskozil-will-kompletten-lockdown/401131197"
     }, {
-      "id" : "VWL9uBtX",
-      "imgUrl" : "https://image.kurier.at/images/original/4817844/81670356457950350_BLD_Online.jpg",
-      "titleSource" : "Das Christkind bringt die Impfung",
-      "titleTarget" : "Mesih Çocuk aşı getiriyor",
-      "url" : "https://kurier.at/politik/inland/das-christkind-bringt-die-impfung/401130750"
+      "id" : "vRAp9yLL",
+      "imgUrl" : "https://image.kurier.at/images/original/4824258/46-145256011.jpg",
+      "titleSource" : "Anti-Terror-Paket: Symbole der rechtsextremen Identitären werden verboten",
+      "titleTarget" : "Terörle mücadele paketi: aşırı sağcıların sembolleri yasaklandı",
+      "url" : "https://kurier.at/politik/inland/anti-terror-paket-gefaehrder-register-und-fussfessel-kommen/401131347"
     }, {
-      "id" : "aI3CKi6a",
-      "imgUrl" : "https://image.kurier.at/images/original/4821948/46-169335569.jpg",
-      "titleSource" : "Fix: Schulstart am 11. Jänner erst nach Massentests",
-      "titleTarget" : "Düzeltme: Okul yalnızca toplu testlerden sonra 11 Ocak'ta başlıyor",
-      "url" : "https://kurier.at/politik/inland/coronavirus-schulstart-im-jaenner-erst-nach-schueler-und-lehrertests/401130237"
+      "id" : "1n4ZYx5K",
+      "imgUrl" : "https://image.kurier.at/images/original/4815282/20201211-ABD0199-1-1.jpg",
+      "titleSource" : "Bundeskanzler: 900.000 Impfdosen für Österreich bis März",
+      "titleTarget" : "Federal Şansölye: Mart ayına kadar Avusturya için 900.000 aşı dozu",
+      "url" : "https://kurier.at/politik/inland/bundeskanzler-900000-impfdosen-fuer-oesterreich-bis-maerz/401131668"
     }, {
-      "id" : "E56vspJF",
-      "imgUrl" : "https://image.kurier.at/images/original/4811202/78350011457898438_BLD_Online.jpg",
-      "titleSource" : "Verwirrung um Maskenpflicht zu Weihnachten",
-      "titleTarget" : "Noel için maske gereksinimi konusunda kafa karışıklığı",
-      "url" : "https://kurier.at/politik/inland/weihnachten-mit-maske-und-mit-wem-sie-weihnachten-feiern-duerfen-und-mit-wem-nicht/401130423"
+      "id" : "hyOdl6re",
+      "imgUrl" : "https://image.kurier.at/images/original/4817934/78350011457950670_BLD_Online.jpg",
+      "titleSource" : "Corona: SPÖ für Handelsschließung in den Weihnachtsferien",
+      "titleTarget" : "Corona: SPÖ, Noel tatillerinde ticaretin kapatılması için",
+      "url" : "https://kurier.at/politik/inland/corona-spoe-fuer-handelsschliessung-in-den-weihnachtsferien/401131284"
     }, {
-      "id" : "I8m68A9g",
-      "imgUrl" : "https://image.kurier.at/images/original/4821816/uaaanbenannt.jpg",
-      "titleSource" : "Babyelefant in Not, zeigt die Regierung",
-      "titleTarget" : "İhtiyacı olan bebek fil, hükümet gösteriyor",
-      "url" : "https://kurier.at/politik/inland/babyelefant-in-not-zeigt-die-regierung/401130171"
+      "id" : "lveZ1JsP",
+      "imgUrl" : "https://image.kurier.at/images/original/4823088/46-164751564.jpg",
+      "titleSource" : "Infektiologe zu Massentests: \"Wir testen nicht die richtigen Personen\"",
+      "titleTarget" : "Enfeksiyon uzmanı kitle testlerinde: \"Doğru insanları test etmiyoruz\"",
+      "url" : "https://kurier.at/politik/inland/infektiologe-zu-massentests-wir-testen-nicht-die-richtigen-personen/401130861"
     }, {
-      "id" : "CgICDAwT",
-      "imgUrl" : "https://image.kurier.at/images/original/4753599/78350011457454024_BLD_Online.jpg",
-      "titleSource" : "Neuer Straftatbestand: \"religiös motivierte extremistische Verbindung\"",
-      "titleTarget" : "Yeni cezai suç: \"dini saikli aşırılık yanlısı dernek\"",
-      "url" : "https://kurier.at/politik/inland/neuer-straftatbestand-religioes-motivierte-extremistische-verbindung/401130858"
+      "id" : "P1OsJAO8",
+      "imgUrl" : "https://image.kurier.at/images/original/4795983/81731350857778338_BLD_Online.jpg",
+      "titleSource" : "Corona: Maskenpflicht im Unterricht bleibt laut Faßmann noch länger",
+      "titleTarget" : "Corona: Faßmann'a göre sınıfta maske takmak zorunludur",
+      "url" : "https://kurier.at/politik/inland/corona-maskenpflicht-im-unterricht-bleibt-laut-fassmann-noch-laenger/401131125"
     }, {
       "id" : "pr64im0n",
       "imgUrl" : "https://image.kurier.at/images/original/4823055/46-167002402.jpg",
@@ -47,62 +47,56 @@
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "BEeIPhgZ",
-      "imgUrl" : "https://image.kurier.at/images/original/4822818/46-80050688.jpg",
-      "titleSource" : "Nach Corona wieder lokal statt global?",
-      "titleTarget" : "Corona'dan sonra yine küresel yerine yerel mi?",
-      "url" : "https://kurier.at/wirtschaft/nach-corona-wieder-lokal-statt-global/401130651"
-    }, {
-      "id" : "IYBzcWK1",
-      "imgUrl" : "https://image.kurier.at/images/original/4741191/46-167684213.jpg",
-      "titleSource" : "Pkw-Neuzulassungen fallen auf 33-Jahres-Tief",
-      "titleTarget" : "Yeni araba kayıtları 33 yılın en düşük seviyesine geriledi",
-      "url" : "https://kurier.at/wirtschaft/pkw-neuzulassungen-fallen-auf-33-jahres-tief/401130726"
-    }, {
-      "id" : "wpt9QIkD",
-      "imgUrl" : "https://image.kurier.at/images/original/4823715/46-170731889.jpg",
-      "titleSource" : "Burgenland Holding im Geschäftsjahr 2019/20 mit mehr Gewinn",
-      "titleTarget" : "Burgenland Holding, 2019/20 mali yılında daha fazla kâr elde etti",
-      "url" : "https://kurier.at/wirtschaft/burgenland-holding-im-geschaeftsjahr-201920-mit-mehr-gewinn/401131179"
-    }, {
-      "id" : "B10GMsgm",
-      "imgUrl" : "https://image.kurier.at/images/original/4823634/46-173585734.jpg",
-      "titleSource" : "Banner erhielt in den USA Batterien-Auftrag um 60 Mio. Euro",
-      "titleTarget" : "Banner, ABD'de 60 milyon euro değerinde pil siparişi aldı",
-      "url" : "https://kurier.at/wirtschaft/banner-erhielt-in-den-usa-batterien-auftrag-um-60-mio-euro/401131152"
-    }, {
       "id" : "KAcedX2U",
       "imgUrl" : "https://image.kurier.at/images/original/4818075/46-173504690.jpg",
       "titleSource" : "Corona: 100 Millionen Impf-Dosen gehen jetzt nach China",
       "titleTarget" : "Corona: 100 milyon aşı dozu şimdi Çin'e gidiyor",
       "url" : "https://kurier.at/wirtschaft/corona-100-millionen-impf-dosen-gehen-jetzt-nach-china/401131167"
     }, {
-      "id" : "raNd2I9Y",
-      "imgUrl" : "https://image.kurier.at/images/original/4823616/46-173494253.jpg",
-      "titleSource" : "Corona könnte höhere Betriebskosten bringen",
-      "titleTarget" : "Corona daha yüksek işletme maliyetleri getirebilir",
-      "url" : "https://kurier.at/wirtschaft/corona-virus-koennte-hoehere-betriebskosten-bringen/401131140"
+      "id" : "MoavW1lL",
+      "imgUrl" : "https://image.kurier.at/images/original/4824096/46-166985027.jpg",
+      "titleSource" : "Problem mit Bremspedalen: VW-Rückruf für mehr als 38.000 Autos",
+      "titleTarget" : "Fren pedallarıyla ilgili sorun: 38.000'den fazla araba için VW geri çağırma",
+      "url" : "https://kurier.at/wirtschaft/problem-mit-bremspedalen-vw-rueckruf-fuer-mehr-als-38000-autos/401131401"
     }, {
-      "id" : "9AKcjyuv",
-      "imgUrl" : "https://image.kurier.at/images/original/4823550/46-173405833.jpg",
-      "titleSource" : "Ehemaliges Amtsgebäude in Döbling wird zum Wohnprojekt",
-      "titleTarget" : "Döbling'deki eski resmi bina bir konut projesine dönüşüyor",
-      "url" : "https://kurier.at/wirtschaft/immobiz/ehemaliges-amtsgebaeude-von-doebling-wird-zum-wohnprojekt/401130819"
+      "id" : "DoKpZ4tO",
+      "imgUrl" : "https://image.kurier.at/images/original/4823004/46-164092289.jpg",
+      "titleSource" : "Fachkräftemangel in Österreich trotz Corona massiv",
+      "titleTarget" : "Corona'ya rağmen Avusturya'da büyük bir kalifiye işçi sıkıntısı var",
+      "url" : "https://kurier.at/wirtschaft/fachkraeftemangel-in-oesterreich-trotz-corona-massiv/401130756"
+    }, {
+      "id" : "BEeIPhgZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4822818/46-80050688.jpg",
+      "titleSource" : "Nach Corona wieder lokal statt global?",
+      "titleTarget" : "Corona'dan sonra yine küresel yerine yerel mi?",
+      "url" : "https://kurier.at/wirtschaft/nach-corona-wieder-lokal-statt-global/401130651"
+    }, {
+      "id" : "y7sFNh2m",
+      "imgUrl" : "https://image.kurier.at/images/original/4824333/46-166289631.jpg",
+      "titleSource" : "AT&S erwartet Durststrecke der Autobranche",
+      "titleTarget" : "AT&S, otomobil endüstrisinin kuraklıkta olmasını bekliyor",
+      "url" : "https://kurier.at/wirtschaft/ats-erwartet-durststrecke-der-autobranche/401131563"
+    }, {
+      "id" : "i7dlMQjx",
+      "imgUrl" : "https://image.kurier.at/images/original/4822779/46-173458095.jpg",
+      "titleSource" : "Wohntelefon: Kann einer der Mieter das gemeinsame Mietverhältnis auflösen?",
+      "titleTarget" : "Yaşayan telefon: Kiracılardan biri müşterek kiracılığa son verebilir mi?",
+      "url" : "https://kurier.at/wirtschaft/immobiz/wohntelefon-kann-einer-der-mieter-das-gemeinsame-mietverhaeltnis-aufloesen/401130615"
+    }, {
+      "id" : "C734zwVt",
+      "imgUrl" : "https://image.kurier.at/images/original/4822980/46-173488127.jpg",
+      "titleSource" : "„Ein Abgesang auf die  Plastikkarten wäre verfrüht“",
+      "titleTarget" : "\"Plastik kartlardaki bir kuğu şarkısı erken olur\"",
+      "url" : "https://kurier.at/wirtschaft/ein-abgesang-auf-die-plastikkarten-waere-verfrueht/401130741"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "Eq3CxSa1",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/05/crops/w=1280/785680_opener_273605_20201215_diskussion_um_feuerwehrbekleidung_00_01_52_11.jpg?s=f5e62feb852f7873455252403db83ebfa64c936e",
-      "titleSource" : "Strafe bei falscher Bekleidung für Feuerwehr",
-      "titleTarget" : "İtfaiye için yanlış kıyafet cezası",
-      "url" : "https://kaernten.orf.at/stories/3080760/"
-    }, {
-      "id" : "maw79NW6",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/98/crops/w=1280/785882_opener_273698_b-wiesel-3_mediaencoder-00.00.09.jpg?s=219637cd14d8a681ede32daab26257f039583ca4",
-      "titleSource" : "Fast erfroren: Mauswiesel gerettet",
-      "titleTarget" : "Neredeyse donarak ölüyor: Fare gelinciği kurtarıldı",
-      "url" : "https://burgenland.orf.at/stories/3080800/"
+      "id" : "zq1dfrfN",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/a/3/5912227/Junge-Frauen-mit-Kopftuch--Young-women-with-headscarfs_1608116780038706_v0_h.jpg",
+      "titleSource" : "Hälfte der Wiener mit ausländischen Wurzeln",
+      "titleTarget" : "Yabancı kökenli Viyanalıların yarısı",
+      "url" : "https://www.diepresse.com/5912227/Integration_Haelfte-der-Wiener-mit-auslaendischen-Wurzeln?from=rss"
     }, {
       "id" : "ZHWMIUSX",
       "imgUrl" : "https://image.kurier.at/images/original/4823379/46-173571802.jpg",
@@ -110,11 +104,23 @@
       "titleTarget" : "Korona aşısı ilk olarak Viyana ve Aşağı Avusturya'daki huzurevleri oluyor",
       "url" : "https://kurier.at/chronik/oesterreich/pflegeheime-in-wien-und-niederoesterreich-bekommen-als-erste-den-corona-impfstoff/401130978"
     }, {
-      "id" : "8LQjDTK0",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/18/57/crops/w=1280/170403_opener_33057_apaamokfahrt_in_graz_prozessauftakt_.jpg?s=907f38b76d6bfb5b358a91292daee043223f9fca",
-      "titleSource" : "Vergewaltigung: Fünfeinhalb Jahre Haft für Reitlehrer",
-      "titleTarget" : "Tecavüz: Binicilik eğitmenlerine beş buçuk yıl hapis",
-      "url" : "https://steiermark.orf.at/stories/3080722/"
+      "id" : "QCnnl3dO",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/36/50/crops/w=1280/283722_opener_86850_stadtansichten_wien_03_coe.jpg?s=a31cb56d3c172545c7ad173dec92f4f285eaa436",
+      "titleSource" : "31 Prozent der Wiener ohne österreichischen Pass",
+      "titleTarget" : "Avusturya pasaportu olmayan Viyanalıların yüzde 31'i",
+      "url" : "https://wien.orf.at/stories/3080884/"
+    }, {
+      "id" : "PmxlSPRc",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/16/crops/w=1280/786136_opener_273216_201214-bh_dokozil-zu-massentests-und-impfpflicht-00.00.19.jpg?s=bbfebcf663d135d674f250cd703d9e1cda569f72",
+      "titleSource" : "Doskozil will kompletten Lockdown",
+      "titleTarget" : "Doskozil tam bir tecrit istiyor",
+      "url" : "https://burgenland.orf.at/stories/3080851/"
+    }, {
+      "id" : "bRneG4d2",
+      "imgUrl" : "https://image.kurier.at/images/original/4763712/illu_corona_statistik%20%283%29.png",
+      "titleSource" : "Aktuelle Corona-Zahlen: 2.664 Neuinfektionen, 116 Todesfälle in Österreich",
+      "titleTarget" : "Güncel korona sayıları: 2.664 yeni enfeksiyon, Avusturya'da 116 ölüm",
+      "url" : "https://kurier.at/chronik/oesterreich/aktuelle-corona-zahlen-2664-neuinfektionen-116-todesfaelle-in-oesterreich/401131077"
     }, {
       "id" : "Lk1tF9Wc",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/97/crops/w=1280/764576_opener_265797_snowboarding-4763731_1920.jpg?s=594cb6275dce3fb7c04b38a7561b99d311e8565e",
@@ -122,26 +128,26 @@
       "titleTarget" : "Yeni teleferik düzenlemesinden önce yoğun hava",
       "url" : "https://tirol.orf.at/stories/3080816/"
     }, {
-      "id" : "bIp4l8Fa",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/42/53/crops/w=1280/333197_opener_105553_impfen3.jpg?s=5898c37608cf1a8728e24aabce5ae67800e7652c",
-      "titleSource" : "Startschuss für elektronischen Impfpass",
-      "titleTarget" : "Elektronik aşı sertifikası için başlangıç atışı",
-      "url" : "https://steiermark.orf.at/stories/3080753/"
-    }, {
-      "id" : "ZOPZ0sbl",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/13/crops/w=1280/785989_opener_273713_image_35.jpg?s=ff9da2774a7aa7c5048f9afa783fb5ae218a7054",
-      "titleSource" : "Schulklasse testet luftreinigende Lüftung",
-      "titleTarget" : "Okul sınıfı hava temizleyici havalandırmayı test ediyor",
-      "url" : "https://tirol.orf.at/stories/3080766/"
+      "id" : "Nh9HyCzR",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/55/crops/w=1280/782390_opener_272355_stp_rohrhofer.jpg?s=12031987b7a8aa2fd5bcc1e7ac945ada12677400",
+      "titleSource" : "Niederösterreich setzt CoV-Massentests fort",
+      "titleTarget" : "Aşağı Avusturya, CoV kütle testlerine devam ediyor",
+      "url" : "https://noe.orf.at/stories/3080870/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "4CVQVyLh",
-      "imgUrl" : "https://image.kurier.at/images/original/4456994/46-164422974.jpg",
-      "titleSource" : "Entgegen der Hoffnungen kein Umsatz-Ersatz für Künstler",
-      "titleTarget" : "Umutların aksine, sanatçılar için satış ikamesi yok",
-      "url" : "https://kurier.at/kultur/entgegen-der-hoffnungen-kein-umsatz-ersatz-fuer-kuenstler/401130714"
+      "id" : "82g11Axl",
+      "imgUrl" : "https://image.kurier.at/images/original/4824588/46-173363733.jpg",
+      "titleSource" : "Paul McCartneys neues Album: Der verrückte Professor",
+      "titleTarget" : "Paul McCartney'nin yeni albümü: The Mad Professor",
+      "url" : "https://kurier.at/kultur/paul-mccartneys-neues-album-der-verrueckte-professor/401131770"
+    }, {
+      "id" : "h9uYl7i3",
+      "imgUrl" : "https://image.kurier.at/images/original/4825107/46-75370836.jpg",
+      "titleSource" : "\"König der Chöre\": Gotthilf Fischer, Leiter der Fischer-Chöre, gestorben",
+      "titleTarget" : "\"Koroların Kralı\": Fischer Korolarının direktörü Gotthilf Fischer öldü",
+      "url" : "https://kurier.at/kultur/gotthilf-fischer-leiter-der-fischer-choere-gestorben/401131977"
     }, {
       "id" : "3hUVHz0u",
       "imgUrl" : "https://image.kurier.at/images/original/4823025/46-173574742.jpg",
@@ -149,23 +155,17 @@
       "titleTarget" : "Arkadaş olan kitaplar",
       "url" : "https://kurier.at/kultur/buch/buecher-die-zu-freunden-werden/401130780"
     }, {
-      "id" : "n0A874U2",
-      "imgUrl" : "https://image.kurier.at/images/original/4822407/46-173568363.jpg",
-      "titleSource" : "Diagonale 2021: Eröffnungsfilm im Gefängnismilieu",
-      "titleTarget" : "Diagonale 2021: Cezaevi ortamında açılış filmi",
-      "url" : "https://kurier.at/kultur/diagonale-2021-eroeffnungsilm-im-gefaengnismilieu/401130426"
+      "id" : "64L0xCML",
+      "imgUrl" : "https://image.kurier.at/images/original/4823916/46-146821300.jpg",
+      "titleSource" : "24 Stunden lang gemeinsam Weinen: Performance-Abschluss für 2020",
+      "titleTarget" : "24 saat birlikte ağlamak: 2020 için performans sonucu",
+      "url" : "https://kurier.at/kultur/24-stunden-lang-gemeinsam-weinen-performance-abschluss-fuer-2020/401131299"
     }, {
-      "id" : "FeXzZrnA",
-      "imgUrl" : "https://image.kurier.at/images/original/4820913/46-173290199.jpg",
-      "titleSource" : "Liebe ist Liebe: Homoerotik mit Andy Warhol",
-      "titleTarget" : "Aşk aşktır: Andy Warhol ile homoerotizm",
-      "url" : "https://kurier.at/kultur/liebe-ist-liebe-homoerotik-mit-andy-warhol/401129586"
-    }, {
-      "id" : "OUnDRkbr",
-      "imgUrl" : "https://image.kurier.at/images/original/4823541/46-173234320.jpg",
-      "titleSource" : "Covid-Verstöße: Zorniger Tom Cruise droht Crewmitgliedern mit Rauswurf",
-      "titleTarget" : "Kovid ihlalleri: Angry Tom Cruise, ekip üyelerini sınır dışı edilmekle tehdit ediyor",
-      "url" : "https://kurier.at/kultur/covid-verstoesse-zorniger-tom-cruise-droht-crewmitgliedern-mit-rauswurf/401131101"
+      "id" : "2VYjYx0m",
+      "imgUrl" : "https://image.kurier.at/images/original/4825044/46-105944867.jpg",
+      "titleSource" : "Neue Kunstmesse \"Spark\" im Frühjahr in Wien",
+      "titleTarget" : "İlkbaharda Viyana'da yeni sanat fuarı \"Spark\"",
+      "url" : "https://kurier.at/kultur/neue-kunstmesse-spark-im-fruehjahr-in-wien/401131929"
     }, {
       "id" : "fxtEGmjo",
       "imgUrl" : "https://image.kurier.at/images/original/3904586/46-149953879.jpg",
@@ -185,44 +185,43 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "rdx8RMFk",
-      "titleSource" : "Kühbauer antwortet Kritikern",
-      "titleTarget" : "Kühbauer eleştirmenleri yanıtlıyor",
-      "url" : "https://sport.orf.at/stories/3070697/"
-    }, {
-      "id" : "a3NIrdZq",
-      "imgUrl" : "https://image.kurier.at/images/original/4822548/46-167501963.jpg",
-      "titleSource" : "Operation Aderlass: Arzt Mark S. will beim Anti-Doping-Kampf helfen",
-      "titleTarget" : "Kan alma operasyonu: Doktor Mark S. anti-doping mücadelesine yardım etmek istiyor",
-      "url" : "https://kurier.at/sport/wintersport/operation-aderlass-arzt-mark-s-will-beim-anti-doping-kampf-helfen/401130474"
-    }, {
-      "id" : "NcruOcPA",
-      "imgUrl" : "https://image.kurier.at/images/original/4822524/46-173566988.jpg",
-      "titleSource" : "Rapid-Coach Kühbauer über Kritik: \"Das ist respektlos\"",
-      "titleTarget" : "Hızlı teknik direktör Kühbauer eleştirilere: \"Bu saygısızlık\"",
-      "url" : "https://kurier.at/sport/fussball/rapid-coach-kuehbauer-ueber-kritik-das-ist-respektlos/401130483"
-    }, {
       "id" : "vfACY0wu",
       "titleSource" : "Wie Rapid Salzburg stürzen will",
       "titleTarget" : "Rapid Salzburg nasıl devirmek istiyor",
       "url" : "https://sport.orf.at/stories/3070691/"
     }, {
-      "id" : "pmYrR5cO",
-      "titleSource" : "Kapfenberg schenkt sich Viertelfinal-Ticket",
-      "titleTarget" : "Kapfenberg kendine çeyrek final bileti veriyor",
-      "url" : "https://sport.orf.at/stories/3070701/"
+      "id" : "CKQVD9UA",
+      "imgUrl" : "https://image.kurier.at/images/original/4749549/46-168755179.jpg",
+      "titleSource" : "Der Angriff von Rapid auf die uneinnehmbare Festung Salzburg",
+      "titleTarget" : "Rapid'in zaptedilemez Salzburg kalesine saldırısı",
+      "url" : "https://kurier.at/sport/fussball/der-angriff-von-rapid-auf-die-uneinnehmbare-festung-salzburg/401130669"
     }, {
-      "id" : "rVvZ28Fy",
-      "imgUrl" : "https://image.kurier.at/images/original/4822215/46-170538263.jpg",
-      "titleSource" : "Austria kämpft weiter: \"Stöger ist ein Geschenk für die Jungen\"",
-      "titleTarget" : "Avusturya savaşmaya devam ediyor: \"Stöger gençlere bir armağandır\"",
-      "url" : "https://kurier.at/sport/fussball/austria-wien-kaempft-weiter-peter-stoeger-ist-ein-geschenk-fuer-die-jungen/401130297"
+      "id" : "okPKZFUm",
+      "imgUrl" : "https://image.kurier.at/images/original/4823514/46-173577527.jpg",
+      "titleSource" : "Superstar auf vier Beinen: Teuerstes Pferd der Welt Totilas ist tot",
+      "titleTarget" : "Dört ayaklı süperstar: Dünyanın en pahalı atı Totilas öldü",
+      "url" : "https://kurier.at/sport/superstar-auf-vier-beinen-teuerstes-pferd-der-welt-totilas-ist-tot/401131095"
     }, {
-      "id" : "1szrQX6E",
-      "imgUrl" : "https://image.kurier.at/images/original/4822227/46-173488377.jpg",
-      "titleSource" : "Nach Vettel-Abschied: \"Alle anderen sind bei Ferrari gescheitert\"",
-      "titleTarget" : "Vettel'e veda ettikten sonra: \"Ferrari'de diğerleri başarısız oldu\"",
-      "url" : "https://kurier.at/sport/motorsport/berger-nach-vettel-abschied-ueber-schumacher-und-lauda-alle-anderen-sind-bei-ferrari-gescheitert/401130333"
+      "id" : "WqskYnfQ",
+      "titleSource" : "WAC bleibt souverän im Rennen",
+      "titleTarget" : "WAC yarışta egemenliğini koruyor",
+      "url" : "https://sport.orf.at/stories/3070744/"
+    }, {
+      "id" : "9c2Js9ia",
+      "titleSource" : "Abfahrtstrainings fest in Hand der USA",
+      "titleTarget" : "Yokuş aşağı eğitim sıkı bir şekilde ABD'nin elinde",
+      "url" : "https://sport.orf.at/stories/3070738/"
+    }, {
+      "id" : "36g6ZXnY",
+      "titleSource" : "Zentrale Posten in Talenteförderung vergeben",
+      "titleTarget" : "Yetenek geliştirmede merkezi pozisyonlar atandı",
+      "url" : "https://sport.orf.at/stories/3070743/"
+    }, {
+      "id" : "Jgta3Cc0",
+      "imgUrl" : "https://image.kurier.at/images/original/4825062/46-173592840.jpg",
+      "titleSource" : "Erstes Gröden-Training: US-Duo voran, Ex-Sieger Franz Fünfter",
+      "titleTarget" : "İlk Val Gardena eğitimi: ABD ikilisi birinci, eski kazanan Franz beşinci",
+      "url" : "https://kurier.at/sport/wintersport/erstes-groeden-training-us-duo-voran-ex-sieger-franz-fuenfter/401131947"
     } ]
   } ],
   "country" : "austria",
