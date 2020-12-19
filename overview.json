@@ -2,29 +2,29 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
+      "id" : "qkCZhfTT",
+      "imgUrl" : "https://image.kurier.at/images/original/4831074/46-173647435.jpg",
+      "titleSource" : "Lockdown und die Zeit danach: Der Fahrplan \"zur Normalität\"",
+      "titleTarget" : "Kilitlenme ve sonraki zaman: \"Normalliğe giden\" zaman çizelgesi",
+      "url" : "https://kurier.at/politik/inland/regierung-erklaert-lockdown-die-neue-strategie-im-detail/401134593"
+    }, {
+      "id" : "aBGHXMlf",
+      "imgUrl" : "https://image.kurier.at/images/original/4815312/20201211-ABD0207-1-1.jpg",
+      "titleSource" : "Corona: FPÖ und Neos orten Chaos bei Türkis-Grün",
+      "titleTarget" : "Corona: FPÖ ve Neos turkuaz yeşili kaosu tespit ediyor",
+      "url" : "https://kurier.at/politik/inland/corona-fpoe-und-neos-orten-chaos-bei-tuerkis-gruen/401134131"
+    }, {
+      "id" : "eqbwIZIh",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/4/d/5913165/Austrias-Chancellor-Kurz-holds-news-conference-in-Vienna_160831201060298_v0_h.jpg",
+      "titleSource" : "Treffen Sie wieder niemanden: Regierung verkündet neuen harten Lockdown",
+      "titleTarget" : "Bir daha kimseyle görüşmeyin: hükümet yeni bir kilitlenme duyurdu",
+      "url" : "https://www.diepresse.com/5913165/CoronaMassnahmen_Treffen-Sie-wieder-niemanden_Regierung?from=rss"
+    }, {
       "id" : "6qv3H3GG",
       "imgUrl" : "https://image.kurier.at/images/original/4824429/20201216-ABD0043-1-1.jpg",
       "titleSource" : "Justizministerin geht in die Babypause - Kogler übernimmt Ressort",
       "titleTarget" : "Adalet Bakanı doğum iznine çıkıyor - Kogler bakanlığı devraldı",
       "url" : "https://kurier.at/politik/inland/live-justizministerin-zadic-geht-in-babypause-wer-uebernimmt-ressort/401133654"
-    }, {
-      "id" : "fiwwtUX0",
-      "imgUrl" : "https://image.kurier.at/images/original/4828461/46-169358639.jpg",
-      "titleSource" : "Epidemiologe: \"Müssen noch bis Herbst 2021 mit dem Virus leben\"",
-      "titleTarget" : "Epidemiyolog: \"2021 sonbaharına kadar virüsle yaşamak zorunda\"",
-      "url" : "https://kurier.at/politik/inland/epidemiologe-muessen-noch-bis-herbst-2021-mit-dem-virus-leben/401133546"
-    }, {
-      "id" : "2xUaehY9",
-      "imgUrl" : "https://image.kurier.at/images/original/4407923/8346005.jpg",
-      "titleSource" : "Welcher Tag ist heute? \"Wochentagsamnesie\" vor allem bei Jungen",
-      "titleTarget" : "Bugün günlerden ne? Özellikle erkek çocuklarda \"hafta içi amnezi\"",
-      "url" : "https://kurier.at/politik/inland/welcher-tag-ist-heute-wochentagsamnesie-vor-allem-bei-jungen/401133630"
-    }, {
-      "id" : "S3zIR5Ns",
-      "imgUrl" : "https://image.kurier.at/images/original/4828308/46-173303868.jpg",
-      "titleSource" : "Coronavirus: Reisewarnung für fast alle Staaten der Welt",
-      "titleTarget" : "Coronavirus: Dünyanın hemen hemen tüm ülkeleri için seyahat uyarısı",
-      "url" : "https://kurier.at/politik/inland/reisewarnung-fuer-fast-alle-staaten-der-welt/401133456"
     }, {
       "id" : "XSbnCzdN",
       "imgUrl" : "https://image.kurier.at/images/original/3632612/78350011449549592_BLD_Online.jpg",
@@ -32,32 +32,38 @@
       "titleTarget" : "Tal Silberstein Romanya'da beş yıl hapis cezasına çarptırıldı",
       "url" : "https://kurier.at/politik/inland/tal-silberstein-in-rumaenien-zu-fuenf-jahren-haft-verurteilt/401133783"
     }, {
-      "id" : "A9USd9Nh",
-      "imgUrl" : "https://image.kurier.at/images/original/4828395/46-168999290.jpg",
-      "titleSource" : "Budget, Pensionen, Hass im Netz: Pannen häufen sich",
-      "titleTarget" : "Bütçe, emeklilik maaşları, çevrimiçi nefret: arızalar artıyor",
-      "url" : "https://kurier.at/politik/inland/budget-pensionen-hass-im-netz-pannen-haeufen-sich/401133489"
+      "id" : "2xUaehY9",
+      "imgUrl" : "https://image.kurier.at/images/original/4407923/8346005.jpg",
+      "titleSource" : "Welcher Tag ist heute? \"Wochentagsamnesie\" vor allem bei Jungen",
+      "titleTarget" : "Bugün günlerden ne? Özellikle erkek çocuklarda \"hafta içi amnezi\"",
+      "url" : "https://kurier.at/politik/inland/welcher-tag-ist-heute-wochentagsamnesie-vor-allem-bei-jungen/401133630"
     }, {
-      "id" : "iDAvYbyv",
-      "imgUrl" : "https://image.kurier.at/images/original/4828320/46-173366449.jpg",
-      "titleSource" : "Gesetz gegen Hass im Netz größtenteils unwirksam, weil EU-rechtswidrig",
-      "titleTarget" : "Çevrimiçi nefrete karşı yasa, AB için yasa dışı olduğu için büyük ölçüde etkisizdir",
-      "url" : "https://kurier.at/politik/inland/gesetz-gegen-hass-im-netz-groesstenteils-unwirksam-weil-eu-rechtswidrig/401133474"
+      "id" : "Js0yPKrg",
+      "imgUrl" : "https://image.kurier.at/images/original/4829358/20201218-ABD0075-1-1.jpg",
+      "titleSource" : "Katharina Reich wird Direktorin für die Öffentliche Gesundheit",
+      "titleTarget" : "Katharina Reich, halk sağlığı müdürü oldu",
+      "url" : "https://kurier.at/politik/inland/live-wer-wird-chief-medical-officer-der-republik/401133660"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "z7WzJuLv",
-      "imgUrl" : "https://image.kurier.at/images/original/4827363/46-173545217.jpg",
-      "titleSource" : "Sport- und Modehaus Strolz ist insolvent",
-      "titleTarget" : "Spor ve moda evi Strolz iflas etti",
-      "url" : "https://kurier.at/wirtschaft/sport-mode-strolz-ist-insolvent/401133111"
+      "id" : "vrbKg5on",
+      "imgUrl" : "https://image.kurier.at/images/original/4829802/46-168707549.jpg",
+      "titleSource" : "Mahrers brisanter \"Plan für die Freiheit\": Nur mit Test ins Wirtshaus",
+      "titleTarget" : "Mahrer'in patlayıcı \"Plan for Freedom\": Yalnızca barda bir testle",
+      "url" : "https://kurier.at/wirtschaft/mahrers-brisanter-plan-fuer-die-freiheit/401134245"
     }, {
-      "id" : "YdQ2faU3",
-      "imgUrl" : "https://image.kurier.at/images/original/4264928/20200420-ABD0016-1-1.jpg",
-      "titleSource" : "AUA lenkt bei No-Show-Klausel ein",
-      "titleTarget" : "AUA, görünmeme maddesine teslim oldu",
-      "url" : "https://kurier.at/wirtschaft/aua-lenkt-bei-no-show-klausel-ein/401133006"
+      "id" : "eowpHVeg",
+      "imgUrl" : "https://image.kurier.at/images/original/4828803/46-85755093.jpg",
+      "titleSource" : "EuGH stoppt skandalöse Abgas-Tricksereien",
+      "titleTarget" : "ECJ, skandal egzoz gazı hilelerini durdurdu",
+      "url" : "https://kurier.at/wirtschaft/eugh-stoppt-skandaloese-abgas-tricksereien/401133834"
+    }, {
+      "id" : "sbVYtxzZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4828902/46-110006825.jpg",
+      "titleSource" : "Porr und Strabag starten U-Bahn-Ausbau in Wien",
+      "titleTarget" : "Porr ve Strabag, Viyana'da metro genişletmeye başladı",
+      "url" : "https://kurier.at/wirtschaft/porr-und-strabag-starten-u-bahn-ausbau-in-wien/401133858"
     }, {
       "id" : "r9ovssdA",
       "imgUrl" : "https://image.kurier.at/images/original/4828542/46-148297639.jpg",
@@ -65,89 +71,101 @@
       "titleTarget" : "Wienerberger, ABD şirketi Meridian Brick'i 250 milyon dolara satın aldı",
       "url" : "https://kurier.at/wirtschaft/wienerberger-kauft-um-250-mio-dollar-us-firma-meridian-brick/401133639"
     }, {
-      "id" : "n4rwkglk",
-      "imgUrl" : "https://image.kurier.at/images/original/3169217/78370011346279504_BLD_Online.jpg",
-      "titleSource" : "Junge Wirtschaft fordert Beteiligungsfreibetrag",
-      "titleTarget" : "Genç ekonomi katılım ödeneği talep ediyor",
-      "url" : "https://kurier.at/wirtschaft/junge-wirtschaft-fordert-beteiligungsfreibetrag/401132949"
+      "id" : "mdRyDgxB",
+      "imgUrl" : "https://image.kurier.at/images/original/4762023/20201116-ABD0081-1-1.jpg",
+      "titleSource" : "Gastronomie über neuen Lockdown: \"Schmerzhafter Schritt\"",
+      "titleTarget" : "Yeni tecrit için gastronomi: \"acı verici adım\"",
+      "url" : "https://kurier.at/wirtschaft/gastronomie-ueber-neuen-lockdown-schmerzhafter-schritt/401134779"
     }, {
-      "id" : "qlEx03Du",
-      "imgUrl" : "https://image.kurier.at/images/original/522684/Hervis%252BExpress%252BWien%252BWestbahnhof%252B%2525283%252529.jpg",
-      "titleSource" : "Hervis verdoppelt Online-Umsätze in Corona-Pandemie",
-      "titleTarget" : "Hervis, korona salgınında çevrimiçi satışları ikiye katladı",
-      "url" : "https://kurier.at/wirtschaft/hervis-verdoppelt-online-umsaetze-in-corona-pandemie/401132730"
+      "id" : "bezn0AEy",
+      "imgUrl" : "https://image.kurier.at/images/original/4831062/46-173637535.jpg",
+      "titleSource" : "Handel und Dienstleister: Shopping-Tour vorerst abgesagt",
+      "titleTarget" : "Perakende ve servis sağlayıcılar: alışveriş turu şu an için iptal edildi",
+      "url" : "https://kurier.at/wirtschaft/handel-und-dienstleister-shopping-tour-vorerst-abgesagt/401134740"
     }, {
-      "id" : "hQEysWkt",
-      "imgUrl" : "https://image.kurier.at/images/original/4652237/78370011356596212_BLD_Online.jpg",
-      "titleSource" : "Ex-Wirecard-Chef Braun zieht Haftbeschwerde zurück",
-      "titleTarget" : "Eski Wirecard patronu Braun tutuklama şikayetini geri çekti",
-      "url" : "https://kurier.at/wirtschaft/ex-wirecard-chef-braun-zieht-haftbeschwerde-zurueck/401133750"
-    }, {
-      "id" : "Wf860QCr",
-      "imgUrl" : "https://image.kurier.at/images/original/4828545/46-173454454.jpg",
-      "titleSource" : "EU und China stehen offenbar vor Durchbruch bei Investitionsabkommen",
-      "titleTarget" : "Görünüşe göre AB ve Çin, yatırım anlaşmalarında bir atılımın eşiğinde",
-      "url" : "https://kurier.at/wirtschaft/eu-und-china-stehen-offenbar-vor-durchbruch-bei-investitionsabkommen/401133645"
+      "id" : "Db9ElI3s",
+      "imgUrl" : "https://image.kurier.at/images/original/4830786/46-168998373.jpg",
+      "titleSource" : "Dritter Lockdown gefährdet Boom-Jahr",
+      "titleTarget" : "Üçüncü tecrit, patlama yılını tehlikeye atıyor",
+      "url" : "https://kurier.at/wirtschaft/dritter-lockdown-gefaehrdet-boom-jahr/401134671"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "rzsA98Xg",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/79/crops/w=1280/752776_opener_261379_259481_coro.jpg?s=ebbfa299c58a3caab2d53ddef00b2729ed90e872",
-      "titleSource" : "Dritter Lockdown: Anzeichen verdichten sich",
-      "titleTarget" : "Üçüncü kilitlenme: işaretler yoğunlaşıyor",
-      "url" : "https://ooe.orf.at/stories/3081196/"
+      "id" : "Vy8fqL3z",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/20/99/crops/w=1280/227229_opener_36799_unbenannt-14.jpg?s=1b6ad79e741f12a0eb0ab3d64eeebd295386dcec",
+      "titleSource" : "Lockdown aber Skigebiete bleiben offen",
+      "titleTarget" : "Kilitlendi ancak kayak alanları açık kalıyor",
+      "url" : "https://tirol.orf.at/stories/3081452/"
     }, {
-      "id" : "rDSKPkKm",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/93/crops/w=1280/788444_opener_274593_toedlicher_unfall_und_grossbrand__c0019_00_00_01_23.jpg?s=82fd5566fdabf4ab5cf66d9203bae68f8ee180c8",
-      "titleSource" : "Wirtschaftsgebäude brannte nieder",
-      "titleTarget" : "Çiftlik binaları yandı",
-      "url" : "https://kaernten.orf.at/stories/3081312/"
+      "id" : "I9xzqG17",
+      "imgUrl" : "https://image.kurier.at/images/original/4828071/46-173429615.jpg",
+      "titleSource" : "Weihnachten 2020: Allein im Pflegeheim",
+      "titleTarget" : "2020 Noel'i: Bakım evinde yalnız başına",
+      "url" : "https://kurier.at/chronik/oesterreich/weihnachten-2020-allein-im-pflegeheim/401133384"
     }, {
-      "id" : "yTq680x9",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/24/crops/w=1280/788247_opener_274524_201217_bh-lid-musikwunschtag-00.00.08.jpg?s=75be383bf4fdf04f88170f1c8e37e725fcb3b339",
-      "titleSource" : "Fast 12.000 Euro für „Licht ins Dunkel“",
-      "titleTarget" : "\"Licht ins Dunkel\" için yaklaşık 12.000 Euro",
-      "url" : "https://burgenland.orf.at/stories/3081255/"
+      "id" : "9vFlmGI1",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/a/7/5913511/corona1_1608312872880297.jpg",
+      "titleSource" : "Dritter harter Lockdown: Ein Test als Türöffner",
+      "titleTarget" : "Üçüncü sert kilitleme: kapı açıcı olarak bir test",
+      "url" : "https://www.diepresse.com/5913511/Coronavirus_Dritter-harter-Lockdown_Ein-Test-als-Tueroeffner?from=rss"
     }, {
-      "id" : "fG9iFB5P",
-      "imgUrl" : "https://image.kurier.at/images/original/4826676/46-71094202.jpg",
-      "titleSource" : "Fiakerpferde erhalten künftig ab 30 Grad hitzefrei - in Salzburg",
-      "titleTarget" : "Fiaker atları Salzburg'da 30 dereceden itibaren ısıdan kurtulacak",
-      "url" : "https://kurier.at/chronik/oesterreich/fiakerpferde-erhalten-kuenftig-ab-30-grad-hitzefrei-in-salzburg/401132775"
+      "id" : "fHfn81Le",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/32/crops/w=1280/789381_opener_274932_kaiser_haimi01239_00_03_52_03.jpg?s=969f1625076f4ceb22353d3f3c540fd3f4321cb4",
+      "titleSource" : "Lockdown statt Weihnachtsruhe",
+      "titleTarget" : "Noel tatili yerine kilitleme",
+      "url" : "https://kaernten.orf.at/stories/3081456/"
     }, {
-      "id" : "Zt1g7s4U",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/22/crops/w=1280/788244_opener_274522_meldungsliste13.jpg?s=56a6eb5d2742795dff96fcba10ca1fea1a096c8d",
-      "titleSource" : "Fotografen machen kein Geschäft mehr",
-      "titleTarget" : "Fotoğrafçılar artık iş yapmıyor",
-      "url" : "https://wien.orf.at/stories/3081257/"
+      "id" : "K76jdfFY",
+      "imgUrl" : "https://image.kurier.at/images/original/4658851/46-166394781.jpg",
+      "titleSource" : "Corona spaltet Österreich in zwei konträre Lager",
+      "titleTarget" : "Corona, Avusturya'yı iki karşıt kampa böldü",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-spaltet-oesterreich-in-zwei-kontraere-lager/401133741"
     }, {
-      "id" : "u9m3xtD5",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/41/crops/w=1280/786071_opener_273741_ausschuss_1.jpg?s=8989533c7c38ac5d8fa0c1332393ddc634a2201e",
-      "titleSource" : "U-Ausschuss: Doskozil will klagen",
-      "titleTarget" : "U Komitesi: Doskozil dava açmak istiyor",
-      "url" : "https://burgenland.orf.at/stories/3081276/"
+      "id" : "0Vwh0AAR",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/05/crops/w=1280/785680_opener_273605_20201215_diskussion_um_feuerwehrbekleidung_00_01_52_11.jpg?s=f5e62feb852f7873455252403db83ebfa64c936e",
+      "titleSource" : "Falsche Uniform: Strafe ist vom Tisch",
+      "titleTarget" : "Yanlış üniforma: ceza masanın dışında",
+      "url" : "https://kaernten.orf.at/stories/3081433/"
     }, {
-      "id" : "VpGcvDn0",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/82/crops/w=1280/788110_opener_274482_graureiher-zdenek-tunka-lbv-4603841a.jpg?s=75e44fb5a457b138fa17783f444947fa5c3b7563",
-      "titleSource" : "Beschwerde: Abschuss von Graureihern",
-      "titleTarget" : "Şikayet: gri balıkçılların vurulması",
-      "url" : "https://ooe.orf.at/stories/3081218/"
+      "id" : "XK2da91D",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/99/crops/w=1280/789266_opener_274899_abd0247.jpg?s=2f857710329bb40ff732277c2ee00a0c42f396e6",
+      "titleSource" : "5.127 Kerzen gedenken CoV-Verstorbener",
+      "titleTarget" : "5.127 mum merhum CoV anısına",
+      "url" : "https://wien.orf.at/stories/3081442/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "3glB5Bu5",
-      "imgUrl" : "https://image.kurier.at/images/original/4827039/46-108993785.jpg",
-      "titleSource" : "RTL stellt \"Magda macht das schon\" mit Verena Altenberger ein",
-      "titleTarget" : "RTL, Verena Altenberger ile \"Magda bunu yapıyor\" diyor",
-      "url" : "https://kurier.at/kultur/medien/rtl-stellt-magda-macht-das-schon-mit-verena-altenberger-ein/401132931"
+      "id" : "DW5wziJ9",
+      "imgUrl" : "https://image.kurier.at/images/original/4831176/46-173649087.jpg",
+      "titleSource" : "Corona: Theater bleiben zu, Museen schließen am 26. Dezember",
+      "titleTarget" : "Corona: Tiyatrolar kapalı, müzeler 26 Aralık'ta kapanıyor",
+      "url" : "https://kurier.at/kultur/corona-theater-bleiben-zu-museen-schliessen-am-26-dezember/401134782"
     }, {
-      "id" : "kBK47Sqk",
-      "imgUrl" : "https://image.kurier.at/images/original/4826694/46-173562957.jpg",
-      "titleSource" : "TV-Serie über Sexvideo-Skandal von Pamela Anderson und Tommy Lee",
-      "titleTarget" : "Pamela Anderson ve Tommy Lee'nin seks videosu skandalıyla ilgili TV dizisi",
-      "url" : "https://kurier.at/kultur/medien/tv-serie-ueber-sexvideo-skandal-von-pamela-anderson-und-tommy-lee/401132781"
+      "id" : "4j2GFDQC",
+      "imgUrl" : "https://image.kurier.at/images/original/4828962/46-173629265.jpg",
+      "titleSource" : "\"Boba Fett\"-Darsteller Jeremy Bulloch ist tot",
+      "titleTarget" : "\"Boba Fett\" oyuncusu Jeremy Bulloch öldü",
+      "url" : "https://kurier.at/kultur/boba-fett-darsteller-jeremy-bulloch-ist-tot/401133939"
+    }, {
+      "id" : "bd5b6Fdk",
+      "imgUrl" : "https://image.kurier.at/images/original/4828449/46-167076503.jpg",
+      "titleSource" : "Wie man beim Lesen von J.K. Rowling die Muskeln trainiert",
+      "titleTarget" : "J.K. Rowling kasları eğitiyor",
+      "url" : "https://kurier.at/kultur/buch/wie-man-beim-lesen-von-jk-rowling-die-muskeln-trainiert/401133537"
+    }, {
+      "id" : "cm2hXAPa",
+      "imgUrl" : "https://image.kurier.at/images/original/4830231/46-167848539.jpg",
+      "titleSource" : "Berlinale wird coronabedingt auf Juni verschoben",
+      "titleTarget" : "Berlinale, korona nedeniyle Haziran ayına ertelendi",
+      "url" : "https://kurier.at/kultur/berlinale-wird-coronabedingt-auf-juni-verschoben/401134473"
+    }, {
+      "id" : "IuTUoYTC",
+      "imgUrl" : "https://image.kurier.at/images/original/4828938/46-154113475.jpg",
+      "titleSource" : "32 Jahre später: \"Prinz aus Zamunda\" wird fortgesetzt",
+      "titleTarget" : "32 yıl sonra: \"Zamunda Prensi\" devam edecek",
+      "url" : "https://kurier.at/kultur/medien/32-jahre-spaeter-prinz-aus-zamunda-wird-fortgesetzt/401133927"
     }, {
       "id" : "Dc1P4tdm",
       "imgUrl" : "https://image.kurier.at/images/original/4828422/46-173564304.jpg",
@@ -155,29 +173,11 @@
       "titleTarget" : "Klaus Schubert, Avusturya-Pop gazilerinin marşını başlattı",
       "url" : "https://kurier.at/kultur/klaus-schubert-initiierte-hymne-der-austro-pop-veteranen/401133504"
     }, {
-      "id" : "be9Ra4vj",
-      "imgUrl" : "https://image.kurier.at/images/original/4827930/46-173611193.jpg",
-      "titleSource" : "Taylor Swifts neues Album \"Evermore\"",
-      "titleTarget" : "Taylor Swift'in yeni albümü \"Evermore\"",
-      "url" : "https://kurier.at/kultur/taylor-swifts-neues-album-evermore/401133333"
-    }, {
-      "id" : "cEEbwtB9",
-      "imgUrl" : "https://image.kurier.at/images/original/4820922/46-173271539.jpg",
-      "titleSource" : "Mit Peter Mathis in den Bergen - garantiert ohne Après-Ski",
-      "titleTarget" : "Dağlarda Peter Mathis ile - après-ski olmadan garantili",
-      "url" : "https://kurier.at/kultur/buch/mit-peter-mathis-in-den-bergen-garantiert-ohne-apres-ski/401129592"
-    }, {
-      "id" : "QPg4mx6t",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/c/6/5912774/_color-1_1608284539777753.jpg",
-      "titleSource" : "15 Empfehlungen: Die Filme des Jahres 2020",
-      "titleTarget" : "15 öneri: 2020 filmleri",
-      "url" : "https://www.diepresse.com/5912774/Bestenliste_15-Empfehlungen_Die-Filme-des-Jahres-2020?from=rss"
-    }, {
-      "id" : "IuTUoYTC",
-      "imgUrl" : "https://image.kurier.at/images/original/4828938/46-154113475.jpg",
-      "titleSource" : "32 Jahre später: \"Prinz aus Zamunda\" wird fortgesetzt",
-      "titleTarget" : "32 yıl sonra: \"Zamunda Prensi\" devam edecek",
-      "url" : "https://kurier.at/kultur/medien/32-jahre-spaeter-prinz-aus-zamunda-wird-fortgesetzt/401133927"
+      "id" : "NdlqMw1d",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/a/e/5913262/saengerknaben_1608293201646357.jpg",
+      "titleSource" : "Wiener Sängerknaben streamen Weihnachtskonzert",
+      "titleTarget" : "Viyana Erkek Korosu Noel konseri",
+      "url" : "https://www.diepresse.com/5913262/LockdownKulturtipp_Wiener-Saengerknaben-streamen-Weihnachtskonzert?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -185,32 +185,35 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "e0fR8pYN",
-      "titleSource" : "St. Pöltens Frauen stehen im Achtelfinale",
-      "titleTarget" : "St.Pölten'in kadınları son on altı yaşta",
-      "url" : "https://sport.orf.at/stories/3070799/"
+      "id" : "2C6HwQMv",
+      "imgUrl" : "https://image.kurier.at/images/original/4828602/46-173390797.jpg",
+      "titleSource" : "Sergio Perez landet im zweiten Red-Bull-Cockpit",
+      "titleTarget" : "Sergio Perez, ikinci Red Bull kokpitine indi",
+      "url" : "https://kurier.at/sport/motorsport/formel-1-medien-sergio-perez-landet-im-zweiten-red-bull-cockpit/401133690"
     }, {
-      "id" : "u5rT88Om",
-      "titleSource" : "Lewandowski erstmals Weltfußballer",
-      "titleTarget" : "Lewandowski ilk kez dünya futbolcusu",
-      "url" : "https://sport.orf.at/stories/3070795/"
+      "id" : "ldNbRmbB",
+      "imgUrl" : "https://image.kurier.at/images/original/4827978/46-169003028.jpg",
+      "titleSource" : "Wie die Frauen den Sport eroberten",
+      "titleTarget" : "Kadınlar sporu nasıl fethetti",
+      "url" : "https://kurier.at/sport/skispringen-bob-eishockey-wie-die-frauen-den-sport-eroberten/401133345"
     }, {
-      "id" : "5ZRpLeAE",
-      "imgUrl" : "https://image.kurier.at/images/original/4827621/46-173614557.jpg",
-      "titleSource" : "Jetzt ist es fix: Russland von Olympia ausgeschlossen",
-      "titleTarget" : "Şimdi düzeltildi: Rusya, Olimpiyatlardan dışlandı",
-      "url" : "https://kurier.at/sport/zweijaehrige-olympia-sperre-ueber-russland-verhaengt/401133237"
+      "id" : "b9V1cNok",
+      "imgUrl" : "https://image.kurier.at/images/original/4829217/46-173637264.jpg",
+      "titleSource" : "Horror-Sturz von Schmidhofer bei der Abfahrt in Val d'Isère",
+      "titleTarget" : "Schmidhofer'den Val d'Isère'ye inerken korku düşüşü",
+      "url" : "https://kurier.at/sport/wintersport/horror-sturz-von-schmidhofer-bei-der-abfahrt-in-val-disere/401133777"
     }, {
-      "id" : "inipN1AL",
-      "titleSource" : "Top-Ten-Platz für Eberhard in Hochfilzen",
-      "titleTarget" : "Hochfilzen'de Eberhard için ilk on yer",
-      "url" : "https://sport.orf.at/stories/3070788/"
+      "id" : "iMdFQEwC",
+      "imgUrl" : "https://image.kurier.at/images/original/4829949/46-78455898.jpg",
+      "titleSource" : "1. Runde im Rechtsstreit: Bresnik fordert von Thiem 450.000 Euro",
+      "titleTarget" : "Hukuki anlaşmazlığın 1. turu: Bresnik, Thiem'den 450.000 euro talep ediyor",
+      "url" : "https://kurier.at/sport/tennis/1-runde-im-rechtsstreit-bresnik-fordert-von-thiem-450000-euro/401134326"
     }, {
-      "id" : "oKgH7lJu",
-      "imgUrl" : "https://image.kurier.at/images/original/4828419/46-173627571.jpg",
-      "titleSource" : "Robert Lewandowski ist Weltfußballer des Jahres",
-      "titleTarget" : "Robert Lewandowski, yılın dünya futbolcusu",
-      "url" : "https://kurier.at/sport/fussball/robert-lewandowski-ist-weltfussballer-des-jahres/401133498"
+      "id" : "rrkTAeaQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4730307/46-168495955.jpg",
+      "titleSource" : "Traumkombination: Jürgen Melzer künftig Trainer von Barbara Haas",
+      "titleTarget" : "Rüya kombinasyonu: Jürgen Melzer, gelecekte Barbara Haas'ın koçu olacak",
+      "url" : "https://kurier.at/sport/tennis/traumkombination-juergen-melzer-kuenftig-trainer-von-barbara-haas/401134107"
     }, {
       "id" : "nQHkU0y3",
       "imgUrl" : "https://image.kurier.at/images/original/4827891/46-155774595.jpg",
@@ -218,10 +221,10 @@
       "titleTarget" : "\"Zayıf seks\" yüzünden: Kadınlar durdurulamaz",
       "url" : "https://kurier.at/sport/wintersport/von-wegen-schwaches-geschlecht-die-frauen-sind-nicht-zu-stoppen/401133312"
     }, {
-      "id" : "Hd6R7bMI",
-      "titleSource" : "Stand im Herren-Super-G in Gröden ab 11.45 Uhr",
-      "titleTarget" : "Saat 11: 45'ten itibaren Val Gardena'da erkekler Süper-G'de durun.",
-      "url" : "https://sport.orf.at/stories/3070794/"
+      "id" : "7KZB8ych",
+      "titleSource" : "Kramer feiert zweiten Weltcup-Sieg",
+      "titleTarget" : "Kramer ikinci Dünya Kupası zaferini kutluyor",
+      "url" : "https://sport.orf.at/stories/3070839/"
     } ]
   } ],
   "country" : "austria",
