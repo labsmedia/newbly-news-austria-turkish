@@ -14,23 +14,29 @@
       "titleTarget" : "Aşı başlangıcı için geri sayım başladı: Kurz, Anschober, Ludwig, Hacker orada",
       "url" : "https://kurier.at/politik/inland/der-countdown-zum-impfstart-laeuft-kurz-anschober-ludwig-hacker-mit-dabei/401139957"
     }, {
+      "id" : "mhOtqTl0",
+      "imgUrl" : "https://image.kurier.at/images/original/4841820/46-173754628.jpg",
+      "titleSource" : "Corona-Impfstoff: Überall in der EU ist heute gleichzeitig \"Liefertag\" und Impfstart",
+      "titleTarget" : "Corona aşısı: Bugün AB'nin her yerinde \"doğum günü\" ve aşılama aynı zamanda başlıyor",
+      "url" : "https://kurier.at/politik/inland/corona-impfstoff-ueberall-in-der-eu-ist-gleichzeitig-liefertag-und-impfstart/401139900"
+    }, {
+      "id" : "1pC3jdqc",
+      "imgUrl" : "https://image.kurier.at/images/original/4842162/46-173551603.jpg",
+      "titleSource" : "Corona-Strafe für Paar: Gesundheitsministerium weist Verantwortung von sich",
+      "titleTarget" : "Çifte Corona cezası: Sağlık Bakanlığı sorumluluğu reddediyor",
+      "url" : "https://kurier.at/politik/inland/corona-strafe-fuer-paar-gesundheitsministerium-weist-verantwortung-von-sich/401140095"
+    }, {
       "id" : "JyyS0bRp",
       "imgUrl" : "https://image.kurier.at/images/original/4312121/46-164583580.jpg",
       "titleSource" : "Politikjahr 2020: Die besten Sager des Jahres",
       "titleTarget" : "Tıklamak için: Yılın en iyi Corona söyleyicileri",
       "url" : "https://kurier.at/politik/inland/zum-durchklicken-die-besten-corona-sager-des-jahres/401137878"
     }, {
-      "id" : "kUKfVlrO",
-      "imgUrl" : "https://image.kurier.at/images/original/4841610/46-173750433.jpg",
-      "titleSource" : "Corona-Ausgangsbeschränkungen wieder rund um die Uhr",
-      "titleTarget" : "Corona çıkış kısıtlamaları günün her saati tekrar",
-      "url" : "https://kurier.at/politik/inland/corona-ausgangsbeschraenkungen-wieder-rund-um-die-uhr/401139744"
-    }, {
-      "id" : "mhOtqTl0",
-      "imgUrl" : "https://image.kurier.at/images/original/4841820/46-173754628.jpg",
-      "titleSource" : "Corona-Impfstoff: Überall in der EU ist heute gleichzeitig \"Liefertag\" und Impfstart",
-      "titleTarget" : "Corona aşısı: Bugün AB'nin her yerinde \"doğum günü\" ve aşılama aynı zamanda başlıyor",
-      "url" : "https://kurier.at/politik/inland/corona-impfstoff-ueberall-in-der-eu-ist-gleichzeitig-liefertag-und-impfstart/401139900"
+      "id" : "q8gzkzgt",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "Diese Regeln gelten ab 26. Dezember",
+      "titleTarget" : "Bu kurallar 26 Aralık'tan itibaren geçerlidir.",
+      "url" : "https://kurier.at/politik/inland/freitesten-vom-corona-lockdown-diese-regeln-gelten-ab-26-dezember-bis-mitte-jaenner/401083170"
     }, {
       "id" : "Xs1R10jb",
       "imgUrl" : "https://image.kurier.at/images/original/4841649/46-170733008.jpg",
@@ -68,34 +74,17 @@
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "jv5awA7A",
-      "imgUrl" : "https://image.kurier.at/images/original/4842129/unbenannt_0.jpg",
-      "titleSource" : "Unangemeldete Corona-Demo in Graz mit mehreren hundert Teilnehmern",
-      "titleTarget" : "Birkaç yüz katılımcıyla Graz'da kayıtsız korona demosu",
-      "url" : "https://kurier.at/chronik/oesterreich/unangemeldete-corona-demo-in-graz-mit-mehreren-hundert-teilnehmern/401140038"
-    }, {
-      "id" : "rnqcUBXH",
-      "titleSource" : "Semmering: Neue Regeln nach Ansturm",
-      "titleTarget" : "Semmering: Aceleden sonra yeni kurallar",
-      "url" : "https://noe.orf.at/stories/3082420/"
-    }, {
       "id" : "RPkgBEeG",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/52/37/crops/w=1280/796048_opener_277337_demo.jpg?s=48fed7bcff03d8bc6e5db34130cc835274c5eca1",
       "titleSource" : "Unangemeldete Demo in Grazer Innenstadt",
       "titleTarget" : "Graz şehir merkezinde kayıtsız demo",
       "url" : "https://steiermark.orf.at/stories/3082463/"
     }, {
-      "id" : "L4XS8F0q",
-      "imgUrl" : "https://image.kurier.at/images/original/4839858/46-166564316.jpg",
-      "titleSource" : "Verschwörungsgläubige: Wie können Angehörige damit umgehen?",
-      "titleTarget" : "Komplo İnananları: Akrabalar Bununla Nasıl Başa Çıkabilir?",
-      "url" : "https://kurier.at/chronik/oesterreich/verschwoerungsglaeubige-wie-koennen-angehoerige-damit-umgehen/401138964"
-    }, {
-      "id" : "4I5eIVkY",
-      "imgUrl" : "https://image.kurier.at/images/original/4765665/46-168945339.jpg",
-      "titleSource" : "Neue Regeln, viele Fragen: Das gilt ab 26. Dezember",
-      "titleTarget" : "Yeni kurallar, birçok soru: Bu 26 Aralık'tan itibaren geçerli olacak",
-      "url" : "https://kurier.at/chronik/oesterreich/lockdown-nummer-drei-das-gilt-ab-26-dezember/401139783"
+      "id" : "jv5awA7A",
+      "imgUrl" : "https://image.kurier.at/images/original/4842129/unbenannt_0.jpg",
+      "titleSource" : "Unangemeldete Corona-Demo in Graz mit mehreren hundert Teilnehmern",
+      "titleTarget" : "Birkaç yüz katılımcıyla Graz'da kayıtsız korona demosu",
+      "url" : "https://kurier.at/chronik/oesterreich/unangemeldete-corona-demo-in-graz-mit-mehreren-hundert-teilnehmern/401140038"
     }, {
       "id" : "q2uZfDl5",
       "imgUrl" : "https://image.kurier.at/images/original/4838988/20201223-ABD0028-1-1.jpg",
@@ -103,11 +92,29 @@
       "titleTarget" : "İlk korona aşısı teslimatı Viyana'ya güvenli bir şekilde ulaştı",
       "url" : "https://kurier.at/chronik/oesterreich/erste-corona-impfstoff-lieferung-gut-in-wien-angekommen/401139849"
     }, {
-      "id" : "6gaYcsc6",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/52/03/crops/w=1280/795663_opener_277203_lockdown-5130295.jpg?s=9907b85e99aef421e6d49afb5ab35657f3dfcffd",
-      "titleSource" : "Der dritte harte Lockdown beginnt",
-      "titleTarget" : "Üçüncü sıkı kilitlenme başlıyor",
-      "url" : "https://vorarlberg.orf.at/stories/3082399/"
+      "id" : "4I5eIVkY",
+      "imgUrl" : "https://image.kurier.at/images/original/4765665/46-168945339.jpg",
+      "titleSource" : "Neue Regeln, viele Fragen: Das gilt ab 26. Dezember",
+      "titleTarget" : "Yeni kurallar, birçok soru: Bu 26 Aralık'tan itibaren geçerli olacak",
+      "url" : "https://kurier.at/chronik/oesterreich/lockdown-nummer-drei-das-gilt-ab-26-dezember/401139783"
+    }, {
+      "id" : "rxKPQKv3",
+      "imgUrl" : "https://image.kurier.at/images/original/4594133/20200824-ABD0104-1-1.jpg",
+      "titleSource" : "Corona-Strafe für Paar: Kaiser rügt Bund für \"realitätsferne Regel\"",
+      "titleTarget" : "Çifte Corona cezası: Kaiser \"gerçekçi olmayan kural\" nedeniyle federal hükümeti kınadı",
+      "url" : "https://kurier.at/chronik/oesterreich/kaernten-aerger-nach-corona-strafe-fuer-paar/401139981"
+    }, {
+      "id" : "GFISxmul",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/32/crops/w=1280/789381_opener_274932_kaiser_haimi01239_00_03_52_03.jpg?s=969f1625076f4ceb22353d3f3c540fd3f4321cb4",
+      "titleSource" : "Kaiser: Neue Verordnung statt Strafe",
+      "titleTarget" : "Kaiser: Ceza yerine yeni düzenleme",
+      "url" : "https://kaernten.orf.at/stories/3082482/"
+    }, {
+      "id" : "chhUT3Uh",
+      "imgUrl" : "https://image.kurier.at/images/original/4841994/20201226-ABD0032-1-1.jpg",
+      "titleSource" : "Warten bei minus 74 Grad: Impfstoff in Österreich bereits eingetroffen",
+      "titleTarget" : "Eksi 74 derece bekleniyor: aşı Avusturya'ya çoktan ulaştı",
+      "url" : "https://kurier.at/chronik/oesterreich/impfstoff-in-oesterreich-bereits-eingetroffen-hier-wird-er-bis-morgen-verwahrt/401140026"
     } ]
   }, {
     "category" : "CULTURE",
@@ -124,43 +131,42 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "CEbd77Fy",
-      "imgUrl" : "https://image.kurier.at/images/original/4841721/46-151033984.jpg",
-      "titleSource" : "Eine Olympiasiegerin sorgt sich um den österreichischen Sport",
-      "titleTarget" : "Bir olimpiyat şampiyonu Avusturya sporu hakkında endişeleniyor",
-      "url" : "https://kurier.at/sport/wintersport/ski-alpin-olympiasiegerin-dorfmeister-sorgt-sich-um-den-oesterreichischen-sport/401139846"
-    }, {
-      "id" : "Zaye3Cxm",
-      "titleSource" : "Walkner startet in siebente Dakar",
-      "titleTarget" : "Walkner yedinci Dakar'da başlıyor",
-      "url" : "https://sport.orf.at/stories/3070695/"
-    }, {
       "id" : "oRkx78UT",
       "imgUrl" : "https://image.kurier.at/images/original/4842060/46-167273083.jpg",
       "titleSource" : "Die 100 schrägsten Sportgeschichten des Jahres 2020",
       "titleTarget" : "2020 Yılının En Garip 100 Spor Hikayesi",
       "url" : "https://kurier.at/sport/die-100-schraegsten-sportgeschichten-des-jahres-2020/401139732"
     }, {
-      "id" : "C6XI9uHu",
-      "imgUrl" : "https://image.kurier.at/images/original/4842111/46-173765148.jpg",
-      "titleSource" : "2:2 - Manchester United verpasste den Sieg bei Leicester City",
-      "titleTarget" : "2-2 - Manchester United, Leicester City'deki galibiyeti kaçırdı",
-      "url" : "https://kurier.at/sport/fussball/22-manchester-united-verpasste-den-sieg-bei-leicester-city/401140050"
+      "id" : "Zaye3Cxm",
+      "titleSource" : "Walkner startet in siebente Dakar",
+      "titleTarget" : "Walkner yedinci Dakar'da başlıyor",
+      "url" : "https://sport.orf.at/stories/3070695/"
     }, {
-      "id" : "5gDKYnjf",
-      "titleSource" : "ManUnited verpasst Sieg im Schlagerspiel",
-      "titleTarget" : "ManUnited büyük oyunu kaçırdı",
-      "url" : "https://sport.orf.at/stories/3071123/"
+      "id" : "CEbd77Fy",
+      "imgUrl" : "https://image.kurier.at/images/original/4841721/46-151033984.jpg",
+      "titleSource" : "Eine Olympiasiegerin sorgt sich um den österreichischen Sport",
+      "titleTarget" : "Bir olimpiyat şampiyonu Avusturya sporu hakkında endişeleniyor",
+      "url" : "https://kurier.at/sport/wintersport/ski-alpin-olympiasiegerin-dorfmeister-sorgt-sich-um-den-oesterreichischen-sport/401139846"
     }, {
-      "id" : "rBU39PRB",
-      "titleSource" : "Kraft sieht sich als „Nackerpatzl“",
-      "titleTarget" : "Kraft kendini \"Nackerpatzl\" olarak görüyor",
-      "url" : "https://sport.orf.at/stories/3071090/"
+      "id" : "GTnoIkfs",
+      "titleSource" : "Buccaneers erstmals seit 2007 im NFL-Play-off",
+      "titleTarget" : "Korsanlar 2007'den beri ilk kez NFL play-off'unda",
+      "url" : "https://sport.orf.at/stories/3071131/"
     }, {
-      "id" : "R4K3qYd4",
-      "titleSource" : "Mayer Dritter im Bormio-Training",
-      "titleTarget" : "Mayer, Bormio eğitiminde üçüncü",
-      "url" : "https://sport.orf.at/stories/3071122/"
+      "id" : "lZCV0GzZ",
+      "titleSource" : "Kowaltschuk kehrt wieder in KHL zurück",
+      "titleTarget" : "Kovalchuk KHL'ye geri döndü",
+      "url" : "https://sport.orf.at/stories/3071130/"
+    }, {
+      "id" : "CLlVy4Os",
+      "titleSource" : "Thiem erreicht „ein Lebensziel“",
+      "titleTarget" : "Thiem \"hayatta bir hedefe\" ulaşır",
+      "url" : "https://sport.orf.at/stories/3071129/"
+    }, {
+      "id" : "K10wJx2e",
+      "titleSource" : "Hamilton stellt Schumacher-Rekord ein",
+      "titleTarget" : "Hamilton, Schumacher rekorunu kırdı",
+      "url" : "https://sport.orf.at/stories/3070733/"
     } ]
   } ],
   "country" : "austria",
