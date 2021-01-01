@@ -2,29 +2,23 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "1ni3EVWB",
-      "imgUrl" : "https://image.kurier.at/images/original/4849014/46-173772554.jpg",
-      "titleSource" : "Kurz zu Freitests: Betreiber müssen prüfen, Ausnahmen für Wirte",
-      "titleTarget" : "Özetle: Operatörler, ana bilgisayarlar için istisnaları dikkate almalıdır",
-      "url" : "https://kurier.at/politik/inland/kurz-gibt-neue-details-zum-freitesten-bekannt/401143839"
-    }, {
       "id" : "P0MhLi0c",
       "imgUrl" : "https://image.kurier.at/images/original/4849032/46-173833667.jpg",
       "titleSource" : "Anschober will Neuinfektionen im Jänner unter 1.000 drücken",
       "titleTarget" : "Anschober Ocak ayında yeni enfeksiyonları 1.000'in altına çekmek istiyor",
       "url" : "https://kurier.at/politik/inland/anschober-will-neuinfektionen-im-jaenner-unter-1000-druecken/401143911"
     }, {
+      "id" : "TCHxa8Dw",
+      "imgUrl" : "https://image.kurier.at/images/original/4849725/46-163394729.jpg",
+      "titleSource" : "Gesetz schafft Basis fürs \"Freitesten\" - viele wichtige Fragen offen",
+      "titleTarget" : "Ücretsiz test: Kanun, test edilenler için kilitleme istisnalarına izin verir",
+      "url" : "https://kurier.at/politik/inland/freitesten-gesetz-ermoeglicht-lockdown-ausnahmen-fuer-getestete/401144310"
+    }, {
       "id" : "Sv55mOza",
       "imgUrl" : "https://image.kurier.at/images/original/4849563/46-173807066.jpg",
       "titleSource" : "Wirte: „Wir wollen endlich wieder aufsperren“",
       "titleTarget" : "Ev sahipleri: \"Nihayet yeniden açmak istiyoruz\"",
       "url" : "https://kurier.at/politik/inland/wirte-wir-wollen-endlich-wieder-aufsperren/401144217"
-    }, {
-      "id" : "TCHxa8Dw",
-      "imgUrl" : "https://image.kurier.at/images/original/4849725/46-163394729.jpg",
-      "titleSource" : "Freitesten: Gesetz ermöglicht Lockdown-Ausnahmen für Getestete",
-      "titleTarget" : "Ücretsiz test: Kanun, test edilenler için kilitleme istisnalarına izin verir",
-      "url" : "https://kurier.at/politik/inland/freitesten-gesetz-ermoeglicht-lockdown-ausnahmen-fuer-getestete/401144310"
     }, {
       "id" : "ocu3JD2Q",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/d/9/5917657/9822343C-3DB0-42D6-9F4E-1418E32D1FC5_v0_h.jpg",
@@ -53,23 +47,17 @@
       "titleTarget" : "Bu yıl 1,16 milyon Avusturyalı kısa süreli çalışıyordu",
       "url" : "https://kurier.at/wirtschaft/116-millionen-oesterreicher-waren-heuer-in-kurzarbeit/401143899"
     }, {
-      "id" : "vguG5npI",
-      "imgUrl" : "https://image.kurier.at/images/original/4584980/78370011356030654_BLD_Online.jpg",
-      "titleSource" : "Für die Autobank wird es immer enger",
-      "titleTarget" : "Autobank için giderek sıkılaşıyor",
-      "url" : "https://kurier.at/wirtschaft/fuer-die-autobank-wird-es-immer-enger/401143824"
+      "id" : "qRvWBKBQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4045278/46-154037237.jpg",
+      "titleSource" : "Einmal noch: Trump verhängt Strafzölle auf EU-Produkte",
+      "titleTarget" : "Bir kez daha: Trump, AB ürünlerine cezai tarifeler uyguluyor",
+      "url" : "https://kurier.at/wirtschaft/einmal-noch-trump-verhaengt-strafzoelle-auf-eu-produkte/401144232"
     }, {
       "id" : "VO9FAS4N",
       "imgUrl" : "https://image.kurier.at/images/original/4837566/46-166735130.jpg",
       "titleSource" : "Ein Haus zu erhalten ist (auch) Arbeit",
       "titleTarget" : "Bir evin bakımı (aynı zamanda) iştir",
       "url" : "https://kurier.at/wirtschaft/immobiz/ein-haus-zu-erhalten-ist-auch-arbeit/401137680"
-    }, {
-      "id" : "qRvWBKBQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4045278/46-154037237.jpg",
-      "titleSource" : "Einmal noch: Trump verhängt Strafzölle auf EU-Produkte",
-      "titleTarget" : "Bir kez daha: Trump, AB ürünlerine cezai tarifeler uyguluyor",
-      "url" : "https://kurier.at/wirtschaft/einmal-noch-trump-verhaengt-strafzoelle-auf-eu-produkte/401144232"
     }, {
       "id" : "2cH2bDnD",
       "imgUrl" : "https://image.kurier.at/images/original/4791846/46-168946079.jpg",
@@ -81,31 +69,15 @@
       "titleSource" : "1,16 Millionen Österreicher waren in Kurzarbeit",
       "titleTarget" : "1,16 milyon Avusturyalı kısa süreli çalışıyordu",
       "url" : "https://www.diepresse.com/5917573/Coronakrise_116-Millionen-Oesterreicher-waren-in-Kurzarbeit?from=rss"
-    }, {
-      "id" : "AyBm0RqA",
-      "titleSource" : "Geldstrafen in Millionenhöhe nach Insiderhandel mit Gerry-Weber-Aktien",
-      "titleTarget" : "Gerry Weber hisselerinde içeriden bilgi ticareti için milyonlara ulaşan para cezaları",
-      "url" : "https://www.diepresse.com/5917454/Aktien_Geldstrafen-in-Millionenhoehe-nach-Insiderhandel-mit?from=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "3Jnizwtu",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/29/crops/w=1280/777020_opener_270329_colourbox5479738.jpg?s=60f3c65df7e5be61070c7c1a7110100a2147bf6f",
-      "titleSource" : "Was zu Silvester erlaubt ist",
-      "titleTarget" : "Yılbaşı gecesinde nelere izin verilir",
-      "url" : "https://tirol.orf.at/stories/3082640/"
-    }, {
       "id" : "BdTEc6T6",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
       "titleSource" : "2.913 Neuinfektionen in Österreich",
       "titleTarget" : "Avusturya'da 2.913 yeni enfeksiyon",
       "url" : "https://kurier.at/chronik/oesterreich/2913-neuinfektionen-in-oesterreich/401143971"
-    }, {
-      "id" : "ciDUsu4F",
-      "titleSource" : "Foto mit Hakenkreuz-Fahne: Entlassung nicht rechtens",
-      "titleTarget" : "Gamalı haç bayraklı fotoğraf: İşten çıkarılma yasa dışıdır",
-      "url" : "https://ooe.orf.at/stories/3082700/"
     }, {
       "id" : "gXxBmgo0",
       "imgUrl" : "https://image.kurier.at/images/original/4849137/46-167880331.jpg",
@@ -113,23 +85,35 @@
       "titleTarget" : "Kutlama havasında kayak eğitmenleri: Polis Corona partisini dağıttı",
       "url" : "https://kurier.at/chronik/oesterreich/skilehrer-in-feierlaune-polizei-loeste-corona-party-auf/401143965"
     }, {
-      "id" : "2P48qDP2",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/10/14/crops/w=1280/495292_opener_166914_adobestock_322035464.jpeg?s=a0f2c472c4d099551436597cb734ef61fb1d2901",
-      "titleSource" : "Dornbirner Forscher: Immunität wohl länger als gedacht",
-      "titleTarget" : "Dornbirn araştırmacıları: bağışıklık muhtemelen beklenenden daha uzun",
-      "url" : "https://vorarlberg.orf.at/stories/3083015/"
-    }, {
       "id" : "40z5WB4F",
       "imgUrl" : "https://image.kurier.at/images/original/4849743/46-173616827.jpg",
       "titleSource" : "Britische Virus-Mutation in China aufgetaucht; fast 3.000 Neuinfektionen in Ö",
       "titleTarget" : "Avusturya'da 2.913 yeni enfeksiyon; Anschober, Ocak ayında 1.000'in altında yeni enfeksiyonlar istiyor",
       "url" : "https://kurier.at/chronik/oesterreich/anschober-will-neuinfektionen-im-jaenner-unter-1000-druecken-corona-ampel-bleibt-rot/401143917"
     }, {
-      "id" : "ghGvqSRX",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/01/63/crops/w=1280/799968_opener_278763_wohnhaus-im-vollbrand-leopoldsdorf-30122020-5_002.jpg?s=b991d9bc3b9dccf565fe9efe604dadd6567514f8",
-      "titleSource" : "Hunderte Einsatzkräfte bei drei Großbränden",
-      "titleTarget" : "Üç büyük yangında yüzlerce acil servis",
-      "url" : "https://noe.orf.at/stories/3083069/"
+      "id" : "spi4NEKL",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/01/00/crops/w=1280/800366_opener_278900_wallner2.ashx.jpg?s=0b202e09010b98a99d17454987654f6161d04c7c",
+      "titleSource" : "Wallner: „2021 kann Jahr der Zuversicht werden“",
+      "titleTarget" : "Wallner: \"2021 güven yılı olabilir\"",
+      "url" : "https://vorarlberg.orf.at/stories/3083082/"
+    }, {
+      "id" : "tEj9yKD0",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/01/33/crops/w=1280/800187_opener_278833_gastro.jpg?s=529fdcf56eb3f5af4e5c8b07709fc8027be884f5",
+      "titleSource" : "Kein Einsatz der MA 15 beim Freitesten",
+      "titleTarget" : "Ücretsiz test sırasında MA 15 kullanılmaz",
+      "url" : "https://wien.orf.at/stories/3083091/"
+    }, {
+      "id" : "ONBg8JEi",
+      "imgUrl" : "https://image.kurier.at/images/original/4848744/46-171166192.jpg",
+      "titleSource" : "Tierischer Jahresrückblick: Putzige Babys und gerettete Vierbeiner",
+      "titleTarget" : "Yıllık Hayvan İncelemesi: Sevimli Bebekler ve Kurtarılmış Dört Ayaklı Arkadaşlar",
+      "url" : "https://kurier.at/chronik/oesterreich/tierischer-jahresrueckblick-putzige-babys-und-gerettete-vierbeiner/401143731"
+    }, {
+      "id" : "bHeTFobq",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/46/77/crops/w=1280/366067_opener_118077_gleitschneelawine.jpg?s=1d0379f40ae82ebf53e403881dcda99274599392",
+      "titleSource" : "Erneut Tourengeher von Lawine erfasst",
+      "titleTarget" : "Kayak turcuları yine çığ çarptı",
+      "url" : "https://kaernten.orf.at/stories/3083088/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -139,6 +123,12 @@
       "titleSource" : "Kultur-Kritik an Ungleichbehandlung mit Gastronomie",
       "titleTarget" : "Gastronomi ile eşit olmayan muameleye yönelik kültür eleştirisi",
       "url" : "https://kurier.at/kultur/kultur-kritik-an-ungleichbehandlung-mit-gastronomie/401144094"
+    }, {
+      "id" : "gOgQ5VHd",
+      "imgUrl" : "https://image.kurier.at/images/original/4848873/46-173820694.jpg",
+      "titleSource" : "Von Mundl bis Kaiser: Die TV-Tipps für Silvester",
+      "titleTarget" : "Mundl'dan Kaiser'e: Yılbaşı Gecesi için TV ipuçları",
+      "url" : "https://kurier.at/kultur/medien/die-tv-tipps-fuer-silvester/401143845"
     }, {
       "id" : "kfAuflXg",
       "imgUrl" : "https://image.kurier.at/images/original/4849500/46-173836107.jpg",
@@ -152,17 +142,11 @@
       "titleTarget" : "Son bir veda: 2020'de kültürün ölü yıldızları",
       "url" : "https://kurier.at/kultur/ein-letztes-adieu-die-toten-stars-der-kultur-des-jahres-2020/401143272"
     }, {
-      "id" : "gOgQ5VHd",
-      "imgUrl" : "https://image.kurier.at/images/original/4848873/46-173820694.jpg",
-      "titleSource" : "Von Mundl bis Kaiser: Die TV-Tipps für Silvester",
-      "titleTarget" : "Mundl'dan Kaiser'e: Yılbaşı Gecesi için TV ipuçları",
-      "url" : "https://kurier.at/kultur/medien/die-tv-tipps-fuer-silvester/401143845"
-    }, {
-      "id" : "8HfgNzei",
-      "imgUrl" : "https://image.kurier.at/images/original/4848840/bildschirmfoto_2020-12-30_um_21.10.54.png",
-      "titleSource" : "Wagner- und Verdi-Bariton Sándor Sólyom-Nagy gestorben",
-      "titleTarget" : "Wagner ve Verdi baritone",
-      "url" : "https://kurier.at/kultur/wagner-und-verdi-bariton-sandor-solyom-nagy-gestorben/401143800"
+      "id" : "pjxokhrJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4849287/46-173802038.jpg",
+      "titleSource" : "Doku über Francesco Totti: Liebespfeile für das Volk",
+      "titleTarget" : "Francesco Totti hakkında belgesel: insanlar için aşk okları",
+      "url" : "https://kurier.at/kultur/doku-ueber-francesco-totti-liebespfeile-fuer-das-volk/401144112"
     }, {
       "id" : "rFvG8TTm",
       "imgUrl" : "https://image.kurier.at/images/original/4848558/46-173820509.jpg",
@@ -170,11 +154,10 @@
       "titleTarget" : "Bilim kurgu çekimi \"Rubikon\": Simmering'de uzay istasyonu",
       "url" : "https://kurier.at/kultur/science-fiction-dreh-rubikon-raumstation-in-simmering/401143647"
     }, {
-      "id" : "pjxokhrJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4849287/46-173802038.jpg",
-      "titleSource" : "Doku über Francesco Totti: Liebespfeile für das Volk",
-      "titleTarget" : "Francesco Totti hakkında belgesel: insanlar için aşk okları",
-      "url" : "https://kurier.at/kultur/doku-ueber-francesco-totti-liebespfeile-fuer-das-volk/401144112"
+      "id" : "e5Er8vF9",
+      "titleSource" : "Deutscher Komponist Paul-Heinz Dittrich gestorben",
+      "titleTarget" : "Alman besteci Paul-Heinz Dittrich öldü",
+      "url" : "https://www.diepresse.com/5917670/Musik_Deutscher-Komponist-PaulHeinz-Dittrich-gestorben?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -182,16 +165,17 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "NwdCnzD7",
-      "titleSource" : "Die Sprüche des Jahres 2020",
-      "titleTarget" : "2020 sözleri",
-      "url" : "https://sport.orf.at/stories/3071025/"
+      "id" : "apgZ3yIg",
+      "imgUrl" : "https://image.kurier.at/images/original/4025784/46-144102456.jpg",
+      "titleSource" : "Langläuferin Teresa Stadlober und ihre Freude an der Qual",
+      "titleTarget" : "Kros kayakçısı Teresa Stadlober ve ıstırap içindeki neşesi",
+      "url" : "https://kurier.at/sport/wintersport/langlaeuferin-teresa-stadlober-und-ihre-freude-an-der-qual/401144061"
     }, {
-      "id" : "mxfKOJR0",
-      "imgUrl" : "https://image.kurier.at/images/original/4848906/46-169024109.jpg",
-      "titleSource" : "Hat ÖFB-Teamspieler gegen die Corona-Regeln verstoßen?",
-      "titleTarget" : "ÖFB takım oyuncuları Corona kurallarını çiğnedi mi?",
-      "url" : "https://kurier.at/sport/fussball/hat-oefb-teamspieler-gegen-die-corona-regeln-verstossen/401143857"
+      "id" : "HvamgsWY",
+      "imgUrl" : "https://image.kurier.at/images/original/4849383/46-173811118.jpg",
+      "titleSource" : "Positiver Test: Nächster Corona-Fall bei der Vierschanzentournee",
+      "titleTarget" : "Olumlu test: Four Hills Turnuvasında bir sonraki korona vakası",
+      "url" : "https://kurier.at/sport/wintersport/positiver-test-beim-russischen-team-naechster-corona-fall-bei-der-vierschanzentournee/401144154"
     }, {
       "id" : "TOt6LpFG",
       "imgUrl" : "https://image.kurier.at/images/original/4849065/46-173834443.jpg",
@@ -199,25 +183,27 @@
       "titleTarget" : "Sir Lewis Hamilton: Knighted Formula 1 yıldızı",
       "url" : "https://kurier.at/sport/motorsport/sir-lewis-hamilton-formel-1-star-zum-ritter-geschlagen/401143932"
     }, {
-      "id" : "vGho20PD",
-      "titleSource" : "Königin schlägt Weltmeister Hamilton zum Ritter",
-      "titleTarget" : "Kraliçe knights dünya şampiyonu Hamilton",
-      "url" : "https://sport.orf.at/stories/3071268/"
-    }, {
       "id" : "IMm50lib",
       "titleSource" : "Kraft in Garmisch bei den Besten",
       "titleTarget" : "Garmisch'te en iyi güç",
       "url" : "https://sport.orf.at/stories/3071283/"
+    }, {
+      "id" : "FWXQM9ex",
+      "imgUrl" : "https://image.kurier.at/images/original/4849404/46-167249007.jpg",
+      "titleSource" : "Corona-Verstoß von ÖFB-Spieler? Wolfsburg räumt \"Fehlverhalten\" ein",
+      "titleTarget" : "ÖFB oyuncuları tarafından Corona ihlali mi? Wolfsburg \"yanlış yaptığını\" kabul ediyor",
+      "url" : "https://kurier.at/sport/fussball/corona-verstoss-von-oefb-spieler-xaver-schlager-wolfsburg-raeumt-fehlverhalten-ein/401144163"
     }, {
       "id" : "RcVNA2Li",
       "titleSource" : "Premier League: Keine Spielpause wegen CoV",
       "titleTarget" : "Premier Lig: CoV nedeniyle ara yok",
       "url" : "https://sport.orf.at/stories/3071278/"
     }, {
-      "id" : "f2MhiwRX",
-      "titleSource" : "Ruttensteiner bis 2022 Israel-Teamchef",
-      "titleTarget" : "Ruttensteiner, 2022 yılına kadar İsrail'de takım lideri olacak",
-      "url" : "https://sport.orf.at/stories/3071274/"
+      "id" : "BzBOG10k",
+      "imgUrl" : "https://image.kurier.at/images/original/4849275/46-173713067.jpg",
+      "titleSource" : "Maradona, Bryant und Co.: Um diese Legenden trauerte der Sport 2020",
+      "titleTarget" : "Maradona, Bryant and Co.: Spor 2020'de bu efsanelerin yasını tuttu",
+      "url" : "https://kurier.at/sport/diego-maradona-kobe-bryant-otto-baric-und-co-diese-sportlegenden-starben-im-corona-jahr-2020/401144070"
     } ]
   } ],
   "country" : "austria",
