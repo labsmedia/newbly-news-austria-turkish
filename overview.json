@@ -31,51 +31,63 @@
       "titleSource" : "Früherer Impfstart: Wieviel die einzelnen Bundesländer verimpfen",
       "titleTarget" : "Aşılamanın daha erken başlaması: Federal eyaletler ne kadar aşılanmalıdır?",
       "url" : "https://kurier.at/politik/inland/impfstart-wurde-nun-doch-vorgezogen-21000-impfungen-diese-woche/401147997"
+    }, {
+      "id" : "AmrXWcEn",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/4/5/5919557/NATIONALRAT-LOACKER_1610014314505483_v0_h.jpg",
+      "titleSource" : "Neos: Gesundheitsminister Anschober \"gehört weg\"",
+      "titleTarget" : "Neos: Sağlık Bakanı Anschober \"uzakta\"",
+      "url" : "https://www.diepresse.com/5919557/CoronaImpfungen_Neos_Gesundheitsminister-Anschober-gehoert-weg?from=rss"
+    }, {
+      "id" : "IHM9QoqN",
+      "imgUrl" : "https://image.kurier.at/images/original/4854180/46-173833672.jpg",
+      "titleSource" : "Anschober verteidigt Impf-Strategie: Pilotphase wurde abgewartet",
+      "titleTarget" : "Anschober, aşılama stratejisini savunuyor: pilot aşama beklendi",
+      "url" : "https://kurier.at/politik/inland/anschober-verteidigt-impf-strategie-pilotphase-wurde-abgewartet/401148681"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "mXY3rVkD",
-      "imgUrl" : "https://image.kurier.at/images/original/4856379/46-173695314.jpg",
-      "titleSource" : "Corona: Hotels wollen Tests für Gäste um aufsperren zu dürfen",
-      "titleTarget" : "Corona: Oteller, misafirlerin kilidini açması için testler istiyor",
-      "url" : "https://kurier.at/wirtschaft/corona-hotels-wollen-tests-fuer-gaeste-um-aufsperren-zu-duerfen/401148078"
+      "id" : "lUYDeqI8",
+      "imgUrl" : "https://image.kurier.at/images/original/4480604/20200625-ABD0151-1-1.jpg",
+      "titleSource" : "Wegen Lockdowns: Ryanair streicht Flugplan noch drastischer zusammen",
+      "titleTarget" : "Kilitlenmeler nedeniyle: Ryanair uçuş programını daha da büyük ölçüde düşürüyor",
+      "url" : "https://kurier.at/wirtschaft/wegen-lockdowns-ryanair-streicht-flugplan-noch-drastischer-zusammen/401148582"
     }, {
-      "id" : "z5vgwmj3",
-      "imgUrl" : "https://image.kurier.at/images/original/4856340/46-173913921.jpg",
-      "titleSource" : "Reifenhersteller Michelin will bis zu 2.300 Stellen streichen",
-      "titleTarget" : "Lastik üreticisi Michelin, 2.300 kişiye işten çıkarmayı istiyor",
-      "url" : "https://kurier.at/wirtschaft/reifenhersteller-michelin-will-bis-zu-2300-stellen-streichen/401148057"
+      "id" : "MoUhKNiy",
+      "imgUrl" : "https://image.kurier.at/images/original/4518152/20200714-ABD0024-1-1.jpg",
+      "titleSource" : "Nationalbank: Derzeit keine Pläne für Neuanlauf für Aufsichtsreform",
+      "titleTarget" : "Ulusal Banka: Şu anda denetim reformuna yeniden başlama planı yok",
+      "url" : "https://kurier.at/wirtschaft/nationalbank-derzeit-keine-plaene-fuer-neuanlauf-fuer-aufsichtsreform/401148591"
+    }, {
+      "id" : "eU3FOeJH",
+      "imgUrl" : "https://image.kurier.at/images/original/3489397/20190517-ABD0065-1-1.jpg",
+      "titleSource" : "Deutsche Messebranche hat 2020 drei Viertel ihres Umsatzes eingebüßt",
+      "titleTarget" : "Alman ticaret fuarı endüstrisi 2020'de satışlarının dörtte üçünü kaybetti",
+      "url" : "https://kurier.at/wirtschaft/deutsche-messebranche-hat-2020-drei-viertel-ihres-umsatzes-eingebuesst/401148546"
+    }, {
+      "id" : "1eTD5ad9",
+      "imgUrl" : "https://image.kurier.at/images/original/4664989/78370011356696990_BLD_Online.jpg",
+      "titleSource" : "Deutsche Industrieaufträge stiegen im November überraschend an",
+      "titleTarget" : "Alman sanayi siparişleri Kasım ayında şaşırtıcı bir şekilde yükseldi",
+      "url" : "https://kurier.at/wirtschaft/deutsche-industrieauftraege-stiegen-im-november-ueberraschend-an/401148549"
+    }, {
+      "id" : "wbFnvf2Y",
+      "imgUrl" : "https://image.kurier.at/images/original/621357/%2525C3%252596l_oel_oil_EPA_SHERWIN.jpg",
+      "titleSource" : "Ölpreise auf zehnmonatigem Höchststand",
+      "titleTarget" : "On ayın en yüksek seviyesinde petrol fiyatları",
+      "url" : "https://kurier.at/wirtschaft/oelpreise-auf-zehnmonatigem-hoechststand/401148516"
+    }, {
+      "id" : "1bwf39MR",
+      "imgUrl" : "https://image.kurier.at/images/original/4844388/bitcoin.jpg",
+      "titleSource" : "Bitcoin steigt immer weiter - Kurs kratzt an Marke von 38.000 Dollar",
+      "titleTarget" : "Bitcoin yükselmeye devam ediyor - 38.000 dolarlık fiyat çizikleri",
+      "url" : "https://kurier.at/wirtschaft/bitcoin-steigt-immer-weiter-kurs-kratzt-an-marke-von-38000-dollar/401148519"
     }, {
       "id" : "xvXdEMSN",
       "imgUrl" : "https://image.kurier.at/images/original/4857006/46-173910162.jpg",
       "titleSource" : "Apple knüpft Boni für Chefs an soziale Werte und Umweltstandards",
       "titleTarget" : "Apple, patronlar için bonusları sosyal değerlere ve çevre standartlarına bağlı",
       "url" : "https://kurier.at/wirtschaft/apple-knuepft-boni-fuer-chefs-an-soziale-werte-und-umweltstandards/401148327"
-    }, {
-      "id" : "ImZ5KYe7",
-      "imgUrl" : "https://image.kurier.at/images/original/4856745/46-166259842.jpg",
-      "titleSource" : "Nach Kritik: Deutsche Fleischbetriebe stocken Stammpersonal auf",
-      "titleTarget" : "Eleştirinin ardından: Alman et şirketleri kadrolu personel stoku yapıyor",
-      "url" : "https://kurier.at/wirtschaft/nach-kritik-deutsche-fleischbetriebe-stocken-stammpersonal-auf/401148234"
-    }, {
-      "id" : "IWhX4fM2",
-      "imgUrl" : "https://image.kurier.at/images/original/4856403/46-146576240.jpg",
-      "titleSource" : "Deutschland beschloss verbindliche Frauenquote für Vorstände",
-      "titleTarget" : "Almanya yönetim kurulu üyelerindeki kadınlar için bağlayıcı bir kota geçirdi",
-      "url" : "https://kurier.at/wirtschaft/deutschland-beschloss-verbindliche-frauenquote-fuer-vorstaende/401148093"
-    }, {
-      "id" : "4bEN4YHl",
-      "imgUrl" : "https://image.kurier.at/images/original/4856355/46-173900504.jpg",
-      "titleSource" : "Ölpreise legten weiter zu: OPEC+ kürzt Förderung",
-      "titleTarget" : "Petrol fiyatları yükselmeye devam etti: OPEC + üretimi düşürdü",
-      "url" : "https://kurier.at/wirtschaft/oelpreise-legten-weiter-zu-opec-kuerzt-foerderung/401148072"
-    }, {
-      "id" : "ctlQVoGB",
-      "imgUrl" : "https://image.kurier.at/images/original/4856352/46-173616745.jpg",
-      "titleSource" : "VW mit Absatzsprung in USA - Gesamtjahr 2020 aber schwach",
-      "titleTarget" : "ABD'de satış artışı olan VW - 2020 yılının tamamı ancak zayıf",
-      "url" : "https://kurier.at/wirtschaft/vw-mit-absatzsprung-in-usa-gesamtjahr-2020-aber-schwach/401148063"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -98,17 +110,17 @@
       "titleTarget" : "Wiener Neustadt'taki Corona demosunda tutuklamalar",
       "url" : "https://kurier.at/chronik/oesterreich/festnahmen-bei-corona-demo-in-wiener-neustadt/401148345"
     }, {
-      "id" : "UE9TF42C",
-      "imgUrl" : "https://image.kurier.at/images/original/4856442/46-173855058.jpg",
-      "titleSource" : "2.469 Neuinfektionen in Österreich",
-      "titleTarget" : "Avusturya'da 2.469 yeni enfeksiyon",
-      "url" : "https://kurier.at/chronik/oesterreich/2469-neuinfektionen-in-oesterreich/401148114"
-    }, {
       "id" : "qNsvnyv9",
       "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/43/crops/w=1280/805130_opener_280643_lungaufin.jpg?s=6908a6333ebf0ebdc64849f8054a7f86aebd1510",
-      "titleSource" : "Ansturm von Skitourengehern: Zederhaus greift ein",
+      "titleSource" : "Tourengeher-Ansturm: Zederhaus greift ein",
       "titleTarget" : "Kayakçıların saldırısı: Zederhaus müdahale ediyor",
       "url" : "https://salzburg.orf.at/stories/3083757/"
+    }, {
+      "id" : "6zZpP0JM",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/25/crops/w=1280/804741_opener_280525_8aecd821-ea2b-4309-9108-b2168c2acdad.jpg?s=69a207c3c52ba177cf8d6e4938d6ec957d7cc9dd",
+      "titleSource" : "Schützenhöfer: „Jetzt nicht Nerven verlieren“",
+      "titleTarget" : "Schützenhöfer: \"Şimdi sinirinizi kaybetmeyin\"",
+      "url" : "https://steiermark.orf.at/stories/3083739/"
     }, {
       "id" : "fmU5x7If",
       "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/72/crops/w=1280/803792_opener_280172_trainer_5.jpg?s=d83fc9d190d900a526a7719541e2a61fe971f3c1",
@@ -116,32 +128,26 @@
       "titleTarget" : "26 yaşındayken New York Red Bulls'ta yardımcı antrenördü.",
       "url" : "https://burgenland.orf.at/stories/3083416/"
     }, {
-      "id" : "6zZpP0JM",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/25/crops/w=1280/804741_opener_280525_8aecd821-ea2b-4309-9108-b2168c2acdad.jpg?s=69a207c3c52ba177cf8d6e4938d6ec957d7cc9dd",
-      "titleSource" : "Schützenhöfer: „Jetzt nicht Nerven verlieren“",
-      "titleTarget" : "Schützenhöfer: \"Şimdi sinirinizi kaybetmeyin\"",
-      "url" : "https://steiermark.orf.at/stories/3083739/"
+      "id" : "UE9TF42C",
+      "imgUrl" : "https://image.kurier.at/images/original/4856442/46-173855058.jpg",
+      "titleSource" : "2.469 Neuinfektionen in Österreich",
+      "titleTarget" : "Avusturya'da 2.469 yeni enfeksiyon",
+      "url" : "https://kurier.at/chronik/oesterreich/2469-neuinfektionen-in-oesterreich/401148114"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
+      "id" : "ueFGadTN",
+      "imgUrl" : "https://image.kurier.at/images/original/4857642/46-173930229.jpg",
+      "titleSource" : "Twitter sperrt Trump-Konto und droht ihm mit Rauswurf",
+      "titleTarget" : "Twitter, Trump'ın hesabını askıya aldı ve onu sınır dışı etmekle tehdit etti",
+      "url" : "https://kurier.at/kultur/medien/twitter-sperrt-trump-konto-und-droht-ihm-mit-rauswurf/401148492"
+    }, {
       "id" : "0Fuq3ARs",
       "imgUrl" : "https://image.kurier.at/images/original/4857132/46-168478990.jpg",
       "titleSource" : "Filmfestival von Cannes könnte wegen Corona verschoben werden",
       "titleTarget" : "Cannes Film Festivali, Corona nedeniyle ertelenebilir",
       "url" : "https://kurier.at/kultur/filmfestival-von-cannes-koennte-wegen-corona-verschoben-werden/401148366"
-    }, {
-      "id" : "sybi5pSN",
-      "imgUrl" : "https://image.kurier.at/images/original/4856091/78350011458269186_BLD_Online.jpg",
-      "titleSource" : "Nach Falschmeldung: Schauspielerin Tanya Roberts laut Sprecher tot",
-      "titleTarget" : "Sahtekarlığın ardından: Sözcüye göre aktris Tanya Roberts öldü",
-      "url" : "https://kurier.at/kultur/nach-falschmeldung-schauspielerin-tanya-roberts-laut-sprecher-tot/401147991"
-    }, {
-      "id" : "PdVkTbtp",
-      "imgUrl" : "https://image.kurier.at/images/original/4093371/46-156873173.jpg",
-      "titleSource" : "Grammy-Gala wegen Pandemie verschoben",
-      "titleTarget" : "Pandemi nedeniyle Grammy gala ertelendi",
-      "url" : "https://kurier.at/kultur/grammy-gala-wegen-pandemie-verschoben/401147982"
     }, {
       "id" : "5TCYMP8k",
       "imgUrl" : "https://image.kurier.at/images/original/4552805/46-105033606.jpg",
@@ -149,23 +155,29 @@
       "titleTarget" : "Neil Young şarkı haklarının yarısını satıyor",
       "url" : "https://kurier.at/kultur/neil-young-verkauft-haelfte-seiner-song-rechte/401148210"
     }, {
-      "id" : "mdEzl5Il",
-      "imgUrl" : "https://image.kurier.at/images/original/4856199/armend_nuredini_c_puls_4_kniepeiss_4_hires.jpg",
-      "titleSource" : "Neue \"Ninja Warrior\"-Staffel startet 2021 auf Puls4",
-      "titleTarget" : "Yeni \"Ninja Savaşçısı\" sezonu 2021'de Puls4'te başlıyor",
-      "url" : "https://kurier.at/kultur/medien/neue-ninja-warrior-staffel-auf-puls4/401148000"
+      "id" : "OWqNPdP7",
+      "imgUrl" : "https://image.kurier.at/images/original/4094664/podcast_illu_hell-01.png",
+      "titleSource" : "5 Podcast-Tipps für den Jänner",
+      "titleTarget" : "Ocak için 5 podcast ipucu",
+      "url" : "https://kurier.at/kultur/medien/5-podcast-tipps-fuer-den-jaenner/401148249"
     }, {
-      "id" : "7dCO3GA2",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/c/9/5919433/C68FB15E-FAA6-4EA0-BF2E-0D32D4BCE439_v0_h.jpg",
-      "titleSource" : "Nach \"KZ\"-Äußerung: RTL schneidet Wendler aus \"DSDS\"",
-      "titleTarget" : "\"KZ\" ifadesinden sonra: RTL, Wendler'ı \"DSDS\" den çıkarır",
-      "url" : "https://www.diepresse.com/5919433/Coronavirus_Nach-KZAeusserung_RTL-schneidet-Wendler-aus-DSDS?from=rss"
+      "id" : "rKzEW2Ap",
+      "imgUrl" : "https://image.kurier.at/images/original/4856835/46-173706008.jpg",
+      "titleSource" : "Comeback von Ja, Panik: Soundtrack für eine Utopie",
+      "titleTarget" : "Ja, Panik'in geri dönüşü: Bir ütopya için film müziği",
+      "url" : "https://kurier.at/kultur/comeback-von-ja-panik-soundtrack-fuer-eine-utopie/401148270"
     }, {
-      "id" : "XVMTPGcO",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/8/c/5919372/78B1144E-2A34-441A-8D7D-1F32911EAA31_1609946836486832.jpg",
-      "titleSource" : "Bridgerton: Der Brautmarkt ist eröffnet",
-      "titleTarget" : "Bridgerton: Gelin pazarı açıldı",
-      "url" : "https://www.diepresse.com/5919372/Serie_Bridgerton_Der-Brautmarkt-ist-eroeffnet?from=rss"
+      "id" : "zyNKmrTr",
+      "imgUrl" : "https://image.kurier.at/images/original/4857798/46-173932804.jpg",
+      "titleSource" : "\"Putschversuch unter Trumps Führung\": Pressestimmen zum Kapitol-Sturm",
+      "titleTarget" : "\"Trump'ın liderliğinde darbe girişimi\": Kongre Binası fırtınasına ilişkin basın yorumları",
+      "url" : "https://kurier.at/kultur/medien/putschversuch-unter-trumps-fuehrung-pressestimmen-zum-kapitol-sturm/401148621"
+    }, {
+      "id" : "wrDPZ6pA",
+      "imgUrl" : "https://image.kurier.at/images/original/4756818/apv_friends_2c_warner_bros._entertainment_inc.v4.9.2.jpg",
+      "titleSource" : "\"Friends\" ist wieder bei Netflix verfügbar",
+      "titleTarget" : "\"Arkadaşlar\" Netflix'te tekrar izlenebilir",
+      "url" : "https://kurier.at/kultur/medien/friends-ist-wieder-bei-netflix-verfuegbar/401148387"
     } ]
   }, {
     "category" : "HEALTH",
@@ -173,17 +185,17 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "jyjbY6Nk",
-      "imgUrl" : "https://image.kurier.at/images/original/4857105/46-168687527.jpg",
-      "titleSource" : "Fortsetzung bei Rapid: Steffen Hofmann, der unerwartete Trainer",
-      "titleTarget" : "Rapid'de devam: Beklenmedik antrenör Steffen Hofmann",
-      "url" : "https://kurier.at/sport/fussball/fortsetzung-bei-rapid-steffen-hofmann-der-unerwartete-trainer/401148348"
-    }, {
       "id" : "ePQ78I6w",
       "imgUrl" : "https://image.kurier.at/images/original/4855725/46-173904876.jpg",
       "titleSource" : "Schlechter Verlierer: Schlierenzauer bei der Tournee disqualifiziert",
       "titleTarget" : "Kaybeden kötü: Schlierenzauer tur sırasında diskalifiye edildi",
       "url" : "https://kurier.at/sport/wintersport/schlechter-verlierer-schlierenzauer-bei-der-tournee-disqualifiziert/401148336"
+    }, {
+      "id" : "jyjbY6Nk",
+      "imgUrl" : "https://image.kurier.at/images/original/4857105/46-168687527.jpg",
+      "titleSource" : "Fortsetzung bei Rapid: Steffen Hofmann, der unerwartete Trainer",
+      "titleTarget" : "Rapid'de devam: Beklenmedik antrenör Steffen Hofmann",
+      "url" : "https://kurier.at/sport/fussball/fortsetzung-bei-rapid-steffen-hofmann-der-unerwartete-trainer/401148348"
     }, {
       "id" : "fQxj45S9",
       "imgUrl" : "https://image.kurier.at/images/original/4856874/46-173920001.jpg",
@@ -196,21 +208,23 @@
       "titleTarget" : "Alman ÖSV üçlü zaferi engelledi",
       "url" : "https://sport.orf.at/stories/3071477/"
     }, {
-      "id" : "ezDiM3fG",
-      "titleSource" : "Achterbahnfahrt geht für Walkner weiter",
-      "titleTarget" : "Walkner için roller coaster yolculuğu devam ediyor",
-      "url" : "https://sport.orf.at/stories/3071475/"
-    }, {
-      "id" : "1faUDRje",
-      "titleSource" : "Cleveland-Cheftrainer fällt für Play-off-Spiel aus",
-      "titleTarget" : "Cleveland teknik direktörü play-off maçına çıktı",
-      "url" : "https://sport.orf.at/stories/3071467/"
-    }, {
       "id" : "lUifTI2A",
       "imgUrl" : "https://image.kurier.at/images/original/4856514/46-151241201.jpg",
       "titleSource" : "Özil soll für Fenerbahce spielen und Erdogans Nachbar werden",
       "titleTarget" : "Özil'in Fenerbahçe için oynaması ve Erdoğan'ın komşusu olması gerekiyor",
       "url" : "https://kurier.at/sport/fussball/mesut-oezil-soll-fuer-fenerbahce-spielen-und-erdogans-nachbar-werden/401148162"
+    }, {
+      "id" : "pZrTbpCj",
+      "imgUrl" : "https://image.kurier.at/images/original/4857681/46-173660303.jpg",
+      "titleSource" : "Unsportlich: Interne Kritik nach Schlierenzauers Kontroll-Boykott",
+      "titleTarget" : "Sportif olmayan: Schlierenzauer'in kontrol boykotu sonrasında iç eleştiri",
+      "url" : "https://kurier.at/sport/wintersport/unsportlich-kontroll-boykott-und-disqualifikation-brachten-oesv-star-schlierenzauer-ruege-ein/401148552"
+    }, {
+      "id" : "avnJ0pHP",
+      "imgUrl" : "https://image.kurier.at/images/original/4857165/46-173922595.jpg",
+      "titleSource" : "Souveränes Finale: Stoch überlegen zum dritten Tournee-Erfolg",
+      "titleTarget" : "Egemen final: Stoch üçüncü tur başarılarını düşünüyor",
+      "url" : "https://kurier.at/sport/wintersport/souveraenes-finale-in-bischofshofen-kamil-stoch-holt-dritten-vierschanzentournee-erfolg/401148003"
     } ]
   } ],
   "country" : "austria",
