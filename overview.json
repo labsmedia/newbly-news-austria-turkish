@@ -2,11 +2,11 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "u5BQ1cjx",
-      "imgUrl" : "https://image.kurier.at/images/original/4846605/46-173805419.jpg",
-      "titleSource" : "Virus-Mutation: Um 56 Prozent ansteckender",
-      "titleTarget" : "Virüs mutasyonu: yüzde 56 daha bulaşıcı",
-      "url" : "https://kurier.at/politik/inland/anschober-informiert-ueber-virus-mutation/401149704"
+      "id" : "Gq8j0Ach",
+      "imgUrl" : "https://image.kurier.at/images/original/4861839/46-172009567.jpg",
+      "titleSource" : "\"Eintrittstests\" kommen: Die Details zur neuen Teststrategie",
+      "titleTarget" : "\"Giriş testleri\" geliyor: Yeni test stratejisinin ayrıntıları",
+      "url" : "https://kurier.at/politik/inland/eintrittstests-kommen-neue-teststrategie-steht/401150646"
     }, {
       "id" : "dRuZopNu",
       "imgUrl" : "https://image.kurier.at/images/original/4860864/46-155063238.jpg",
@@ -14,34 +14,34 @@
       "titleTarget" : "Adalet Bakanı Zadić bebeğini Epifani'de doğurdu",
       "url" : "https://kurier.at/politik/inland/justiministerin-zadic-wurde-am-dreikoenigstag-mutter/401150106"
     }, {
-      "id" : "p6zpcOVy",
-      "imgUrl" : "https://image.kurier.at/images/original/4853469/46-173838668.jpg",
-      "titleSource" : "Kleiner Corona-U-Ausschuss startet heute",
-      "titleTarget" : "Küçük Corona-U komitesi bugün başlıyor",
-      "url" : "https://kurier.at/politik/inland/kleiner-corona-u-ausschuss-startet-heute/401149587"
+      "id" : "LZWTNtQP",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/b/e/5920446/WEITERE-DETAILS-ZU-CORONAMASSNAHMEN-FASSMANN_1610180831977761_v0_h.jpg",
+      "titleSource" : "Wöchentliche Selbsttests für Schüler kommen, Beginn des Präsenzunterrichts weiter offen",
+      "titleTarget" : "Öğrenciler için haftalık kendi kendine testler geliyor, yüz yüze derslerin başlangıcı hala açık",
+      "url" : "https://www.diepresse.com/5920446/Corona_Woechentliche-Selbsttests-fuer-Schueler-kommen-Beginn-des?from=rss"
     }, {
-      "id" : "772A8Hch",
-      "imgUrl" : "https://image.kurier.at/images/original/4220804/20200326-ABD0031-1-1.jpg",
-      "titleSource" : "Wie Forscher die Impf-Nebenwirkungen dokumentieren",
-      "titleTarget" : "Araştırmacılar aşının yan etkilerini nasıl belgeliyor?",
-      "url" : "https://kurier.at/politik/inland/wie-forscher-die-impf-nebenwirkungen-dokumentieren/401149512"
+      "id" : "m19KkwBz",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/b/c/5920444/CORONA-ST-PLTEN----BEGINN-DER-MASSENTESTS-FR-DIE-BEVLKERUNG_1610180357423850_v0_h.jpg",
+      "titleSource" : "Koalition einigt sich mit SPÖ auf Eingangstests für Veranstaltungen und Hotels",
+      "titleTarget" : "Koalisyon, etkinlikler ve oteller için giriş testleri konusunda SPÖ ile anlaştı",
+      "url" : "https://www.diepresse.com/5920444/Corona_Koalition-einigt-sich-mit-SPOe-auf-Eingangstests-fuer?from=rss"
     }, {
-      "id" : "fjVU152n",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/e/4/5920228/alma-zadic_1610120188942952.jpg",
-      "titleSource" : "Justizministerin Zadic wurde Mutter eines Sohnes",
-      "titleTarget" : "Adalet Bakanı Zadiç bir oğlunun annesi oldu",
-      "url" : "https://www.diepresse.com/5920228/Babypause_Justizministerin-Zadic-wurde-Mutter-eines-Sohnes?from=rss"
+      "id" : "CGMZjGre",
+      "imgUrl" : "https://image.kurier.at/images/original/4807473/46-151341418.jpg",
+      "titleSource" : "\"Montag ist Testtag\" - Wie in Schulen getestet werden soll",
+      "titleTarget" : "\"Pazartesi sınav günüdür\" - Okullarda sınav nasıl yapılır",
+      "url" : "https://kurier.at/politik/inland/live-so-soll-es-fuer-oesterreichs-schueler-nach-dem-18-jaenner-weitergehen/401150736"
     }, {
-      "id" : "BMAfEBDd",
-      "titleSource" : "Oberösterreich: Landesrat Kaineder an Corona erkrankt",
-      "titleTarget" : "Yukarı Avusturya: Eyalet Meclis Üyesi Kaineder, Corona nedeniyle hastalandı",
-      "url" : "https://www.diepresse.com/5920158/Landesregierung_Oberoesterreich_Landesrat-Kaineder-an-Corona-erkrankt?from=rss"
+      "id" : "LcQmOlyw",
+      "imgUrl" : "https://image.kurier.at/images/original/4853775/20210104-ABD0064-1-1.jpg",
+      "titleSource" : "Gesundheits-Sektionschefin äußert Zweifel am Lockdown-Ende",
+      "titleTarget" : "Sağlık bölümü şefi, kapatmanın sona ermesiyle ilgili şüphelerini dile getirdi",
+      "url" : "https://kurier.at/politik/inland/gesundheits-sektionschefin-aeussert-zweifel-am-lockdown-ende/401150742"
     }, {
-      "id" : "HMyhYsNR",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/5/4/5920084/CORONA---ERSTE-COVID-IMPFUNGEN-IN-NIEDERSTERREICH_1610107492305749_v0_h.jpg",
-      "titleSource" : "Länder organisieren künftig Corona-Impfungen",
-      "titleTarget" : "Ülkeler gelecekte korona aşıları düzenleyecek",
-      "url" : "https://www.diepresse.com/5920084/Impfstrategie_Laender-organisieren-kuenftig-CoronaImpfungen?from=rss"
+      "id" : "hCqeSZLj",
+      "titleSource" : "Seit Mitternacht Grenzkontrollen zu Tschechien und Slowakei",
+      "titleTarget" : "Gece yarısından itibaren Çek Cumhuriyeti ve Slovakya'ya sınır kontrolleri",
+      "url" : "https://www.diepresse.com/5920448/Corona_Seit-Mitternacht-Grenzkontrollen-zu-Tschechien-und-Slowakei?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -58,42 +58,42 @@
       "titleTarget" : "Hamster satın aldıktan sonra: Los Angeles'a tuvalet kağıdı temini",
       "url" : "https://kurier.at/wirtschaft/nach-hamsterkaeufen-klopapiervorrat-bis-nach-los-angeles/401150217"
     }, {
+      "id" : "MH0U7dy7",
+      "imgUrl" : "https://image.kurier.at/images/original/4858902/46-173906670.jpg",
+      "titleSource" : "Leichter Knick in der Immobilien-Preiskurve",
+      "titleTarget" : "Emlak fiyat eğrisinde hafif bükülme",
+      "url" : "https://kurier.at/wirtschaft/immobiz/leichter-knick-in-der-immobilien-preiskurve/401149179"
+    }, {
+      "id" : "mMtje3AH",
+      "imgUrl" : "https://image.kurier.at/images/original/3448660/46-119026607.jpg",
+      "titleSource" : "Deutlich weniger EU-Zucker für Großbritannien",
+      "titleTarget" : "İngiltere için önemli ölçüde daha az AB şekeri",
+      "url" : "https://kurier.at/wirtschaft/deutlich-weniger-eu-zucker-fuer-grossbritannien/401150388"
+    }, {
+      "id" : "2FLDTU14",
+      "imgUrl" : "https://image.kurier.at/images/original/4860234/46-173952176.jpg",
+      "titleSource" : "Frauen in der Chefetage: Was die Quote bewirkt",
+      "titleTarget" : "Toplantı odasındaki kadınlar: kota ne işe yarar",
+      "url" : "https://kurier.at/wirtschaft/karriere/frauen-in-der-chefetage-was-die-quote-bewirkt/401149746"
+    }, {
+      "id" : "PbfW22EP",
+      "imgUrl" : "https://image.kurier.at/images/original/4860147/46-173896838.jpg",
+      "titleSource" : "Warum Microsoft-Managerin Magdalena Rogl für eine Frauenquote in Vorständen ist",
+      "titleTarget" : "Microsoft yöneticisi Magdalena Rogl neden yönetim kurullarında kadınlar için bir kota istiyor?",
+      "url" : "https://kurier.at/wirtschaft/karriere/deutschland-beliesst-eine-frauenquote-in-vorstaenden-warum-microsoft-managerin-magdalena-rogl-dafuer/401149749"
+    }, {
       "id" : "LUIbDRR9",
       "imgUrl" : "https://image.kurier.at/images/original/2864249/78470026144878014_BLD_Online.jpg",
       "titleSource" : "Großaktionär Starwood Capital will CA Immo übernehmen",
       "titleTarget" : "Büyük hissedar Starwood Capital, CA Immo'yu devralmak istiyor",
       "url" : "https://kurier.at/wirtschaft/grossaktionaer-starwood-capital-will-ca-immo-uebernehmen/401150613"
-    }, {
-      "id" : "EQMmMjYe",
-      "imgUrl" : "https://image.kurier.at/images/original/4861713/46-173957540.jpg",
-      "titleSource" : "Deutsche Bank einigt sich auf Vergleiche mit US-Gericht",
-      "titleTarget" : "Deutsche Bank, ABD mahkemesiyle anlaşmaya varıyor",
-      "url" : "https://kurier.at/wirtschaft/deutsche-bank-einigt-sich-auf-vergleiche-mit-us-gericht/401150565"
-    }, {
-      "id" : "nbPg6y5i",
-      "imgUrl" : "https://image.kurier.at/images/original/4861710/46-108694949.jpg",
-      "titleSource" : "Jetzt ist Schluss: Autobank soll geordnet schließen",
-      "titleTarget" : "Şimdi bitti: Autobank düzgün bir şekilde kapanmalı",
-      "url" : "https://kurier.at/wirtschaft/jetzt-ist-schluss-autobank-soll-geordnet-schliessen/401150568"
-    }, {
-      "id" : "zdYqsnC9",
-      "imgUrl" : "https://image.kurier.at/images/original/4700190/78370011356985346_BLD_Online.jpg",
-      "titleSource" : "Airbus liefert 2020 fast 570 Jets: Mehr Aufträge als Stornierungen",
-      "titleTarget" : "Airbus 2020'de neredeyse 570 jet teslim edecek: iptallerden daha fazla sipariş",
-      "url" : "https://kurier.at/wirtschaft/airbus-liefert-2020-fast-570-jets-mehr-auftraege-als-stornierungen/401150526"
-    }, {
-      "id" : "gE9ZZk0N",
-      "imgUrl" : "https://image.kurier.at/images/original/4861575/46-173820290.jpg",
-      "titleSource" : "Goldpreis setzt zur Talfahrt an und fiel deutlich unter 1.900 Dollar",
-      "titleTarget" : "Altın fiyatları düşmeye başladı ve 1.900 doların oldukça altına düştü",
-      "url" : "https://kurier.at/wirtschaft/goldpreis-setzt-zur-talfahrt-an-und-fiel-deutlich-unter-1900-dollar/401150493"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
       "id" : "vU5claIT",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/71/crops/w=1280/802796_opener_279671_demo5.jpg?s=f622e1d016af5f56329a107ab7b1c9bf26a79598",
-      "titleSource" : "CoV: Polizei untersagt drei von vier Demos",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/44/64/crops/w=1280/737640_opener_256064_demo_gegen_corona_massnahmen_der_bundesregierung_2.jpg?s=2184d37344dc5c2423acf4a550d3b32887b7479a",
+      "titleSource" : "CoV: Vierte Demo von Organisatorin abgesagt",
       "titleTarget" : "CoV: Polis dört gösteriden üçünü yasakladı",
       "url" : "https://wien.orf.at/stories/3084065/"
     }, {
@@ -109,11 +109,11 @@
       "titleTarget" : "Gece yarısı sınır kontrollerinden Çek Cumhuriyeti ve Slovakya'ya",
       "url" : "https://kurier.at/chronik/oesterreich/ab-mitternacht-grenzkontrollen-zu-tschechien-und-slowakei/401150073"
     }, {
-      "id" : "aG79QI4a",
-      "imgUrl" : "https://image.kurier.at/images/original/4859832/46-167478483.jpg",
-      "titleSource" : "Lehrer von Maskengegnern bedroht",
-      "titleTarget" : "Muhalifleri maskeleyen öğretmenler",
-      "url" : "https://kurier.at/chronik/oesterreich/lehrer-von-maskengegnern-bedroht/401149584"
+      "id" : "BIast9cP",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/35/39/crops/w=1280/662886_opener_228539_themenbild_schule_sommerschule_schulbeginn_unterrichtsstart_.jpg?s=6ecc043a3a05310428462148d32df005a2ca0cda",
+      "titleSource" : "Heuras will temporär mehr Schulstunden",
+      "titleTarget" : "Heuras geçici olarak daha fazla okul saati istiyor",
+      "url" : "https://noe.orf.at/stories/3084091/"
     }, {
       "id" : "hMpkW6RU",
       "imgUrl" : "https://image.kurier.at/images/original/4861305/46-173610288.jpg",
@@ -127,20 +127,26 @@
       "titleTarget" : "Çocukları alırken beş polis yaralandı",
       "url" : "https://wien.orf.at/stories/3084071/"
     }, {
-      "id" : "HFdSETuL",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/27/crops/w=1280/807025_opener_281327_img_7853_bearbeitet.jpg?s=20bc288d0ead3e4f2c3d2fc0dcb6fcc80509cb44",
-      "titleSource" : "Deutsche Polizei hielt Skitourengeher  auf",
-      "titleTarget" : "Alman polisi kayakçıları durdurdu",
-      "url" : "https://salzburg.orf.at/stories/3084062/"
+      "id" : "I9rigDyx",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/01/41/crops/w=1280/798370_opener_278141_rohrhofer.jpg?s=764e5d43ca64b84203fb9b0d9e236377c8283307",
+      "titleSource" : "CoV: 24 Infizierte in steirischem Pflegeheim",
+      "titleTarget" : "CoV: Steiermark huzurevinde 24 enfekte kişi",
+      "url" : "https://steiermark.orf.at/stories/3084069/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "S6aRv6Gz",
-      "imgUrl" : "https://image.kurier.at/images/original/4859460/46-60431614.jpg",
-      "titleSource" : "Lotte Lenya - Viel mehr als James Bonds Gegenspielerin",
-      "titleTarget" : "Lotte Lenya - James Bond'un rakibinden çok daha fazlası",
-      "url" : "https://kurier.at/kultur/buch/lotte-lenya-viel-mehr-als-james-bonds-gegenspielerin/401149464"
+      "id" : "vLjXR8y8",
+      "imgUrl" : "https://image.kurier.at/images/original/4861230/46-173952156.jpg",
+      "titleSource" : "Doku über die Glock-Pistole: Bestseller auf beiden Seiten des Gesetzes",
+      "titleTarget" : "Glock tabancası hakkında belgesel: yasanın her iki tarafında en çok satanlar",
+      "url" : "https://kurier.at/kultur/doku-ueber-die-glock-pistole-bestseller-auf-beiden-seiten-des-gesetzes/401150280"
+    }, {
+      "id" : "XJdgN6R9",
+      "imgUrl" : "https://image.kurier.at/images/original/4860039/46-168911319.jpg",
+      "titleSource" : "Di Lampedusa: Warum darf der Leopard nicht ins Bett kommen?",
+      "titleTarget" : "Di Lampedusa: Leoparın yatmasına neden izin verilmiyor?",
+      "url" : "https://kurier.at/kultur/buch/di-lampedusa-warum-darf-der-leopard-nicht-ins-bett-kommen/401149668"
     }, {
       "id" : "v7uHQaSu",
       "imgUrl" : "https://image.kurier.at/images/original/4860042/46-168910822.jpg",
@@ -148,35 +154,29 @@
       "titleTarget" : "Paolo Casadio: Yıkıma giden tren hakkında bir roman",
       "url" : "https://kurier.at/kultur/buch/paolo-casadio-ein-roman-ueber-den-zug-in-richtung-vernichtung/401149665"
     }, {
-      "id" : "qGR09Dcy",
-      "imgUrl" : "https://image.kurier.at/images/original/4859097/46-173933989.jpg",
-      "titleSource" : "„Death to 2020“: Ein Jahresrückblick, den man abhaken kann",
-      "titleTarget" : "\"2020'ye Ölüm\": İşaretleyebileceğiniz bir yıl incelemesi",
-      "url" : "https://kurier.at/kultur/medien/death-to-2020-ein-jahresrueckblick-mit-dem-man-abhaken-kann/401149305"
+      "id" : "eVZngvTB",
+      "imgUrl" : "https://image.kurier.at/images/original/4860045/46-168925641.jpg",
+      "titleSource" : "Buchkritik: Johann Scheerer und \"Unheimlich nah\"",
+      "titleTarget" : "Kitap incelemesi: Johann Scheerer ve \"Unheimlich nah\"",
+      "url" : "https://kurier.at/kultur/buch/buchkritik-johann-scheerer-und-unheimlich-nah/401149662"
+    }, {
+      "id" : "kL1SNwka",
+      "imgUrl" : "https://image.kurier.at/images/original/4861893/46-173968955.jpg",
+      "titleSource" : "Trauer um Michael Aptet: Bond-Regisseur gestorben",
+      "titleTarget" : "Michael Aptet için yas: Bond yönetmeni öldü",
+      "url" : "https://kurier.at/kultur/regisseur-michael-apted-ist-tot/401150688"
+    }, {
+      "id" : "ZFfyEvJD",
+      "imgUrl" : "https://image.kurier.at/images/original/4861902/batman1.jpg",
+      "titleSource" : "Batman-Comic wird bei US-Auktion um Rekordsumme versteigert",
+      "titleTarget" : "Batman çizgi romanı ABD müzayedesinde rekor miktarda müzayedeye çıkarılacak",
+      "url" : "https://kurier.at/kultur/batman-comic-wird-bei-us-auktion-um-rekordsumme-versteigert/401150694"
     }, {
       "id" : "CWv4TSEt",
       "imgUrl" : "https://image.kurier.at/images/original/4861620/46-173942312.jpg",
       "titleSource" : "Jamiroquai-Frontmann stellt klar: War bei Kapitol-Sturm nicht dabei",
       "titleTarget" : "Jamiroquai solisti bunu netleştiriyor: Capitol Storm'da orada değildi",
       "url" : "https://kurier.at/kultur/jamiroquai-frontmann-stellt-klar-war-bei-kapitol-sturm-nicht-dabei/401150529"
-    }, {
-      "id" : "GBVhHkOB",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/d/6/5920214/IDIOCRACY-Terry-Alan-Crews-left-Luke-Wilson-orange-pants-2006-TM--20th-Century-Foxcourtesy-Everett-20thCentFox_1610120518964350.jpg",
-      "titleSource" : "Chaos im Kapitol: Im Film sieht die Zukunft der USA düster aus",
-      "titleTarget" : "Kongre Binası'nda Kaos: Filmde Amerika Birleşik Devletleri'nin geleceği kasvetli görünüyor",
-      "url" : "https://www.diepresse.com/5920214/Streamingtipps_Chaos-im-Kapitol_Im-Film-sieht-die-Zukunft-der-USA?from=rss"
-    }, {
-      "id" : "wlA1sq5Y",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/b/3/5920179/Danes-divided-over-childrens-TV-show-about-a-superpower-penis_1610116530941755.jpg",
-      "titleSource" : "Dänemark zeigt Kinderserie über Mann mit extrem langem Penis",
-      "titleTarget" : "Danimarka aşırı uzun penisli erkekler hakkında bir çocuk dizisi gösteriyor",
-      "url" : "https://www.diepresse.com/5920179/Umstritten_Daenemark-zeigt-Kinderserie-ueber-Mann-mit-extrem?from=rss"
-    }, {
-      "id" : "V9JMmWe2",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/3/a/5919802/C7F746B6-9C2B-4C3F-B69B-0FB09CDE43E8_v0_h.jpg",
-      "titleSource" : "Der Duden macht mit dem Gendern Ernst",
-      "titleTarget" : "Düden cinsiyeti ciddiye alıyor",
-      "url" : "https://www.diepresse.com/5919802/Linguistik_Der-Duden-macht-mit-dem-Gendern-Ernst?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -184,16 +184,21 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "tXAgvlwn",
-      "titleSource" : "Hauser erobert ersten Podestplatz",
-      "titleTarget" : "Hauser podyumda birinci sırada",
-      "url" : "https://sport.orf.at/stories/3071546/"
-    }, {
       "id" : "kWQzx1s8",
       "imgUrl" : "https://image.kurier.at/images/original/4861725/46-173870937.jpg",
       "titleSource" : "Capitals-Pleite in Graz: Wiener gingen 2:6 unter",
       "titleTarget" : "Graz'da başkentlerin iflası: Viyana 2: 6 düştü",
       "url" : "https://kurier.at/sport/capitals-pleite-in-graz-wiener-gingen-26-unter/401150583"
+    }, {
+      "id" : "gJI4l6Ou",
+      "titleSource" : "ÖSV-Abfahrerinnen auf Jagd nach Heimsieg",
+      "titleTarget" : "ÖSV yokuş aşağı kayakçıları evlerinde zafer peşinde",
+      "url" : "https://sport.orf.at/stories/3071555/"
+    }, {
+      "id" : "PhOKigTN",
+      "titleSource" : "Flock rast bei EM in Winterberg zu Bronze",
+      "titleTarget" : "Winterberg'deki EM'de akın bronz yarışıyor",
+      "url" : "https://sport.orf.at/stories/3071557/"
     }, {
       "id" : "vbs5sE4F",
       "imgUrl" : "https://image.kurier.at/images/original/4861560/46-168920133.jpg",
@@ -201,25 +206,21 @@
       "titleTarget" : "Sportif Avusturya patronu Niessl gönüllü aşı çağrısında bulundu",
       "url" : "https://kurier.at/sport/sport-austria-chef-niessl-ruft-zur-freiwilligen-impfung-auf/401150484"
     }, {
-      "id" : "PhOKigTN",
-      "titleSource" : "Flock rast bei EM in Winterberg zu Bronze",
-      "titleTarget" : "Winterberg'deki EM'de akın bronz yarışıyor",
-      "url" : "https://sport.orf.at/stories/3071557/"
+      "id" : "Q7aGAaoz",
+      "titleSource" : "Salzburg-Testspiel wegen CoV-Fällen abgesagt",
+      "titleTarget" : "CoV davaları nedeniyle Salzburg test maçı iptal edildi",
+      "url" : "https://sport.orf.at/stories/3071578/"
     }, {
-      "id" : "kLN1u3cj",
-      "titleSource" : "Dusika-Stadion weicht Sport-Arena Wien",
-      "titleTarget" : "Dusika Stadı, Sport Arena Vienna'ya yol veriyor",
-      "url" : "https://sport.orf.at/stories/3071551/"
+      "id" : "1KVSsybk",
+      "titleSource" : "Sigulda lädt zu Weltcup und EM",
+      "titleTarget" : "Sigulda sizi Dünya Kupası ve EM'ye davet ediyor",
+      "url" : "https://sport.orf.at/stories/3071527/"
     }, {
-      "id" : "UsVUySPU",
-      "titleSource" : "Saison-Aus für Sölden-Sieger Braathen nach Sturz",
-      "titleTarget" : "Sölden galibi Braathen için sezon sonu düşüşün ardından",
-      "url" : "https://sport.orf.at/stories/3071575/"
-    }, {
-      "id" : "qzcHRqVG",
-      "titleSource" : "Liverpool im FA-Cup gegen Aston Villa souverän weiter",
-      "titleTarget" : "Liverpool, Aston Villa'ya karşı FA Cup'a güvenle devam ediyor",
-      "url" : "https://sport.orf.at/stories/3071574/"
+      "id" : "wKVGieaH",
+      "imgUrl" : "https://image.kurier.at/images/original/4861362/46-173560615.jpg",
+      "titleSource" : "Sportler und die Politik: Wer ausschert, wird bestraft",
+      "titleTarget" : "Sporcular ve siyaset: geri çekilenler cezalandırılacak",
+      "url" : "https://kurier.at/sport/sportler-und-die-politik-wer-ausschert-wird-bestraft/401150334"
     } ]
   } ],
   "country" : "austria",
