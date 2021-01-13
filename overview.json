@@ -2,11 +2,23 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
+      "id" : "TpyQGOyk",
+      "imgUrl" : "https://image.kurier.at/images/original/4797831/46-168930451.jpg",
+      "titleSource" : "Schulen öffnen am 25. Jänner, wenn Lockdown nicht verlängert wird",
+      "titleTarget" : "Okullar kilitlenme süresi uzatılmadığı sürece 25 Ocak'ta açılıyor",
+      "url" : "https://kurier.at/politik/inland/schulen-oeffnen-wieder-am-25-jaenner/401154627"
+    }, {
       "id" : "Fr3i4X72",
       "imgUrl" : "https://image.kurier.at/images/original/4868466/46-169125547.jpg",
       "titleSource" : "Lockdown-Ende scheint wegen Virusmutation in die Ferne zu rücken",
       "titleTarget" : "Kilitlemenin sonu, virüs mutasyonu nedeniyle uzaklaşıyor gibi görünüyor",
       "url" : "https://kurier.at/politik/inland/lockdown-ende-scheint-in-die-ferne-zu-ruecken/401154039"
+    }, {
+      "id" : "cVtEGlor",
+      "imgUrl" : "https://image.kurier.at/images/original/4708290/78350011457055930_BLD_Online.jpg",
+      "titleSource" : "Rot Kreuz-Chef Foitik zu Corona-Mutation: \"Katastrophe im März\"",
+      "titleTarget" : "Kızıl Haç patronu Foitik, Corona mutasyonu üzerine: \"Mart'taki Felaket\"",
+      "url" : "https://kurier.at/politik/inland/rot-kreuz-chef-foitik-zu-corona-mutation-katastrophe-im-maerz/401155098"
     }, {
       "id" : "0VIr64Bs",
       "imgUrl" : "https://image.kurier.at/images/original/4868643/46-173833692.jpg",
@@ -14,11 +26,11 @@
       "titleTarget" : "Anschober: \"pandeminin en zor evresiyle yüzleşmek\"",
       "url" : "https://kurier.at/politik/inland/anschober-stehen-vor-der-schwierigsten-phase-der-pandemie/401154105"
     }, {
-      "id" : "PMitiXLj",
-      "imgUrl" : "https://image.kurier.at/images/original/4830534/46-169021663.jpg",
-      "titleSource" : "Neues Gesetz zum \"Reintesten\": Grüne und SPÖ streiten um die Gastronomie",
-      "titleTarget" : "\"En saf\" konusunda yeni yasa: Yeşiller ve SPÖ gastronomi için savaşıyor",
-      "url" : "https://kurier.at/politik/inland/neues-gesetz-zum-reintesten-gruene-und-spoe-streiten-um-die-gastronomie/401153436"
+      "id" : "xjyBxQPr",
+      "imgUrl" : "https://image.kurier.at/images/original/4869294/46-173825070.jpg",
+      "titleSource" : "Zweites Gemeindepaket: 1,5 Milliarden Euro an Finanzhilfen",
+      "titleTarget" : "İkinci belediye paketi: 1,5 milyar avroluk mali yardım",
+      "url" : "https://kurier.at/politik/inland/live-ministerrat-was-die-regierung-im-lockdown-beschlossen-hat/401154432"
     }, {
       "id" : "tuHmmczf",
       "imgUrl" : "https://image.kurier.at/images/original/4868016/20210112-ABD0147-1-1.jpg",
@@ -26,32 +38,38 @@
       "titleTarget" : "U-Komitesinde Glock: Hofer \"hayvan barınağında\" buluştu",
       "url" : "https://kurier.at/politik/inland/glock-hc-strache-fragte-mich-um-eine-spende/401154018"
     }, {
-      "id" : "Txvl7j5u",
-      "imgUrl" : "https://image.kurier.at/images/original/4855131/20210105-ABD0056-1-1.jpg",
-      "titleSource" : "\"Bitte, lassen Sie sich impfen“: Geimpfte erzählen im Video warum",
-      "titleTarget" : "\"Lütfen aşı olun\": Aşı olan kişiler videoda nedenini anlatır",
-      "url" : "https://kurier.at/politik/inland/bitte-lassen-sie-sich-impfen-geimpfte-erzaehlen-im-video-warum/401153757"
-    }, {
       "id" : "ijZWjsnz",
-      "imgUrl" : "https://image.kurier.at/images/original/4869090/46-173957322.jpg",
-      "titleSource" : "Sondersitzung: Rendi-Wagner kritisiert \"Schneckentempo\" beim Impfen",
+      "imgUrl" : "https://image.kurier.at/images/original/4869855/46-174035684.jpg",
+      "titleSource" : "Anschober zu Virusmutation: Bezirk Kitzbühel wird komplett getestet",
       "titleTarget" : "Özel oturum: Rendi-Wagner aşı yaparken \"salyangozun hızını\" eleştiriyor",
       "url" : "https://kurier.at/politik/inland/sondersitzung-rendi-wagner-kritisiert-schneckentempo-beim-impfen/401154231"
-    }, {
-      "id" : "NmIMzEBC",
-      "imgUrl" : "https://image.kurier.at/images/original/4136487/46-157259139.jpg",
-      "titleSource" : "Ringen um breiten Schulterschluss für Klimaschutz",
-      "titleTarget" : "İklimin korunması için güçleri birleştirmek için mücadele edin",
-      "url" : "https://kurier.at/politik/inland/ringen-um-breiten-schulterschluss-fuer-klimaschutz/401153838"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "dlNEEgzF",
-      "imgUrl" : "https://image.kurier.at/images/original/1326129/Geschlossen%252BGesch%2525C3%2525A4ft%252BLaden.jpg",
-      "titleSource" : "Illegale Hotelbuchungen: Regierung will stärker kontrollieren",
-      "titleTarget" : "Yasadışı otel rezervasyonları: Hükümet daha fazla kontrol istiyor",
-      "url" : "https://kurier.at/wirtschaft/illegale-hotelbuchungen-regierung-will-staerker-kontrollieren/401154024"
+      "id" : "tz6f9gAZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4868007/20210112-ABD0144-1-1.jpg",
+      "titleSource" : "Gewessler beruft Kathrin Glock als Austro Control-Aufsichtsrätin ab",
+      "titleTarget" : "Gewessler, Kathrin Glock'u Austro Control denetim kurulu üyesi olarak görevden aldı",
+      "url" : "https://kurier.at/wirtschaft/gewessler-beruft-kathrin-glock-als-austro-control-aufsichtsraetin-ab/401154465"
+    }, {
+      "id" : "Yw5qwpcq",
+      "imgUrl" : "https://image.kurier.at/images/original/4869675/46-166470161.jpg",
+      "titleSource" : "Handwerks-Sprecherin: \"Bitte keinen weiteren Lockdown mehr\"",
+      "titleTarget" : "Crafts sözcüsü: \"Lütfen daha fazla kilitlenme yok\"",
+      "url" : "https://kurier.at/wirtschaft/handwerks-sprecherin-bitte-keinen-weiteren-lockdown-mehr/401154669"
+    }, {
+      "id" : "sxs4C5zZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4867878/20210112-ABD0138-1-1.jpg",
+      "titleSource" : "Skigebiete: Salzburg überlegt vorzeitiges Saisonende",
+      "titleTarget" : "Kayak alanları: Salzburg sezonun erken bir sonunu düşünüyor",
+      "url" : "https://kurier.at/wirtschaft/skigebiete-salzburg-ueberlegt-vorzeitiges-saisonende/401154744"
+    }, {
+      "id" : "RiCUUmHx",
+      "imgUrl" : "https://image.kurier.at/images/original/3914756/blick_vom_gartnerkofel_auf_den_trogkofel_2_c_nassfeld.at_.jpg",
+      "titleSource" : "Kärntner Skigebiete: Deutsche stellen ein Viertel der Gäste",
+      "titleTarget" : "Karintiya kayak alanları: Almanlar misafirlerin dörtte birini oluşturuyor",
+      "url" : "https://kurier.at/wirtschaft/kaerntner-skigebiete-deutsche-stellen-ein-viertel-der-gaeste/401154534"
     }, {
       "id" : "Vzk43CBr",
       "imgUrl" : "https://image.kurier.at/images/original/4120890/81731350853151064_BLD_Online.jpg",
@@ -59,68 +77,44 @@
       "titleTarget" : "2020 Corona yılında çırak sayısı 108.416'ya düştü",
       "url" : "https://kurier.at/wirtschaft/zahl-der-lehrlinge-ging-im-corona-jahr-2020-auf-108416-zurueck/401154201"
     }, {
-      "id" : "7ljl4mv5",
-      "imgUrl" : "https://image.kurier.at/images/original/4810755/78370011357895792_BLD_Online.jpg",
-      "titleSource" : "EZB will Fusionen von Banken erleichtern",
-      "titleTarget" : "ECB, banka birleşmelerini kolaylaştırmak istiyor",
-      "url" : "https://kurier.at/wirtschaft/ezb-will-fusionen-von-banken-erleichtern/401153517"
+      "id" : "wN7oAmlL",
+      "imgUrl" : "https://image.kurier.at/images/original/4832892/78350011458061044_BLD_Online.jpg",
+      "titleSource" : "Supermärkte: Brexit gefährdet Lebensmittelversorgung in Nordirland",
+      "titleTarget" : "Süpermarketler: Brexit, Kuzey İrlanda'daki gıda kaynaklarını tehdit ediyor",
+      "url" : "https://kurier.at/wirtschaft/supermaerkte-brexit-gefaehrdet-lebensmittelversorgung-in-nordirland/401154549"
     }, {
-      "id" : "as4ntBsn",
-      "imgUrl" : "https://image.kurier.at/images/original/4865643/46-173885038.jpg",
-      "titleSource" : "Kraftvoll ins neue Jahr: Sport Gadgets für zu Hause",
-      "titleTarget" : "Yeni yılda güçlü: ev için spor aletleri",
-      "url" : "https://kurier.at/wirtschaft/immobiz/kraftvoll-ins-neue-jahr-sport-gadgets-fuer-zu-hause/401153991"
-    }, {
-      "id" : "Uo6S7CZ3",
-      "imgUrl" : "https://image.kurier.at/images/original/4252997/78370011354143758_BLD_Online.jpg",
-      "titleSource" : "Ölpreise auf höchstem Stand seit elf Monaten",
-      "titleTarget" : "Petrol fiyatları on bir ayın en yüksek seviyesinde",
-      "url" : "https://kurier.at/wirtschaft/oelpreise-auf-hoechstem-stand-seit-elf-monaten/401154306"
-    }, {
-      "id" : "yfWtT2hP",
-      "imgUrl" : "https://image.kurier.at/images/original/4864677/46-173697648.jpg",
-      "titleSource" : "Kreativ wohnen und andere damit inspirieren",
-      "titleTarget" : "Yaratıcı bir şekilde yaşayın ve bununla başkalarına ilham verin",
-      "url" : "https://kurier.at/wirtschaft/immobiz/kreativ-wohnen-und-andere-damit-inspirieren/401151996"
-    }, {
-      "id" : "3hHmtjVC",
-      "imgUrl" : "https://image.kurier.at/images/original/4546229/78370011355705550_BLD_Online.jpg",
-      "titleSource" : "Visa bläst Milliardenübernahme nach kartellrechtlichem Widerstand ab",
-      "titleTarget" : "Visa, antitröst direnişinin ardından milyarlarca doları devraldı",
-      "url" : "https://kurier.at/wirtschaft/visa-blaest-milliardenuebernahme-nach-kartellrechtlichem-widerstand-ab/401154132"
+      "id" : "TgScAMCs",
+      "imgUrl" : "https://image.kurier.at/images/original/3500743/78370011348632318_BLD_Online.jpg",
+      "titleSource" : "Mieten in Österreich steigen auch in Corona-Zeiten",
+      "titleTarget" : "Avusturya'da kiralar da Corona dönemlerinde artıyor",
+      "url" : "https://kurier.at/wirtschaft/mieten-in-oesterreich-steigen-auch-in-corona-zeiten/401154402"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "SxFytlVa",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/0/4/5921796/Cafe_h.jpg",
-      "titleSource" : "Gastronomen öffnen Lokale für einen Tag  ohne Gäste",
-      "titleTarget" : "Lokantacılar misafirsiz bir gün için restoran açar",
-      "url" : "https://www.diepresse.com/5921796/Protest_Gastronomen-oeffnen-Lokale-fuer-einen-Tag-ohne-Gaeste?from=rss"
-    }, {
-      "id" : "XBAY3f15",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/08/30/crops/w=1280/473368_opener_158730_hotel-1330850_1920.jpg?s=f75b8db713b0b091a4d20e8a5dd5dca929396642",
-      "titleSource" : "Hotelbuchung im Lockdown: Politik verärgert",
-      "titleTarget" : "Kilit altında otel rezervasyonu: Politikacılar üzüldü",
-      "url" : "https://tirol.orf.at/stories/3084504/"
-    }, {
-      "id" : "yo9Sh7Jj",
-      "imgUrl" : "https://image.kurier.at/images/original/4867242/46-171312025.jpg",
-      "titleSource" : "Verdacht auf britische Virus-Mutation in 17 Fällen in Tirol",
-      "titleTarget" : "Tirol'de 17 vakada şüpheli İngiliz virüs mutasyonu",
-      "url" : "https://kurier.at/chronik/oesterreich/verdacht-auf-britische-virus-mutation-in-17-faellen-in-tirol/401153400"
-    }, {
       "id" : "Ivjye6ma",
       "imgUrl" : "https://image.kurier.at/images/original/4868526/46-168957495.jpg",
       "titleSource" : "Britische Virusvariante erreicht Tirol, Wien und das Burgenland",
       "titleTarget" : "İngiliz virüs varyantı Tirol, Viyana ve Burgenland'a ulaştı",
       "url" : "https://kurier.at/chronik/oesterreich/britische-virusvariante-erreicht-tirol-wien-und-das-burgenland/401154075"
     }, {
-      "id" : "9yNclJKG",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/38/crops/w=1280/752219_opener_261138_stuehle.jpg?s=4797bd6fd80fc9c8fcbdd32a540ce6b7644de595",
-      "titleSource" : "Kritik an möglicher Schulstart-Verschiebung",
-      "titleTarget" : "Okula başlamanın olası ertelenmesinin eleştirisi",
-      "url" : "https://vorarlberg.orf.at/stories/3084625/"
+      "id" : "41UcANz0",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/03/22/crops/w=1280/810751_opener_282622_flachaubesichtigungbody.jpg?s=3b65368727e7af607c55150557c1f979f3c01550",
+      "titleSource" : "Flachau übernimmt zwei Herren-Weltcupslaloms",
+      "titleTarget" : "Flachau iki erkek Dünya Kupası slalomunu devraldı",
+      "url" : "https://salzburg.orf.at/stories/3084643/"
+    }, {
+      "id" : "VjsYrkJ2",
+      "imgUrl" : "https://image.kurier.at/images/original/4868760/46-174021867.jpg",
+      "titleSource" : "Vorarlberger Rot-Kreuz-Direktor soll von Impfreihenfolge abgegangen sein",
+      "titleTarget" : "Vorarlberg Kızıl Haç direktörünün aşılama sırasından saptığı söyleniyor",
+      "url" : "https://kurier.at/chronik/oesterreich/impfung-vorarlberger-rot-kreuz-direktor-soll-von-impfreihenfolge-abgegangen-sein/401154108"
+    }, {
+      "id" : "L09uNRTx",
+      "imgUrl" : "https://image.kurier.at/images/original/4869921/46-174021211.jpg",
+      "titleSource" : "Causa Jochberg: Kritik an Vorbereitungskurs während Lockdown",
+      "titleTarget" : "Causa Jochberg: Kilitleme sırasında hazırlık kursunun eleştirisi",
+      "url" : "https://kurier.at/chronik/oesterreich/causa-jochberg-kritik-an-vorbereitungskurs-waehrend-lockdown/401154867"
     }, {
       "id" : "KGOB2W91",
       "imgUrl" : "https://oekastatic.orf.at/mims/2021/03/03/crops/w=1280/811204_opener_282803_bheute-studio_neu_2020_melanie_balaskovics_2_by_andi_bruckner.jpg?s=abc31afc5449ccfa7ac7db008ac1e2bd39ef2f66",
@@ -128,32 +122,49 @@
       "titleTarget" : "Melanie Balaskovics Caritas'a geçiyor",
       "url" : "https://burgenland.orf.at/stories/3084559/"
     }, {
-      "id" : "JmFYBRNA",
-      "imgUrl" : "https://image.kurier.at/images/original/4868355/46-156673565.jpg",
-      "titleSource" : "Virusmutation: Was wir zu den Fällen in Tirol wissen",
-      "titleTarget" : "Virüs mutasyonu: Tirol'deki vakalar hakkında bildiklerimiz",
-      "url" : "https://kurier.at/chronik/oesterreich/virusmutation-was-wir-zu-den-faellen-in-tirol-wissen/401154021"
+      "id" : "tmyYj7D7",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "1.917 neue Corona-Infektionen in Österreich",
+      "titleTarget" : "Avusturya'da 1.917 yeni korona enfeksiyonu",
+      "url" : "https://kurier.at/chronik/oesterreich/1917-neue-corona-infektionen-in-oesterreich/401154348"
+    }, {
+      "id" : "pa3aGLVr",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/03/96/crops/w=1280/811808_opener_282996_saab_105_oe_golden_tiger_zu_gast_im_hangar-7_.jpg?s=0c86d4d36e42e4de83d20a22da86b965aff4ce8e",
+      "titleSource" : "Saab 105 landete zum letzten Mal in Salzburg",
+      "titleTarget" : "Saab 105 son kez Salzburg'a indi",
+      "url" : "https://salzburg.orf.at/stories/3084624/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "bEBAisFR",
-      "imgUrl" : "https://image.kurier.at/images/original/4233944/46-163840307.jpg",
-      "titleSource" : "Corona, Terror und Ski-Rennen auf Hitliste der ORF-Streams ",
-      "titleTarget" : "ORF akışları isabet listesinde Corona, terör ve kayak yarışları",
-      "url" : "https://kurier.at/kultur/medien/corona-terror-und-ski-rennen-auf-hitliste-der-orf-streams/401153988"
+      "id" : "uYAWrBom",
+      "imgUrl" : "https://image.kurier.at/images/original/4869417/46-173881810.jpg",
+      "titleSource" : "Theater rechnen nicht mit baldigem Wiederaufsperren",
+      "titleTarget" : "Tiyatrolar yakın zamanda yeniden açılmayı beklemiyor",
+      "url" : "https://kurier.at/kultur/theater-rechnen-nicht-mit-baldigem-wiederaufsperren/401154546"
     }, {
-      "id" : "IoYfqPxj",
-      "imgUrl" : "https://image.kurier.at/images/original/4867092/RhTh_Seilbahnen_03_fin_snow.jpg",
-      "titleSource" : "Rabenhof mit bitterer Kritik: \"Ski-Resort Erdberger Alpen\" eröffnet",
-      "titleTarget" : "Rabenhof şiddetli eleştirilerle: \"Erdberger Alpen kayak merkezi\" açıldı",
-      "url" : "https://kurier.at/kultur/rabenhof-mit-bitterer-kritik-ski-resort-erdberger-alpen-eroeffnet/401153379"
+      "id" : "v96JLT9r",
+      "imgUrl" : "https://image.kurier.at/images/original/4206506/46-96103636.jpg",
+      "titleSource" : "Neuer Bond-Film soll schon wieder verschoben werden",
+      "titleTarget" : "Yeni Bond filmi yeniden ertelenecek",
+      "url" : "https://kurier.at/kultur/neuer-bond-film-soll-schon-wieder-verschoben-werden/401154423"
     }, {
-      "id" : "r5ARUp46",
-      "imgUrl" : "https://image.kurier.at/images/original/4867386/46-173589313.jpg",
-      "titleSource" : "Gartenbau-Kino wird umfassend saniert ",
-      "titleTarget" : "Gartenbau-Kino kapsamlı bir şekilde yenileniyor",
-      "url" : "https://kurier.at/kultur/gartenbau-kino-wird-umfassend-saniert/401153547"
+      "id" : "VTN0hSkk",
+      "imgUrl" : "https://image.kurier.at/images/original/4870470/46-173731878.jpg",
+      "titleSource" : "Gemischte Platte: Jane Birkin, Belle and Sebastian, Richie Hawtin und mehr",
+      "titleTarget" : "Karışık rekor: Jane Birkin, Belle ve Sebastian, Richie Hawtin ve daha fazlası",
+      "url" : "https://kurier.at/kultur/gemischte-platte-jane-birkin-belle-and-sebastian-richie-hawtin-und-mehr/401155029"
+    }, {
+      "id" : "zgTpFnCF",
+      "titleSource" : "Italien öffnet Museen in gelben Regionen wieder",
+      "titleTarget" : "İtalya sarı bölgelerde müzeleri yeniden açıyor",
+      "url" : "https://kurier.at/kultur/italien-oeffnet-museen-in-gelben-regionen-wieder/401154651"
+    }, {
+      "id" : "TjarfncY",
+      "imgUrl" : "https://image.kurier.at/images/original/1742208/46-47859219.jpg",
+      "titleSource" : "Kinoeinnahmen in Nordamerika auf historischem Tiefststand",
+      "titleTarget" : "Kuzey Amerika'daki sinema gelirleri tüm zamanların en düşük seviyesinde",
+      "url" : "https://kurier.at/kultur/kinoeinnahmen-in-nordamerika-auf-historischem-tiefststand/401154450"
     }, {
       "id" : "omo2Zsuk",
       "imgUrl" : "https://image.kurier.at/images/original/4868442/46-174012451.jpg",
@@ -161,23 +172,11 @@
       "titleTarget" : "Holokost Travması Belgeseli: Hayatta Kalmak İçin Eğitildi",
       "url" : "https://kurier.at/kultur/doku-ueber-holocaust-trauma-erzogen-um-zu-ueberleben/401154030"
     }, {
-      "id" : "0LCxXWCv",
-      "imgUrl" : "https://image.kurier.at/images/original/4868211/46-149631759.jpg",
-      "titleSource" : "\"Trainspotting\"-Regisseur macht Geschichte der Sex Pistols zur Serie",
-      "titleTarget" : "\"Trainspotting\" yönetmeni Sex Pistols tarihini bir diziye dönüştürüyor",
-      "url" : "https://kurier.at/kultur/medien/trainspotting-regisseur-macht-geschichte-der-sex-pistols-zur-serie/401153931"
-    }, {
-      "id" : "uYAWrBom",
-      "imgUrl" : "https://image.kurier.at/images/original/4869417/46-173881810.jpg",
-      "titleSource" : "Theater rechnen nicht mit baldigem Wiederaufsperren",
-      "titleTarget" : "Tiyatrolar yakın zamanda yeniden açılmayı beklemiyor",
-      "url" : "https://kurier.at/kultur/theater-rechnen-nicht-mit-baldigem-wiederaufsperren/401154546"
-    }, {
-      "id" : "TjarfncY",
-      "imgUrl" : "https://image.kurier.at/images/original/1742208/46-47859219.jpg",
-      "titleSource" : "Kinoeinnahmen in Nordamerika auf historischem Tiefststand",
-      "titleTarget" : "Kuzey Amerika'daki sinema gelirleri tüm zamanların en düşük seviyesinde",
-      "url" : "https://kurier.at/kultur/kinoeinnahmen-in-nordamerika-auf-historischem-tiefststand/401154450"
+      "id" : "fuAnyMrz",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/9/d/f/5921247/vinterberg-rausch-1_1610531247876372.jpg",
+      "titleSource" : "Diese Filme kommen 2021 - hoffentlich",
+      "titleTarget" : "Bu filmler 2021'de geliyor - umarım",
+      "url" : "https://www.diepresse.com/5921247/Kino_Diese-Filme-kommen-2021-hoffentlich?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -191,38 +190,35 @@
       "titleTarget" : "Flachau slalomu: Shiffrin, ilk Liensberger zaferini engelledi",
       "url" : "https://kurier.at/sport/wintersport/nur-mikaela-shiffrin-war-besser-katharina-liensberger-im-flachau-slalom-starke-zweite/401153274"
     }, {
-      "id" : "qMtXPeLb",
-      "imgUrl" : "https://image.kurier.at/images/original/4868061/46-143674015.jpg",
-      "titleSource" : "Geheimer Test im Prater: Rapid gewinnt gegen Rapid II mit 2:1",
-      "titleTarget" : "Prater'da gizli test: Rapid, Rapid II'ye karşı 2: 1 ile kazanır",
-      "url" : "https://kurier.at/sport/fussball/geheimer-test-im-prater-rapid-gewinnt-gegen-rapid-ii-mit-21/401153865"
+      "id" : "U98QTpuY",
+      "titleSource" : "Flachau hilft für Kitzbühel aus",
+      "titleTarget" : "Flachau, Kitzbühel'e yardım ediyor",
+      "url" : "https://sport.orf.at/stories/3071768/"
     }, {
-      "id" : "BM40hRR6",
-      "imgUrl" : "https://image.kurier.at/images/original/4867680/46-149354779.jpg",
-      "titleSource" : "Blutdoping: Ex-Radprofi Denifl zu zwei Jahren Haft verurteilt",
-      "titleTarget" : "Kan dopingi: Eski bisikletçi Denifl'e iki yıl hapis cezası verildi",
-      "url" : "https://kurier.at/sport/sportbetrug-ex-radprofi-denifl-zu-zwei-jahren-haft-verurteilt/401153670"
+      "id" : "vcYkIedd",
+      "titleSource" : "CoV-Mutation: Slaloms in Kitzbühel gestrichen",
+      "titleTarget" : "CoV mutasyonu: Kitzbühel'deki slalomlar iptal edildi",
+      "url" : "https://sport.orf.at/stories/3071764/"
     }, {
-      "id" : "N2xfmvdh",
-      "titleSource" : "Liensberger nur von Shiffrin bezwungen",
-      "titleTarget" : "Liensberger sadece Shiffrin'e yenildi",
-      "url" : "https://sport.orf.at/stories/3071731/"
+      "id" : "fh0NmjMm",
+      "titleSource" : "NHL startet „Sprint“ zu Stanley Cup",
+      "titleTarget" : "NHL, Stanley Cup'a \"Sprint\" başlıyor",
+      "url" : "https://sport.orf.at/stories/3071713/"
     }, {
-      "id" : "5Jvx33rI",
-      "imgUrl" : "https://image.kurier.at/images/original/4868049/46-167771557.jpg",
-      "titleSource" : "Die vielen Sorgen der Austria: Verletzte und auslaufende Verträge",
-      "titleTarget" : "Avusturya'nın birçok endişesi: yaralı ve süresi dolan sözleşmeler",
-      "url" : "https://kurier.at/sport/fussball/die-vielen-sorgen-der-wiener-austria-verletzte-und-auslaufende-vertraege/401153568"
+      "id" : "BQY7pTA0",
+      "titleSource" : "Wengen-Ersatzrennen in Kitzbühel gestrichen",
+      "titleTarget" : "Kitzbühel'deki Wengen değiştirme yarışı iptal edildi",
+      "url" : "https://sport.orf.at/stories/3071763/"
     }, {
-      "id" : "G6QHn3RU",
-      "titleSource" : "Coronavirus stoppt Österreich-Gegner USA",
-      "titleTarget" : "Corona virüsü Avusturya'nın rakipleri ABD'yi durdurdu",
-      "url" : "https://sport.orf.at/stories/3071742/"
+      "id" : "6pMvQNJD",
+      "titleSource" : "Titelkämpfe unter besonderen Vorzeichen",
+      "titleTarget" : "Özel durumlarda unvan savaşı",
+      "url" : "https://sport.orf.at/stories/3071674/"
     }, {
-      "id" : "o4o4xsol",
-      "titleSource" : "Liensberger mischt um Flachau-Sieg mit",
-      "titleTarget" : "Liensberger, Flachau zaferine dahil oldu",
-      "url" : "https://sport.orf.at/stories/3071728/"
+      "id" : "I5r5ZkQ7",
+      "titleSource" : "Flachau springt als Slalom-Ersatz für Kitz ein",
+      "titleTarget" : "Flachau, Kitz'in slalom yerine geçiyor",
+      "url" : "https://sport.orf.at/stories/3071767/"
     } ]
   } ],
   "country" : "austria",
