@@ -2,23 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
+      "id" : "0Po3t9f6",
+      "imgUrl" : "https://image.kurier.at/images/original/4862154/46-173898875.jpg",
+      "titleSource" : "Corona-Demos: Polizei geht härter gegen Maskensünder vor",
+      "titleTarget" : "Corona demoları: Polis, maskeli günahkarlara karşı sert önlemler alıyor",
+      "url" : "https://kurier.at/politik/inland/corona-demos-polizei-geht-haerter-gegen-maskensuender-vor/401165514"
+    }, {
       "id" : "6ZbZSSXz",
       "imgUrl" : "https://image.kurier.at/images/original/4869624/20210113-ABD0022-1-1.jpg",
       "titleSource" : "Anschober gibt mit Impf-Experten \"Update\": Keine Sorge wegen Kinderwunsch",
       "titleTarget" : "Anschober aşı uzmanlarıyla \"güncel\" diyor: Çocuk sahibi olmak istemekten korkmayın",
       "url" : "https://kurier.at/politik/inland/anschober-gibt-mit-experten-update-zur-impfung/401164629"
-    }, {
-      "id" : "LfKFZtbg",
-      "imgUrl" : "https://image.kurier.at/images/original/4888608/46-174209491.jpg",
-      "titleSource" : "Anschober: Bürgermeister nur bei freiwilliger Tätigkeit vorgezogen",
-      "titleTarget" : "Anschober: Belediye başkanı sadece gönüllü çalışma için tercih etti",
-      "url" : "https://kurier.at/politik/inland/anschober-buergermeister-nur-bei-freiwilliger-taetigkeit-vorgezogen/401164362"
-    }, {
-      "id" : "koDHsJAm",
-      "imgUrl" : "https://image.kurier.at/images/original/4888422/raab3810f297-f099-4a91-81c9-e0edd4c75c5b.jpg",
-      "titleSource" : "\"1+1=3 ❤️\": Ministerin Raab ist schwanger, Baby im Juli",
-      "titleTarget" : "\"1 + 1 = 3 ❤️\": Bakan Raab hamile, bebek Temmuz'da",
-      "url" : "https://kurier.at/politik/inland/113-ministerin-raab-ist-schwanger-baby-im-juli/401164407"
     }, {
       "id" : "gMyJCHUq",
       "imgUrl" : "https://image.kurier.at/images/original/4889286/20210122-ABD0077-1-1.jpg",
@@ -26,37 +20,50 @@
       "titleTarget" : "Astra Zeneca'ya Çapa: \"Herber gerileme\"",
       "url" : "https://kurier.at/politik/inland/anschober-zu-astra-zeneca-herber-rueckschlag/401165457"
     }, {
-      "id" : "1RNTQnf4",
-      "imgUrl" : "https://image.kurier.at/images/original/4888539/46-174079967.jpg",
-      "titleSource" : "1-2-3-Ticket: Nach Salzburg auch Tirol und Vorarlberg an Bord",
-      "titleTarget" : "1-2-3 bilet: Salzburg'dan sonra ayrıca Tyrol ve Vorarlberg gemide",
-      "url" : "https://kurier.at/politik/inland/1-2-3-ticket-nach-salzburg-auch-tirol-und-vorarlberg-an-bord/401164458"
+      "id" : "qWZD7OhA",
+      "imgUrl" : "https://image.kurier.at/images/original/4849188/46-173828231.jpg",
+      "titleSource" : "Impfung: Politiker erst an vierter Stelle mit über 65-Jährigen",
+      "titleTarget" : "Aşılama: Politikacılar 65 yaş üstü kişilerle dördüncü sırada",
+      "url" : "https://kurier.at/politik/inland/impfung-politiker-erst-an-vierter-stelle-mit-ueber-65-jaehrigen/401165553"
     }, {
-      "id" : "nSZwmOhO",
-      "imgUrl" : "https://image.kurier.at/images/original/4889784/46-174153902.jpg",
-      "titleSource" : "Österreichs Impfplan wackelt: Astra Zeneca liefert nur Bruchteil seines Impfstoffs",
-      "titleTarget" : "Avusturya'nın aşılama planı zayıf: Astra Zeneca, aşısının yalnızca bir kısmını sağlıyor",
-      "url" : "https://kurier.at/politik/inland/oesterreichs-impfplan-wackelt-astra-zeneca-liefert-nur-bruchteil-seines-impfstoffs/401164989"
+      "id" : "vHwxSMYz",
+      "imgUrl" : "https://image.kurier.at/images/original/4766649/78350011457561876_BLD_Online.jpg",
+      "titleSource" : "Umfrage: Eltern erleben AHS oft als \"veraltete Parallelwelt\"",
+      "titleTarget" : "Anket: Ebeveynler AHS'yi genellikle \"modası geçmiş paralel dünya\" olarak görürler",
+      "url" : "https://kurier.at/politik/inland/umfrage-eltern-erleben-ahs-oft-als-veraltete-parallelwelt/401165520"
     }, {
-      "id" : "AKAryuu2",
-      "titleSource" : "Sonderschulen wechseln ins Distance Learning",
-      "titleTarget" : "Özel okullar uzaktan eğitime geçiyor",
-      "url" : "https://www.diepresse.com/5926373/Lockdown_Sonderschulen-wechseln-ins-Distance-Learning?from=rss"
+      "id" : "svUrLvFa",
+      "imgUrl" : "https://image.kurier.at/images/original/4891344/46-173898464.jpg",
+      "titleSource" : "Wahlkampfkosten: SPÖ und Grüne in OÖ für Senkung vor LT-Wahl offen",
+      "titleTarget" : "Seçim kampanyası maliyetleri: SPÖ ve Yukarı Avusturya'daki Yeşiller LT seçimlerinden önce indirime açık",
+      "url" : "https://kurier.at/politik/inland/wahlkampfkosten-spoe-und-gruene-in-ooe-fuer-senkung-vor-lt-wahl-offen/401165550"
+    }, {
+      "id" : "ZcvWjLUr",
+      "imgUrl" : "https://image.kurier.at/images/original/4673677/20201001-ABD0101-1-1.jpg",
+      "titleSource" : "Politischer Aschermittwoch der FPÖ in Ried heuer digital",
+      "titleTarget" : "Politik Kül Bu yıl Ried'de FPÖ'nin Çarşamba günü dijital",
+      "url" : "https://kurier.at/politik/inland/politischer-aschermittwoch-der-fpoe-in-ried-heuer-digital/401165631"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "JpzVrl4I",
-      "imgUrl" : "https://image.kurier.at/images/original/4888179/46-3519170.jpg",
-      "titleSource" : "Größter Swarovski-Gesellschafter Gernot Langes-Swarovski ist tot",
-      "titleTarget" : "Swarovski'nin en büyük hissedarı Gernot Langes-Swarovski öldü",
-      "url" : "https://kurier.at/wirtschaft/groesster-swarovski-gesellschafter-gernot-langes-swarovski-ist-tot/401164215"
+      "id" : "STqTSSMo",
+      "imgUrl" : "https://image.kurier.at/images/original/4563785/46-166604987.jpg",
+      "titleSource" : "Lehre: Wer und wo gesucht wird",
+      "titleTarget" : "Öğretim: Kim ve nerede isteniyor",
+      "url" : "https://kurier.at/wirtschaft/karriere/lehre-wer-und-wo-gesucht-wird/401163360"
     }, {
-      "id" : "MoZbJbn1",
-      "imgUrl" : "https://image.kurier.at/images/original/4654559/grandtalk_klima_gs_sb_1400x788px_hotel.png",
-      "titleSource" : "Tourismus: Im Coronasommer 2020 standen drei von vier Betten leer",
-      "titleTarget" : "Turizm: 2020 yazında corona dört yataktan üçü boştu",
-      "url" : "https://kurier.at/wirtschaft/tourismus-im-coronasommer-2020-standen-drei-von-vier-betten-leer/401164434"
+      "id" : "5CeFvPEv",
+      "imgUrl" : "https://image.kurier.at/images/original/4886325/46-174182176.jpg",
+      "titleSource" : "Aufruf zu mehr jugendlicher Selbstverwüstung",
+      "titleTarget" : "Daha genç bir kendini mahvetme çağrısı",
+      "url" : "https://kurier.at/wirtschaft/karriere/aufruf-zu-mehr-jugendlichen-selbstverwuestung/401163342"
+    }, {
+      "id" : "7mCoYM4M",
+      "imgUrl" : "https://image.kurier.at/images/original/2828054/46-64669803.jpg",
+      "titleSource" : "60 Millionen Corona-Hilfe  für die Landwirtschaft",
+      "titleTarget" : "Tarıma 60 milyon korona yardımı",
+      "url" : "https://kurier.at/wirtschaft/60-millionen-corona-hilfe-fuer-die-landwirtschaft/401165193"
     }, {
       "id" : "5i9t6dUR",
       "imgUrl" : "https://image.kurier.at/images/original/1326129/Geschlossen%252BGesch%2525C3%2525A4ft%252BLaden.jpg",
@@ -70,27 +77,27 @@
       "titleTarget" : "FFP2 maske gereksinimi: Perakendede farklı uygulama düzeyleri",
       "url" : "https://kurier.at/wirtschaft/ffp2-maskenpflicht-unterschiedlich-strenge-durchsetzung-im-handel/401164998"
     }, {
+      "id" : "wG54jIxO",
+      "imgUrl" : "https://image.kurier.at/images/original/4888350/46-174206825.jpg",
+      "titleSource" : "Ein Einblick in die Wohnungen der Österreicher",
+      "titleTarget" : "Avusturyalıların dairelerine bir bakış",
+      "url" : "https://kurier.at/wirtschaft/immobiz/ein-einblick-in-die-wohnungen-der-oesterreicher/401164341"
+    }, {
       "id" : "KTKKc0NA",
       "imgUrl" : "https://image.kurier.at/images/original/4825230/20201216-ABD0068-1-1.jpg",
       "titleSource" : "VW bleibt in der Corona-Krise robust: 10 Milliarden Euro Gewinn",
       "titleTarget" : "VW, Corona krizinde sağlamlığını koruyor: 10 milyar euro kar",
       "url" : "https://kurier.at/wirtschaft/vw-bleibt-in-der-corona-krise-robust-10-milliarden-euro-gewinn/401164692"
-    }, {
-      "id" : "33rGwYxi",
-      "imgUrl" : "https://image.kurier.at/images/original/321975/flugzeug-000_Reinhard%252BVogel.jpg",
-      "titleSource" : "Boeing will Passagierflugzeuge mit Öko-Kraftstoffen bis 2030",
-      "titleTarget" : "Boeing, yolcu uçağının 2030 yılına kadar eko-yakıtlarla çalışmasını istiyor",
-      "url" : "https://kurier.at/wirtschaft/boeing-will-passagierflugzeuge-mit-oeko-kraftstoffen-bis-2030/401165436"
-    }, {
-      "id" : "7mCoYM4M",
-      "imgUrl" : "https://image.kurier.at/images/original/2828054/46-64669803.jpg",
-      "titleSource" : "60 Millionen Corona-Hilfe  für die Landwirtschaft",
-      "titleTarget" : "Tarıma 60 milyon korona yardımı",
-      "url" : "https://kurier.at/wirtschaft/60-millionen-corona-hilfe-fuer-die-landwirtschaft/401165193"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
+      "id" : "TQsk43TW",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/6/2/5926754/F854199E-3C85-4F8A-A2EC-05AC304760ED_v0_h.jpg",
+      "titleSource" : "Nach rund 100 Jahren wieder Luchse im Rax/Schneeberg-Gebiet gesichtet",
+      "titleTarget" : "Yaklaşık 100 yıl sonra, vaşaklar yeniden Rax / Schneeberg bölgesinde görüldü.",
+      "url" : "https://www.diepresse.com/5926754/Wildkatze_Nach-rund-100-Jahren-wieder-Luchse-im?from=rss"
+    }, {
       "id" : "nekxFFgf",
       "imgUrl" : "https://image.kurier.at/images/original/3988992/46-80307935.jpg",
       "titleSource" : "Operation Luxor: Uni-Professoren stellen sich hinter Farid Hafez",
@@ -115,50 +122,38 @@
       "titleTarget" : "Hans Hausl'dan yıldönümü için fanlar",
       "url" : "https://burgenland.orf.at/stories/3086364/"
     }, {
-      "id" : "OpHafR0m",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "2.088 gemeldete Corona-Infektionen in Österreich",
-      "titleTarget" : "2.088, Avusturya'da korona enfeksiyonu bildirdi",
-      "url" : "https://kurier.at/chronik/oesterreich/2088-gemeldete-corona-infektionen-in-oesterreich/401164371"
-    }, {
-      "id" : "pFhoaP1f",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/04/27/crops/w=1280/819618_opener_285827_stadler2.jpg?s=784e4c5f920e0da0ed88085aee3515a0733d193a",
-      "titleSource" : "SPÖ St. Pölten: Stadler vor Wiederwahl",
-      "titleTarget" : "SPÖ St.Pölten: Stadler yeniden seçilmeden önce",
-      "url" : "https://noe.orf.at/stories/3085953/"
-    }, {
       "id" : "CDrPvunQ",
       "imgUrl" : "https://oekastatic.orf.at/mims/2021/04/70/crops/w=1280/822025_opener_286670_image_4.jpg?s=7d76e26bec7a064f70272b987e44aed450a2a460",
       "titleSource" : "Altschnee besonders lawinengefährlich",
       "titleTarget" : "Eski kar özellikle çığlar için tehlikeli",
       "url" : "https://salzburg.orf.at/stories/3086449/"
+    }, {
+      "id" : "OpHafR0m",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "2.088 gemeldete Corona-Infektionen in Österreich",
+      "titleTarget" : "2.088, Avusturya'da korona enfeksiyonu bildirdi",
+      "url" : "https://kurier.at/chronik/oesterreich/2088-gemeldete-corona-infektionen-in-oesterreich/401164371"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "V1sn2Tci",
-      "imgUrl" : "https://image.kurier.at/images/original/4867260/bridgerton-daphne.jpg",
-      "titleSource" : "Netflix-Hit \"Bridgerton\" bekommt zweite Staffel",
-      "titleTarget" : "Netflix hiti \"Bridgerton\" ikinci sezonda",
-      "url" : "https://kurier.at/kultur/medien/netflix-hit-bridgerton-bekommt-zweite-staffel/401164479"
-    }, {
       "id" : "vD5xO4me",
       "imgUrl" : "https://image.kurier.at/images/original/4888254/46-173264837.jpg",
       "titleSource" : "Buchkritik: Elvira Dones und \"Verbrannte Sonne\"",
       "titleTarget" : "Kitap incelemesi: Elvira Dones ve \"Burned Sun\"",
       "url" : "https://kurier.at/kultur/buch/buchkritik-elvira-dones-und-verbrannte-sonne/401164269"
     }, {
-      "id" : "i1ViRYQN",
-      "imgUrl" : "https://image.kurier.at/images/original/4888551/46-174036270.jpg",
-      "titleSource" : "James Bond im Herbst: Ist im Oktober endlich \"Zeit zu sterben\"?",
-      "titleTarget" : "Sonbaharda James Bond: Ekim Sonunda \"Ölme Zamanı\" mı?",
-      "url" : "https://kurier.at/kultur/james-bond-im-herbst-ist-im-oktober-endlich-zeit-zu-sterben/401164467"
-    }, {
       "id" : "3P3xFfad",
       "imgUrl" : "https://image.kurier.at/images/original/4891017/81412305858559978_BLD_Online.jpg",
       "titleSource" : "\"Babylon 5\"-Schauspielerin Mira Furlan mit 65 Jahren gestorben",
       "titleTarget" : "\"Babylon 5\" oyuncusu Mira Furlan 65 yaşında hayata gözlerini yumdu",
       "url" : "https://kurier.at/kultur/babylon-5-schauspielerin-mira-furlan-mit-65-jahren-gestorben/401165415"
+    }, {
+      "id" : "1bgYbU7r",
+      "imgUrl" : "https://image.kurier.at/images/original/4888251/46-102809856.jpg",
+      "titleSource" : "Franzobels heiteres Abenteuer \"Die Eroberung Amerikas\"",
+      "titleTarget" : "Franzobel'in neşeli macerası \"Amerika'nın Fethi\"",
+      "url" : "https://kurier.at/kultur/buch/franzobels-heiteres-abenteuer-die-eroberung-amerikas/401164296"
     }, {
       "id" : "J20zooDh",
       "imgUrl" : "https://image.kurier.at/images/original/4889649/46-174234983.jpg",
@@ -177,6 +172,12 @@
       "titleSource" : "Oska zu Gast beim KURIER Talk",
       "titleTarget" : "Oska, KURIER Talk'ta konuk olarak",
       "url" : "https://kurier.at/kultur/oska-zu-gast-beim-kurier-talk/401163291"
+    }, {
+      "id" : "rs4m573O",
+      "imgUrl" : "https://image.kurier.at/images/original/4888941/46-173916443.jpg",
+      "titleSource" : "FM4-Fest im Wohnzimmer - diesmal ohne Gedränge",
+      "titleTarget" : "Oturma odasında FM4 partisi - bu sefer kalabalık olmadan",
+      "url" : "https://kurier.at/kultur/medien/fm4-geburtstagsfest-im-wohnzimmer-diesmal-ohne-gedraenge/401164614"
     } ]
   }, {
     "category" : "HEALTH",
@@ -190,33 +191,32 @@
       "titleTarget" : "Sturm'a karşı net zafer: Masanın tepesinde hızlı atışlar",
       "url" : "https://kurier.at/sport/fussball/klarer-heimsieg-gegen-sturm-graz-rapid-wien-erobert-die-bundesliga-tabellenfuehrung/401164956"
     }, {
-      "id" : "TpHCc3Dd",
-      "imgUrl" : "https://image.kurier.at/images/original/4889313/46-174234294.jpg",
-      "titleSource" : "Chaotische Kitz-Abfahrt: Zwei schlimme Stürze, Feuz vor Mayer",
-      "titleTarget" : "Kaotik Kitz inişi: iki kötü düşüş, Mayer'den önce Feuz",
-      "url" : "https://kurier.at/sport/wintersport/live-so-stehts-beim-abfahrts-klassiker-auf-der-streif-in-kitzbuehel/401164257"
-    }, {
-      "id" : "5ZQwld6b",
-      "imgUrl" : "https://image.kurier.at/images/original/4890207/46-174229435.jpg",
-      "titleSource" : "Von Müller bis Happel: Wie Gernot Langes den Tiroler Fußball prägte",
-      "titleTarget" : "Müller'den Happel'e: Gernot Langes Tirol futbolunu nasıl şekillendirdi?",
-      "url" : "https://kurier.at/sport/fussball/von-mueller-bis-happel-wie-gernot-langes-den-tiroler-fussball-praegte/401164431"
-    }, {
-      "id" : "9AVYNRHU",
-      "titleSource" : "Goggia gelingt Abfahrtshattrick",
-      "titleTarget" : "Goggia yokuş aşağı numarada başarılı oldu",
-      "url" : "https://sport.orf.at/stories/3072121/"
-    }, {
       "id" : "NJIWYmxh",
       "titleSource" : "Ein „zweiter Frühling“ lässt Packers träumen",
       "titleTarget" : "\"İkinci bahar\" Packers'ı hayal ediyor",
       "url" : "https://sport.orf.at/stories/3071984/"
     }, {
-      "id" : "a5DQmmj4",
-      "imgUrl" : "https://image.kurier.at/images/original/4859784/46-173719034.jpg",
-      "titleSource" : "Ex-FIFA-Boss Blatter verließ nach künstlichem Koma Intensivstation",
-      "titleTarget" : "Eski FIFA patronu Blatter yapay komadan sonra yoğun bakımdan ayrıldı",
-      "url" : "https://kurier.at/sport/fussball/fussball-ex-fifa-boss-sepp-blatter-verliess-nach-kuenstlichem-koma-intensivstation/401164317"
+      "id" : "SlWI6wOo",
+      "titleSource" : "Kitz-Programm neu aufgestellt",
+      "titleTarget" : "Kitz programı yeniden düzenlendi",
+      "url" : "https://sport.orf.at/stories/3072186/"
+    }, {
+      "id" : "7akG6QgL",
+      "imgUrl" : "https://image.kurier.at/images/original/4890216/20210122-ABD0205-1-1.jpg",
+      "titleSource" : "Schneefall und weiche Piste: Kitzbühel-Abfahrt auf Sonntag verschoben",
+      "titleTarget" : "Kar yağışı ve yumuşak yamaçlar: Kitzbühel yokuş aşağı koşusu Pazar gününe ertelendi",
+      "url" : "https://kurier.at/sport/wintersport/kitzbuehel-abfahrt-wegen-wetterverhaeltnissen-abgesagt/401165517"
+    }, {
+      "id" : "XmM3oJvX",
+      "imgUrl" : "https://image.kurier.at/images/original/4891257/46-174244285.jpg",
+      "titleSource" : "Nach Gala gegen Sturm: Rapid will sich ein Geheimnis bewahren",
+      "titleTarget" : "Sturm'a karşı galadan sonra: Rapid sır saklamak istiyor",
+      "url" : "https://kurier.at/sport/fussball/bundesliga-rapid-wien-will-sich-nach-der-gala-beim-41-gegen-sturm-ein-geheimnis-bewahren/401165454"
+    }, {
+      "id" : "aOtYQceN",
+      "titleSource" : "Streif-Zielsprung erneut in der Kritik",
+      "titleTarget" : "Streif hedefi yine eleştirilere sıçradı",
+      "url" : "https://sport.orf.at/stories/3072152/"
     }, {
       "id" : "iqV3h2cz",
       "imgUrl" : "https://image.kurier.at/images/original/4891269/46-174247085.jpg",
