@@ -2,29 +2,11 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "0Po3t9f6",
-      "imgUrl" : "https://image.kurier.at/images/original/4862154/46-173898875.jpg",
-      "titleSource" : "Corona-Demos: Polizei geht härter gegen Maskensünder vor",
-      "titleTarget" : "Corona demoları: Polis, maskeli günahkarlara karşı sert önlemler alıyor",
-      "url" : "https://kurier.at/politik/inland/corona-demos-polizei-geht-haerter-gegen-maskensuender-vor/401165514"
-    }, {
       "id" : "e0wN64JK",
       "imgUrl" : "https://image.kurier.at/images/original/4892568/46-174237108.jpg",
       "titleSource" : "Nach Liefer-Engpass: Regierung hält an Impfstrategie fest",
       "titleTarget" : "Teslimattan sonra darboğaz: hükümet aşılama stratejisine bağlı kalıyor",
       "url" : "https://kurier.at/politik/inland/nach-liefer-engpass-regierung-haelt-an-impfstrategie-fest/401166054"
-    }, {
-      "id" : "vHwxSMYz",
-      "imgUrl" : "https://image.kurier.at/images/original/4766649/78350011457561876_BLD_Online.jpg",
-      "titleSource" : "Umfrage: Eltern erleben AHS oft als \"veraltete Parallelwelt\"",
-      "titleTarget" : "Anket: Ebeveynler AHS'yi genellikle \"modası geçmiş paralel dünya\" olarak görürler",
-      "url" : "https://kurier.at/politik/inland/umfrage-eltern-erleben-ahs-oft-als-veraltete-parallelwelt/401165520"
-    }, {
-      "id" : "qWZD7OhA",
-      "imgUrl" : "https://image.kurier.at/images/original/4849188/46-173828231.jpg",
-      "titleSource" : "Impfung: Politiker erst an vierter Stelle mit über 65-Jährigen",
-      "titleTarget" : "Aşılama: Politikacılar 65 yaş üstü kişilerle dördüncü sırada",
-      "url" : "https://kurier.at/politik/inland/impfung-politiker-erst-an-vierter-stelle-mit-ueber-65-jaehrigen/401165553"
     }, {
       "id" : "WhPlvgtQ",
       "imgUrl" : "https://image.kurier.at/images/original/378177/volksbegehren.jpg",
@@ -32,27 +14,37 @@
       "titleTarget" : "Hayvanları koruma referandumu: Şimdiye kadar 300.000 imza",
       "url" : "https://kurier.at/politik/inland/tierschutz-volksbegehren-bisher-300000-unterschriften/401165796"
     }, {
-      "id" : "ZcvWjLUr",
-      "imgUrl" : "https://image.kurier.at/images/original/4673677/20201001-ABD0101-1-1.jpg",
-      "titleSource" : "Politischer Aschermittwoch der FPÖ in Ried heuer digital",
-      "titleTarget" : "Politik Kül Bu yıl Ried'de FPÖ'nin Çarşamba günü dijital",
-      "url" : "https://kurier.at/politik/inland/politischer-aschermittwoch-der-fpoe-in-ried-heuer-digital/401165631"
+      "id" : "ydu0oX72",
+      "titleSource" : "Kogler kritisiert Anzeige der WKStA gegen \"Presse\"-Journalistin",
+      "titleTarget" : "Kogler, WKStA'nın reklamını \"basın\" gazetecisine karşı eleştirdi",
+      "url" : "https://www.diepresse.com/5927116/Medien_Kogler-kritisiert-Anzeige-der-WKStA-gegen-PresseJournalistin?from=rss"
     }, {
-      "id" : "svUrLvFa",
-      "imgUrl" : "https://image.kurier.at/images/original/4891344/46-173898464.jpg",
-      "titleSource" : "Wahlkampfkosten: SPÖ und Grüne in OÖ für Senkung vor LT-Wahl offen",
-      "titleTarget" : "Seçim kampanyası maliyetleri: SPÖ ve Yukarı Avusturya'daki Yeşiller LT seçimlerinden önce indirime açık",
-      "url" : "https://kurier.at/politik/inland/wahlkampfkosten-spoe-und-gruene-in-ooe-fuer-senkung-vor-lt-wahl-offen/401165550"
+      "id" : "dMxYteHH",
+      "titleSource" : "Kogler kritisiert Anzeige der WKStA gegen \"Presse\"-Journalistin",
+      "titleTarget" : "Kogler, WKStA'nın reklamını \"basın\" gazetecisine karşı eleştirdi",
+      "url" : "https://www.diepresse.com/5927116/Kogler-kritisiert-Anzeige-der-WKStA-gegen-PresseJournalistin?from=rss"
+    }, {
+      "id" : "v7jsOzXu",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/3/5/5926965/CORONA-DEMO-GEGEN-CORONA-MASSNAHMEN-DER-BUNDESREGIERUNG_1611417091360757_v0_l.jpg",
+      "titleSource" : "Polizei geht härter gegen Maskensünder bei Corona-Demos vor",
+      "titleTarget" : "Polis, korona gösterilerinde maskeli günahkarlara karşı daha sert tedbirler aldı",
+      "url" : "https://www.diepresse.com/5926965/Einsatzkonzept_Polizei-geht-haerter-gegen-Maskensuender-bei?from=rss"
+    }, {
+      "id" : "305TA3rQ",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/2/7/5926951/CORONA-TIROL---BEGINN-DER-CORONA-MASSENTESTS-IN-INNSBRUCK_1611416217731537_v0_l.jpg",
+      "titleSource" : "Willi sucht neue Mehrheiten, aber kein Koalitionsende in Innsbruck",
+      "titleTarget" : "Willi yeni çoğunluk arıyor, ancak Innsbruck'taki koalisyonun sonu değil",
+      "url" : "https://www.diepresse.com/5926951/Tirol_Willi-sucht-neue-Mehrheiten-aber-kein-Koalitionsende-in?from=rss"
+    }, {
+      "id" : "7gk3vUAL",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/d/b/5926875/50EF1275-AC00-44C9-AF03-08EB703F8513_v0_h.jpg",
+      "titleSource" : "Anschober sieht Startphase vorerst nicht gefährdet",
+      "titleTarget" : "Anschober, başlangıç aşamasının şu an için risk altında olmadığını görüyor",
+      "url" : "https://www.diepresse.com/5926875/Impfplan_Anschober-sieht-Startphase-vorerst-nicht-gefaehrdet?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "NgAFVnVB",
-      "imgUrl" : "https://image.kurier.at/images/original/4879722/ffp2-mask-5590112_1920.jpg",
-      "titleSource" : "Rewe und Spar verschenken FFP2-Masken an ihre Kunden",
-      "titleTarget" : "Rewe ve Spar müşterilerine FFP2 maskeleri veriyor",
-      "url" : "https://kurier.at/wirtschaft/rewe-und-spar-verschenken-ffp2-masken-an-ihre-kunden/401165661"
-    }, {
       "id" : "8NhQyEaP",
       "imgUrl" : "https://image.kurier.at/images/original/321975/flugzeug-000_Reinhard%252BVogel.jpg",
       "titleSource" : "Landeverbot ab Montag auch für Flüge aus Brasilien",
@@ -65,45 +57,27 @@
       "titleTarget" : "Wirecard: Jan Marsalek için Avusturya'dan kaçış yardımı",
       "url" : "https://kurier.at/wirtschaft/wirecard-fluchthilfe-aus-oesterreich-fuer-jan-marsalek/401165958"
     }, {
-      "id" : "STqTSSMo",
-      "imgUrl" : "https://image.kurier.at/images/original/4563785/46-166604987.jpg",
-      "titleSource" : "Lehre: Wer und wo gesucht wird",
-      "titleTarget" : "Öğretim: Kim ve nerede isteniyor",
-      "url" : "https://kurier.at/wirtschaft/karriere/lehre-wer-und-wo-gesucht-wird/401163360"
+      "id" : "DyTcILSW",
+      "imgUrl" : "https://image.kurier.at/images/original/1730388/46-47346875.jpg",
+      "titleSource" : "Anträge für Raus-aus-Öl-Bonus verzehnfacht",
+      "titleTarget" : "Yağdan çıkış bonusu başvuruları on kat arttı",
+      "url" : "https://kurier.at/wirtschaft/antraege-fuer-raus-aus-oel-bonus-verzehnfacht/401166129"
     }, {
-      "id" : "J1ECNl7l",
-      "imgUrl" : "https://image.kurier.at/images/original/4891374/46-174155942.jpg",
-      "titleSource" : "Vodafone-Chef zu Corona-App: Bei Datenschutz \"über Schatten springen\"",
-      "titleTarget" : "Corona uygulamasında Vodafone patronu: Veri korumada \"Gölgelerin üzerinden atla\"",
-      "url" : "https://kurier.at/wirtschaft/vodafone-chef-zu-corona-app-bei-datenschutz-ueber-schatten-springen/401165577"
+      "id" : "SQo6CYNx",
+      "imgUrl" : "https://image.kurier.at/images/original/4888482/46-174186161.jpg",
+      "titleSource" : "Im Homeoffice und dann ständig dieser Lärm?",
+      "titleTarget" : "Ev ofisinde ve sonra tüm bu gürültü?",
+      "url" : "https://kurier.at/wirtschaft/immobiz/im-homeoffice-und-dann-staendig-dieser-laerm/401164425"
     }, {
-      "id" : "5CeFvPEv",
-      "imgUrl" : "https://image.kurier.at/images/original/4886325/46-174182176.jpg",
-      "titleSource" : "Aufruf zu mehr jugendlicher Selbstverwüstung",
-      "titleTarget" : "Daha genç bir kendini mahvetme çağrısı",
-      "url" : "https://kurier.at/wirtschaft/karriere/aufruf-zu-mehr-jugendlichen-selbstverwuestung/401163342"
-    }, {
-      "id" : "wG54jIxO",
-      "imgUrl" : "https://image.kurier.at/images/original/4888350/46-174206825.jpg",
-      "titleSource" : "Ein Einblick in die Wohnungen der Österreicher",
-      "titleTarget" : "Avusturyalıların dairelerine bir bakış",
-      "url" : "https://kurier.at/wirtschaft/immobiz/ein-einblick-in-die-wohnungen-der-oesterreicher/401164341"
+      "id" : "UjCshXjK",
+      "imgUrl" : "https://image.kurier.at/images/original/4891647/46-80555910.jpg",
+      "titleSource" : "Neue Verordnung für Lehrberufe in Begutachtung",
+      "titleTarget" : "İncelenen çıraklık eğitimleri için yeni düzenleme",
+      "url" : "https://kurier.at/wirtschaft/neue-verordnung-fuer-lehrberufe-in-begutachtung/401165730"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "YCQfUDit",
-      "imgUrl" : "https://image.kurier.at/images/original/4884756/coorna-impfung.jpg",
-      "titleSource" : "\"Nur für Bewohner\": In Pflegeheim wurden Impfungen einfach weggeschmissen",
-      "titleTarget" : "\"Sadece sakinler için\": Huzurevlerinde aşılar basitçe çöpe atıldı",
-      "url" : "https://kurier.at/chronik/oesterreich/unfassbar-im-pflegeheim-wurden-corona-impfungen-einfach-weggeschmissen/401165670"
-    }, {
-      "id" : "zaq0k01J",
-      "imgUrl" : "https://image.kurier.at/images/original/4891428/46-174102194.jpg",
-      "titleSource" : "Illegale Corona-Party bei Ordinationseröffnung von bekannter Ärztin",
-      "titleTarget" : "Tanınmış bir doktor tarafından düzenlenen törenin açılışında yasadışı korona partisi",
-      "url" : "https://kurier.at/chronik/oesterreich/illegale-corona-party-bei-ordinationseroeffnung-von-bekannter-aerztin/401165649"
-    }, {
       "id" : "bBOZ3Aoy",
       "imgUrl" : "https://image.kurier.at/images/original/4892337/46-174254336.jpg",
       "titleSource" : "Polizei schritt gegen illegale Corona-Demos ein",
@@ -115,6 +89,11 @@
       "titleSource" : "Coronavirus: 25 Euro Strafe bei Nicht-Tragen einer FFP2-Maske",
       "titleTarget" : "Coronavirus: FFP2 maskesi takmamak için 25 Euro para cezası",
       "url" : "https://kurier.at/chronik/oesterreich/coronavirus-25-euro-strafe-bei-nicht-tragen-einer-ffp2-maske/401165811"
+    }, {
+      "id" : "M9Md3ABH",
+      "titleSource" : "Polizei löst Eisstockveranstaltung auf",
+      "titleTarget" : "Polis buz stoku olayını çözdü",
+      "url" : "https://kaernten.orf.at/stories/3086598/"
     }, {
       "id" : "S3CAX2Ry",
       "imgUrl" : "https://image.kurier.at/images/original/4591514/78350011456079970_BLD_Online.jpg",
@@ -128,26 +107,32 @@
       "titleTarget" : "Coronavirus: Tirol'de yedi Güney Afrika mutasyonu",
       "url" : "https://kurier.at/chronik/oesterreich/coronavirus-fuenf-suedafrika-mutationen-in-tirol/401165778"
     }, {
-      "id" : "pfeTkrje",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "1.626 gemeldete Corona-Neuinfektionen in Österreich",
-      "titleTarget" : "1.626, Avusturya'da yeni korona enfeksiyonu bildirdi",
-      "url" : "https://kurier.at/chronik/oesterreich/1626-gemeldete-corona-neuinfektionen-in-oesterreich/401165571"
+      "id" : "kLRlZIiE",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/04/55/crops/w=1280/822553_opener_286855_test1.jpeg?s=a7f681e3543891fcb484f5492b38c560f87685b8",
+      "titleSource" : "Permanente Teststellen in 120 Gemeinden",
+      "titleTarget" : "120 toplulukta kalıcı test siteleri",
+      "url" : "https://noe.orf.at/stories/3086544/"
+    }, {
+      "id" : "Vzt9S0D6",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/27/91/crops/w=1280/609240_opener_208691_pcr_test_am_flughafen_wien.jpg?s=f6e4ce6db5605316f4d47f62930e43be863c60f2",
+      "titleSource" : "PCR-Tests im Bezirk Schwaz gestartet",
+      "titleTarget" : "Schwaz bölgesinde PCR testleri başladı",
+      "url" : "https://tirol.orf.at/stories/3086591/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
+      "id" : "6a0Lihv1",
+      "imgUrl" : "https://image.kurier.at/images/original/4884660/46-174177915.jpg",
+      "titleSource" : "\"Klammer\"-Regisseur Andreas Schmied: \"Stoff für ganz großes Kino\"",
+      "titleTarget" : "\"Klammer\" yönetmeni Andreas Schmied: \"Büyük sinema için malzeme\"",
+      "url" : "https://kurier.at/kultur/klammer-regisseur-andreas-schmied-stoff-fuer-ganz-grosses-kino/401165976"
+    }, {
       "id" : "wY7jJfhR",
       "imgUrl" : "https://image.kurier.at/images/original/4891851/46-173864032.jpg",
       "titleSource" : "Legendärer US-Moderator Larry King gestorben",
       "titleTarget" : "Efsanevi ABD sunucusu Larry King öldü",
       "url" : "https://kurier.at/kultur/medien/legendaerer-us-moderator-larry-king-gestorben/401165838"
-    }, {
-      "id" : "1bgYbU7r",
-      "imgUrl" : "https://image.kurier.at/images/original/4888251/46-102809856.jpg",
-      "titleSource" : "Franzobels heiteres Abenteuer \"Die Eroberung Amerikas\"",
-      "titleTarget" : "Franzobel'in neşeli macerası \"Amerika'nın Fethi\"",
-      "url" : "https://kurier.at/kultur/buch/franzobels-heiteres-abenteuer-die-eroberung-amerikas/401164296"
     }, {
       "id" : "GZh2ocGw",
       "imgUrl" : "https://image.kurier.at/images/original/4891449/orf_kurier_20210123104926.jpg",
@@ -155,23 +140,11 @@
       "titleTarget" : "TV derecelendirmeleri: Peter Klien'in \"Gute Nacht Österreich\" sabah havası kokuyor",
       "url" : "https://kurier.at/kultur/medien/tv-quoten-peter-kliens-gute-nacht-oesterreich-wittert-morgenluft/401165715"
     }, {
-      "id" : "EzL8oSOl",
-      "imgUrl" : "https://image.kurier.at/images/original/4889874/46-174211268.jpg",
-      "titleSource" : "\"Tatort\" am Sonntag: Emotionale Gezeitenlage",
-      "titleTarget" : "Pazar günü \"Tatort\": Duygusal gelgitler",
-      "url" : "https://kurier.at/kultur/medien/tatort-am-sonntag-emotionale-gezeitenlage/401165175"
-    }, {
       "id" : "kurndRgo",
       "imgUrl" : "https://image.kurier.at/images/original/4822404/46-173568362.jpg",
       "titleSource" : "Max Ophüls Preis: Arman T. Riahi räumt mit \"Fuchs im Bau\" ab",
       "titleTarget" : "Max Ophüls Ödülü: Arman T. Riahi \"Fuchs im Bau\" ile kazandı",
       "url" : "https://kurier.at/kultur/max-ophuels-preis-arman-t-riahi-raeumt-mit-fuchs-im-bau-ab/401166072"
-    }, {
-      "id" : "UGN6YL4s",
-      "imgUrl" : "https://image.kurier.at/images/original/4892589/46-111259270.jpg",
-      "titleSource" : "42. Max Ophüls Preis: Arman T. Riahi einer der großen Gewinner",
-      "titleTarget" : "42. Max Ophüls Ödülü: Arman T. Riahi büyük kazananlardan biri",
-      "url" : "https://kurier.at/kultur/42-max-ophuels-preis-arman-t-riahi-einer-der-grossen-gewinner/401166060"
     } ]
   }, {
     "category" : "HEALTH",
@@ -179,42 +152,41 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "NNnr94Ln",
-      "titleSource" : "Starkes Comeback von Gruber in Lahti",
-      "titleTarget" : "Lahti'de Gruber için güçlü geri dönüş",
-      "url" : "https://sport.orf.at/stories/3072216/"
+      "id" : "tLYiNZpj",
+      "imgUrl" : "https://image.kurier.at/images/original/4228163/46-153901408.jpg",
+      "titleSource" : "Drama um ÖSV-Kombinierer Gruber: Akute Herz-OP nach Comeback",
+      "titleTarget" : "ÖSV birleştiricisi Gruber hakkında drama: Geri dönüş sonrası akut kalp ameliyatı",
+      "url" : "https://kurier.at/sport/wintersport/akute-herzoperation-bei-oesv-kombinierer-bernhard-gruber/401166150"
     }, {
-      "id" : "XmM3oJvX",
-      "imgUrl" : "https://image.kurier.at/images/original/4891257/46-174244285.jpg",
-      "titleSource" : "Nach Gala gegen Sturm: Rapid will sich ein Geheimnis bewahren",
-      "titleTarget" : "Sturm'a karşı galadan sonra: Rapid sır saklamak istiyor",
-      "url" : "https://kurier.at/sport/fussball/bundesliga-rapid-wien-will-sich-nach-der-gala-beim-41-gegen-sturm-ein-geheimnis-bewahren/401165454"
+      "id" : "A1gDY7I4",
+      "titleSource" : "Gruber nach Comeback wieder im Spital",
+      "titleTarget" : "Gruber dönüşünün ardından hastaneye döndü",
+      "url" : "https://sport.orf.at/stories/3072243/"
     }, {
-      "id" : "7akG6QgL",
-      "imgUrl" : "https://image.kurier.at/images/original/4890216/20210122-ABD0205-1-1.jpg",
-      "titleSource" : "Schneefall und weiche Piste: Kitzbühel-Abfahrt auf Sonntag verschoben",
-      "titleTarget" : "Kar yağışı ve yumuşak yamaçlar: Kitzbühel yokuş aşağı koşusu Pazar gününe ertelendi",
-      "url" : "https://kurier.at/sport/wintersport/kitzbuehel-abfahrt-wegen-wetterverhaeltnissen-abgesagt/401165517"
+      "id" : "D0L8P8Xc",
+      "titleSource" : "Stand in der zweiten Hahnenkamm-Abfahrt ab 10.20 Uhr",
+      "titleTarget" : "Saat 10.20'den itibaren ikinci Hahnenkamm inişinde durun.",
+      "url" : "https://sport.orf.at/stories/3072227/"
     }, {
-      "id" : "erIiKOx0",
-      "titleSource" : "Crosser Dusek bei Weltcup-Auftakt Fünfter",
-      "titleTarget" : "Crosser Dusek, Dünya Kupası açılışında beşinci",
-      "url" : "https://sport.orf.at/stories/3072214/"
+      "id" : "9kAgFyRW",
+      "titleSource" : "Streif-Abfahrt wird zu riskantem Balanceakt",
+      "titleTarget" : "Streif iniş riskli bir dengeleme hareketine dönüşüyor",
+      "url" : "https://sport.orf.at/stories/3072210/"
     }, {
-      "id" : "LReVB5si",
-      "titleSource" : "Österreicherinnen bei Team-Bewerb in Ljubno Dritte",
-      "titleTarget" : "Avusturyalılar Ljubno'daki takım yarışmasında üçüncü",
-      "url" : "https://sport.orf.at/stories/3072218/"
+      "id" : "svHI9wvp",
+      "titleSource" : "Stand im Damen-Super-G in Crans-Montana ab 12.00 Uhr",
+      "titleTarget" : "Crans-Montana'da öğlen 12'den itibaren kadınlar süper G'de durun",
+      "url" : "https://sport.orf.at/stories/3072228/"
     }, {
       "id" : "F9piCSUJ",
       "titleSource" : "Bittere Niederlagen für Bayern-Verfolger",
       "titleTarget" : "Bayern takipçileri için acı yenilgiler",
       "url" : "https://sport.orf.at/stories/3072219/"
     }, {
-      "id" : "9kAgFyRW",
-      "titleSource" : "Streif-Abfahrt wird zu riskantem Balanceakt",
-      "titleTarget" : "Streif iniş riskli bir dengeleme hareketine dönüşüyor",
-      "url" : "https://sport.orf.at/stories/3072210/"
+      "id" : "2Bb7vEQn",
+      "titleSource" : "Stände in internationalen Ligen ab 13.00 Uhr",
+      "titleTarget" : "Saat 13: 00'ten itibaren uluslararası liglerde standlar",
+      "url" : "https://sport.orf.at/stories/3072240/"
     } ]
   } ],
   "country" : "austria",
