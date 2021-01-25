@@ -8,11 +8,16 @@
       "titleTarget" : "En iyi politikacıların hızlı aşılanması için Szekeres",
       "url" : "https://kurier.at/politik/inland/szekeres-fuer-rasche-impfung-von-spitzenpolitikern/401166288"
     }, {
-      "id" : "e0wN64JK",
-      "imgUrl" : "https://image.kurier.at/images/original/4892568/46-174237108.jpg",
-      "titleSource" : "Nach Liefer-Engpass: Regierung hält an Impfstrategie fest",
-      "titleTarget" : "Teslimattan sonra darboğaz: hükümet aşılama stratejisine bağlı kalıyor",
-      "url" : "https://kurier.at/politik/inland/nach-liefer-engpass-regierung-haelt-an-impfstrategie-fest/401166054"
+      "id" : "34hLRFQE",
+      "imgUrl" : "https://image.kurier.at/images/original/4889505/20210122-ABD0113-1-1.jpg",
+      "titleSource" : "FFP2-Masken: Was ab Montag gilt",
+      "titleTarget" : "FFP2 maskeleri: Pazartesiden itibaren geçerli olan",
+      "url" : "https://kurier.at/politik/inland/ffp2-masken-was-ab-montag-gilt/401166048"
+    }, {
+      "id" : "XCFomFlg",
+      "titleSource" : "Steirische LWK-Wahl: Bauernbund konnte Vorsprung leicht ausbauen",
+      "titleTarget" : "Steiermark LWK seçimi: Bauernbund liderliğini biraz genişletmeyi başardı",
+      "url" : "https://www.diepresse.com/5927320/Graz_Steirische-LWKWahl_Bauernbund-konnte-Vorsprung-leicht-ausbauen?from=rss"
     }, {
       "id" : "ydu0oX72",
       "titleSource" : "Kogler kritisiert Anzeige der WKStA gegen \"Presse\"-Journalistin",
@@ -49,16 +54,17 @@
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "M9Md3ABH",
-      "titleSource" : "Polizei löst Eisstockveranstaltung auf",
-      "titleTarget" : "Polis buz stoku olayını çözdü",
-      "url" : "https://kaernten.orf.at/stories/3086598/"
+      "id" : "xLU6J7u6",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/41/crops/w=1280/769955_opener_267741_dsc_0058.jpg?s=a9a1a823616d1577497b1f7968433cb8e2e88a5e",
+      "titleSource" : "St. Pölten: SPÖ-Absolute trotz Verlusten",
+      "titleTarget" : "St.Pölten: SPÖ kayıplara rağmen mutlak",
+      "url" : "https://noe.orf.at/stories/3086683/"
     }, {
-      "id" : "kOFMOgJN",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/05/23/crops/w=1280/823282_opener_287123_geh2.jpg?s=1976130b182b62d59900c1e500c31ed0851a2b5f",
-      "titleSource" : "Ernst Gehmacher gestorben",
-      "titleTarget" : "Ernst Gehmacher öldü",
-      "url" : "https://wien.orf.at/stories/3086639/"
+      "id" : "mggxPHQT",
+      "imgUrl" : "https://image.kurier.at/images/original/4894029/46-174255844.jpg",
+      "titleSource" : "Neuerliche Attacke auf zweisprachige Ortstafeln",
+      "titleTarget" : "İki dilli yer-adı işaretlerine başka bir saldırı",
+      "url" : "https://kurier.at/chronik/oesterreich/neuerliche-attacke-auf-zweisprachige-ortstafeln/401166516"
     }, {
       "id" : "RollRXKX",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
@@ -72,22 +78,23 @@
       "titleTarget" : "Polis, karnaval arabasında Corona partisini durdurdu",
       "url" : "https://kurier.at/chronik/oesterreich/polizei-stoppte-corona-party-in-faschingswagen/401166147"
     }, {
-      "id" : "yto1oByD",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/25/36/crops/w=1280/189160_opener_49736_apastromausfall__-_apa-bilderdienst_-_07.41_-_abd0025.jpg?s=8f8ae4de72633be5e2ba5cf97913774ef137aa2b",
-      "titleSource" : "Land fördert Gemeinde-Notstromaggregate",
-      "titleTarget" : "Devlet, topluluk acil durum güç üreticilerine sübvansiyon sağlıyor",
-      "url" : "https://kaernten.orf.at/stories/3086634/"
-    }, {
-      "id" : "p7nElOVt",
-      "titleSource" : "Fünf-Sterne-Familienhotel vor Baustart",
-      "titleTarget" : "İnşaat başlamadan önce beş yıldızlı aile oteli",
-      "url" : "https://vorarlberg.orf.at/stories/3086579/"
+      "id" : "Iz7D5ukO",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/05/06/crops/w=1280/823302_opener_287106_50862205461_0d9c1a5c5e_o.jpg?s=d24c73aeaae3321539e5e69ac9ce52776710da85",
+      "titleSource" : "Mann schmuggelte 74 Chamäleons in Koffer",
+      "titleTarget" : "74 bukalemunu bavullara kaçıran adam",
+      "url" : "https://noe.orf.at/stories/3086650/"
     }, {
       "id" : "pWyBfcgK",
       "imgUrl" : "https://oekastatic.orf.at/mims/2021/05/49/crops/w=1280/823077_opener_287049_welpentransport.jpg?s=51ab0b555b788e36509743020fb99fdb4544ce55",
       "titleSource" : "Illegaler Welpentransport in Hörbranz aufgedeckt",
       "titleTarget" : "Hörbranz'da kaçak köpek yavrusu bulundu",
       "url" : "https://vorarlberg.orf.at/stories/3086626/"
+    }, {
+      "id" : "A4pmmlnT",
+      "imgUrl" : "https://image.kurier.at/images/original/4856202/46-173773592.jpg",
+      "titleSource" : "NEOS: Infizierte Menschen später impfen",
+      "titleTarget" : "NEOS: Enfekte kişileri daha sonra aşılayın",
+      "url" : "https://kurier.at/chronik/oesterreich/neos-infizierte-menschen-spaeter-impfen/401166120"
     } ]
   }, {
     "category" : "CULTURE",
@@ -98,17 +105,17 @@
       "titleTarget" : "\"Klammer\" yönetmeni Andreas Schmied: \"Büyük sinema için malzeme\"",
       "url" : "https://kurier.at/kultur/klammer-regisseur-andreas-schmied-stoff-fuer-ganz-grosses-kino/401165976"
     }, {
+      "id" : "kdtLix0d",
+      "imgUrl" : "https://image.kurier.at/images/original/4894437/46-137813076.jpg",
+      "titleSource" : "Arik Brauer starb wenige Tage nach seinem 92. Geburtstag",
+      "titleTarget" : "Arik Brauer 92. yaş gününden birkaç gün sonra öldü",
+      "url" : "https://kurier.at/kultur/arik-brauer-starb-wenige-tage-nach-seinem-92-geburtstag/401166681"
+    }, {
       "id" : "HFhyxBsO",
       "imgUrl" : "https://image.kurier.at/images/original/4893213/knossi.jpg",
       "titleSource" : "Twitch-Star Jens Knossalla erhält eigene Late-Night-Show auf RTL",
       "titleTarget" : "Twitch yıldızı Jens Knossalla, RTL'de kendi gece geç saatlerde gösterisini aldı",
       "url" : "https://kurier.at/kultur/medien/twitch-star-jens-knossalla-erhaelt-eigene-late-night-show-auf-rtl/401166291"
-    }, {
-      "id" : "kurndRgo",
-      "imgUrl" : "https://image.kurier.at/images/original/4822404/46-173568362.jpg",
-      "titleSource" : "Max Ophüls Preis: Arman T. Riahi räumt mit \"Fuchs im Bau\" ab",
-      "titleTarget" : "Max Ophüls Ödülü: Arman T. Riahi \"Fuchs im Bau\" ile kazandı",
-      "url" : "https://kurier.at/kultur/max-ophuels-preis-arman-t-riahi-raeumt-mit-fuchs-im-bau-ab/401166072"
     }, {
       "id" : "SjtCjJYv",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/6/5/5927269/36733067-AAE1-4342-98C9-E487CD9B8333_v0_l.jpg",
@@ -127,12 +134,6 @@
       "titleSource" : "Musiksalon Nr. 47: Die Mozartwoche, online",
       "titleTarget" : "Müzik Salonu No.47: Mozart Haftası, çevrimiçi",
       "url" : "https://www.diepresse.com/5927144/Podcast_Musiksalon-Nr-47_Die-Mozartwoche-online?from=rss"
-    }, {
-      "id" : "hyCN4dKi",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/d/9/5927129/beet_1611484364428779_v0_h.jpg",
-      "titleSource" : "Hat Beethoven hat sein Metronom einfach nicht verstanden?",
-      "titleTarget" : "Beethoven metronomunu anlamadı mı?",
-      "url" : "https://www.diepresse.com/5927129/Studie_Hat-Beethoven-hat-sein-Metronom-einfach-nicht-verstanden?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -140,26 +141,11 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "RmkGKibO",
-      "titleSource" : "Rang zwei für Tippler im Super-G",
-      "titleTarget" : "Tippler için Super-G'de ikinci sırada",
-      "url" : "https://sport.orf.at/stories/3072248/"
-    }, {
-      "id" : "A1gDY7I4",
-      "titleSource" : "Gruber nach Comeback wieder im Spital",
-      "titleTarget" : "Gruber dönüşünün ardından hastaneye döndü",
-      "url" : "https://sport.orf.at/stories/3072243/"
-    }, {
-      "id" : "tLYiNZpj",
-      "imgUrl" : "https://image.kurier.at/images/original/4228163/46-153901408.jpg",
-      "titleSource" : "Drama um ÖSV-Kombinierer Gruber: Akute Herz-OP nach Comeback",
-      "titleTarget" : "ÖSV birleştiricisi Gruber hakkında drama: Geri dönüş sonrası akut kalp ameliyatı",
-      "url" : "https://kurier.at/sport/wintersport/akute-herzoperation-bei-oesv-kombinierer-bernhard-gruber/401166150"
-    }, {
-      "id" : "fexLwNcr",
-      "titleSource" : "Steu/Koller rasen vorzeitig zu Gesamtsieg",
-      "titleTarget" : "Steu / Koller genel zafere doğru yarışıyor",
-      "url" : "https://sport.orf.at/stories/3072257/"
+      "id" : "0amZkGVt",
+      "imgUrl" : "https://image.kurier.at/images/original/4894305/46-174275365.jpg",
+      "titleSource" : "Drama in Brasilien: Flugzeug mit Fußballern an Bord abgestürzt",
+      "titleTarget" : "Brezilya'da drama: Uçakta futbolcular varken uçak düştü",
+      "url" : "https://kurier.at/sport/fussball/drama-in-brasilien-flugzeug-mit-fussball-team-abgestuerzt/401166570"
     }, {
       "id" : "TnKiVBpu",
       "imgUrl" : "https://image.kurier.at/images/original/4893393/46-174268261.jpg",
@@ -167,15 +153,33 @@
       "titleTarget" : "Bayanlar Süper G: Lara Gut-Behrami, Tamara Tippler'ın önünde kazandı",
       "url" : "https://kurier.at/sport/wintersport/damen-super-g-lara-gut-behrami-siegt-vor-tamara-tippler/401166342"
     }, {
-      "id" : "J9uGs90w",
-      "titleSource" : "Feuz rast zu seltenem Streif-Abfahrtsdouble",
-      "titleTarget" : "Feuz, nadir Streif ayrılışına doğru yarışıyor",
-      "url" : "https://sport.orf.at/stories/3072241/"
+      "id" : "zXO3dqYj",
+      "imgUrl" : "https://image.kurier.at/images/original/4893768/46-174267620.jpg",
+      "titleSource" : "Langlauf: Eklat um Russen Bolschunow - Attacke auf Konkurrenten",
+      "titleTarget" : "Kros kayağı: Ruslar Bolshunov skandalı - rakiplere saldırı",
+      "url" : "https://kurier.at/sport/wintersport/langlauf-eklat-um-russen-bolschunow-attacke-auf-konkurrenten/401166408"
     }, {
-      "id" : "9kAgFyRW",
-      "titleSource" : "Streif-Abfahrt wird zu riskantem Balanceakt",
-      "titleTarget" : "Streif iniş riskli bir dengeleme hareketine dönüşüyor",
-      "url" : "https://sport.orf.at/stories/3072210/"
+      "id" : "WwlltRc7",
+      "imgUrl" : "https://image.kurier.at/images/original/4894140/46-174273081.jpg",
+      "titleSource" : "Rückschlag im Titelkampf: LASK blamiert sich gegen WSG Tirol",
+      "titleTarget" : "Şampiyonluk mücadelesinde gerileme: LASK, WSG Tirol'e karşı utanıyor",
+      "url" : "https://kurier.at/sport/fussball/rueckschlag-im-bundesliga-titelkampf-lask-blamiert-sich-gegen-wsg-tirol/401166558"
+    }, {
+      "id" : "vToLBNuD",
+      "titleSource" : "Alaba trifft bei Bayern-Kantersieg",
+      "titleTarget" : "Alaba, Bayern zaferinde gol attı",
+      "url" : "https://sport.orf.at/stories/3072277/"
+    }, {
+      "id" : "QFqphI4J",
+      "imgUrl" : "https://image.kurier.at/images/original/4893288/46-109923495.jpg",
+      "titleSource" : "Günter Bresnik wird neuer Coach von Gael Monfils",
+      "titleTarget" : "Günter Bresnik, Gael Monfils'in yeni teknik direktörü oldu",
+      "url" : "https://kurier.at/sport/tennis/tennis-ex-trainer-von-dominic-thiem-guenter-bresnik-wird-neuer-coach-von-gael-monfils/401166324"
+    }, {
+      "id" : "ZqaEvvSA",
+      "titleSource" : "Brady führt Tampa Bay in Heim-Super-Bowl",
+      "titleTarget" : "Brady, ev sahibi Super Bowl'da Tampa Bay'i yönetiyor",
+      "url" : "https://sport.orf.at/stories/3072293/"
     } ]
   } ],
   "country" : "austria",
