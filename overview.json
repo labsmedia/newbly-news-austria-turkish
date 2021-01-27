@@ -2,23 +2,11 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "tC2O3MyI",
-      "imgUrl" : "https://image.kurier.at/images/original/4896988/46-173698828.jpg",
-      "titleSource" : "Tiroler Politiker Hörl positiv: Vor Test mit Platter in Sitzung",
-      "titleTarget" : "Tirollü politikacılar ve teleferik operatörü Hörl, Corona için pozitif çıktı",
-      "url" : "https://kurier.at/politik/inland/tiroler-oevp-politiker-und-seilbahner-franz-hoerl-positiv-auf-corona-getestet/401168101"
-    }, {
-      "id" : "jWGCkIcS",
-      "imgUrl" : "https://image.kurier.at/images/original/4897039/46-174237109.jpg",
-      "titleSource" : "Anschober überarbeitet den Impfplan für Über-80-Jährige",
-      "titleTarget" : "Anschober aşılama planını gözden geçiriyor",
-      "url" : "https://kurier.at/politik/inland/anschober-ueberarbeitet-den-impfplan/401168158"
-    }, {
-      "id" : "59fKY9mu",
-      "imgUrl" : "https://image.kurier.at/images/original/4896859/46-164600014.jpg",
-      "titleSource" : "Lockdown-Entscheidung vertagt, \"Schulschließungen leider effektiv\"",
-      "titleTarget" : "Kilitleme kararı ertelendi, \"okul kapanışları maalesef etkili\"",
-      "url" : "https://kurier.at/politik/inland/lockdown-entscheidung-vertagt-virologin-schulschliessungen-leider-effektiv/401168005"
+      "id" : "f1q8Fjl0",
+      "imgUrl" : "https://image.kurier.at/images/original/4898923/46-173254797.jpg",
+      "titleSource" : "\"Corona-Diktat\": FPÖ-Belakowitsch verweigert Corona-Test vor TV-Sendung",
+      "titleTarget" : "\"Corona dikte\": FPÖ Belakowitsch, TV yayınından önce korona testini reddediyor",
+      "url" : "https://kurier.at/politik/inland/corona-diktat-fpoe-belakowitsch-verweigert-corona-test-vor-tv-sendung/401169178"
     }, {
       "id" : "gTtfvKYH",
       "imgUrl" : "https://image.kurier.at/images/original/4897372/46-174137422.jpg",
@@ -26,23 +14,35 @@
       "titleTarget" : "Avrupa'da Covid aşılarının kriz üretimi için Rendi-Wagner",
       "url" : "https://kurier.at/politik/inland/rendi-wagner-fuer-krisenproduktion-von-covid-impfstoffen-in-europa/401168362"
     }, {
-      "id" : "mTv7HucS",
-      "imgUrl" : "https://image.kurier.at/images/original/4842618/46-173750498.jpg",
-      "titleSource" : "Anschober über Lieferprobleme bei Astra Zeneca: \"Wollen konkrete Liefertermine\"",
-      "titleTarget" : "Astra Zeneca'daki teslimat sorunları hakkında Anschober: \"Belirli teslimat tarihlerini istiyorum\"",
-      "url" : "https://kurier.at/politik/inland/anschober-ueber-lieferprobleme-bei-astrazeneca-wollen-konkrete-liefertermine/401168029"
-    }, {
       "id" : "WTxdmPP5",
-      "imgUrl" : "https://image.kurier.at/images/original/4898758/46-173484944.jpg",
+      "imgUrl" : "https://image.kurier.at/images/original/4898908/46-164442720.jpg",
       "titleSource" : "Kaiser über Astra Zeneca: \"Ist hier jemand betrogen worden?'\"",
       "titleTarget" : "Kaiser, Astra Zeneca'da: \"Burada kimse ihanete uğradı mı?\"",
       "url" : "https://kurier.at/politik/inland/kaiser-ueber-astra-zeneca-ist-hier-jemand-betrogen-worden/401169088"
     }, {
-      "id" : "mrvMs14L",
-      "imgUrl" : "https://image.kurier.at/images/original/4898758/46-173484944.jpg",
-      "titleSource" : "Kaiser über AstraZeneca: \"Ist hier jemand betrogen worden?'\"",
-      "titleTarget" : "Kaiser AstraZeneca'dan: \"Burada ihanete uğrayan var mı?\"",
-      "url" : "https://kurier.at/politik/inland/kaiser-ueber-astrazeneca-ist-hier-jemand-betrogen-worden/401169088"
+      "id" : "vwkat1zc",
+      "imgUrl" : "https://image.kurier.at/images/original/4897813/20210126-ABD0082-1-1.jpg",
+      "titleSource" : "U-Ausschuss: Werber Pelinka schilderte Video-Angebot bei Treffen",
+      "titleTarget" : "U Komitesi: Reklamveren Pelinka toplantılarda video teklifini anlattı",
+      "url" : "https://kurier.at/politik/inland/u-ausschuss-werber-pelinka-schilderte-video-angebot-bei-treffen/401168914"
+    }, {
+      "id" : "rHInPreG",
+      "imgUrl" : "https://image.kurier.at/images/original/4339286/8057222.jpg",
+      "titleSource" : "Impfung: Daten aus e-Impfpass werden ab Mittwoch veröffentlicht",
+      "titleTarget" : "Aşılama: E-aşı kartındaki veriler Çarşamba gününden itibaren yayınlanacaktır.",
+      "url" : "https://kurier.at/politik/inland/impfung-daten-aus-e-impfpass-werden-ab-mittwoch-veroeffentlicht/401168926"
+    }, {
+      "id" : "37YUMZH8",
+      "imgUrl" : "https://image.kurier.at/images/original/4833300/78350011458067028_BLD_Online.jpg",
+      "titleSource" : "Zu hart? FPÖ überarbeitet Compliance-Regeln nochmals",
+      "titleTarget" : "Çok zor? FPÖ uyum kurallarını yeniden revize ediyor",
+      "url" : "https://kurier.at/politik/inland/zu-hart-fpoe-ueberarbeitet-compliance-regeln-nochmals/401169439"
+    }, {
+      "id" : "3rTTyCEn",
+      "imgUrl" : "https://image.kurier.at/images/original/4373813/6229810.jpg",
+      "titleSource" : "Asyl: 1.300 freiwillig aus Österreich heimgekehrt",
+      "titleTarget" : "İltica: 1.300 Avusturya'dan gönüllü olarak döndü",
+      "url" : "https://kurier.at/politik/inland/asyl-1300-freiwillig-aus-oesterreich-heimgekehrt/401169394"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -58,18 +58,6 @@
       "titleSource" : "„Wiederaufbau-Trio“ feilt an Vision 2040",
       "titleTarget" : "\"Yeniden yapılanma üçlüsü\" Vision 2040 üzerinde çalışıyor",
       "url" : "https://kurier.at/wirtschaft/wiederaufbau-trio-feilt-an-vision-2040/401168851"
-    }, {
-      "id" : "yY4ayWE0",
-      "imgUrl" : "https://image.kurier.at/images/original/3435895/46-129540686.jpg",
-      "titleSource" : "Bad, Sofa oder neue Küche? Leiner versteigert 40.000 Artikel",
-      "titleTarget" : "Banyo, kanepe veya yeni mutfak? Leiner, 40.000 öğeyi açık artırmaya çıkarıyor",
-      "url" : "https://kurier.at/wirtschaft/bad-sofa-oder-neue-kueche-leiner-versteigert-40000-artikel/401168218"
-    }, {
-      "id" : "gvTw5LIv",
-      "imgUrl" : "https://image.kurier.at/images/original/4896892/46-90377577.jpg",
-      "titleSource" : "Lehrgang für Aufsichtsräte: Junger Schwung in die alte Welt",
-      "titleTarget" : "Denetim kurulları için kurs: eski dünyaya genç ivme",
-      "url" : "https://kurier.at/wirtschaft/karriere/lehrgang-fuer-aufsichtsraete-junger-schwung-in-die-alte-welt/401168023"
     }, {
       "id" : "DTrpuaxc",
       "imgUrl" : "https://image.kurier.at/images/original/4867158/20210112-ABD0058-1-1.jpg",
@@ -88,6 +76,18 @@
       "titleSource" : "Bestellplattform Mjam eröffnet Online-Supermarkt",
       "titleTarget" : "Mjam sipariş platformu çevrimiçi süpermarketi açtı",
       "url" : "https://kurier.at/wirtschaft/bestellplattform-mjam-eroeffnet-online-supermarkt/401168467"
+    }, {
+      "id" : "ilWJ6YtP",
+      "imgUrl" : "https://image.kurier.at/images/original/3982748/81650355552118964_BLD_Online.jpg",
+      "titleSource" : "EU-Milliarden für Batterieprojekt",
+      "titleTarget" : "Pil projesi için milyarlarca AB",
+      "url" : "https://kurier.at/wirtschaft/eu-milliarden-fuer-batterieprojekt/401168791"
+    }, {
+      "id" : "nUYcwO6X",
+      "imgUrl" : "https://image.kurier.at/images/original/4898575/46-174212734.jpg",
+      "titleSource" : "US-Präsident: Nord Stream 2 \"schlechter Deal für Europa\"",
+      "titleTarget" : "ABD Başkanı: Kuzey Akım 2 \"Avrupa için kötü anlaşma\"",
+      "url" : "https://kurier.at/wirtschaft/us-praesident-nord-stream-2-schlechter-deal-fuer-europa/401169058"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -98,23 +98,11 @@
       "titleTarget" : "Schwarzenberg'deki Haldenlift'te yeni bir soluk",
       "url" : "https://vorarlberg.orf.at/stories/3086377/"
     }, {
-      "id" : "EouaEvVS",
-      "imgUrl" : "https://image.kurier.at/images/original/4896642/46-174321841.jpg",
-      "titleSource" : "Burger-Boom in Wien: Zwei Typen gegen \"Five Guys\"",
-      "titleTarget" : "Viyana'da burger patlaması: \"Five Guys\" a karşı iki adam",
-      "url" : "https://kurier.at/chronik/oesterreich/burger-boom-in-wien-zwei-typen-gegen-five-guys/401167827"
-    }, {
-      "id" : "2m5sCUSt",
-      "imgUrl" : "https://image.kurier.at/images/original/4243085/46-106892127.jpg",
-      "titleSource" : "Fast die Hälfte der Todesfälle in Alters- und Pflegeheimen",
-      "titleTarget" : "Huzurevlerinde ve huzurevlerinde gerçekleşen ölümlerin neredeyse yarısı",
-      "url" : "https://kurier.at/chronik/oesterreich/fast-die-haelfte-der-todesfaelle-in-alters-und-pflegeheimen/401167999"
-    }, {
-      "id" : "8P0tdH9m",
-      "imgUrl" : "https://image.kurier.at/images/original/4897630/46-77781501.jpg",
-      "titleSource" : "80 belgische Soldaten bereits in Tirol: Abgeschottet auf 2.000 Meter",
-      "titleTarget" : "80 Belçikalı asker zaten Tirol'de: 2.000 metrede mühürlendi",
-      "url" : "https://kurier.at/chronik/oesterreich/80-belgische-soldaten-sollen-fuer-ausbildung-nach-tirol-kommen/401168128"
+      "id" : "jNnV5Vth",
+      "imgUrl" : "https://image.kurier.at/images/original/4109511/78350011453058134_BLD_Online.jpg",
+      "titleSource" : "Hohe Hürden: Immer mehr in Österreich Geborene werden keine Österreicher",
+      "titleTarget" : "Yüksek engeller: Avusturya'da doğanların sayısı gitgide daha fazla Avusturyalı olmuyor",
+      "url" : "https://kurier.at/chronik/oesterreich/hohe-huerden-immer-mehr-in-oesterreich-geborene-werden-keine-oesterreicher/401168983"
     }, {
       "id" : "ORD5jsyG",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/e/a/5927914/Themenbild-Corona-Eine-junge-Frau-mit-Schutzmaske-MundschutzFFP2-KN95-medizinische-Maske-Community-Maske-blickt-sorg_161165909838635_v0_h.jpg",
@@ -122,16 +110,29 @@
       "titleTarget" : "KN95 maskeleri ne hakkında",
       "url" : "https://www.diepresse.com/5927914/Masken_Was-es-mit-den-KN95Masken-auf-sich-hat?from=rss"
     }, {
-      "id" : "XHmWvGgb",
-      "titleSource" : "Neue Chancen für junge Barkeeper",
-      "titleTarget" : "Genç barmenler için yeni fırsatlar",
-      "url" : "https://salzburg.orf.at/stories/3086982/"
+      "id" : "lVpAln0q",
+      "imgUrl" : "https://image.kurier.at/images/original/4899058/46-173494738.jpg",
+      "titleSource" : "Neue Details: So legte der Ibiza-Detektiv Strache und Gudenus hinein",
+      "titleTarget" : "Yeni ayrıntılar: İbiza dedektifi, Strache ve Gudenus'u içine soktu",
+      "url" : "https://kurier.at/chronik/oesterreich/interview-so-legte-der-ibiza-detektiv-strache-und-gudenus-hinein/401169253"
     }, {
-      "id" : "zIolOVIl",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "1.417 neue Corona-Infektionen in Österreich",
-      "titleTarget" : "Avusturya'da 1.417 yeni korona enfeksiyonu",
-      "url" : "https://kurier.at/chronik/oesterreich/1417-neue-corona-infektionen-in-oesterreich/401168155"
+      "id" : "Dw5sfq6J",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/04/43/crops/w=1280/817460_opener_285043_meldungsliste13.jpg?s=8480fd83dbfeae5dcc0ffb99aa27ac5c77ebbac0",
+      "titleSource" : "Tausende Pensionisten warten auf FFP2-Masken",
+      "titleTarget" : "Binlerce emekli FFP2 maskelerini bekliyor",
+      "url" : "https://vorarlberg.orf.at/stories/3087049/"
+    }, {
+      "id" : "MdIJQ5Kp",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/09/crops/w=1280/763393_opener_265309_image.jpg?s=78ec125894c55f7604037d2e433f1b2b87c44bd7",
+      "titleSource" : "Lockdown: Platter sieht Stimmung kippen",
+      "titleTarget" : "Kilitleme: Platter ruh halinin değiştiğini görüyor",
+      "url" : "https://tirol.orf.at/stories/3087027/"
+    }, {
+      "id" : "jiKgmGOI",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/05/21/crops/w=1280/825977_opener_288021_kinder.jpg?s=a24c0f57a72df7b0988c69d920bae748c1b71681",
+      "titleSource" : "Immer mehr Kinder leiden unter Lockdowns",
+      "titleTarget" : "Giderek daha fazla çocuk kilitlenmelerden muzdarip",
+      "url" : "https://wien.orf.at/stories/3087068/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -148,12 +149,6 @@
       "titleTarget" : "Açık artırma rekoru: Bir dizi Pokémon kartı için 408.000 dolar",
       "url" : "https://kurier.at/kultur/auktionsrekord-408000-us-dollar-fuer-ein-set-von-pokemon-karten/401168422"
     }, {
-      "id" : "J5XsxOnP",
-      "imgUrl" : "https://image.kurier.at/images/original/4896964/46-147684116.jpg",
-      "titleSource" : "Minus 199 Milliarden Euro: Coronakrise beutelt europäische Kulturwirtschaft",
-      "titleTarget" : "Eksi 199 milyar euro: Corona krizi Avrupa kültür endüstrisini şok etti",
-      "url" : "https://kurier.at/kultur/minus-199-mrd-euro-coronakrise-beutelt-europaeische-kulturwirtschaft/401168089"
-    }, {
       "id" : "H8cNQPub",
       "imgUrl" : "https://image.kurier.at/images/original/4897951/46-174908252.jpg",
       "titleSource" : "Schalkos \"Ich und die Anderen\" feiert in Berlin Premiere",
@@ -166,17 +161,23 @@
       "titleTarget" : "Spotify ile yemek pişirme: Barilla'nın çalma listeleri, spagetti al dente olduğunda ortaya çıkıyor",
       "url" : "https://kurier.at/kultur/medien/kochen-mit-spotify-barillas-playlists-verraten-wann-die-spaghetti-al-dente-sind/401168614"
     }, {
-      "id" : "DMBPeY5L",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/4/d/5927757/FE0732A6-1C81-44D6-A0A1-8E15D43FD5F6_v0_l.jpg",
-      "titleSource" : "\"Die Ausgrabung\": So spannend kann Buddeln sein",
-      "titleTarget" : "\"Kazı\": kazmak çok heyecan verici olabilir",
-      "url" : "https://www.diepresse.com/5927757/Film_Die-Ausgrabung_So-spannend-kann-Buddeln-sein?from=rss"
+      "id" : "1e6UaKiR",
+      "imgUrl" : "https://image.kurier.at/images/original/4897957/46-174871807.jpg",
+      "titleSource" : "\"Styx“: Urlaubsreise endet mit Schiffbruch",
+      "titleTarget" : "\"Styx\": tatil gezisi gemi enkazı ile biter",
+      "url" : "https://kurier.at/kultur/styx-urlaubsreise-endet-mit-schiffbruch/401168740"
     }, {
-      "id" : "ArCoevyL",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/0/e/5927950/blouds_1611657479993459.jpg",
-      "titleSource" : "Die zehn besten Filme 2020 - für das American Film Institute",
-      "titleTarget" : "2020'nin en iyi on filmi - Amerikan Film Enstitüsü için",
-      "url" : "https://www.diepresse.com/5927950/Ausgezeichnet_Die-zehn-besten-Filme-2020-fuer-das-American-Film?from=rss"
+      "id" : "c034S251",
+      "imgUrl" : "https://image.kurier.at/images/original/4899301/knossinsekt.jpg",
+      "titleSource" : "Herr Knossi sucht das Glück bei RTL - und verspeist ein Rieseninsekt",
+      "titleTarget" : "Bay Knossi RTL'de mutluluk arıyor - ve dev bir böceği yiyor",
+      "url" : "https://kurier.at/kultur/medien/herr-knossi-sucht-das-glueck-bei-rtl-und-verspeist-rieseninsekt/401169454"
+    }, {
+      "id" : "PEchYJRc",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/a/8/5928360/da-5-bloods_161173724937620.jpg",
+      "titleSource" : "US-Filmverband kürt \"Da 5 Bloods\" zum Film des Jahres",
+      "titleTarget" : "ABD film derneği, yılın filmi olarak \"Da 5 Bloods\" adını verdi",
+      "url" : "https://www.diepresse.com/5928360/Auszeichnung_USFilmverband-kuerte-Da-5-Bloods-von-Spike-Lee-zum?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -189,21 +190,16 @@
       "titleTarget" : "Öfkeli siyah, Schladming zaferi",
       "url" : "https://sport.orf.at/stories/3072360/"
     }, {
-      "id" : "O66m6VJ8",
-      "titleSource" : "Baumgartlingers EM-Chance lebt",
-      "titleTarget" : "Baumgartlinger'in EM şansı yaşıyor",
-      "url" : "https://sport.orf.at/stories/3072345/"
-    }, {
       "id" : "Hc21N1Lp",
       "imgUrl" : "https://image.kurier.at/images/original/4898533/46-174973854.jpg",
       "titleSource" : "Schneetreiben: Rapid - St. Pölten auf Mittwochabend verschoben",
       "titleTarget" : "Sürüklenen kar: Hızlı - St. Pölten Çarşamba akşamına ertelendi",
       "url" : "https://kurier.at/sport/fussball/reges-schneetreiben-bundesliga-spiel-rapid-st-poelten-abgesagt/401169049"
     }, {
-      "id" : "0STfRunn",
-      "titleSource" : "ÖSV-Techniker für Schladming bereit",
-      "titleTarget" : "ÖSV teknisyenleri Schladming'e hazır",
-      "url" : "https://sport.orf.at/stories/3072297/"
+      "id" : "gL6svGXj",
+      "titleSource" : "Kapfenberg startet mit Sieg in Europe Cup",
+      "titleTarget" : "Kapfenberg, Avrupa Kupası'nda zaferle başlıyor",
+      "url" : "https://sport.orf.at/stories/3072354/"
     }, {
       "id" : "4fo9k9oR",
       "imgUrl" : "https://image.kurier.at/images/original/4897624/46-174137316.jpg",
@@ -211,16 +207,21 @@
       "titleTarget" : "Borçlu milyarlarca: Barca gerçekten ne kadar kötü",
       "url" : "https://kurier.at/sport/fussball/ueber-1-milliarde-euro-schulden-so-schlecht-steht-der-fc-barcelona-wirklich-da/401168449"
     }, {
-      "id" : "wFJBVVXB",
-      "imgUrl" : "https://image.kurier.at/images/original/4898317/46-174941949.jpg",
-      "titleSource" : "Halbzeitführung für Feller beim Night Race in Schladming",
-      "titleTarget" : "Schladming'deki Gece Yarışı'nda Feller için devre arası tur",
-      "url" : "https://kurier.at/sport/wintersport/ski-alpin-halbzeitfuehrung-fuer-manuel-feller-beim-night-race-in-schladming/401168968"
+      "id" : "Y6O98uFQ",
+      "titleSource" : "Schwarz gewinnt Schladming-Slalom",
+      "titleTarget" : "Siyah, Schladming Slalom'u kazandı",
+      "url" : "https://sport.orf.at/stories/3072365/"
     }, {
-      "id" : "RaODMRBT",
-      "titleSource" : "Barca-Schulden klettern in enorme Höhen",
-      "titleTarget" : "Barca borcu hızla artıyor",
-      "url" : "https://sport.orf.at/stories/3072340/"
+      "id" : "Ia1VOjDn",
+      "titleSource" : "Rapid – St. Pölten wegen Schneefalls abgesagt",
+      "titleTarget" : "Rapid - St.Pölten kar yağışı nedeniyle iptal edildi",
+      "url" : "https://sport.orf.at/stories/3072362/"
+    }, {
+      "id" : "Pz0Whw8l",
+      "imgUrl" : "https://image.kurier.at/images/original/4898986/46-175060613.jpg",
+      "titleSource" : "Nach Schwarz-Sieg: \"Cooler, wenn 45.000 Leute da gestanden hätten\"",
+      "titleTarget" : "Schwarz zaferinden sonra: \"Orada 45.000 kişi dursaydı daha iyi\"",
+      "url" : "https://kurier.at/sport/wintersport/sieg-von-marco-schwarz-im-schladming-slalom-cooler-wenn-45000-leute-da-gestanden-haetten/401169232"
     } ]
   } ],
   "country" : "austria",
