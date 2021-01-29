@@ -26,17 +26,17 @@
       "titleTarget" : "Sürgünler: SPÖ, cumhurbaşkanını eleştirdiği için özür talep ediyor",
       "url" : "https://kurier.at/politik/inland/abschiebungen-spoe-fordert-entschuldigung-wegen-kritik-am-praesidenten/401172094"
     }, {
-      "id" : "Qm5sGS4m",
-      "imgUrl" : "https://image.kurier.at/images/original/4842735/20201227-ABD0058-1-1.jpg",
-      "titleSource" : "Impfung: Neos sehen Verordnung als Freibrief zur Impfung für alle",
-      "titleTarget" : "Aşılama: Neos, düzenlemeyi herkes için aşılama lisansı olarak görüyor",
-      "url" : "https://kurier.at/politik/inland/impfung-neos-sehen-verordnung-als-freibrief-zur-impfung-fuer-alle/401171401"
-    }, {
       "id" : "EG54SU8W",
       "imgUrl" : "https://image.kurier.at/images/original/4373813/6229810.jpg",
       "titleSource" : "Abschiebungen: \"Dann ist Nehammer Problem für Koalition\"",
       "titleTarget" : "Sürgünler: \"O halde Nehammer, koalisyon için bir sorundur\"",
       "url" : "https://kurier.at/politik/inland/abschiebungen-gruene-fordern-haertefallkommissionen-und-kritisieren-oevp/401172496"
+    }, {
+      "id" : "Qm5sGS4m",
+      "imgUrl" : "https://image.kurier.at/images/original/4842735/20201227-ABD0058-1-1.jpg",
+      "titleSource" : "Impfung: Neos sehen Verordnung als Freibrief zur Impfung für alle",
+      "titleTarget" : "Aşılama: Neos, düzenlemeyi herkes için aşılama lisansı olarak görüyor",
+      "url" : "https://kurier.at/politik/inland/impfung-neos-sehen-verordnung-als-freibrief-zur-impfung-fuer-alle/401171401"
     }, {
       "id" : "R36i4TOu",
       "imgUrl" : "https://image.kurier.at/images/original/4896618/20210125-ABD0158-1-1.jpg",
@@ -59,11 +59,23 @@
       "titleTarget" : "Ticaret, 8 Şubat'tan itibaren toplam açılış için bastırıyor",
       "url" : "https://kurier.at/wirtschaft/handel-draengt-auf-gesamtoeffnung-ab-8-februar/401172493"
     }, {
+      "id" : "bhmgJbIP",
+      "imgUrl" : "https://image.kurier.at/images/original/4905508/46-173264887.jpg",
+      "titleSource" : "David gegen Goliath an der Börse: Worum es bei dem GameStop-Streit geht",
+      "titleTarget" : "David, borsada Goliath'a karşı: GameStop anlaşmazlığının konusu",
+      "url" : "https://kurier.at/wirtschaft/david-gegen-goliath-an-der-boerse-worum-es-bei-dem-gamestop-streit-geht/401172868"
+    }, {
       "id" : "zdSjQ2Jr",
       "imgUrl" : "https://image.kurier.at/images/original/4873167/46-143758781.jpg",
       "titleSource" : "GameStop-Hype: Verluste von 70 Mrd. für US-Shortseller",
       "titleTarget" : "GameStop hype: ABD kısa satıcıları 70 milyar kaybetti",
       "url" : "https://kurier.at/wirtschaft/gamestop-hype-verluste-von-70-mrd-fuer-us-shortseller/401171671"
+    }, {
+      "id" : "uYnRkfAJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4700673/46-164293732.jpg",
+      "titleSource" : "Gesetzliche Corona-Kreditstundungen laufen am Sonntag aus",
+      "titleTarget" : "Yasal Corona kredisi ertelemeleri Pazar günü sona eriyor",
+      "url" : "https://kurier.at/wirtschaft/gesetzliche-corona-kreditstundungen-laufen-am-sonntag-aus/401171680"
     }, {
       "id" : "fS47enEv",
       "imgUrl" : "https://image.kurier.at/images/original/4546229/78370011355705550_BLD_Online.jpg",
@@ -71,44 +83,26 @@
       "titleTarget" : "Kredi kartı devi Visa, korona krizini azaltmak zorunda",
       "url" : "https://kurier.at/wirtschaft/kreditkarten-riese-visa-muss-in-corona-krise-abstriche-machen/401171770"
     }, {
-      "id" : "8SJa8u43",
-      "imgUrl" : "https://image.kurier.at/images/original/4886526/46-174185276.jpg",
-      "titleSource" : "Rekordumsatz mit Campingmobilen in Deutschland",
-      "titleTarget" : "Almanya'daki kampçılarla rekor satış",
-      "url" : "https://kurier.at/wirtschaft/rekordumsatz-mit-campingmobilen-in-deutschland/401171434"
-    }, {
-      "id" : "aaIH3tvP",
-      "imgUrl" : "https://image.kurier.at/images/original/3041280/78430640245257176_BLD_Online.jpg",
-      "titleSource" : "Deutsche Spielwarenindustrie erwartet 2021 deutliches Umsatzplus",
-      "titleTarget" : "Alman oyuncak sektörü, 2021 yılında satışlarda önemli bir artış bekliyor",
-      "url" : "https://kurier.at/wirtschaft/deutsche-spielwarenindustrie-erwartet-2021-deutliches-umsatzplus/401171467"
-    }, {
-      "id" : "UBaLvAJP",
-      "imgUrl" : "https://image.kurier.at/images/original/4861845/wirecard.jpg",
-      "titleSource" : "Übernahme von Wirecard-Kerngeschäft durch Santander abgeschlossen",
-      "titleTarget" : "Wirecard'ın ana işinin Santander tarafından devralınması tamamlandı",
-      "url" : "https://kurier.at/wirtschaft/uebernahme-von-wirecard-kerngeschaeft-durch-santander-abgeschlossen/401171602"
+      "id" : "jLECgE0r",
+      "imgUrl" : "https://image.kurier.at/images/original/4901593/46-174250603.jpg",
+      "titleSource" : "Markenartikel: Ruf nach „Fairplay“ im Supermarktregal",
+      "titleTarget" : "Markalı makaleler: Süpermarket rafında \"adil oyun\" çağrısı",
+      "url" : "https://kurier.at/wirtschaft/markenartikel-ruf-nach-fairplay-im-supermarktregal/401172838"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "qeHBxo5c",
-      "imgUrl" : "https://image.kurier.at/images/original/4875072/46-174085891.jpg",
-      "titleSource" : "Plagiatsaffäre: Villacher Nationalratsabgeordneter legt Magistertitel zurück",
-      "titleTarget" : "İntihal meselesi: Ulusal Konseyin Villach üyesi yüksek lisans derecesinden istifa etti",
-      "url" : "https://kurier.at/chronik/oesterreich/plagiatsaffaere-villacher-nationalratsabgeordneter-legt-magistertitel-zurueck/401171977"
-    }, {
       "id" : "uimGfowm",
       "imgUrl" : "https://image.kurier.at/images/original/4903507/46-167840271.jpg",
       "titleSource" : "Kinder- und Jugendpsychiatrie: Experten schlagen Alarm",
       "titleTarget" : "Çocuk ve ergen psikiyatrisi: uzmanlar alarmı çalar",
       "url" : "https://kurier.at/chronik/oesterreich/kinder-und-jugendpsychiatrie-experten-schlagen-alarm/401171830"
     }, {
-      "id" : "OvI6g4RW",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "1.500 Neuinfektionen in Österreich",
-      "titleTarget" : "Avusturya'da 1.500 yeni enfeksiyon",
-      "url" : "https://kurier.at/chronik/oesterreich/1500-neuinfektionen-in-oesterreich/401172106"
+      "id" : "qeHBxo5c",
+      "imgUrl" : "https://image.kurier.at/images/original/4875072/46-174085891.jpg",
+      "titleSource" : "Plagiatsaffäre: Villacher Nationalratsabgeordneter legt Magistertitel zurück",
+      "titleTarget" : "İntihal meselesi: Ulusal Konseyin Villach üyesi yüksek lisans derecesinden istifa etti",
+      "url" : "https://kurier.at/chronik/oesterreich/plagiatsaffaere-villacher-nationalratsabgeordneter-legt-magistertitel-zurueck/401171977"
     }, {
       "id" : "Xr8HSyr7",
       "imgUrl" : "https://image.kurier.at/images/original/4890456/46-174082288.jpg",
@@ -116,11 +110,11 @@
       "titleTarget" : "Ocak ayı örneklerinin yüzde 8.1'i şüpheli mutasyon gösteriyor",
       "url" : "https://kurier.at/chronik/oesterreich/81-prozent-von-tirols-jaenner-proben-zeigen-verdacht-auf-mutation/401171701"
     }, {
-      "id" : "WQUZieAs",
-      "imgUrl" : "https://image.kurier.at/images/original/4767000/78350011457564124_BLD_Online.jpg",
-      "titleSource" : "Polizei löst Coronaparty auf Parkplatz in Klagenfurt auf",
-      "titleTarget" : "Polis Klagenfurt otoparkındaki korona partisini dağıttı",
-      "url" : "https://kurier.at/chronik/oesterreich/polizei-loest-coronaparty-auf-parkplatz-auf/401171923"
+      "id" : "OvI6g4RW",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "1.500 Neuinfektionen in Österreich",
+      "titleTarget" : "Avusturya'da 1.500 yeni enfeksiyon",
+      "url" : "https://kurier.at/chronik/oesterreich/1500-neuinfektionen-in-oesterreich/401172106"
     }, {
       "id" : "MO4RaVgX",
       "imgUrl" : "https://image.kurier.at/images/original/4902640/46-36489454.jpg",
@@ -128,11 +122,17 @@
       "titleTarget" : "Zogaj Vakası: Arigona'nın Bugün Yaşadığı Yer",
       "url" : "https://kurier.at/chronik/oesterreich/der-fall-zogaj-wo-arigona-heute-lebt/401171350"
     }, {
-      "id" : "bk81nm3l",
-      "imgUrl" : "https://image.kurier.at/images/original/4891746/46-174082321.jpg",
-      "titleSource" : "Corona: Datenleck auf Test-Anmeldeseite in Salzburg",
-      "titleTarget" : "Corona: Salzburg'daki test oturum açma sayfasında veri sızıntısı",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-datenleck-auf-test-anmeldeseite-in-salzburg/401171512"
+      "id" : "WQUZieAs",
+      "imgUrl" : "https://image.kurier.at/images/original/4767000/78350011457564124_BLD_Online.jpg",
+      "titleSource" : "Polizei löst Coronaparty auf Parkplatz in Klagenfurt auf",
+      "titleTarget" : "Polis Klagenfurt otoparkındaki korona partisini dağıttı",
+      "url" : "https://kurier.at/chronik/oesterreich/polizei-loest-coronaparty-auf-parkplatz-auf/401171923"
+    }, {
+      "id" : "cRSAPdwU",
+      "imgUrl" : "https://image.kurier.at/images/original/4896841/46-174252033.jpg",
+      "titleSource" : "So hat sich Wien im Corona-Jahr verändert; Regierung entscheidet am Montag über Lockdown-Ende",
+      "titleTarget" : "Corona yılında Viyana böyle değişti; Hükümet, kapatmanın bitip bitmeyeceğine Pazartesi günü karar verecek",
+      "url" : "https://kurier.at/chronik/oesterreich/novavax-impfstoff-mit-guter-wirksamkeit-teststrategie-in-oe-nur-60-aller-infektionen-entdeckt/401171812"
     } ]
   }, {
     "category" : "CULTURE",
@@ -149,6 +149,12 @@
       "titleTarget" : "ORF General Wrabetz, Spin Doctor'ı denedi ve başarısız oldu",
       "url" : "https://kurier.at/kultur/medien/orf-general-wrabetz-versucht-den-spin-doctor-und-scheitert/401170351"
     }, {
+      "id" : "oYyr6tZb",
+      "imgUrl" : "https://image.kurier.at/images/original/4905031/46-77726373.jpg",
+      "titleSource" : "Das Stadttheater Klagenfurt bleibt bis nach Ostern geschlossen",
+      "titleTarget" : "Klagenfurt Şehir Tiyatrosu, Paskalya sonrasına kadar kapalı olacak",
+      "url" : "https://kurier.at/kultur/das-stadttheater-klagenfurt-bleibt-bis-nach-ostern-geschlossen/401172706"
+    }, {
       "id" : "AdfY6RzL",
       "imgUrl" : "https://image.kurier.at/images/original/4903654/46-175101724.jpg",
       "titleSource" : "Rekordpreis für Botticelli-Gemälde bei Online-Auktion",
@@ -161,23 +167,17 @@
       "titleTarget" : "\"Eve hoş geldiniz\": Arabella Kiesbauer'in ORF'ye dönüşü böyle oldu",
       "url" : "https://kurier.at/kultur/medien/willkommen-zuhause-im-orf-fuer-starmania-moderatorin-arabella-kiesbauer-im-fruehstuecks-tv/401171035"
     }, {
-      "id" : "6mRCfUY5",
-      "imgUrl" : "https://image.kurier.at/images/original/4883625/bridgerton_108_unit_00543r.jpg",
-      "titleSource" : "\"Bridgerton\" bricht Netflix-Rekord",
-      "titleTarget" : "\"Bridgerton\" Netflix rekorunu kırdı",
-      "url" : "https://kurier.at/kultur/medien/bridgerton-bricht-netflix-rekord/401170825"
-    }, {
       "id" : "F32fEEG0",
       "imgUrl" : "https://image.kurier.at/images/original/4904530/46-112323830.jpg",
       "titleSource" : "Franz West: Nun erbt die Schwester - zugunsten der Stiftung",
       "titleTarget" : "Franz West: Artık kardeş miras kalıyor - vakıf lehine",
       "url" : "https://kurier.at/kultur/franz-west-nun-erbt-die-schwester-zugunsten-der-stiftung/401172451"
     }, {
-      "id" : "4Y7LSmqE",
-      "imgUrl" : "https://image.kurier.at/images/original/4896183/46-174282972.jpg",
-      "titleSource" : "Kunst: Diese Ausstellungen gehen in die Verlängerung",
-      "titleTarget" : "Sanat: Bu sergiler genişletiliyor",
-      "url" : "https://kurier.at/kultur/diese-ausstellungen-gehen-in-die-verlaengerung/401171389"
+      "id" : "LR0780eA",
+      "imgUrl" : "https://image.kurier.at/images/original/4904098/46-175199078.jpg",
+      "titleSource" : "Auf dem Weg zur nächsten Generation der Online-Kunstmessen",
+      "titleTarget" : "Yeni nesil çevrimiçi sanat fuarlarına giden yolda",
+      "url" : "https://kurier.at/kultur/auf-dem-weg-zur-naechsten-generation-der-online-kunstmessen/401172304"
     } ]
   }, {
     "category" : "HEALTH",
@@ -206,17 +206,17 @@
       "titleTarget" : "Corona: Yeni PCR testi de mutasyonları anında tanır",
       "url" : "https://kurier.at/wissen/gesundheit/corona-neuer-pcr-test-erkennt-sofort-auch-mutationen/401168518"
     }, {
-      "id" : "RUFoGd4t",
-      "imgUrl" : "https://image.kurier.at/images/original/4899841/46-175066003.jpg",
-      "titleSource" : "Heilsam für die Leber: Mariendistel ist Arzneipflanze 2021",
-      "titleTarget" : "Karaciğer için faydalıdır: Deve dikeni 2021'de şifalı bir bitki olacak",
-      "url" : "https://kurier.at/wissen/gesundheit/heilsam-fuer-die-leber-mariendistel-ist-arzneipflanze-2021/401169754"
-    }, {
       "id" : "FzlkGK0u",
       "imgUrl" : "https://image.kurier.at/images/original/4903735/46-175060391.jpg",
       "titleSource" : "Erstmals Infektionen mit zwei Virus-Typen gleichzeitig",
       "titleTarget" : "İlk kez aynı anda iki virüs türü ile enfeksiyonlar",
       "url" : "https://kurier.at/wissen/gesundheit/coronavirus-erstmals-infektionen-mit-zwei-virus-typen-gleichzeitig/401172061"
+    }, {
+      "id" : "RUFoGd4t",
+      "imgUrl" : "https://image.kurier.at/images/original/4899841/46-175066003.jpg",
+      "titleSource" : "Heilsam für die Leber: Mariendistel ist Arzneipflanze 2021",
+      "titleTarget" : "Karaciğer için faydalıdır: Deve dikeni 2021'de şifalı bir bitki olacak",
+      "url" : "https://kurier.at/wissen/gesundheit/heilsam-fuer-die-leber-mariendistel-ist-arzneipflanze-2021/401169754"
     }, {
       "id" : "EJ9GBDNi",
       "imgUrl" : "https://image.kurier.at/images/original/4903477/46-175106583.jpg",
@@ -233,6 +233,18 @@
       "titleTarget" : "Hızlı başarı garantisi Kara: \"Bunu Zlatan'dan kopyaladım\"",
       "url" : "https://kurier.at/sport/fussball/rapid-erfolgsgarant-ercan-kara-ich-hab-mir-das-von-zlatan-abgeschaut/401171314"
     }, {
+      "id" : "8nPBIdxO",
+      "imgUrl" : "https://image.kurier.at/images/original/4904785/46-169041161.jpg",
+      "titleSource" : "Kühbauer: \"Marco Grüll würde mir bei Rapid extrem taugen\"",
+      "titleTarget" : "Kühbauer: \"Marco Grüll, Rapid'de benim için son derece yararlı olacaktır\"",
+      "url" : "https://kurier.at/sport/fussball/kuehbauer-marco-gruell-wuerde-mir-bei-rapid-extrem-taugen/401172574"
+    }, {
+      "id" : "FHpebtwJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4904947/46-174121280.jpg",
+      "titleSource" : "Schröcksnadel hört auf: Der ÖSV sucht einen Präsidenten",
+      "titleTarget" : "Schröcksnadel durur: ÖSV bir başkan arıyor",
+      "url" : "https://kurier.at/sport/wintersport/schroecksnadel-hoert-auf-der-oesv-sucht-einen-praesidenten/401172640"
+    }, {
       "id" : "0TDfKYA6",
       "imgUrl" : "https://image.kurier.at/images/original/4903237/46-175099241.jpg",
       "titleSource" : "Ermittlungen gegen Ronaldo nach einem Ausflug in die Alpen",
@@ -245,28 +257,17 @@
       "titleTarget" : "Kızakla kayma: Gleirscher kardeşler için Dünya Kupası altın ve bronz",
       "url" : "https://kurier.at/sport/wintersport/rodeln-wm-gold-und-bronze-fuer-gleirscher-brueder/401172571"
     }, {
-      "id" : "bosnV8WH",
-      "imgUrl" : "https://image.kurier.at/images/original/4902643/46-173387277.jpg",
-      "titleSource" : "Golf: Schwab in Dubai zum Auftakt 20., Wiesberger weit zurück",
-      "titleTarget" : "Golf: Schwab Dubai'de 20. sırada başlayacak, Wiesberger geri dönüyor",
-      "url" : "https://kurier.at/sport/golf-schwab-in-dubai-zum-auftakt-20-wiesberger-weit-zurueck/401171347"
+      "id" : "E7Qs2GXz",
+      "imgUrl" : "https://image.kurier.at/images/original/3740687/46-125312770.jpg",
+      "titleSource" : "Suljovic: \"Ich hatte Angst, dass ich wieder Dartitis bekomme\"",
+      "titleTarget" : "Suljovic: \"Tekrar dartite yakalanacağımdan korkuyordum\"",
+      "url" : "https://kurier.at/sport/darts-profi-mensur-suljovic-ich-hatte-angst-dass-ich-wieder-dartitis-bekomme/401171185"
     }, {
-      "id" : "Q3vzcoPK",
-      "imgUrl" : "https://image.kurier.at/images/original/4898437/46-174225558.jpg",
-      "titleSource" : "Basketball: Kapfenberg verliert im FIBA Europe Cup gegen Kiew",
-      "titleTarget" : "Basketbol: Kapfenberg, FIBA Avrupa Kupası'nda Kiev'e karşı kaybetti",
-      "url" : "https://kurier.at/sport/basketball-kapfenberg-verliert-im-fiba-europe-cup-gegen-kiew/401171440"
-    }, {
-      "id" : "EifoeXuy",
-      "imgUrl" : "https://image.kurier.at/images/original/4902784/46-167445481.jpg",
-      "titleSource" : "Zverev: \"Denke jeden Tag an Niederlage gegen Thiem\"",
-      "titleTarget" : "Zverev: \"Her gün Thiem'e kaybetmeyi düşünün\"",
-      "url" : "https://kurier.at/sport/tennis/deutscher-tennis-star-alexander-zverev-denke-jeden-tag-an-us-open-niederlage-gegen-thiem/401171473"
-    }, {
-      "id" : "dsLttR8h",
-      "titleSource" : "Sebastian Vettel zeigte sich im Aston Martin \"oben ohne\"",
-      "titleTarget" : "Sebastian Vettel, Aston Martin'de \"üstsüz\" idi",
-      "url" : "https://kurier.at/sport/motorsport/formel-1-sebastian-vettel-zeigte-sich-im-aston-martin-oben-ohne/401171749"
+      "id" : "gzck1Mht",
+      "imgUrl" : "https://image.kurier.at/images/original/4905052/46-37595838.jpg",
+      "titleSource" : "Der Handball-Bund trauert um seinen Präsidenten",
+      "titleTarget" : "Hentbol federasyonu başkanının yasını tutuyor",
+      "url" : "https://kurier.at/sport/der-handball-bund-trauert-um-seinen-praesidenten/401172709"
     } ]
   } ],
   "country" : "austria",
