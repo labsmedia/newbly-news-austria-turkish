@@ -2,23 +2,11 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "lkaxNRp3",
-      "imgUrl" : "https://image.kurier.at/images/original/4905928/tina_georgien.jpg",
-      "titleSource" : "Abschiebung: Betroffenes Mädchen und Nehammer in \"ZiB 2\"",
-      "titleTarget" : "Sınır dışı edilme: Etkilenen kız ve Nehammer \"ZiB 2\" de",
-      "url" : "https://kurier.at/politik/inland/nehammer-zu-abschiebung-kinder-sind-opfer-des-tuns-ihrer-eltern/401173066"
-    }, {
       "id" : "04jKvG1F",
       "imgUrl" : "https://image.kurier.at/images/original/4906162/46-174137422.jpg",
       "titleSource" : "Rendi-Wagner für Schulöffnung ab 8. Februar, Neos fordern Öffnungsplan",
       "titleTarget" : "8 Şubat'tan itibaren okul açılışı için Rendi-Wagner, Neos açılış planı talep ediyor",
       "url" : "https://kurier.at/politik/inland/rendi-wagner-fuer-schuloeffnung-ab-8-februar-neos-fordern-oeffnungsplan/401173246"
-    }, {
-      "id" : "ZkbI6idT",
-      "imgUrl" : "https://image.kurier.at/images/original/4905763/46-167280128.jpg",
-      "titleSource" : "Korosec zu Astra-Zeneca-Zulassung: \"Bei Senioren vorsichtig sein\"",
-      "titleTarget" : "Korosec, Astra-Zeneca onayı hakkında: \"Yaşlılara dikkat edin\"",
-      "url" : "https://kurier.at/politik/inland/korosec-zu-astra-zeneca-zulassung-bei-senioren-vorsichtig-sein/401172997"
     }, {
       "id" : "Ci3OZ6N2",
       "imgUrl" : "https://image.kurier.at/images/original/4906933/46-174103444.jpg",
@@ -29,6 +17,24 @@
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
+      "id" : "QOq5i9op",
+      "imgUrl" : "https://image.kurier.at/images/original/4907287/46-174002029.jpg",
+      "titleSource" : "Handel will bei erhoffter Öffnung strenge Regeln einhalten",
+      "titleTarget" : "Açılış umuluyorsa, perakende katı kurallara uymak ister",
+      "url" : "https://kurier.at/wirtschaft/handel-will-bei-erhoffter-oeffnung-strenge-regeln-einhalten/401173576"
+    }, {
+      "id" : "fnNtt59v",
+      "imgUrl" : "https://image.kurier.at/images/original/4880661/illu_corona_impfung_oesterreich.png",
+      "titleSource" : "Corona: Österreicher mit Impfmanagement unzufrieden",
+      "titleTarget" : "Corona: Avusturyalılar aşı yönetiminden memnun değil",
+      "url" : "https://kurier.at/wirtschaft/corona-oesterreicher-mit-impfmanagement-unzufrieden/401173156"
+    }, {
+      "id" : "G3TgYMit",
+      "imgUrl" : "https://image.kurier.at/images/original/4684794/20201008-ABD0016-1-1.jpg",
+      "titleSource" : "Wirecard: 25.000-Euro-Auftrag für Strassers Ex-Kabinettchef",
+      "titleTarget" : "Wirecard: Strasser'in eski kabine başkanı için 25.000 euro sipariş",
+      "url" : "https://kurier.at/wirtschaft/wirecard-auftraege-fuer-strassers-ex-kabinettschef/401173225"
+    }, {
       "id" : "QOPPWMUr",
       "imgUrl" : "https://image.kurier.at/images/original/4902310/46-174022252.jpg",
       "titleSource" : "Unternehmer im Lockdown: „Wir halten durch  “",
@@ -41,18 +47,6 @@
       "titleTarget" : "Eski güzelleşir: güzel yaşam için eski işçilik",
       "url" : "https://kurier.at/wirtschaft/immobiz/aus-alt-wird-schoen-altes-handwerk-fuer-schoenes-wohnen/401171470"
     }, {
-      "id" : "G3TgYMit",
-      "imgUrl" : "https://image.kurier.at/images/original/4684794/20201008-ABD0016-1-1.jpg",
-      "titleSource" : "Wirecard: 25.000-Euro-Auftrag für Strassers Ex-Kabinettchef",
-      "titleTarget" : "Wirecard: Strasser'in eski kabine başkanı için 25.000 euro sipariş",
-      "url" : "https://kurier.at/wirtschaft/wirecard-auftraege-fuer-strassers-ex-kabinettschef/401173225"
-    }, {
-      "id" : "fnNtt59v",
-      "imgUrl" : "https://image.kurier.at/images/original/4880661/illu_corona_impfung_oesterreich.png",
-      "titleSource" : "Corona: Österreicher mit Impfmanagement unzufrieden",
-      "titleTarget" : "Corona: Avusturyalılar aşı yönetiminden memnun değil",
-      "url" : "https://kurier.at/wirtschaft/corona-oesterreicher-mit-impfmanagement-unzufrieden/401173156"
-    }, {
       "id" : "US9VMj39",
       "imgUrl" : "https://image.kurier.at/images/original/4755051/20201112-ABD0009-1-1.jpg",
       "titleSource" : "AMS-Chef Kopf will \"jetziges Kurzarbeit-Modell beibehalten\"",
@@ -64,12 +58,6 @@
       "titleSource" : "Wie die Chip-Krise den Aufschwung in Europa bremst",
       "titleTarget" : "Çip krizi Avrupa'daki yükselişi nasıl yavaşlatıyor?",
       "url" : "https://kurier.at/wirtschaft/wie-die-chip-krise-den-aufschwung-in-europa-bremst/401173036"
-    }, {
-      "id" : "pWHP4Kqk",
-      "imgUrl" : "https://image.kurier.at/images/original/4902319/46-174872269.jpg",
-      "titleSource" : "Zurück zum Ex? Boomerang-Hiring im Praxistest",
-      "titleTarget" : "Eski sevgiliye mi dönüyorsun? Pratik bir testte Boomerang işe alma",
-      "url" : "https://kurier.at/wirtschaft/karriere/zurueck-zum-ex-boomerang-hiring-im-praxistest/401171170"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -92,17 +80,17 @@
       "titleTarget" : "1.478 yeni enfeksiyon; Aşı yönetiminden çoğu memnun değil",
       "url" : "https://kurier.at/chronik/oesterreich/handydaten-mobilitaet-im-corona-lockdown-um-ein-viertel-reduziert-tschechien-schliesst-grenze-fast/401173096"
     }, {
-      "id" : "14vOrCyn",
-      "imgUrl" : "https://image.kurier.at/images/original/4905859/46-175095099.jpg",
-      "titleSource" : "Corona: 96 Anzeigen nach Polizeikontrolle ",
-      "titleTarget" : "Corona: Polis kontrolünden sonra 96 rapor",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-96-anzeigen-nach-polizeikontrolle/401173063"
-    }, {
       "id" : "p8FDToG9",
       "imgUrl" : "https://image.kurier.at/images/original/4906105/46-175103627.jpg",
       "titleSource" : "Wundermittel oder Gefahr: Der Hype um die Eisschwimmer",
       "titleTarget" : "Mucize tedavi veya tehlike: buz yüzücüleri hakkındaki aldatmaca",
       "url" : "https://kurier.at/chronik/oesterreich/wundermittel-oder-gefahr-der-hype-um-die-eisschwimmer/401172901"
+    }, {
+      "id" : "qJaAXlWk",
+      "imgUrl" : "https://image.kurier.at/images/original/4907296/46-175102171.jpg",
+      "titleSource" : "Ausschreitungen bei Pro-Asyl-Demo in Innsbruck",
+      "titleTarget" : "Innsbruck'taki iltica yanlısı gösteride isyanlar",
+      "url" : "https://kurier.at/chronik/oesterreich/ausschreitungen-bei-pro-asyl-demo-in-innsbruck/401173597"
     }, {
       "id" : "UsrAB5DZ",
       "imgUrl" : "https://image.kurier.at/images/original/4906576/zib.png",
@@ -131,6 +119,17 @@
       "titleTarget" : "Bernardine Evaristo: Her cümle bir nota, müzik birlikte çalıyor",
       "url" : "https://kurier.at/kultur/buch/bernardine-evaristo-jeder-satz-eine-note-zusammen-spielt-die-musik/401171950"
     }, {
+      "id" : "MtIywE0B",
+      "imgUrl" : "https://image.kurier.at/images/original/4094664/podcast_illu_hell-01.png",
+      "titleSource" : "5 Podcast-Tipps für den Februar",
+      "titleTarget" : "Şubat için 5 podcast ipucu",
+      "url" : "https://kurier.at/kultur/medien/5-podcast-tipps-fuer-den-februar/401172898"
+    }, {
+      "id" : "1CIWs5jc",
+      "titleSource" : "Schottische Elektropop-Produzentin Sophie gestorben",
+      "titleTarget" : "İskoç elektro-pop yapımcısı Sophie öldü",
+      "url" : "https://kurier.at/kultur/schottische-elektropop-produzentin-sophie-gestorben/401173582"
+    }, {
       "id" : "6XvoRvOZ",
       "imgUrl" : "https://image.kurier.at/images/original/4906318/46-175198899.jpg",
       "titleSource" : "ServusTV rüstet sich für die Königsklasse",
@@ -142,77 +141,66 @@
       "titleSource" : "US-Behörden sagten Coachella-Festival erneut ab",
       "titleTarget" : "ABD'li yetkililer Coachella Festivali'ni yine iptal etti",
       "url" : "https://kurier.at/kultur/us-behoerden-sagten-coachella-festival-erneut-ab/401173135"
-    }, {
-      "id" : "BhrXWXVu",
-      "titleSource" : "Serien ",
-      "titleTarget" : "Dizi",
-      "url" : "https://kurier.at/kultur/medien/serien/401141427"
-    }, {
-      "id" : "MtIywE0B",
-      "imgUrl" : "https://image.kurier.at/images/original/4094664/podcast_illu_hell-01.png",
-      "titleSource" : "5 Podcast-Tipps für den Februar",
-      "titleTarget" : "Şubat için 5 podcast ipucu",
-      "url" : "https://kurier.at/kultur/medien/5-podcast-tipps-fuer-den-februar/401172898"
     } ]
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
-      "id" : "RSEGG5UB",
-      "imgUrl" : "https://image.kurier.at/images/original/4906267/46-175200017.jpg",
-      "titleSource" : "WHO-Team in Wuhan: Welche Fakten über die Mission bekannt sind",
-      "titleTarget" : "Wuhan'daki DSÖ ekibi: Misyon hakkında hangi gerçekler biliniyor?",
-      "url" : "https://kurier.at/wissen/gesundheit/who-team-in-wuhan-welche-fakten-ueber-die-mission-bekannt-sind/401173324"
-    }, {
       "id" : "YFYvuJly",
       "imgUrl" : "https://image.kurier.at/images/original/4907035/46-175235518.jpg",
       "titleSource" : "Astra-Zeneca-Impfstoff: Auch die über 65-Jährigen impfen?",
       "titleTarget" : "Astra-Zeneca aşısı: 65 yaşın üzerindekileri de aşı?",
       "url" : "https://kurier.at/wissen/gesundheit/astra-zeneca-impfstoff-auch-die-ueber-65-jaehrigen-impfen/401173492"
+    }, {
+      "id" : "RSEGG5UB",
+      "imgUrl" : "https://image.kurier.at/images/original/4906267/46-175200017.jpg",
+      "titleSource" : "WHO-Team in Wuhan: Welche Fakten über die Mission bekannt sind",
+      "titleTarget" : "Wuhan'daki DSÖ ekibi: Misyon hakkında hangi gerçekler biliniyor?",
+      "url" : "https://kurier.at/wissen/gesundheit/who-team-in-wuhan-welche-fakten-ueber-die-mission-bekannt-sind/401173324"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "qwQPxWGu",
-      "imgUrl" : "https://image.kurier.at/images/original/4905838/46-175227120.jpg",
-      "titleSource" : "Eishockey: Rotter schoss die Capitals beim Comeback ins Play-off",
-      "titleTarget" : "Buz hokeyi: Rotter geri dönüşlerinde başkentleri play-off'a vurdu",
-      "url" : "https://kurier.at/sport/wintersport/eishockey-rotter-schoss-die-capitals-beim-comeback-ins-play-off/401173048"
+      "id" : "EjCV52r5",
+      "imgUrl" : "https://image.kurier.at/images/original/4906516/46-175236998.jpg",
+      "titleSource" : "ÖSV-Skispringerin Marita Kramer ist die Königin der Lüfte",
+      "titleTarget" : "ÖSV kayak atlayıcısı Marita Kramer göklerin kraliçesi",
+      "url" : "https://kurier.at/sport/wintersport/oesv-skispringerin-marita-kramer-ist-die-koenigin-der-luefte/401173393"
     }, {
-      "id" : "G8yWFnSo",
-      "imgUrl" : "https://image.kurier.at/images/original/4906873/46-174109914.jpg",
-      "titleSource" : "Eisschnelllauf: Herzog in Heerenveen Dritte über die 500 Meter",
-      "titleTarget" : "Sürat pateni: Herzog, Heerenveen'de 500 metrenin üzerinde üçüncü",
-      "url" : "https://kurier.at/sport/wintersport/eisschnelllauf-herzog-in-heerenveen-dritte-ueber-die-500-meter/401173486"
+      "id" : "r7p59Ya2",
+      "imgUrl" : "https://image.kurier.at/images/original/4906087/46-174148984.jpg",
+      "titleSource" : "Verbotener Friseurbesuch: Harte Strafe für Ex-Rapidler Joelinton",
+      "titleTarget" : "Yasak kuaför ziyareti: Eski Rapidler Joelinton'a sert ceza",
+      "url" : "https://kurier.at/sport/fussball/verbotener-friseurbesuch-harte-strafe-fuer-ex-rapidler-joelinton/401173222"
     }, {
-      "id" : "H9lcMw3q",
-      "imgUrl" : "https://image.kurier.at/images/original/4906948/46-175238095.jpg",
-      "titleSource" : "2:1-Sieg in Bologna: Spitzenreiter Milan wieder in Erfolgsspur",
-      "titleTarget" : "Bologna'da 2-1 galibiyet: Liderler Milan tekrar başarı yolunda",
-      "url" : "https://kurier.at/sport/fussball/21-sieg-in-bologna-italiens-spitzenreiter-milan-wieder-in-erfolgsspur/401173495"
+      "id" : "Fn9OIxR1",
+      "imgUrl" : "https://image.kurier.at/images/original/4907455/46-175246644.jpg",
+      "titleSource" : "Copa Libertadores: Palmeiras holt den Titel",
+      "titleTarget" : "Copa Libertadores: Palmeiras unvanı aldı",
+      "url" : "https://kurier.at/sport/fussball/copa-libertadores-palmeiras-holt-den-titel/401173621"
     }, {
-      "id" : "UvpyyLpw",
-      "imgUrl" : "https://image.kurier.at/images/original/4906717/46-168347763.jpg",
-      "titleSource" : "Wegen neuem Tatoo: Empfindliche Geldstrafe für Bayerns Tolisso",
-      "titleTarget" : "Yeni bir dövme yüzünden: Bavyera'nın Tolisso'su için hassas para cezası",
-      "url" : "https://kurier.at/sport/fussball/wegen-neuem-tatoo-empfindliche-geldstrafe-fuer-bayern-muenchens-tolisso/401173447"
+      "id" : "RQ68l9Me",
+      "imgUrl" : "https://image.kurier.at/images/original/4907200/46-175242331.jpg",
+      "titleSource" : "Salzburg bleibt weiter makellos, Sturm stolpert über Altach",
+      "titleTarget" : "Salzburg kusursuz kalıyor, Sturm Altach'a takılıyor",
+      "url" : "https://kurier.at/sport/fussball/bundesliga-salzburg-bleibt-2021-weiter-makellos-sturm-graz-stolpert-ueber-altach/401173552"
     }, {
-      "id" : "3M7apbCN",
-      "imgUrl" : "https://image.kurier.at/images/original/4906741/46-175238866.jpg",
-      "titleSource" : "Nordische Kombination: Riiber siegt in Seefeld, Lamparter Siebenter",
-      "titleTarget" : "İskandinav kombinasyonu: Riiber Seefeld'de kazandı, Lamparter yedinci sırada",
-      "url" : "https://kurier.at/sport/wintersport/nordische-kombination-riiber-siegt-in-seefeld-lamparter-siebenter/401173459"
+      "id" : "6pNsBQSN",
+      "imgUrl" : "https://image.kurier.at/images/original/4907110/46-175239492.jpg",
+      "titleSource" : "Dramatische Szenen in Marseille: Wütende Fans stürmen Klub-Gelände",
+      "titleTarget" : "Marsilya'da dramatik sahneler: Kızgın taraftarlar kulüp sahasına saldırıyor",
+      "url" : "https://kurier.at/sport/fussball/ausschreitungen-in-marseille-wuetende-fans-stuermen-klub-gelaende/401173537"
     }, {
-      "id" : "b0kNLWHZ",
-      "imgUrl" : "https://image.kurier.at/images/original/4906612/46-174257343.jpg",
-      "titleSource" : "Italiens Verband will bei der EM Fans im Stadion von Rom",
-      "titleTarget" : "İtalya'nın derneği EM'de Roma'daki stadyumda taraftar istiyor",
-      "url" : "https://kurier.at/sport/fussball/italiens-verband-will-bei-der-em-fans-im-stadion-von-rom/401173432"
+      "id" : "Lo91yWs4",
+      "imgUrl" : "https://image.kurier.at/images/original/4907119/46-175241974.jpg",
+      "titleSource" : "Heimpleite gegen Levante: Nächster Rückschlag für Real Madrid",
+      "titleTarget" : "Levante'ye karşı ev sahibi başarısızlık: Real Madrid için bir sonraki başarısızlık",
+      "url" : "https://kurier.at/sport/fussball/heimpleite-gegen-levante-naechster-rueckschlag-fuer-real-madrid/401173543"
     }, {
-      "id" : "Oi9tUFSu",
-      "imgUrl" : "https://image.kurier.at/images/original/4906606/46-175225149.jpg",
-      "titleSource" : "Nächste WM-Medaille für Rodel-Olympiasieger David Gleirscher",
-      "titleTarget" : "Olimpiyat kızağı şampiyonu David Gleirscher için bir sonraki dünya şampiyonası madalyası",
-      "url" : "https://kurier.at/sport/wintersport/naechste-wm-medaille-fuer-rodel-olympiasieger-david-gleirscher/401173423"
+      "id" : "te0d3SR4",
+      "imgUrl" : "https://image.kurier.at/images/original/4907056/46-175240835.jpg",
+      "titleSource" : "Klarer Heimsieg für die Bayern, Tor-Premiere für Hinteregger",
+      "titleTarget" : "Bayern için galibiyet, Hinteregger için gol galası",
+      "url" : "https://kurier.at/sport/fussball/deutsche-bundesliga-klarer-sieg-fuer-leader-bayern-muenchen-tor-premiere-fuer-hinteregger/401173513"
     } ]
   } ],
   "country" : "austria",
