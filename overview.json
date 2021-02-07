@@ -2,35 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
+      "id" : "gCO8bq5i",
+      "imgUrl" : "https://image.kurier.at/images/original/4513379/46-164469343.jpg",
+      "titleSource" : "\"Maulkorb-Erlass\" für österreichische Soldaten",
+      "titleTarget" : "Avusturya askerleri için \"Namlu Kararnamesi\"",
+      "url" : "https://kurier.at/politik/inland/maulkorb-erlass-fuer-oesterreichische-soldaten/401180809"
+    }, {
       "id" : "MvyAupCS",
       "imgUrl" : "https://image.kurier.at/images/original/4920457/46-175315865.jpg",
       "titleSource" : "Kurz will Sputnik V in Österreich produzieren lassen",
       "titleTarget" : "Kısaca Sputnik V Avusturya'da üretim yapmak istiyor",
       "url" : "https://kurier.at/politik/inland/kurz-will-sputnik-v-in-oesterreich-produzieren-lassen/401180758"
-    }, {
-      "id" : "VlTnkJKj",
-      "imgUrl" : "https://image.kurier.at/images/original/4921522/46-175455269.jpg",
-      "titleSource" : "Wann wieder zugesperrt wird: Anschober äußert sich",
-      "titleTarget" : "Ne zaman tekrar kilitlenecek: Anschober kendini ifade ediyor",
-      "url" : "https://kurier.at/politik/inland/wann-wieder-zugesperrt-wird-anschober-aeussert-sich/401180458"
-    }, {
-      "id" : "6s8Mnri7",
-      "imgUrl" : "https://image.kurier.at/images/original/4921837/46-175493625.jpg",
-      "titleSource" : "Großbritannien hängt EU beim Impfen ab: Ende Mai fast alle geimpft ",
-      "titleTarget" : "İngiltere aşı için AB'ye bağımlı: Mayıs sonunda neredeyse tamamı aşı oldu",
-      "url" : "https://kurier.at/politik/inland/grossbritannien-haengt-eu-beim-impfen-ab-ende-mai-fast-alle-geimpft/401180533"
-    }, {
-      "id" : "5PvQl9BP",
-      "imgUrl" : "https://image.kurier.at/images/original/4921252/46-174213581.jpg",
-      "titleSource" : "Edtstadler: EU-Impfpass könnte im Sommer kommen",
-      "titleTarget" : "Edtstadler: AB aşı sertifikası yaz aylarında gelebilir",
-      "url" : "https://kurier.at/politik/inland/edtstadler-eu-impfpass-koennte-im-sommer-kommen/401180236"
-    }, {
-      "id" : "DQ3UNM80",
-      "imgUrl" : "https://image.kurier.at/images/original/4921414/46-175091561.jpg",
-      "titleSource" : "Corona: FPÖ fordert Volksabstimmung über Lockdown",
-      "titleTarget" : "Corona: FPÖ tecrit için referandum çağrısında bulundu",
-      "url" : "https://kurier.at/politik/inland/corona-fpoe-fordert-volksabstimmung-ueber-lockdown/401180359"
     }, {
       "id" : "mjzbyJjG",
       "imgUrl" : "https://image.kurier.at/images/original/4851207/46-164380237.jpg",
@@ -38,11 +20,29 @@
       "titleTarget" : "Bir bakışta Corona kuralları: Pazartesiden itibaren ne geçerlidir",
       "url" : "https://kurier.at/politik/inland/corona-regeln-im-ueberblick-was-ab-montag-gilt/401180635"
     }, {
-      "id" : "G2UG8XCI",
-      "imgUrl" : "https://image.kurier.at/images/original/4921570/46-175463948.jpg",
-      "titleSource" : "Corona: Forderung nach besserem Testangebot für Kindergärten",
-      "titleTarget" : "Corona: Anaokulları için daha iyi test teklifleri talebi",
-      "url" : "https://kurier.at/politik/inland/corona-forderung-nach-besserem-testangebot-fuer-kindergaerten/401180452"
+      "id" : "hAIDUqlM",
+      "imgUrl" : "https://image.kurier.at/images/original/4831116/20201218-ABD0329-1-1.jpg",
+      "titleSource" : "Österreich verschärft Grenzkontrollen zu allen Nachbarn",
+      "titleTarget" : "Avusturya tüm komşularıyla sınır kontrollerini sıkılaştırdı",
+      "url" : "https://kurier.at/politik/inland/oesterreich-verschaerft-grenzkontrollen-zu-allen-nachbarn/401181070"
+    }, {
+      "id" : "TgM2OQeK",
+      "imgUrl" : "https://image.kurier.at/images/original/4923088/46-175323307.jpg",
+      "titleSource" : "Faßmann zu Schulöffnung: \"Chaos zu Beginn jeder Neuordnung\"",
+      "titleTarget" : "Faßmann'ın okul açılışında: \"Her yeni düzenin başında kaos\"",
+      "url" : "https://kurier.at/politik/inland/fassmann-zu-schuloeffnung-chaos-zu-beginn-jeder-neuordnung/401180842"
+    }, {
+      "id" : "YecLLkaF",
+      "imgUrl" : "https://image.kurier.at/images/original/4923373/46-174036224.jpg",
+      "titleSource" : "Sobotka findet Maskenverweigerer im Parlament \"frivol\"",
+      "titleTarget" : "Sobotka parlamentodaki maskeyi reddedenleri \"anlamsız\" buluyor",
+      "url" : "https://kurier.at/politik/inland/sobotka-findet-maskenverweigerer-im-parlament-frivol/401180962"
+    }, {
+      "id" : "wY3agEbH",
+      "imgUrl" : "https://image.kurier.at/images/original/4923109/46-159856241.jpg",
+      "titleSource" : "Umfrage: Staatsbürgerschaft bei Geburt in Österreich?",
+      "titleTarget" : "Anket: Avusturya'da doğumda vatandaşlık?",
+      "url" : "https://kurier.at/politik/inland/umfrage-staatsbuergerschaft-bei-geburt-in-oesterreich/401180851"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -53,17 +53,23 @@
       "titleTarget" : "Büyük şehirde kendin yap: Viyana'da mağaza açılıyor",
       "url" : "https://kurier.at/wirtschaft/immobiz/diy-in-der-grossstadt-shoperoeffnung-in-wien/401179312"
     }, {
-      "id" : "bs8mN4pf",
-      "imgUrl" : "https://image.kurier.at/images/original/4921750/46-173714520.jpg",
-      "titleSource" : "Notvergabe endet: ÖBB und Westbahn reduzieren Strecke Wien-Salzburg",
-      "titleTarget" : "Acil durum ödülü sona erdi: ÖBB ve Westbahn, Viyana-Salzburg rotasını kısalttı",
-      "url" : "https://kurier.at/wirtschaft/notvergabe-endet-oebb-und-westbahn-reduzieren-strecke-wien-salzburg/401180521"
+      "id" : "I0lQSPba",
+      "imgUrl" : "https://image.kurier.at/images/original/4923211/46-175470960.jpg",
+      "titleSource" : "Wirecard: Neue Details zum Wiener Beraterauftrag",
+      "titleTarget" : "Wirecard: Viyana danışma görevine ilişkin yeni ayrıntılar",
+      "url" : "https://kurier.at/wirtschaft/neue-details-zum-wiener-beraterauftrag-bei-wirecard/401180917"
     }, {
-      "id" : "GlWzO2U4",
-      "imgUrl" : "https://image.kurier.at/images/original/4921465/46-174140687.jpg",
-      "titleSource" : "Corona: Keine FFP2-Maskenpflicht am Bau",
-      "titleTarget" : "Corona: Yapıda FFP2 maskesi gerekliliği yok",
-      "url" : "https://kurier.at/wirtschaft/corona-keine-ffp2-maskenpflicht-am-bau/401180401"
+      "id" : "1lYVwBpY",
+      "imgUrl" : "https://image.kurier.at/images/original/4923406/46-163355078.jpg",
+      "titleSource" : "Geschlossene Gastronomie: Was mit dem gelagerten Bier passiert",
+      "titleTarget" : "Kapalı gastronomi: Depolanan biraya ne olur?",
+      "url" : "https://kurier.at/wirtschaft/geschlossene-gastronomie-was-mit-dem-gelagerten-bier-passiert/401180977"
+    }, {
+      "id" : "PBL9KcYW",
+      "imgUrl" : "https://image.kurier.at/images/original/4923211/46-175470960.jpg",
+      "titleSource" : "Neue Details zum Wiener Beraterauftrag bei Wirecard",
+      "titleTarget" : "Wirecard ile Viyana danışmanlık sözleşmesine ilişkin yeni ayrıntılar",
+      "url" : "https://kurier.at/wirtschaft/neue-details-zum-wiener-beraterauftrag-bei-wirecard/401180929"
     }, {
       "id" : "SKst5PQj",
       "imgUrl" : "https://image.kurier.at/images/original/4918972/46-90138893.jpg",
@@ -74,29 +80,23 @@
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "tByve5hC",
-      "imgUrl" : "https://image.kurier.at/images/original/4834188/46-173649090.jpg",
-      "titleSource" : "Maskenverweigerer \"zuckte\" in Grazer Bus völlig aus",
-      "titleTarget" : "Maskeyi reddedenler Graz otobüsünde tamamen \"kaçtı\"",
-      "url" : "https://kurier.at/chronik/oesterreich/maskenverweigerer-zuckte-in-grazer-bus-voellig-aus/401180704"
-    }, {
       "id" : "f4W0DFU7",
       "imgUrl" : "https://image.kurier.at/images/original/4921846/46-174159923.jpg",
       "titleSource" : "Schnee von gestern: Wie Wiener Winter früher waren",
       "titleTarget" : "Dünün haberleri: Viyana'da kışlar nasıldı",
       "url" : "https://kurier.at/chronik/oesterreich/wiener-winter-wie-sie-frueher-einmal-waren-schnee-skifahren-skispringen-wien-schanze-eisstoss/401180647"
     }, {
-      "id" : "Nx4YDKBE",
-      "imgUrl" : "https://image.kurier.at/images/original/4921702/46-175494568.jpg",
-      "titleSource" : "Machtmissbrauch? Schwere Vorwürfe beim Bundesheer",
-      "titleTarget" : "Gücü kötüye kullanmak? Silahlı kuvvetlerle ciddi iddialar",
-      "url" : "https://kurier.at/chronik/oesterreich/machtmissbrauch-schwere-vorwuerfe-beim-bundesheer/401180644"
+      "id" : "tByve5hC",
+      "imgUrl" : "https://image.kurier.at/images/original/4834188/46-173649090.jpg",
+      "titleSource" : "Maskenverweigerer \"zuckte\" in Grazer Bus völlig aus",
+      "titleTarget" : "Maskeyi reddedenler Graz otobüsünde tamamen \"kaçtı\"",
+      "url" : "https://kurier.at/chronik/oesterreich/maskenverweigerer-zuckte-in-grazer-bus-voellig-aus/401180704"
     }, {
-      "id" : "c2kZCcqB",
-      "imgUrl" : "https://image.kurier.at/images/original/4921489/46-175493266.jpg",
-      "titleSource" : "Österreicher starb bei Absturz mit Kleinflugzeug in Windpark",
-      "titleTarget" : "Avusturyalılar bir rüzgar çiftliğinde küçük bir uçakla kazada öldü",
-      "url" : "https://kurier.at/chronik/oesterreich/oesterreicher-starb-bei-absturz-mit-kleinflugzeug-in-windpark/401180422"
+      "id" : "k3uivU8i",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "1.317 Neuinfektionen in Österreich",
+      "titleTarget" : "Avusturya'da 1.317 yeni enfeksiyon",
+      "url" : "https://kurier.at/chronik/oesterreich/1317-neuinfektionen-in-oesterreich/401180818"
     }, {
       "id" : "u2CxVPQs",
       "imgUrl" : "https://image.kurier.at/images/original/4921393/46-175432144.jpg",
@@ -105,16 +105,22 @@
       "url" : "https://kurier.at/chronik/oesterreich/165-betaetigte-suedafrika-faelle-in-tirol-nur-noch-acht-positiv/401180689"
     }, {
       "id" : "nUDCtJZB",
-      "imgUrl" : "https://image.kurier.at/images/original/4923046/46-175102863.jpg",
-      "titleSource" : "Dauert noch: Studien für Impfstoff für Kinder laufen; Kurz will Sputnik V in Österreich produzieren lassen",
+      "imgUrl" : "https://image.kurier.at/images/original/4923217/46-175452691.jpg",
+      "titleSource" : "1.317 Neuinfektionen in Ö; Britischer Minister: Corona-Impfung künftig einmal pro Jahr",
       "titleTarget" : "Hala devam ediyor: Çocuk aşısı denemeleri devam ediyor; Kısaca Sputnik V Avusturya'da üretim yapmak istiyor",
       "url" : "https://kurier.at/chronik/oesterreich/suedafrika-variante-astrazeneca-weniger-wirksam-kurz-will-sputnik-v-in-oesterreich-produzieren/401180749"
     }, {
-      "id" : "dgoz7ATS",
-      "imgUrl" : "https://image.kurier.at/images/original/4923010/46-175508986.jpg",
-      "titleSource" : "Junge Kärntner verirrten sich mit Rodeln im Bergwald",
-      "titleTarget" : "Genç Karintliler dağ ormanında kızakla kayarak kayboldu",
-      "url" : "https://kurier.at/chronik/oesterreich/junge-kaerntner-verirrten-sich-mit-rodeln-im-bergwald/401180776"
+      "id" : "zENXrb6L",
+      "imgUrl" : "https://image.kurier.at/images/original/4923469/46-174036194.jpg",
+      "titleSource" : "Großer Andrang bei Coronatests: Bundesheer stockt Personal auf",
+      "titleTarget" : "Korona testlerinde büyük acele: Federal ordu personel sayısını artırıyor",
+      "url" : "https://kurier.at/chronik/oesterreich/grosser-andrang-bei-coronatests-bundesheer-stockt-personal-auf/401180998"
+    }, {
+      "id" : "atJXE06I",
+      "imgUrl" : "https://image.kurier.at/images/original/4923031/46-163740606.jpg",
+      "titleSource" : "Häftling in Graz scheiterte erneut mit Ausbruchsversuch",
+      "titleTarget" : "Graz'daki tutuklu, kaçma girişimiyle yine başarısız oldu",
+      "url" : "https://kurier.at/chronik/oesterreich/ausbruchversuch-aus-grazer-karlau-haeftlinge-in-innenhof-gestellt/401180926"
     } ]
   }, {
     "category" : "CULTURE",
@@ -124,6 +130,12 @@
       "titleSource" : "Super Bowl:  Schmähführen wie auf der Couch",
       "titleTarget" : "Super Bowl: kanepede sanki aşağılayıcı",
       "url" : "https://kurier.at/kultur/super-bowl-schmaehfuehren-wie-auf-der-couch/401179651"
+    }, {
+      "id" : "GbW7GAgG",
+      "imgUrl" : "https://image.kurier.at/images/original/4923160/46-175449989.jpg",
+      "titleSource" : "Beethoven und mehr: Was in den Museen ab Montag zu sehen ist",
+      "titleTarget" : "Beethoven ve daha fazlası: Pazartesiden itibaren müzelerde neler görülebilir",
+      "url" : "https://kurier.at/kultur/beethoven-und-mehr-was-in-den-museen-ab-montag-zu-sehen-ist/401180884"
     } ]
   }, {
     "category" : "HEALTH",
@@ -134,11 +146,17 @@
       "titleTarget" : "AstraZeneca aşısı Güney Afrika varyantında daha az etkili",
       "url" : "https://kurier.at/wissen/gesundheit/astrazeneca-vakzin-weniger-wirksam-bei-suedafrika-variante/401180755"
     }, {
-      "id" : "tLBbmnay",
-      "imgUrl" : "https://image.kurier.at/images/original/4921483/46-175493668.jpg",
-      "titleSource" : "Impfstoff: Erste Lieferung von Astra Zeneca in Österreich angekommen",
-      "titleTarget" : "Aşı: Astra Zeneca'dan ilk teslimat Avusturya'ya ulaştı",
-      "url" : "https://kurier.at/wissen/gesundheit/impfstoff-erste-lieferung-von-astra-zeneca-in-oesterreich-angekommen/401180416"
+      "id" : "7duAlnbR",
+      "imgUrl" : "https://image.kurier.at/images/original/4507796/46-78271802.jpg",
+      "titleSource" : "Coronavirus: Impfstoff für Kinder muss warten",
+      "titleTarget" : "Coronavirus: Çocuklar için aşı beklemek zorunda",
+      "url" : "https://kurier.at/wissen/gesundheit/coronavirus-impfstoff-fuer-kinder-muss-warten/401180782"
+    }, {
+      "id" : "YiYtG5RC",
+      "imgUrl" : "https://image.kurier.at/images/original/4923076/46-165831941.jpg",
+      "titleSource" : "Corona-Impfstoffe: Mangelware in armen Ländern",
+      "titleTarget" : "Korona aşıları: fakir ülkelerde kıtlık var",
+      "url" : "https://kurier.at/wissen/gesundheit/corona-impfstoffe-mangelware-in-armen-laendern/401180824"
     }, {
       "id" : "04mYUPFG",
       "imgUrl" : "https://image.kurier.at/images/original/4921597/46-175476011.jpg",
@@ -151,63 +169,51 @@
       "titleSource" : "Wo kann ich mich testen lassen? Eine Auswahl an Anlaufstellen",
       "titleTarget" : "Nerede test yaptırabilirim? Bir dizi temas noktası",
       "url" : "https://kurier.at/wissen/gesundheit/wo-kann-ich-mich-testen-lassen-eine-auswahl-an-anlaufstellen/401180101"
-    }, {
-      "id" : "YiYtG5RC",
-      "imgUrl" : "https://image.kurier.at/images/original/4923076/46-165831941.jpg",
-      "titleSource" : "Corona-Impfstoffe: Mangelware in armen Ländern",
-      "titleTarget" : "Korona aşıları: fakir ülkelerde kıtlık var",
-      "url" : "https://kurier.at/wissen/gesundheit/corona-impfstoffe-mangelware-in-armen-laendern/401180824"
-    }, {
-      "id" : "7duAlnbR",
-      "imgUrl" : "https://image.kurier.at/images/original/4507796/46-78271802.jpg",
-      "titleSource" : "Coronavirus: Impfstoff für Kinder muss warten",
-      "titleTarget" : "Coronavirus: Çocuklar için aşı beklemek zorunda",
-      "url" : "https://kurier.at/wissen/gesundheit/coronavirus-impfstoff-fuer-kinder-muss-warten/401180782"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "Ixiy4t9d",
-      "imgUrl" : "https://image.kurier.at/images/original/4921660/46-175495191.jpg",
-      "titleSource" : "ÖSV-Doppelsieg vor der Ski-WM: Kriechmayr jubelt vor Mayer",
-      "titleTarget" : "ÖSV'nin Dünya Kayak Şampiyonası öncesinde çifte zafer: Kriechmayr, Mayer'den önce tezahürat yapıyor",
-      "url" : "https://kurier.at/sport/wintersport/oesv-doppelsieg-im-garmisch-super-g-kriechmayr-rast-vor-mayer-zum-naechsten-erfolg/401180431"
+      "id" : "DSVNqNcv",
+      "imgUrl" : "https://image.kurier.at/images/original/4923019/46-175507462.jpg",
+      "titleSource" : "Die Box-Welt trauert: Ex-Weltmeister und Ali-Bezwinger gestorben",
+      "titleTarget" : "Boks dünyası yas tutuyor: eski dünya şampiyonu ve Ali fatihi öldü",
+      "url" : "https://kurier.at/sport/die-box-welt-trauert-ex-weltmeister-und-ali-bezwinger-leon-spinks-mit-67-gestorben/401180788"
     }, {
-      "id" : "Etuv0PrC",
-      "imgUrl" : "https://image.kurier.at/images/original/4921456/46-164812879.jpg",
-      "titleSource" : "Ex-Skistar Veith: \"Da wäre eine Medaille eine große Überraschung\"",
-      "titleTarget" : "Eski kayak yıldızı Veith: \"Bir madalya büyük bir sürpriz olur\"",
-      "url" : "https://kurier.at/sport/wintersport/ex-oesv-star-anna-veith-vor-der-ski-wm-da-waere-eine-medaille-eine-grosse-ueberraschung/401180395"
+      "id" : "jDXFR3EH",
+      "imgUrl" : "https://image.kurier.at/images/original/4923787/46-175499848.jpg",
+      "titleSource" : "Déjà-vu in Klingenthal: Granerud siegt erneut, ÖSV weit zurück",
+      "titleTarget" : "Klingenthal'da Déjà-vu: Granerud yine kazandı, ÖSV çok geride",
+      "url" : "https://kurier.at/sport/wintersport/deja-vu-in-klingenthal-granerud-siegt-erneut-oesv-adler-weit-zurueck/401181106"
     }, {
-      "id" : "eKW0ta5a",
-      "imgUrl" : "https://image.kurier.at/images/original/4920673/46-175324880.jpg",
-      "titleSource" : "Generationen-Duell im Superbowl: Baby Yoda gegen Meister Yoda",
-      "titleTarget" : "Superbowl'da kuşak düello: Usta Yoda'ya karşı Bebek Yoda",
-      "url" : "https://kurier.at/sport/tom-brady-gegen-patrick-mahomes-im-superbowl-baby-yoda-gegen-meister-yoda/401179951"
+      "id" : "TGZWlXoo",
+      "imgUrl" : "https://image.kurier.at/images/original/4923052/46-175501243.jpg",
+      "titleSource" : "\"Skandal ohne Ende\": Auch Hoeneß tobte nach Bayerns Flug-Chaos",
+      "titleTarget" : "\"Sonu olmayan skandal\": Hoeneß, Bavyera'nın uçuş kaosunun ardından da öfkelendi",
+      "url" : "https://kurier.at/sport/fussball/skandal-ohne-ende-auch-uli-hoeness-tobte-nach-bayerns-flug-chaos-vor-der-klub-wm/401180815"
     }, {
-      "id" : "FHLwao70",
-      "imgUrl" : "https://image.kurier.at/images/original/4921840/46-175480699.jpg",
-      "titleSource" : "Vor der Ski-WM: Eine Vergangenheit mit Licht und Schatten",
-      "titleTarget" : "Dünya Kayak Şampiyonasından önce: ışıklı ve gölgeli bir geçmiş",
-      "url" : "https://kurier.at/sport/wintersport/vor-der-ski-wm-eine-vergangenheit-mit-licht-und-schatten/401180536"
+      "id" : "n3WqOGkb",
+      "imgUrl" : "https://image.kurier.at/images/original/4923847/46-165983583.jpg",
+      "titleSource" : "Kracher im ÖFB-Cup-Halbfinale: Sturm Graz fordert Salzburg",
+      "titleTarget" : "ÖFB Kupası yarı finalinde Kracher: Sturm Graz, Salzburg'a meydan okuyor",
+      "url" : "https://kurier.at/sport/fussball/kracher-im-oefb-cup-halbfinale-sturm-graz-fordert-titelverteidiger-red-bull-salzburg/401181121"
     }, {
-      "id" : "xRoRnvrR",
-      "imgUrl" : "https://image.kurier.at/images/original/4922572/46-175503287.jpg",
-      "titleSource" : "Everton verpatzte Manchester United den Gedenktag",
-      "titleTarget" : "Futbol: Everton, Manchester United'ın anma gününü mahvetti",
-      "url" : "https://kurier.at/sport/fussball/fussball-everton-verpatzte-manchester-united-den-gedenktag/401180713"
+      "id" : "SzZjrqGF",
+      "imgUrl" : "https://image.kurier.at/images/original/4923646/46-175256687.jpg",
+      "titleSource" : "Glück im Unglück für Austria-Kapitän Markus Suttner",
+      "titleTarget" : "Avusturya kaptanı Markus Suttner için şanssızlık",
+      "url" : "https://kurier.at/sport/fussball/glueck-im-unglueck-fuer-austria-kapitaen-markus-suttner/401181085"
     }, {
-      "id" : "9UN6iSIK",
-      "imgUrl" : "https://image.kurier.at/images/original/4922434/46-175500348.jpg",
-      "titleSource" : "Heimsieg gegen die Austria: Salzburg setzt die Cup-Serie fort",
-      "titleTarget" : "Avusturya'ya karşı ev sahibi galibiyet: Salzburg kupa serisine devam ediyor",
-      "url" : "https://kurier.at/sport/fussball/heimsieg-gegen-die-wiener-austria-red-bull-salzburg-zum-zehnten-mal-im-oefb-cup-halbfinale/401180308"
+      "id" : "3BnLd1B0",
+      "imgUrl" : "https://image.kurier.at/images/original/4923733/46-174268358.jpg",
+      "titleSource" : "Zehn Siege, vier Medaillen: Erfolgssaison für Österreichs Rodler",
+      "titleTarget" : "On galibiyet, dört madalya: Avusturyalı kızakçılar için başarılı sezon",
+      "url" : "https://kurier.at/sport/wintersport/zehn-siege-vier-medaillen-erfolgssaison-fuer-oesterreichs-rodler/401181082"
     }, {
-      "id" : "h9T6eVOA",
-      "imgUrl" : "https://image.kurier.at/images/original/4922458/46-175500874.jpg",
-      "titleSource" : "Nach Zidanes Wutrede: Real Madrid gewann bei Huesca 2:1",
-      "titleTarget" : "Zidane'nin öfkeli konuşmasının ardından: Real Madrid, Huesca'yı 2-1 kazandı",
-      "url" : "https://kurier.at/sport/fussball/nach-zinedine-zidanes-wutrede-real-madrid-gewann-bei-huesca-21/401180668"
+      "id" : "de7RZ7gC",
+      "imgUrl" : "https://image.kurier.at/images/original/4923586/46-175494766.jpg",
+      "titleSource" : "Skispringen: Japanerin gewann erneut in Hinzenbach",
+      "titleTarget" : "Kayakla atlama: Japon Hinzenbach'ta tekrar kazandı",
+      "url" : "https://kurier.at/sport/wintersport/skispringen-japanerin-gewann-erneut-in-hinzenbach/401181052"
     } ]
   } ],
   "country" : "austria",
