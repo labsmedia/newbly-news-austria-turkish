@@ -2,38 +2,50 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "BwwVPq6g",
-      "imgUrl" : "https://image.kurier.at/images/original/4969531/46-175946210.jpg",
-      "titleSource" : "Rendi-Wagner will Corona-Impfstoff-Produktion in Österreich",
-      "titleTarget" : "Rendi-Wagner, Avusturya'da korona aşısı üretimi istiyor",
-      "url" : "https://kurier.at/politik/inland/rendi-wagner-will-impfstoff-produktion-in-oesterreich/401202628"
-    }, {
       "id" : "hs2T6LUG",
       "imgUrl" : "https://image.kurier.at/images/original/4969714/46-173885122.jpg",
       "titleSource" : "ÖGB-Präsident Katzian: \"Die soziale Balance ist gekippt\"",
       "titleTarget" : "ÖGB Başkanı Katzian: \"Toplumsal denge devrildi\"",
       "url" : "https://kurier.at/politik/inland/oegb-praesident-katzian-die-soziale-balance-ist-gekippt/401202799"
     }, {
-      "id" : "gQYVYBwz",
-      "imgUrl" : "https://image.kurier.at/images/original/4969534/46-168709966.jpg",
-      "titleSource" : "Regierung legt sich bei Lockerungen nicht fest, Experten warnen vor weiterer Öffnung",
-      "titleTarget" : "Hükümet gevşemeye kararlı değil, uzmanlar daha fazla açılmaması konusunda uyardı",
-      "url" : "https://kurier.at/politik/inland/corona-regierung-legt-sich-bei-lockerungen-nicht-fest-experten-warnen-vor-weiterer-oeffnung/401202619"
+      "id" : "uLtRU7Jl",
+      "imgUrl" : "https://image.kurier.at/images/original/4971409/46-175997567.jpg",
+      "titleSource" : "Verfassungsrichter Brandstetter in Spitalsbehandlung",
+      "titleTarget" : "Anayasa yargıç Brandstetter hastanede tedavi görüyor",
+      "url" : "https://kurier.at/politik/inland/verfassungsrichter-brandstetter-in-spitalsbehandlung/401203402"
+    }, {
+      "id" : "ZQ8jkHl2",
+      "imgUrl" : "https://image.kurier.at/images/original/4970956/46-176022132.jpg",
+      "titleSource" : "Kurz fordert EU-Zulassung von Johnson & Johnson",
+      "titleTarget" : "Kurz, Johnson & Johnson'dan AB onayı çağrısında bulundu",
+      "url" : "https://kurier.at/politik/inland/kurz-fordert-eu-zulassung-von-johnson-johnson/401203216"
+    }, {
+      "id" : "CLFZCrbk",
+      "imgUrl" : "https://image.kurier.at/images/original/691923/1316006198.jpg",
+      "titleSource" : "Korruptionsbekämpfer des Europarates rügen Österreich",
+      "titleTarget" : "Avrupa Konseyi'nin yolsuzluk savaşçıları, Avusturya'yı azarladı",
+      "url" : "https://kurier.at/politik/inland/korruptionsbekaempfer-des-europarates-ruegen-oesterreich/401203312"
+    }, {
+      "id" : "UMDvdqZN",
+      "imgUrl" : "https://image.kurier.at/images/original/4924684/20210208-ABD0025-1-1.jpg",
+      "titleSource" : "An Schulen soll auch am Freitag getestet werden",
+      "titleTarget" : "Testler ayrıca Cuma günü okullarda yapılmalıdır.",
+      "url" : "https://kurier.at/politik/inland/an-schulen-soll-auch-am-freitag-getestet-werden/401203561"
+    }, {
+      "id" : "kY5XSbjB",
+      "imgUrl" : "https://image.kurier.at/images/original/4963801/78350011459135276_BLD_Online.jpg",
+      "titleSource" : "Weitere Öffnungsschritte? Tendenz in Richtung regionale Lockerungen",
+      "titleTarget" : "Daha fazla açılış adımları mı? Bölgesel genişlemeye doğru eğilim",
+      "url" : "https://kurier.at/politik/inland/weitere-oeffnungsschritte-tendenz-in-richtung-regionale-lockerungen/401203510"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "ev2DVkKD",
-      "imgUrl" : "https://image.kurier.at/images/original/4969675/46-175885158.jpg",
-      "titleSource" : "Corona-Kosten: Jetzt werden die Briten kräftig zur Kassa gebeten",
-      "titleTarget" : "Corona maliyetleri: Şimdi İngilizlerden yazar kasaya gitmeleri isteniyor",
-      "url" : "https://kurier.at/wirtschaft/corona-kosten-jetzt-werden-die-briten-kraeftig-zur-kassa-gebeten/401202712"
-    }, {
-      "id" : "1AlFZwPn",
-      "imgUrl" : "https://image.kurier.at/images/original/4969561/46-175832370.jpg",
-      "titleSource" : "In Wintersport-Regionen explodierte die Arbeitslosigkeit",
-      "titleTarget" : "Kış sporları bölgelerinde işsizlik patladı",
-      "url" : "https://kurier.at/wirtschaft/in-wintersport-regionen-explodierte-die-arbeitslosigkeit/401202637"
+      "id" : "LFayU4lx",
+      "imgUrl" : "https://image.kurier.at/images/original/4970422/46-175981845.jpg",
+      "titleSource" : "In China tickt eine soziale Bombe",
+      "titleTarget" : "Çin'de bir sosyal bomba işliyor",
+      "url" : "https://kurier.at/wirtschaft/in-china-tickt-eine-soziale-bombe/401202979"
     }, {
       "id" : "ug7BxtX7",
       "imgUrl" : "https://image.kurier.at/images/original/4948129/46-175844439.jpg",
@@ -41,38 +53,43 @@
       "titleTarget" : "WKO-General Kopf: \"Gastronominin 15 Mart'ta açılması bekleniyor\"",
       "url" : "https://kurier.at/wirtschaft/wko-general-kopf-rechne-mit-gastro-oeffnung-am-15-maerz/401202832"
     }, {
-      "id" : "LFayU4lx",
-      "imgUrl" : "https://image.kurier.at/images/original/4970422/46-175981845.jpg",
-      "titleSource" : "In China tickt eine soziale Bombe",
-      "titleTarget" : "Çin'de bir sosyal bomba işliyor",
-      "url" : "https://kurier.at/wirtschaft/in-china-tickt-eine-soziale-bombe/401202979"
+      "id" : "a4mCeQon",
+      "imgUrl" : "https://image.kurier.at/images/original/691923/1316006198.jpg",
+      "titleSource" : "Korruptionsbekämpfer des Europarates rügen Österreich",
+      "titleTarget" : "Avrupa Konseyi'nin yolsuzluk savaşçıları, Avusturya'yı azarladı",
+      "url" : "https://kurier.at/wirtschaft/korruptionsbekaempfer-des-europarates-ruegen-oesterreich/401203312"
     }, {
-      "id" : "3WculoAs",
-      "imgUrl" : "https://image.kurier.at/images/original/4965742/46-175889426.jpg",
-      "titleSource" : "Diese Duftkerzen wollen jetzt alle haben",
-      "titleTarget" : "Herkes bu kokulu mumları şimdi istiyor",
-      "url" : "https://kurier.at/wirtschaft/immobiz/diese-duftkerzen-wollen-jetzt-alle-haben/401200774"
+      "id" : "YXKlH62G",
+      "imgUrl" : "https://image.kurier.at/images/original/4970989/46-176063862.jpg",
+      "titleSource" : "AstraZeneca stößt laut Medienbericht Beteiligung an Moderna ab",
+      "titleTarget" : "Basında çıkan haberlere göre, AstraZeneca Moderna'nın hisselerini satıyor",
+      "url" : "https://kurier.at/wirtschaft/astrazeneca-stoesst-laut-medienbericht-beteiligung-an-moderna-ab/401203231"
     }, {
-      "id" : "OTMc0EhZ",
-      "imgUrl" : "https://image.kurier.at/images/original/4965751/46-34107670.jpg",
-      "titleSource" : "Richterwertmieten: Anpassung der Mieten verschoben",
-      "titleTarget" : "Hakim kiraları: kira ayarlaması ertelendi",
-      "url" : "https://kurier.at/wirtschaft/immobiz/richterwertmieten-anpassung-der-mieten-verschoben/401200780"
+      "id" : "4tlTl7Jy",
+      "imgUrl" : "https://image.kurier.at/images/original/4655165/schokolade_image_bild_istock-965487714_bnw_wmaster890.jpg",
+      "titleSource" : "Schweizer Schokoladekonsum bricht auf 40-Jahres-Tief ein",
+      "titleTarget" : "İsviçre çikolata tüketimi 40 yılın en düşük seviyesine indi",
+      "url" : "https://kurier.at/wirtschaft/schweizer-schokoladekonsum-bricht-auf-40-jahres-tief-ein/401203414"
     }, {
-      "id" : "5g6Bt67m",
-      "imgUrl" : "https://image.kurier.at/images/original/4964098/46-175948789.jpg",
-      "titleSource" : "Warum Silhouette im Brillenverkauf auf  digitale Tools setzt",
-      "titleTarget" : "Silhouette, gözlük satışlarında neden dijital araçlara güveniyor?",
-      "url" : "https://kurier.at/wirtschaft/karriere/warum-silhouette-im-brillenverkauf-auf-digitale-tools-setzt/401199958"
+      "id" : "RblFwwmi",
+      "imgUrl" : "https://image.kurier.at/images/original/3470707/46-101244802.jpg",
+      "titleSource" : "KTM startet Batterie-Konsortium mit Piaggio, Honda und Yamaha",
+      "titleTarget" : "KTM, Piaggio, Honda ve Yamaha ile pil konsorsiyumunu başlattı",
+      "url" : "https://kurier.at/wirtschaft/ktm-startet-batterie-konsortium-mit-piaggio-honda-und-yamaha/401203333"
+    }, {
+      "id" : "5g8y51ur",
+      "imgUrl" : "https://image.kurier.at/images/original/4881072/46-168301552.jpg",
+      "titleSource" : "Logitech kann Umsatzerlöse um 63 Prozent steigern",
+      "titleTarget" : "Logitech satışları yüzde 63 artırabilir",
+      "url" : "https://kurier.at/wirtschaft/logitech-kann-umsatzerloese-um-63-prozent-steigern/401203291"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "4mDnkbfr",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "Corona: Sonntagsrekord 2021 mit 2.123 Neuinfektionen in Österreich",
-      "titleTarget" : "Corona: Avusturya'da 2.123 yeni enfeksiyon",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-2123-neuinfektionen-in-oesterreich/401202652"
+      "id" : "ZEbPIdoh",
+      "titleSource" : "Polizei löste \"Coronaparty\" im Salzburger Pinzgau auf",
+      "titleTarget" : "Polis Salzburg'un Pinzgau bölgesinde \"Corona Partisi\" ni dağıttı",
+      "url" : "https://kurier.at/chronik/oesterreich/polizei-loeste-coronaparty-im-salzburger-pinzgau-auf/401202856"
     }, {
       "id" : "byZNHApF",
       "imgUrl" : "https://image.kurier.at/images/original/4970449/46-175907309.jpg",
@@ -80,38 +97,63 @@
       "titleTarget" : "Tirol'de 18 yeni Güney Afrika şüpheli vaka",
       "url" : "https://kurier.at/chronik/oesterreich/18-neue-suedafrika-verdachtsfaelle-in-tirol/401202988"
     }, {
-      "id" : "ZEbPIdoh",
-      "titleSource" : "Polizei löste \"Coronaparty\" im Salzburger Pinzgau auf",
-      "titleTarget" : "Polis Salzburg'un Pinzgau bölgesinde \"Corona Partisi\" ni dağıttı",
-      "url" : "https://kurier.at/chronik/oesterreich/polizei-loeste-coronaparty-im-salzburger-pinzgau-auf/401202856"
+      "id" : "gxACwAe0",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "1.409 neue Corona-Infektionen in Österreich",
+      "titleTarget" : "Avusturya'da 1.409 yeni korona enfeksiyonu",
+      "url" : "https://kurier.at/chronik/oesterreich/1409-neue-corona-infektionen-in-oesterreich/401203294"
     }, {
-      "id" : "nxllz13m",
-      "imgUrl" : "https://image.kurier.at/images/original/4968832/46-83058628.jpg",
-      "titleSource" : "Vom Tierheim ins neue Zuhause: „Und dann war der Hund König“",
-      "titleTarget" : "Barınaktan yeni eve: \"Ve sonra köpek kraldı\"",
-      "url" : "https://kurier.at/chronik/oesterreich/vom-tierheim-ins-neue-zuhause-und-dann-war-der-hund-koenig/401202406"
-    }, {
-      "id" : "gGK3MZBY",
-      "imgUrl" : "https://image.kurier.at/images/original/4970485/46-175954694.jpg",
-      "titleSource" : "20 Millionen Briten mit Erstimpfung + 2.123 Neuinfektionen in Österreich",
-      "titleTarget" : "Avusturya'da 2.123 yeni enfeksiyon: yılın başından bu yana yeni Pazar rekoru + ABD, Johnson & Johnson'dan aşıya izin veriyor",
-      "url" : "https://kurier.at/chronik/oesterreich/usa-lassen-corona-impfstoff-von-johnson-johnson-zu-astra-zeneca-als-ladenhueter-in-eu/401202616"
-    }, {
-      "id" : "RkANDrwq",
-      "imgUrl" : "https://image.kurier.at/images/original/4969615/46-61349194.jpg",
-      "titleSource" : "Kärntner war 55 km/h zu schnell unterwegs und überholte Polizei",
-      "titleTarget" : "Kärntner 55 km / s çok hızlı gidiyordu ve polisi geçti",
-      "url" : "https://kurier.at/chronik/oesterreich/kaerntner-war-55-kmh-zu-schnell-unterwegs-und-ueberholte-polizei/401202676"
+      "id" : "PTVFBLfF",
+      "imgUrl" : "https://image.kurier.at/images/original/4767000/78350011457564124_BLD_Online.jpg",
+      "titleSource" : "Zwei Festnahmen nach mutmaßlichen Mord an 19-jährigen Grazer",
+      "titleTarget" : "19 yaşındaki Graz'ın öldürülmesi iddiasının ardından iki kişi tutuklandı",
+      "url" : "https://kurier.at/chronik/oesterreich/zwei-festnahmen-nach-mutmasslichen-mord-an-19-jaehrigen-grazer/401202895"
     }, {
       "id" : "hEq8LBOV",
       "imgUrl" : "https://image.kurier.at/images/original/4970686/46-176032343.jpg",
       "titleSource" : "Februar-Bilanz: Sonniger Westen und grauer Osten",
       "titleTarget" : "Şubat dengesi: güneşli batı ve gri doğu",
       "url" : "https://kurier.at/chronik/oesterreich/februar-bilanz-sonniger-westen-und-grauer-osten/401203063"
+    }, {
+      "id" : "XWkwbxmv",
+      "imgUrl" : "https://image.kurier.at/images/original/4971460/46-176096647.jpg",
+      "titleSource" : "Kommen weitere Öffnungsschritte? Tendenz in Richtung regionale Lockerungen",
+      "titleTarget" : "Başka açılış adımları var mı? Bölgesel genişlemeye doğru eğilim",
+      "url" : "https://kurier.at/chronik/oesterreich/wo-heute-doch-lockerungen-kommen-koennten/401203213"
+    }, {
+      "id" : "r8IXL1Xd",
+      "imgUrl" : "https://image.kurier.at/images/original/39591/apotheke-000_Wessig%252BMichael.jpg",
+      "titleSource" : "\"Bitte nicht stürmen\": Kostenlose Selbsttests in den Apotheken",
+      "titleTarget" : "\"Lütfen fırtına yapmayın\": Eczanelerde ücretsiz kendi kendine testler",
+      "url" : "https://kurier.at/chronik/oesterreich/ab-montag-kostenlose-selbsttests-in-den-apotheken/401203153"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
+      "id" : "mzC4ApTt",
+      "imgUrl" : "https://image.kurier.at/images/original/4971190/46-176044642.jpg",
+      "titleSource" : "Filmkritik zu \"Kajillionaire\": Die schlechtesten Eltern der Welt",
+      "titleTarget" : "\"Kajillionaire\" için film incelemesi: Dünyanın en kötü ebeveynleri",
+      "url" : "https://kurier.at/kultur/filmkritik-zu-kajillionaire-die-schlechtesten-eltern-der-welt/401203432"
+    }, {
+      "id" : "ap1OeELL",
+      "imgUrl" : "https://image.kurier.at/images/original/4967164/46-176040633.jpg",
+      "titleSource" : "Schlafende Riesen als Symbol des Stillstands",
+      "titleTarget" : "Durmanın sembolü olarak uyuyan devler",
+      "url" : "https://kurier.at/kultur/schlafende-riesen-als-symbol-des-stillstands/401201656"
+    }, {
+      "id" : "O0S0CNeE",
+      "imgUrl" : "https://image.kurier.at/images/original/4970962/46-176034158.jpg",
+      "titleSource" : "78. Golden Globes: \"Borat 2\" und \"Nomadland\" beste Filme",
+      "titleTarget" : "78. Altın Küre: \"Borat 2\" ve \"Nomadland\" en iyi filmleri",
+      "url" : "https://kurier.at/kultur/78-golden-globes-borat-2-und-nomadland-beste-filme/401203219"
+    }, {
+      "id" : "2mOtHYaP",
+      "imgUrl" : "https://image.kurier.at/images/original/4967824/skyrojo_s01_tamaraarranz.jpg",
+      "titleSource" : "5 Serien, auf die wir uns im März bei Netflix & Co freuen",
+      "titleTarget" : "Mart ayında Netflix ve Co'da dört gözle beklediğimiz 5 dizi",
+      "url" : "https://kurier.at/kultur/medien/5-serien-auf-die-wir-uns-im-maerz-bei-netflix-co-freuen/401200318"
+    }, {
       "id" : "msF1LBf1",
       "imgUrl" : "https://image.kurier.at/images/original/4969327/46-176041308.jpg",
       "titleSource" : "Filmfestival Berlinale: Online Filme schauen im Hausarrest",
@@ -127,6 +169,12 @@
       "titleTarget" : "Reddedilen korona aşısının ardından hemşire yoğun bakıma giriyor",
       "url" : "https://kurier.at/wissen/gesundheit/nach-abgelehnter-corona-impfung-landet-pflegerin-auf-intensivstation/401202733"
     }, {
+      "id" : "NngNrTEx",
+      "imgUrl" : "https://image.kurier.at/images/original/4969840/46-104515722.jpg",
+      "titleSource" : "Zwei von drei Österreichern stecken sich zu Hause mit Covid-19 an",
+      "titleTarget" : "Üç Avusturyalıdan ikisi evde Covid-19 ile enfekte",
+      "url" : "https://kurier.at/wissen/gesundheit/coronavirus-zwei-von-drei-oesterreichern-stecken-sich-zu-hause-mit-covid-19-an/401202772"
+    }, {
       "id" : "Xcjc84jQ",
       "imgUrl" : "https://image.kurier.at/images/original/4970326/46-175541010.jpg",
       "titleSource" : "Mehr als 20 Millionen Briten sind geimpft",
@@ -139,44 +187,32 @@
       "titleTarget" : "Brezilya virüs varyantını bu kadar tehlikeli yapan ne olabilir?",
       "url" : "https://kurier.at/wissen/gesundheit/coronavirus-was-die-brasilianische-virus-variante-p1-so-gefaehrlich-machen-koennte/401202928"
     }, {
-      "id" : "NngNrTEx",
-      "imgUrl" : "https://image.kurier.at/images/original/4969840/46-104515722.jpg",
-      "titleSource" : "Zwei von drei Österreichern stecken sich zu Hause mit Covid-19 an",
-      "titleTarget" : "Üç Avusturyalıdan ikisi evde Covid-19 ile enfekte",
-      "url" : "https://kurier.at/wissen/gesundheit/coronavirus-zwei-von-drei-oesterreichern-stecken-sich-zu-hause-mit-covid-19-an/401202772"
-    }, {
       "id" : "FvhJmXpi",
       "imgUrl" : "https://image.kurier.at/images/original/3375028/46-122224720.jpg",
       "titleSource" : "Duschen verboten: Gefängnis wegen Corona-Ausbruchs unter Quarantäne",
       "titleTarget" : "Duş almak yasak: korona salgını nedeniyle hapishane karantinaya alındı",
       "url" : "https://kurier.at/wissen/gesundheit/duschen-verboten-gefaengnis-wegen-corona-ausbruchs-unter-quarantaene/401202817"
     }, {
-      "id" : "j4vchqGf",
-      "imgUrl" : "https://image.kurier.at/images/original/4969693/46-176044604.jpg",
-      "titleSource" : "Heikle Irak-Mission von Papst: Botschafter wurde positiv getestet",
-      "titleTarget" : "Papa'dan zorlu Irak misyonu: Büyükelçi pozitif çıktı",
-      "url" : "https://kurier.at/wissen/gesundheit/heikle-irak-mission-von-papst-franziskus-vatikan-botschafter-wurde-positiv-getestet/401202709"
+      "id" : "YtL0Y61h",
+      "imgUrl" : "https://image.kurier.at/images/original/4941466/46-175738856.jpg",
+      "titleSource" : "Impfung: EU soll Astra-Zeneca-Produktion in Indien überprüfen",
+      "titleTarget" : "Aşılama: AB, Hindistan'daki Astra Zeneca üretimini gözden geçirecek",
+      "url" : "https://kurier.at/wissen/gesundheit/impfung-eu-soll-astra-zeneca-produktion-in-indien-ueberpruefen/401203552"
+    }, {
+      "id" : "DIUwz77w",
+      "imgUrl" : "https://image.kurier.at/images/original/4971325/46-151199566.jpg",
+      "titleSource" : "Corona: Warum Fettleibigkeit oder Diabetes zu schwerem Verlauf führen könnten",
+      "titleTarget" : "Corona: Obezite veya diyabet neden ciddi bir seyre neden olabilir?",
+      "url" : "https://kurier.at/wissen/gesundheit/corona-warum-fettleibigkeit-oder-diabetes-zu-schwerem-verlauf-fuehren-koennten/401203501"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "BMcVwudV",
-      "imgUrl" : "https://image.kurier.at/images/original/4969339/46-176068089.jpg",
-      "titleSource" : "Ried-Trainer gratuliert: \"Das war das Tor des Monats von Demir\"",
-      "titleTarget" : "Ried antrenörü tebrik ediyor: \"Demir'in ayın hedefi buydu\"",
-      "url" : "https://kurier.at/sport/fussball/ried-trainer-miron-muslic-gratuliert-rapid-das-war-das-tor-des-monats-von-yusuf-demir/401202508"
-    }, {
       "id" : "11B7LOsv",
       "imgUrl" : "https://image.kurier.at/images/original/4970608/46-176085035.jpg",
       "titleSource" : "Österreichs Mixed-Team sorgt für nächste WM-Medaille",
       "titleTarget" : "Avusturya'nın karışık takımı bir sonraki Dünya Kupası madalyasını garantiliyor",
       "url" : "https://kurier.at/sport/wintersport/oesterreichs-mixed-team-sorgt-in-oberstdorf-fuer-naechste-wm-medaille/401203000"
-    }, {
-      "id" : "tSALfXr6",
-      "imgUrl" : "https://image.kurier.at/images/original/4969660/46-175925991.jpg",
-      "titleSource" : "Lockdown wegen einer Infektion: America's-Cup-Auftakt vertagt",
-      "titleTarget" : "Enfeksiyon kilidi: America's Cup açılışı ertelendi",
-      "url" : "https://kurier.at/sport/lockdown-wegen-einer-infektion-americas-cup-auftakt-vertagt/401202694"
     }, {
       "id" : "tBCzXZwe",
       "imgUrl" : "https://image.kurier.at/images/original/4970206/46-176081415.jpg",
@@ -201,6 +237,18 @@
       "titleSource" : "Faivre gewinnt Riesenslalom von Bansko, Brennsteiner Fünfter",
       "titleTarget" : "Faivre Bansko'dan dev slalom kazandı, Brennsteiner beşinci",
       "url" : "https://kurier.at/sport/wintersport/faivre-gewinnt-riesenslalom-von-bansko-brennsteiner-fuenfter/401202721"
+    }, {
+      "id" : "GOUecf15",
+      "imgUrl" : "https://image.kurier.at/images/original/4970872/46-176085778.jpg",
+      "titleSource" : "Remis zwischen Chelsea und Manchester United",
+      "titleTarget" : "Chelsea ve Manchester United arasında çekiliş",
+      "url" : "https://kurier.at/sport/fussball/remis-zwischen-chelsea-und-manchester-united/401203162"
+    }, {
+      "id" : "QZezw6m0",
+      "imgUrl" : "https://image.kurier.at/images/original/4970647/46-176083660.jpg",
+      "titleSource" : "1:2 bei Sturm Graz: Salzburg hat den alten Angstgegner wieder",
+      "titleTarget" : "1: 2 Sturm Graz'da: Salzburg eski rakiplerini geri aldı",
+      "url" : "https://kurier.at/sport/fussball/12-bei-sturm-graz-salzburg-hat-den-alten-angstgegner-wieder/401203048"
     } ]
   } ],
   "country" : "austria",
