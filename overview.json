@@ -2,23 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "cggGd3Na",
-      "imgUrl" : "https://image.kurier.at/images/original/4944598/46-175559383.jpg",
-      "titleSource" : "Österreich, Dänemark und Israel arbeiten gemeinsam an Impfstoff-Produktion",
-      "titleTarget" : "Avusturya, Danimarka ve İsrail aşı üretimi için birlikte çalışıyor",
-      "url" : "https://kurier.at/politik/inland/neue-impfstoffe-oesterreich-daenemark-und-israel-bereiten-sich-auf-weitere-mutationen-vor/401204191"
-    }, {
-      "id" : "rRNgfHq2",
-      "imgUrl" : "https://image.kurier.at/images/original/4972561/20210301-ABD0076-1-1.jpg",
-      "titleSource" : "Gastronomie enttäuscht über angekündigte Öffnungsschritte",
-      "titleTarget" : "Gastronomi, açıklanan açılış adımları ile hayal kırıklığına uğradı",
-      "url" : "https://kurier.at/politik/inland/gastronomie-enttaeuscht-ueber-angekuendigte-oeffnungsschritte/401204488"
-    }, {
       "id" : "RaB24Cr3",
       "imgUrl" : "https://image.kurier.at/images/original/4974319/20210302-ABD0081-1-1.jpg",
       "titleSource" : "Van der Bellen verteidigt Justiz und mahnt Medien",
       "titleTarget" : "Van der Bellen adaleti savunuyor ve medyayı uyarıyor",
       "url" : "https://kurier.at/politik/inland/van-der-bellen-verteidigt-justiz-und-mahnt-unschuldsvermutung-ein/401205391"
+    }, {
+      "id" : "nKhPsIV6",
+      "imgUrl" : "https://image.kurier.at/images/original/4676638/78350011456786206_BLD_Online.jpg",
+      "titleSource" : "Neos wollen drei Mal so viele Ibiza-Staatsanwälte",
+      "titleTarget" : "Neos, üç kat daha fazla İbiza savcısı istiyor",
+      "url" : "https://kurier.at/politik/inland/neos-wollen-ibiza-staatsanwaelte-verdreifachen/401205217"
     }, {
       "id" : "nLWcms02",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
@@ -26,23 +20,29 @@
       "titleTarget" : "Şu anda hangi kurallar geçerlidir",
       "url" : "https://kurier.at/politik/inland/diese-regeln-gelten-seit-8-februar/401083170"
     }, {
+      "id" : "vlVDCDc4",
+      "imgUrl" : "https://image.kurier.at/images/original/4974559/46-173824785.jpg",
+      "titleSource" : "Wohnbeihilfe in OÖ darf nicht von Deutschkenntnissen abhängen, sagt EuGH-Anwalt",
+      "titleTarget" : "ABAD avukatı, Yukarı Avusturya'daki konut ödeneğinin Almanca bilgisine bağlı olmaması gerektiğini söylüyor",
+      "url" : "https://kurier.at/politik/inland/wohnbeihilfe-in-ooe-darf-nicht-von-deutschkenntnissen-abhaengen-sagt-eugh-anwalt/401205175"
+    }, {
       "id" : "TvOjr0eT",
       "imgUrl" : "https://image.kurier.at/images/original/4973410/46-146478828.jpg",
       "titleSource" : "ÖH-Wahl: Wie tief wird die Wahlbeteiligung sinken?",
       "titleTarget" : "ÖH seçimi: Seçmen katılımı ne kadar düşecek?",
       "url" : "https://kurier.at/politik/inland/oeh-wahl-wie-tief-wird-die-wahlbeteiligung-sinken/401204626"
     }, {
-      "id" : "Ousb3phw",
-      "imgUrl" : "https://image.kurier.at/images/original/4975093/46-176118297.jpg",
-      "titleSource" : "Kurz beklagt \"Dirty Campaigning\" durch Pilz-Medium \"Zack Zack\"",
-      "titleTarget" : "Mantar aracı \"Zack Zack\" ile \"Dirty Campaigning\" e kısaca ağıt yaktı.",
-      "url" : "https://kurier.at/politik/inland/kurz-beklagt-dirty-campaigning-durch-pilz-medium-zack-zack/401205574"
+      "id" : "BiUvqCU3",
+      "imgUrl" : "https://image.kurier.at/images/original/4969993/46-175990418.jpg",
+      "titleSource" : "Expertin: Gültigkeit von Antigentests auf 24 Stunden reduzieren",
+      "titleTarget" : "Uzman: Antijen testlerinin geçerliliğini 24 saate düşürün",
+      "url" : "https://kurier.at/politik/inland/expertin-gueltigkeit-von-antigentests-auf-24-stunden-reduzieren/401205742"
     }, {
-      "id" : "ciJFfZ4p",
-      "imgUrl" : "https://image.kurier.at/images/original/4974958/46-173774765.jpg",
-      "titleSource" : "Round Table zu Impfstoff-Forschung und Produktion",
-      "titleTarget" : "Aşı araştırma ve üretimi üzerine yuvarlak masa",
-      "url" : "https://kurier.at/politik/inland/round-table-zu-impfstoff-forschung-und-produktion/401205520"
+      "id" : "JJNitnuG",
+      "imgUrl" : "https://image.kurier.at/images/original/4948222/20210218-ABD0170-1-1.jpg",
+      "titleSource" : "Die vielen Irritationen ums Impfen",
+      "titleTarget" : "Aşılama ile ilgili birçok rahatsızlık",
+      "url" : "https://kurier.at/politik/inland/viele-irritationen-ums-impfen/401205673"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -52,6 +52,12 @@
       "titleSource" : "ING DiBa zieht sich aus Österreich großteils zurück",
       "titleTarget" : "ING DiBa büyük ölçüde Avusturya'dan çekiliyor",
       "url" : "https://kurier.at/wirtschaft/ing-diba-zieht-sich-aus-oesterreich-zurueck/401205355"
+    }, {
+      "id" : "DhImayCf",
+      "imgUrl" : "https://image.kurier.at/images/original/4959254/20210223-ABD0035-1-1.jpg",
+      "titleSource" : "Erstmals seit Weihnachten wieder weniger als 500.000 Arbeitslose",
+      "titleTarget" : "Noel'den beri ilk defa, 500.000'den az işsiz",
+      "url" : "https://kurier.at/wirtschaft/erstmals-seit-weihnachten-wieder-weniger-als-500000-arbeitslose/401204995"
     }, {
       "id" : "vlTZdFoa",
       "imgUrl" : "https://image.kurier.at/images/original/4973314/46-175873883.jpg",
@@ -70,12 +76,6 @@
       "titleSource" : "Impfstoffproduktion in Österreich: Regierung trifft heute Konzerne",
       "titleTarget" : "Avusturya'da aşı üretimi: hükümet bugün şirketlerle buluşuyor",
       "url" : "https://kurier.at/wirtschaft/impfstoffproduktion-in-oesterreich-regierung-trifft-heute-konzerne/401205052"
-    }, {
-      "id" : "WH0RZuNN",
-      "imgUrl" : "https://image.kurier.at/images/original/729600/Euros_Geld_c_sirmnl.jpg",
-      "titleSource" : "Geld aus dem Automaten",
-      "titleTarget" : "Makineden gelen para",
-      "url" : "https://kurier.at/wirtschaft/geld-aus-dem-automaten/401204467"
     }, {
       "id" : "IpQioUzV",
       "imgUrl" : "https://image.kurier.at/images/original/3147569/46-139922974.jpg",
@@ -98,6 +98,12 @@
       "titleTarget" : "\"Yüksek risk\": Açılışlara yönelik keskin eleştiri",
       "url" : "https://kurier.at/chronik/oesterreich/experte-oesterreich-lockert-in-die-naechste-welle-hinein/401204632"
     }, {
+      "id" : "SiAu4jEc",
+      "imgUrl" : "https://image.kurier.at/images/original/3704234/78350011450038588_BLD_Online.jpg",
+      "titleSource" : "Ibiza-Drahtzieher wird an Österreich ausgeliefert",
+      "titleTarget" : "İbiza tel çekici Avusturya'ya teslim edildi",
+      "url" : "https://kurier.at/chronik/oesterreich/ibiza-drahtzieher-wird-an-oesterreich-ausgeliefert/401205670"
+    }, {
       "id" : "GkJwmH7s",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
       "titleSource" : "1.920 Corona-Neuinfektionen in Österreich",
@@ -106,27 +112,21 @@
     }, {
       "id" : "KZm1rNIc",
       "imgUrl" : "https://image.kurier.at/images/original/4867410/20210112-ABD0081-1-1.jpg",
-      "titleSource" : "Ein Fünftel der Impfdosen in Österreich nicht verimpft",
+      "titleSource" : "Ein Fünftel der Impfdosen nicht verimpft + Wien startet Impfung in Schulen und Kindergärten",
       "titleTarget" : "Avusturya'da 1.920 yeni enfeksiyon + Alman eleştirisi: Avusturya bir sonraki dalgada gevşiyor",
       "url" : "https://kurier.at/chronik/oesterreich/who-kein-ende-der-pandemie-vor-2022-steiermark-eroeffnet-impfstrassen/401204578"
+    }, {
+      "id" : "dN27ElaP",
+      "imgUrl" : "https://image.kurier.at/images/original/4974283/46-166724746.jpg",
+      "titleSource" : "Klimaklage gegen Österreich vor Menschenrechtsgerichtshof",
+      "titleTarget" : "İnsan hakları mahkemesinde Avusturya'ya karşı iklim eylemi",
+      "url" : "https://kurier.at/chronik/oesterreich/klimaklage-gegen-oesterreich-vor-menschenrechtsgerichtshof/401205097"
     }, {
       "id" : "mSdElRYj",
       "imgUrl" : "https://image.kurier.at/images/original/2529108/46-85292763.jpg",
       "titleSource" : "Ausreise-Tests in zwei Salzburger Gemeinden",
       "titleTarget" : "İki Salzburg belediyesinde çıkış testleri",
       "url" : "https://kurier.at/chronik/oesterreich/ausreisebeschraenkung-fuer-zwei-salzburger-gemeinden/401205478"
-    }, {
-      "id" : "MCLVXVu4",
-      "imgUrl" : "https://image.kurier.at/images/original/4972921/46-80207482.jpg",
-      "titleSource" : "Wie der Flughafen München näher an Salzburg rückt ",
-      "titleTarget" : "Münih Havaalanı Salzburg'a nasıl yaklaşıyor?",
-      "url" : "https://kurier.at/chronik/oesterreich/wie-der-flughafen-muenchen-naeher-an-salzburg-rueckt/401204395"
-    }, {
-      "id" : "Z6nOApM6",
-      "imgUrl" : "https://image.kurier.at/images/original/4921702/46-175494568.jpg",
-      "titleSource" : "Bundesheer setzt wegen Corona-Fällen Stellung in Klagenfurt aus",
-      "titleTarget" : "Silahlı kuvvetler, korona vakaları nedeniyle Klagenfurt'taki pozisyonlarını askıya aldı",
-      "url" : "https://kurier.at/chronik/oesterreich/bundesheer-wegen-covid-stellung-in-klagenfurt-aus/401204878"
     }, {
       "id" : "ioXJ6n1M",
       "imgUrl" : "https://image.kurier.at/images/original/4973308/46-175896298.jpg",
@@ -148,6 +148,11 @@
       "titleSource" : "Wiener Rockband Alkbottle löst sich nach mehr als 30 Jahren auf",
       "titleTarget" : "Viyanalı rock grubu Alkbottle 30 yıldan uzun bir süre sonra dağıldı",
       "url" : "https://kurier.at/kultur/wiener-rockband-alkbottle-loest-sich-nach-mehr-als-30-jahren-auf/401204671"
+    }, {
+      "id" : "HHNnMW2H",
+      "titleSource" : "Reggae-Pionier und Bob Marleys Bandkollege Bunny Wailer gestorben",
+      "titleTarget" : "Reggae öncüsü ve Bob Marley'in grup arkadaşı Bunny Wailer öldü",
+      "url" : "https://kurier.at/kultur/reggae-pionier-und-bob-marleys-bandkollege-bunny-wailer-gestorben/401205703"
     }, {
       "id" : "M1Vqioxy",
       "imgUrl" : "https://image.kurier.at/images/original/4973548/0321churchill.jpg",
@@ -172,12 +177,6 @@
       "titleSource" : "Vorarlberger Kulturszene kritisiert unkonkrete Ankündigungen",
       "titleTarget" : "Vorarlberg'in kültür sahnesi belirsiz duyuruları eleştiriyor",
       "url" : "https://kurier.at/kultur/kritik-an-ankuendigungspolitik-aus-vorarlberger-kulturszene/401204998"
-    }, {
-      "id" : "Sgh9dvEW",
-      "imgUrl" : "https://image.kurier.at/images/original/4973473/46-167519953.jpg",
-      "titleSource" : "Raimundspiele Gutenstein: Johannes Krisch übernimmt die Leitung",
-      "titleTarget" : "Raimundspiele Gutenstein: Johannes Krisch yönetimi devraldı",
-      "url" : "https://kurier.at/kultur/raimundspiele-gutenstein-johannes-krisch-uebernimmt-die-leitung/401204683"
     } ]
   }, {
     "category" : "HEALTH",
@@ -187,6 +186,12 @@
       "titleSource" : "Gut jeder sechste Jugendliche hat in der Pandemie Suizid-Gedanken",
       "titleTarget" : "Her altıda bir iyi bir gencin salgında intihar düşüncesi vardır.",
       "url" : "https://kurier.at/wissen/gesundheit/gut-jeder-sechste-jugendliche-hat-in-der-pandemie-selbstmord-gedanken/401204896"
+    }, {
+      "id" : "41idCRvB",
+      "imgUrl" : "https://image.kurier.at/images/original/4754241/78350011457458328_BLD_Online.jpg",
+      "titleSource" : "Warum Joe Biden zwei Masken trägt",
+      "titleTarget" : "Joe Biden neden iki maske takıyor?",
+      "url" : "https://kurier.at/wissen/gesundheit/warum-joe-biden-zwei-masken-traegt/401204947"
     }, {
       "id" : "D2q2VcPC",
       "imgUrl" : "https://image.kurier.at/images/original/4973455/46-176098053.jpg",
@@ -199,12 +204,6 @@
       "titleSource" : "Jetzt haben auch New York und Kalifornien ihre eigenen Corona-Mutationen",
       "titleTarget" : "Şimdi New York ve California'nın da kendi korona mutasyonları var.",
       "url" : "https://kurier.at/wissen/gesundheit/jetzt-haben-auch-new-york-und-kalifornien-ihre-eigenen-corona-mutationen/401205505"
-    }, {
-      "id" : "41idCRvB",
-      "imgUrl" : "https://image.kurier.at/images/original/4754241/78350011457458328_BLD_Online.jpg",
-      "titleSource" : "Warum Joe Biden zwei Masken trägt",
-      "titleTarget" : "Joe Biden neden iki maske takıyor?",
-      "url" : "https://kurier.at/wissen/gesundheit/warum-joe-biden-zwei-masken-traegt/401204947"
     }, {
       "id" : "b0OAQ2ED",
       "imgUrl" : "https://image.kurier.at/images/original/4973545/46-175975443.jpg",
@@ -226,12 +225,6 @@
       "titleSource" : "Gold und Silber für Karl und Prommegger bei der Snowboard-WM",
       "titleTarget" : "Snowboard Dünya Şampiyonasında Karl ve Prommegger için altın ve gümüş",
       "url" : "https://kurier.at/sport/wintersport/gold-und-silber-fuer-karl-und-prommegger-bei-der-snowboard-wm/401205469"
-    }, {
-      "id" : "fXXC27qL",
-      "imgUrl" : "https://image.kurier.at/images/original/1418226/46-79604701.jpg",
-      "titleSource" : "Kinder und Jugendliche dürfen ab 15. März wieder Sport treiben",
-      "titleTarget" : "Çocuklar ve gençler 15 Mart'tan itibaren tekrar spor yapabilecek",
-      "url" : "https://kurier.at/sport/kinder-und-jugendliche-duerfen-ab-15-maerz-wieder-sport-treiben/401204455"
     }, {
       "id" : "zbisSAtf",
       "imgUrl" : "https://image.kurier.at/images/original/4974757/vienna1.jpg",
@@ -257,11 +250,17 @@
       "titleTarget" : "Yeni Formula 1 Mercedes böyle görünüyor",
       "url" : "https://kurier.at/sport/motorsport/so-sieht-der-neue-formel-1-mercedes-aus/401205004"
     }, {
-      "id" : "nzPs64Sj",
-      "imgUrl" : "https://image.kurier.at/images/original/4975027/46-175565248.jpg",
-      "titleSource" : "Die Grazer Merkur Arena laut Betreiber wieder bespielbar",
-      "titleTarget" : "Operatöre göre, Graz'daki Merkur Arena tekrar oynanabilir",
-      "url" : "https://kurier.at/sport/fussball/fussball-bundesliga-die-grazer-merkur-arena-laut-betreiber-wieder-bespielbar/401205523"
+      "id" : "C2mMeUUZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4975450/46-176128712.jpg",
+      "titleSource" : "Dortmund verdirbt Marco Rose das Saisonende",
+      "titleTarget" : "Dortmund, sezon sonunda Marco Rose'u mahvetti",
+      "url" : "https://kurier.at/sport/fussball/dfb-pokal-dortmund-verdirbt-marco-rose-das-saisonende/401205763"
+    }, {
+      "id" : "ZjXh1sR4",
+      "imgUrl" : "https://image.kurier.at/images/original/4975438/46-176128096.jpg",
+      "titleSource" : "Die Fivers schaffen die Sensation in der European League",
+      "titleTarget" : "Fivers, Avrupa Ligi'nde sansasyon yaratıyor",
+      "url" : "https://kurier.at/sport/handball-die-fivers-schaffen-die-sensation-in-der-european-league/401205754"
     } ]
   } ],
   "country" : "austria",
