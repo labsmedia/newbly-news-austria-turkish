@@ -12,6 +12,16 @@
       "titleTarget" : "Korona demolarının ardından Nehammer ve FPÖ arasında darbe değiş tokuşu",
       "url" : "https://kurier.at/politik/inland/schlagabtausch-zwischen-nehammer-und-fpoe-nach-corona-demos/401210509"
     }, {
+      "articleLength" : 1714,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 240,
+      "id" : "3cKzn46s",
+      "imgUrl" : "https://image.kurier.at/images/original/4986886/46-176230732.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Korosec: \"Wer geimpft ist, muss aus der Isolation“",
+      "titleTarget" : "Korosec: \"Aşılanan herkes tecritten çıkmalı\"",
+      "url" : "https://kurier.at/politik/inland/korosec-wer-geimpft-ist-muss-aus-der-isolation/401210692"
+    }, {
       "articleLength" : 882,
       "articlePartsSize" : 4,
       "articleWordCount" : 124,
@@ -21,6 +31,26 @@
       "titleSource" : "SPÖ will \"Normalbetrieb\" an Schulen nach Ostern: Wie das gehen soll",
       "titleTarget" : "SPÖ, Paskalya'dan sonra okullarda \"normal işlem\" istiyor: Nasıl yapılır?",
       "url" : "https://kurier.at/politik/inland/spoe-will-normalbetrieb-an-schulen-nach-ostern-wie-das-gehen-soll/401210305"
+    }, {
+      "articleLength" : 4989,
+      "articlePartsSize" : 22,
+      "articleWordCount" : 714,
+      "id" : "rwJzGB2d",
+      "imgUrl" : "https://image.kurier.at/images/original/4984954/46-174290282.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Raab über Feminismus: \"Begrifflichkeiten derzeit nicht am wichtigsten\"",
+      "titleTarget" : "Raab feminizm üzerine: \"Terminoloji şu anda en önemli değil\"",
+      "url" : "https://kurier.at/politik/inland/raab-ueber-feminismus-begrifflichkeiten-derzeit-nicht-am-wichtigsten/401210074"
+    }, {
+      "articleLength" : 721,
+      "articlePartsSize" : 3,
+      "articleWordCount" : 102,
+      "id" : "il8yRWwX",
+      "imgUrl" : "https://image.kurier.at/images/original/4985161/46-163456272.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Pass und Führerschein: Gebührenerhöhung ausgesetzt",
+      "titleTarget" : "Pasaport ve ehliyet ücretleri aynı kalır",
+      "url" : "https://kurier.at/politik/inland/gebuehren-fuer-pass-und-fuehrerschein-bleiben-gleich/401210143"
     }, {
       "articleLength" : 3443,
       "articlePartsSize" : 16,
@@ -39,30 +69,10 @@
       "titleSource" : "Wieso Studierende ghostwriten lassen",
       "titleTarget" : "Neden öğrenciler hayalet yazarlık yapıyor?",
       "url" : "https://www.derstandard.at/story/2000124650859/wieso-studierende-ghostwriten-lassen?ref=rss"
-    }, {
-      "articleLength" : 721,
-      "articlePartsSize" : 3,
-      "articleWordCount" : 102,
-      "id" : "il8yRWwX",
-      "imgUrl" : "https://image.kurier.at/images/original/4985161/46-163456272.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Pass und Führerschein: Gebührenerhöhung ausgesetzt",
-      "titleTarget" : "Pasaport ve ehliyet ücretleri aynı kalır",
-      "url" : "https://kurier.at/politik/inland/gebuehren-fuer-pass-und-fuehrerschein-bleiben-gleich/401210143"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "articleLength" : 669,
-      "articlePartsSize" : 3,
-      "articleWordCount" : 91,
-      "id" : "ryhS6TA5",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/0/7/9/5947513/9D3062A9-28E8-40C8-A22E-316EB496A96C_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Reisepass, Führerschein oder Baubewilligung: Gebühren auch heuer nicht erhöht",
-      "titleTarget" : "Pasaport, ehliyet veya inşaat ruhsatı: bu yıl da ücretler artırılmadı",
-      "url" : "https://www.diepresse.com/5947513/Bund_Reisepass-Fuehrerschein-oder-Baubewilligung_Gebuehren-auch?from=rss"
-    }, {
       "articleLength" : 2121,
       "articlePartsSize" : 10,
       "articleWordCount" : 283,
@@ -73,15 +83,6 @@
       "titleTarget" : "Denetleme kurullarında kadın kontenjanının etkisi var",
       "url" : "https://kurier.at/wirtschaft/frauenquote-in-aufsichtsraeten-zeigt-wirkung/401209963"
     }, {
-      "articleLength" : 5940,
-      "articlePartsSize" : 26,
-      "articleWordCount" : 847,
-      "id" : "vBWnEfqr",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Wer soll den Schuldenberg bezahlen?",
-      "titleTarget" : "Borcun dağını kim ödemeli?",
-      "url" : "https://www.derstandard.at/story/2000124707180/wer-soll-den-schuldenberg-bezahlen?ref=rss"
-    }, {
       "articleLength" : 2771,
       "articlePartsSize" : 12,
       "articleWordCount" : 424,
@@ -91,6 +92,35 @@
       "titleSource" : "Wiener Architektin bietet digitale Raumplanung an",
       "titleTarget" : "Viyanalı mimar dijital alan planlaması sunuyor",
       "url" : "https://kurier.at/wirtschaft/immobiz/wiener-architektin-bietet-digitale-raumplanung-an/401209162"
+    }, {
+      "articleLength" : 1384,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 183,
+      "id" : "3VrKLFBs",
+      "imgUrl" : "https://image.kurier.at/images/original/4909978/mediamarkt-innsbruck_c_mediamarkt_jan_hetfleisch.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "MediaMarktSaturn-Chef geht",
+      "titleTarget" : "MediaMarktSaturn patron ayrılıyor",
+      "url" : "https://kurier.at/wirtschaft/mediamarktsaturn-chef-geht/401210740"
+    }, {
+      "articleLength" : 5940,
+      "articlePartsSize" : 26,
+      "articleWordCount" : 847,
+      "id" : "vBWnEfqr",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Wer soll den Schuldenberg bezahlen?",
+      "titleTarget" : "Borcun dağını kim ödemeli?",
+      "url" : "https://www.derstandard.at/story/2000124707180/wer-soll-den-schuldenberg-bezahlen?ref=rss"
+    }, {
+      "articleLength" : 669,
+      "articlePartsSize" : 3,
+      "articleWordCount" : 91,
+      "id" : "ryhS6TA5",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/0/7/9/5947513/9D3062A9-28E8-40C8-A22E-316EB496A96C_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Reisepass, Führerschein oder Baubewilligung: Gebühren auch heuer nicht erhöht",
+      "titleTarget" : "Pasaport, ehliyet veya inşaat ruhsatı: bu yıl da ücretler artırılmadı",
+      "url" : "https://www.diepresse.com/5947513/Bund_Reisepass-Fuehrerschein-oder-Baubewilligung_Gebuehren-auch?from=rss"
     }, {
       "articleLength" : 10337,
       "articlePartsSize" : 45,
@@ -104,6 +134,16 @@
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
+      "articleLength" : 5492,
+      "articlePartsSize" : 24,
+      "articleWordCount" : 716,
+      "id" : "AZN9F5NP",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/a/5/5947557/CORONA-KUNDGEBUNG-DER-FP_1615119048115932_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Festnahmen, Anzeigen und Schlagabtausch zwischen Nehammer und FPÖ nach Demos in Wien",
+      "titleTarget" : "Viyana'daki gösterilerin ardından Nehammer ile FPÖ arasında tutuklamalar, raporlar ve darplar",
+      "url" : "https://www.diepresse.com/5947557/AntiCorona_Festnahmen-Anzeigen-und-Schlagabtausch-zwischen?from=rss"
+    }, {
       "articleLength" : 1697,
       "articlePartsSize" : 8,
       "articleWordCount" : 216,
@@ -113,6 +153,25 @@
       "titleSource" : "Tod von Krankenschwester: 37.000 Dosen der betroffenen Charge verimpft",
       "titleTarget" : "Hemşire ölümü: Aşılanmış etkilenen partiden 37.000 doz",
       "url" : "https://kurier.at/chronik/oesterreich/nach-todesfall-kaernten-stoppt-impfung-mit-astra-zeneca-charge/401210506"
+    }, {
+      "articleLength" : 6582,
+      "articlePartsSize" : 30,
+      "articleWordCount" : 861,
+      "id" : "P3PxW62K",
+      "publisher" : "derstandard.at",
+      "titleSource" : "42 Festnahmen, 3.000 verwaltungsrechtliche und 60 Strafanzeigen bei Corona-Demos",
+      "titleTarget" : "Korona gösterilerinde 42 tutuklama, 3.000 idari ve 60 adli suçlama",
+      "url" : "https://www.derstandard.at/story/2000124733120/42-festnahmen-3-000-verwaltungsrechtliche-und-60-strafanzeigen-bei-corona?ref=rss"
+    }, {
+      "articleLength" : 3705,
+      "articlePartsSize" : 18,
+      "articleWordCount" : 502,
+      "id" : "4nJfPPs1",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/7/b/5947515/C17FA8F5-CC73-4ADC-936A-4BCD736325EA_1615121331839300_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Grüne wollen Pflicht zur Einkommenstransparenz",
+      "titleTarget" : "Yeşiller gelir şeffaflığı vergisi istiyor",
+      "url" : "https://www.diepresse.com/5947515/Unternehmen_Gruene-wollen-Pflicht-zur-Einkommenstransparenz?from=rss"
     }, {
       "articleLength" : 3621,
       "articlePartsSize" : 16,
@@ -124,34 +183,6 @@
       "titleTarget" : "Korona aşılamasından sonra ölüm: aşı grubu durduruldu",
       "url" : "https://kurier.at/chronik/oesterreich/todesfall-nach-corona-impfung-impfstoffcharge-wurde-gestoppt/401210341"
     }, {
-      "articleLength" : 6582,
-      "articlePartsSize" : 30,
-      "articleWordCount" : 861,
-      "id" : "P3PxW62K",
-      "publisher" : "derstandard.at",
-      "titleSource" : "42 Festnahmen, 3.000 verwaltungsrechtliche und 60 Strafanzeigen bei Corona-Demos",
-      "titleTarget" : "Korona gösterilerinde 42 tutuklama, 3.000 idari ve 60 adli suçlama",
-      "url" : "https://www.derstandard.at/story/2000124733120/42-festnahmen-3-000-verwaltungsrechtliche-und-60-strafanzeigen-bei-corona?ref=rss"
-    }, {
-      "articleLength" : 1792,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 252,
-      "id" : "2SkYCGtr",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Angewandte stiftet Preis in Gedenken an ermordete Studentin",
-      "titleTarget" : "Öldürülen bir öğrencinin anısına uygulanan bağış ödülü",
-      "url" : "https://www.derstandard.at/story/2000124731664/angewandte-stiftet-preis-in-gedenken-an-ermordete-studentin?ref=rss"
-    }, {
-      "articleLength" : 5492,
-      "articlePartsSize" : 24,
-      "articleWordCount" : 716,
-      "id" : "AZN9F5NP",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/a/5/5947557/CORONA-KUNDGEBUNG-DER-FP_1615119048115932_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Festnahmen, Anzeigen und Schlagabtausch zwischen Nehammer und FPÖ nach Demos in Wien",
-      "titleTarget" : "Viyana'daki gösterilerin ardından Nehammer ile FPÖ arasında tutuklamalar, raporlar ve darplar",
-      "url" : "https://www.diepresse.com/5947557/AntiCorona_Festnahmen-Anzeigen-und-Schlagabtausch-zwischen?from=rss"
-    }, {
       "articleLength" : 852,
       "articlePartsSize" : 4,
       "articleWordCount" : 120,
@@ -162,15 +193,15 @@
       "titleTarget" : "100 çocuk pizza ile kutlandı, polisler maske dağıttı",
       "url" : "https://kurier.at/chronik/oesterreich/100-kinder-feierten-mit-pizza-polizisten-verteilten-masken/401210404"
     }, {
-      "articleLength" : 5492,
-      "articlePartsSize" : 24,
-      "articleWordCount" : 716,
-      "id" : "mSAWdRU6",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/a/5/5947557/CORONA-KUNDGEBUNG-DER-FP_1615119048115932_v0_l.jpg",
+      "articleLength" : 1740,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 245,
+      "id" : "qOUsZqub",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/7/c/5947516/Retailers-open-after-third-national-lockdown-was-loosened-in-Austria_1615108141424432_v0_l.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "Demos in Wien: 42 Festnahmen, 3000 Anzeigen und Schlagabtausch zwischen Nehammer und FPÖ",
-      "titleTarget" : "Viyana'daki gösteriler: 42 tutuklama, 3.000 şikayet ve Nehammer ile FPÖ arasında karşılıklı darbe",
-      "url" : "https://www.diepresse.com/5947557/AntiCorona_Demos-in-Wien_42-Festnahmen-3000-Anzeigen-und?from=rss"
+      "titleSource" : "Zweiter Sonntag in diesem Jahr mit über 2000 Neuinfektionen in Österreich",
+      "titleTarget" : "Avusturya'da 2000'den fazla yeni enfeksiyonla bu yılın ikinci Pazar günü",
+      "url" : "https://www.diepresse.com/5947516/Covid19_Zweiter-Sonntag-in-diesem-Jahr-mit-ueber-2000?from=rss"
     } ]
   }, {
     "category" : "CULTURE",
@@ -195,15 +226,15 @@
       "titleTarget" : "Bunlar ROMY 2021 adayları",
       "url" : "https://kurier.at/kultur/das-sind-die-nominierten-fuer-die-romy-2021/401210098"
     }, {
-      "articleLength" : 1463,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 197,
-      "id" : "afOJ7tWs",
-      "imgUrl" : "https://image.kurier.at/images/original/4986964/gettyimages-454259166.jpg",
+      "articleLength" : 2325,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 304,
+      "id" : "B2MUwoxh",
+      "imgUrl" : "https://image.kurier.at/images/original/4805610/20201207-ABD0088-1-1.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Klingonisch hat jetzt neue Wörter für die Corona-Pandemie",
-      "titleTarget" : "Klingon artık koronavirüs salgını için yeni sözlere sahip",
-      "url" : "https://kurier.at/kultur/klingonisch-hat-jetzt-neue-woerter-fuer-die-corona-pandemie/401210359"
+      "titleSource" : "Gratis-Eintritt und Spezial-Führungen: Am Frauentag ins Museum",
+      "titleTarget" : "Ücretsiz giriş ve özel turlar: Kadınlar Günü'nde müzeye",
+      "url" : "https://kurier.at/kultur/gratis-eintritt-und-spezial-fuehrungen-am-frauentag-ins-museum/401210551"
     }, {
       "articleLength" : 4016,
       "articlePartsSize" : 18,
@@ -214,18 +245,38 @@
       "titleTarget" : "Müzik değil: bir festivali hissettiren şey",
       "url" : "https://www.derstandard.at/story/2000124696955/die-musik-ist-es-nicht-was-das-gefuehl-festival-ausmacht?ref=rss"
     }, {
-      "articleLength" : 5188,
-      "articlePartsSize" : 23,
-      "articleWordCount" : 728,
-      "id" : "cqDzXGje",
+      "articleLength" : 1463,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 197,
+      "id" : "afOJ7tWs",
+      "imgUrl" : "https://image.kurier.at/images/original/4986964/gettyimages-454259166.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Klingonisch hat jetzt neue Wörter für die Corona-Pandemie",
+      "titleTarget" : "Klingon artık koronavirüs salgını için yeni sözlere sahip",
+      "url" : "https://kurier.at/kultur/klingonisch-hat-jetzt-neue-woerter-fuer-die-corona-pandemie/401210359"
+    }, {
+      "articleLength" : 7191,
+      "articlePartsSize" : 32,
+      "articleWordCount" : 1054,
+      "id" : "P62xQ9nu",
       "publisher" : "derstandard.at",
-      "titleSource" : "Entschleunigung & mehr Teilen: Theaterfestivals nach der Pandemie",
-      "titleTarget" : "Yavaşlamak ve daha fazlasını paylaşmak: Pandemiden sonra tiyatro festivalleri",
-      "url" : "https://www.derstandard.at/story/2000124718511/entschleunigung-mehr-teilen-theaterfestivals-nach-der-pandemie?ref=rss"
+      "titleSource" : "Vergesst eure Jugend! Warum wir eine neue Erinnerungskultur brauchen",
+      "titleTarget" : "Gençliğinizi unutun! Neden yeni bir hatırlama kültürüne ihtiyacımız var?",
+      "url" : "https://www.derstandard.at/story/2000124703274/vergesst-eure-jugend-warum-wir-eine-neue-erinnerungskultur-brauchen?ref=rss"
     } ]
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
+      "articleLength" : 1090,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 143,
+      "id" : "H2ECUH9e",
+      "imgUrl" : "https://image.kurier.at/images/original/4984483/20210306-ABD0063-1-1.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Studie zeigt, Corona-Demos tragen zur Virusverbreitung bei",
+      "titleTarget" : "Çalışma, korona demolarının virüsün yayılmasına katkıda bulunduğunu gösteriyor",
+      "url" : "https://kurier.at/wissen/gesundheit/studie-zeigt-corona-demos-tragen-zur-virusverbreitung-bei/401210377"
+    }, {
       "articleLength" : 1224,
       "articlePartsSize" : 6,
       "articleWordCount" : 161,
@@ -258,53 +309,15 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "articleLength" : 1921,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 281,
-      "id" : "zhFLKVwi",
-      "imgUrl" : "https://image.kurier.at/images/original/4986202/46-175255637.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Rapid verpflichtet Robert Ljubicic vom SKN St. Pölten",
-      "titleTarget" : "SKN St.Pölten'den hızlı tabela Robert Ljubicic",
-      "url" : "https://kurier.at/sport/fussball/rapid-steht-vor-der-verpflichtung-von-robert-ljubicic-vom-skn/401210512"
-    }, {
-      "articleLength" : 2940,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 458,
-      "id" : "F37X7qIe",
-      "imgUrl" : "https://image.kurier.at/images/original/4986025/46-176171030.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "ÖSV-Jungstar Lamparter nach WM-Gala: \"Hätte ihm eine runtergehaut\"",
-      "titleTarget" : "ÖSV'nin genç yıldızı Lamparter, Dünya Kupası galasının ardından: \"Onu yere sererdi\"",
-      "url" : "https://kurier.at/sport/wintersport/oesv-jungstar-johannes-lamparter-nach-wm-gala-haette-ihm-eine-runtergehaut/401210494"
-    }, {
-      "articleLength" : 1683,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 236,
-      "id" : "aFXvlTQ8",
-      "publisher" : "derstandard.at",
-      "titleSource" : "LASK startet im Frauenfußball durch",
-      "titleTarget" : "LASK, kadın futbolunda başladı",
-      "url" : "https://www.derstandard.at/story/2000124735505/lask-startet-im-frauenfussball-durch?ref=rss"
-    }, {
-      "articleLength" : 2716,
+      "articleLength" : 2434,
       "articlePartsSize" : 12,
-      "articleWordCount" : 414,
-      "id" : "aEJWVlkC",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Dortmunder Frust über den Schiedsrichter: \"Keine Eier\"",
-      "titleTarget" : "Hakemle Dortmund hayal kırıklığı: \"Yumurta yok\"",
-      "url" : "https://www.derstandard.at/story/2000124731866/dortmunder-frust-ueber-den-schiedsrichter-keine-eier?ref=rss"
-    }, {
-      "articleLength" : 3715,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 560,
-      "id" : "I2Vp2SEw",
-      "imgUrl" : "https://image.kurier.at/images/original/4986913/46-176237690.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Wiener Derby live: So steht es bei der Austria gegen Rapid",
-      "titleTarget" : "Viyana Derbisi canlı: Avusturya'da Rapid'e karşı durum böyledir",
-      "url" : "https://kurier.at/sport/fussball/bundesliga-live-spielstand-so-steht-es-im-wiener-derby-austria-gegen-rapid/401210365"
+      "articleWordCount" : 364,
+      "id" : "ihgaWqmM",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/f/b/5947643/00E15683-193E-49A1-B6E4-6662AE9B02AA_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "0:0 im Derby: Austrias Chancen auf Top sechs schwinden",
+      "titleTarget" : "Derbide 0-0: Avusturya'nın ilk altıya girme şansı azalıyor",
+      "url" : "https://www.diepresse.com/5947643/Bundesliga_0_0-im-Derby_Austrias-Chancen-auf-Top-sechs-schwinden?from=rss"
     }, {
       "articleLength" : 2068,
       "articlePartsSize" : 10,
@@ -325,6 +338,44 @@
       "titleSource" : "ÖLV zog zufriedenes EM-Fazit, aber: \"Müssen bei Hallen aufholen!\"",
       "titleTarget" : "ÖLV tatmin edici bir EM sonucuna vardı, ancak: \"Salonlara yetişmek zorundasın!\"",
       "url" : "https://www.diepresse.com/5947608/OeLV-zog-zufriedenes-EMFazit-aber_Muessen-bei-Hallen-aufholen?from=rss"
+    }, {
+      "articleLength" : 1921,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 281,
+      "id" : "zhFLKVwi",
+      "imgUrl" : "https://image.kurier.at/images/original/4986202/46-175255637.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Rapid verpflichtet Robert Ljubicic vom SKN St. Pölten",
+      "titleTarget" : "SKN St.Pölten'den hızlı tabela Robert Ljubicic",
+      "url" : "https://kurier.at/sport/fussball/rapid-steht-vor-der-verpflichtung-von-robert-ljubicic-vom-skn/401210512"
+    }, {
+      "articleLength" : 1683,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 236,
+      "id" : "aFXvlTQ8",
+      "publisher" : "derstandard.at",
+      "titleSource" : "LASK startet im Frauenfußball durch",
+      "titleTarget" : "LASK, kadın futbolunda başladı",
+      "url" : "https://www.derstandard.at/story/2000124735505/lask-startet-im-frauenfussball-durch?ref=rss"
+    }, {
+      "articleLength" : 3093,
+      "articlePartsSize" : 14,
+      "articleWordCount" : 464,
+      "id" : "PK78S1Eq",
+      "imgUrl" : "https://image.kurier.at/images/original/4985773/46-176219320.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "WM-Jubel der ÖSV-Adler: \"Bin nervlich fast draufgegangen\"",
+      "titleTarget" : "ÖSV kartalının Dünya Kupası coşkusu: \"Neredeyse sinirlerimden ölüyordum\"",
+      "url" : "https://kurier.at/sport/wintersport/nordische-wm-jubel-der-oesv-adler-kraft-und-co-bin-nervlich-fast-draufgegangen/401210392"
+    }, {
+      "articleLength" : 2716,
+      "articlePartsSize" : 12,
+      "articleWordCount" : 414,
+      "id" : "aEJWVlkC",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Dortmunder Frust über den Schiedsrichter: \"Keine Eier\"",
+      "titleTarget" : "Hakemle Dortmund hayal kırıklığı: \"Yumurta yok\"",
+      "url" : "https://www.derstandard.at/story/2000124731866/dortmunder-frust-ueber-den-schiedsrichter-keine-eier?ref=rss"
     } ]
   } ],
   "country" : "austria",
