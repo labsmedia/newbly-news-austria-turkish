@@ -2,116 +2,78 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "articleLength" : 871,
-      "articlePartsSize" : 4,
-      "articleWordCount" : 118,
-      "id" : "EoU05zlF",
-      "imgUrl" : "https://image.kurier.at/images/original/4997442/46-144082866.jpg",
+      "articleLength" : 4299,
+      "articlePartsSize" : 20,
+      "articleWordCount" : 553,
+      "id" : "AFPGSf7W",
+      "imgUrl" : "https://image.kurier.at/images/original/4859487/46-173789602.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "\"Grüner Pass\": Nachweis zu Impfung, Genesung oder Test via eCard",
-      "titleTarget" : "\"Yeşil Geçiş\": eCard yoluyla aşılama, iyileştirme veya test kanıtı",
-      "url" : "https://kurier.at/politik/inland/gruener-pass-nachweis-zu-impfung-genesung-oder-test-via-ecard/401216832"
+      "titleSource" : "Impfstoff-Streit: ÖVP fordert Suspendierung von Beamten im grünen Ministerium",
+      "titleTarget" : "Aşı tartışması: ÖVP'den yeşil bakanlıktaki yetkililerin görevden alınması",
+      "url" : "https://kurier.at/politik/inland/impfstoff-streit-oevp-fordert-suspendierung-von-beamten-im-gruenen-ministerium/401217378"
     }, {
-      "articleLength" : 3106,
-      "articlePartsSize" : 16,
-      "articleWordCount" : 403,
-      "id" : "1FU2SI39",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/a/c/5950380/bvt_1615553522012794_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "BVT: Mehr Kontrolle und Politik-Verbot für hochrangige Beamte geplant",
-      "titleTarget" : "BAT: Yüksek rütbeli yetkililer için daha fazla kontrol ve siyaset yasağı planladı",
-      "url" : "https://www.diepresse.com/5950380/Reform-in-der-Endphase_BVT_Mehr-Kontrolle-und-PolitikVerbot-fuer?from=rss"
-    }, {
-      "articleLength" : 11413,
-      "articlePartsSize" : 53,
-      "articleWordCount" : 1542,
-      "id" : "0jPNJNMm",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Zack, zack, zack in der Justiz: Zerbricht ein \"System Pilnacek\"?",
-      "titleTarget" : "Zack, Zack, yargıdaki Zack: \"Pilnacek sistemi\" dağılıyor mu?",
-      "url" : "https://www.derstandard.at/story/2000124997615/zack-zack-zack-in-der-justiz-zerbricht-ein-system-pilnacek?ref=rss"
-    }, {
-      "articleLength" : 3226,
+      "articleLength" : 3324,
       "articlePartsSize" : 15,
-      "articleWordCount" : 440,
-      "id" : "uBsHLDvm",
+      "articleWordCount" : 457,
+      "id" : "xj5kcI9T",
+      "imgUrl" : "https://image.kurier.at/images/original/4930024/20210210-ABD0062-1-1.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Corona-Demos werden laut Nehammer nicht willkürlich untersagt",
+      "titleTarget" : "Nehammer'e göre Corona demoları keyfi olarak yasak değil",
+      "url" : "https://kurier.at/politik/inland/corona-demos-werden-laut-nehammer-nicht-willkuerlich-untersagt/401217195"
+    }, {
+      "articleLength" : 7652,
+      "articlePartsSize" : 33,
+      "articleWordCount" : 1005,
+      "id" : "IRm075iO",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/1/6/5950742/zzz_1615638247618176_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "ÖVP fordert Suspendierung von Spitzenbeamten im Gesundheitsministerium",
+      "titleTarget" : "ÖVP, Sağlık Bakanlığı'ndaki üst düzey yetkililerin görevden alınmasını istedi",
+      "url" : "https://www.diepresse.com/5950742/Impfstoffverteilung_OeVP-fordert-Suspendierung-von-Spitzenbeamten?from=rss"
+    }, {
+      "articleLength" : 7652,
+      "articlePartsSize" : 33,
+      "articleWordCount" : 1005,
+      "id" : "q8VjykiC",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/1/6/5950742/CORONA-IMPFUNG-IMPFSTART-FR-LEHRER-UND-KINDERGARTENPERSONAL_1615622887043375_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "ÖVP fordert Suspendierung von Beamten im Gesundheitsministerium",
+      "titleTarget" : "ÖVP'den Sağlık Bakanlığı yetkililerinin uzaklaştırılması çağrısı",
+      "url" : "https://www.diepresse.com/5950742/EU_Impfstoffverteilung_Gesundheitsministerium-widerspricht-Kurz?from=rss"
+    }, {
+      "articleLength" : 1728,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 236,
+      "id" : "7QjrJbJZ",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/1/f/5950751/SP-PRESSEKONFERENZ-AKTUELLE-CORONA-ENTWICKLUNG-RENDI-WAGNER_1615624403188352_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Rendi-Wagner: \"Weitere Lockerungen sind viel zu großes Risiko\"",
+      "titleTarget" : "Rendi-Wagner: \"Daha fazla rahatlama çok büyük bir risk\"",
+      "url" : "https://www.diepresse.com/5950751/SPOe_RendiWagner_Weitere-Lockerungen-sind-viel-zu-grosses-Risiko?from=rss"
+    }, {
+      "articleLength" : 3918,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 534,
+      "id" : "EOlrPMaD",
       "publisher" : "derstandard.at",
-      "titleSource" : "Matura mit neuen Modalitäten",
-      "titleTarget" : "Yeni modalitelerle Matura",
-      "url" : "https://www.derstandard.at/story/2000125006315/matura-mit-neuen-modalitaeten?ref=rss"
+      "titleSource" : "SPÖ hält vorgelegte BVT-Reform für \"schweren Fehler\"",
+      "titleTarget" : "SPÖ, önerilen BVT reformunu \"ciddi bir hata\" olarak değerlendiriyor",
+      "url" : "https://www.derstandard.at/story/2000125017365/spoe-haelt-vorgelegte-bvt-reform-fuer-schweren-fehler?ref=rss"
     }, {
-      "articleLength" : 2902,
-      "articlePartsSize" : 14,
-      "articleWordCount" : 459,
-      "id" : "xnCyzxES",
-      "imgUrl" : "https://image.kurier.at/images/original/4857102/78350011458274410_BLD_Online.jpg",
+      "articleLength" : 1458,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 216,
+      "id" : "ThZOeft5",
+      "imgUrl" : "https://image.kurier.at/images/original/4998129/46-176343659.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Acht von zehn Kindern geht es schlechter als vor Pandemie",
-      "titleTarget" : "On çocuktan sekizi salgının öncesine göre daha kötü durumda",
-      "url" : "https://kurier.at/politik/inland/acht-von-zehn-kindern-geht-es-schlechter-als-vor-pandemie/401216268"
-    }, {
-      "articleLength" : 5617,
-      "articlePartsSize" : 24,
-      "articleWordCount" : 763,
-      "id" : "jNeR7QY5",
-      "imgUrl" : "https://image.kurier.at/images/original/4996854/46-176344727.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Kurz: \"EU-Lieferungen erfolgen nicht nach Bevölkerungsschlüssel\"",
-      "titleTarget" : "Kısaca: \"AB teslimatları nüfus anahtarına göre yapılmamaktadır\"",
-      "url" : "https://kurier.at/politik/inland/live-bundeskanzler-ueber-impfstofflieferungen-aus-der-eu/401216244"
-    }, {
-      "articleLength" : 2468,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 331,
-      "id" : "dQC7eOKh",
-      "imgUrl" : "https://image.kurier.at/images/original/4997166/dsc_7780.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "\"Bürger in Uniform\": Nachteile für Milizsoldaten werden bereinigt",
-      "titleTarget" : "\"Üniformalı Vatandaşlar\": Milislerin dezavantajları ortadan kalktı",
-      "url" : "https://kurier.at/politik/inland/buerger-in-uniform-nachteile-fuer-milizsoldaten-werden-bereinigt/401216595"
+      "titleSource" : "Bildungsminister Faßmann: Corona-Jahrgang keine \"Lost Generation\"",
+      "titleTarget" : "Eğitim Bakanı Faßmann: Corona yılı \"kayıp nesil\" değil",
+      "url" : "https://kurier.at/politik/inland/bildungsminister-fassmann-corona-jahrgang-keine-lost-generation/401217099"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "articleLength" : 1393,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 176,
-      "id" : "O41LEITc",
-      "imgUrl" : "https://image.kurier.at/images/original/4997097/46-176342958.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Mitarbeiter-Daten: Neos wollen Novomatic-Antrag zurückziehen",
-      "titleTarget" : "Çalışan verileri: Neos, Novomatic uygulamasını geri çekmek istiyor",
-      "url" : "https://kurier.at/wirtschaft/mitarbeiter-daten-neos-wollen-novomatic-antrag-zurueckziehen/401216559"
-    }, {
-      "articleLength" : 3559,
-      "articlePartsSize" : 16,
-      "articleWordCount" : 553,
-      "id" : "8BbdSPIB",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/c/0/c/5950476/694ECE9E-D827-46F3-807F-C9A5AAE8D1AE_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Post: Bank99 in drei Jahren profitabel",
-      "titleTarget" : "Gönderi: Bank99 üç yıl içinde karlı olacak",
-      "url" : "https://www.diepresse.com/5950476/Bilanz_Post_Bank99-in-drei-Jahren-profitabel?from=rss"
-    }, {
-      "articleLength" : 1267,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 193,
-      "id" : "YCs24t3U",
-      "imgUrl" : "https://image.kurier.at/images/original/4562201/78370011355829790_BLD_Online.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Neues Catering bei Austrian: Nur noch Wasser und Schokotaler gratis",
-      "titleTarget" : "Avusturya'da yeni yemek servisi: Sadece su ve çikolata paraları bedava",
-      "url" : "https://kurier.at/wirtschaft/neues-catering-bei-austrian-nur-noch-wasser-und-schokotaler-gratis/401216445"
-    }, {
-      "articleLength" : 4180,
-      "articlePartsSize" : 19,
-      "articleWordCount" : 596,
-      "id" : "8UzHG34b",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Mit 1.400-Dollar-Bürgerschecks aus der Krise: Funktioniert Bidens Plan?",
-      "titleTarget" : "1.400 Dolarlık Vatandaş Krizden Çıkıyor: Biden'ın Planı İşe Yarayacak mı?",
-      "url" : "https://www.derstandard.at/story/2000124976897/mit-1-400-dollar-buergerschecks-aus-der-krise-funktioniert-bidens?ref=rss"
-    }, {
       "articleLength" : 4137,
       "articlePartsSize" : 18,
       "articleWordCount" : 587,
@@ -122,14 +84,43 @@
       "titleTarget" : "Astra Zeneca, AB'ye aşı teslimatlarını yeniden kesti",
       "url" : "https://kurier.at/wirtschaft/astra-zeneca-liefert-noch-weniger-impfstoff-an-die-eu/401217171"
     }, {
-      "articleLength" : 3627,
-      "articlePartsSize" : 16,
-      "articleWordCount" : 538,
-      "id" : "Vv1kxb6A",
+      "articleLength" : 1782,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 244,
+      "id" : "sHTEzO8x",
+      "imgUrl" : "https://image.kurier.at/images/original/4945051/20210217-ABD0073-1-1.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Kocher plant Reform des Arbeitslosengeldes",
+      "titleTarget" : "Kocher işsizlik yardımlarında reform yapmayı planlıyor",
+      "url" : "https://kurier.at/wirtschaft/kocher-plant-reform-des-arbeitslosengeldes/401217387"
+    }, {
+      "articleLength" : 4444,
+      "articlePartsSize" : 17,
+      "articleWordCount" : 619,
+      "id" : "7QG6P8lR",
       "publisher" : "derstandard.at",
-      "titleSource" : "Post bringt mehr Pakete, macht aber weniger Gewinn",
-      "titleTarget" : "Gönderi daha fazla paket getirir, ancak daha az kar sağlar",
-      "url" : "https://www.derstandard.at/story/2000125014546/post-bringt-mehr-pakete-macht-aber-weniger-gewinn?ref=rss"
+      "titleSource" : "Zündkerze für Ausstieg aus dem Verbrennungsmotor",
+      "titleTarget" : "İçten yanmalı motordan çıkmak için buji",
+      "url" : "https://www.derstandard.at/story/2000125013876/zuendkerze-fuer-ausstieg-aus-dem-verbrennungsmotor?ref=rss"
+    }, {
+      "articleLength" : 4297,
+      "articlePartsSize" : 21,
+      "articleWordCount" : 567,
+      "id" : "oPEPpSYO",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Slowenien betont Erdbebensicherheit des Atomkraftwerks Krsko",
+      "titleTarget" : "Slovenya, Krsko nükleer santralinin deprem güvenliğini vurguluyor",
+      "url" : "https://www.derstandard.at/story/2000125018911/slowenien-betont-erdbebensicherheitdes-atomkraftwerks-krsko?ref=rss"
+    }, {
+      "articleLength" : 10638,
+      "articlePartsSize" : 45,
+      "articleWordCount" : 1651,
+      "id" : "ErZx4yNO",
+      "imgUrl" : "https://image.kurier.at/images/original/4996428/46-176284735.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Ein Jahr Einschränkungen. Die neue Realität zum Jahrestag",
+      "titleTarget" : "Bir yıllık kısıtlamalar. Yıldönümü için yeni gerçeklik",
+      "url" : "https://kurier.at/wirtschaft/karriere/ein-jahr-einschraenkungen-die-neue-realitaet-zum-jahrestag/401216211"
     }, {
       "articleLength" : 1255,
       "articlePartsSize" : 5,
@@ -140,29 +131,49 @@
       "titleSource" : "Lockdown: Spar verkaufte zusätzliche 11,8 Millionen Rollen Klopapier",
       "titleTarget" : "Kilitleme: Spar, 11,8 milyon rulo tuvalet kağıdı daha sattı",
       "url" : "https://kurier.at/wirtschaft/lockdown-spar-verkaufte-zusaetzliche-118-millionen-rollen-klopapier/401216466"
+    }, {
+      "articleLength" : 3462,
+      "articlePartsSize" : 18,
+      "articleWordCount" : 484,
+      "id" : "qPWxq2Jt",
+      "imgUrl" : "https://image.kurier.at/images/original/4994304/46-176256008.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Verkostung: Wie 3D-gedruckter Lachs auf Pflanzenbasis schmeckt",
+      "titleTarget" : "Tadım: Bitki bazlı 3B yazdırılmış somon balığının tadı nasıl?",
+      "url" : "https://kurier.at/wirtschaft/karriere/verkostung-wie-3d-gedruckter-lachs-auf-pflanzenbasis-schmeckt/401215044"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "articleLength" : 2544,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 372,
-      "id" : "yvlgOcev",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/6/d/5950317/8F380553-4889-498F-B841-0E241B92B7EA_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Neuinfektionen erstmals seit Jänner über 3000 - Spitalszahlen steigen",
-      "titleTarget" : "Ocak ayından bu yana ilk kez 3000'in üzerinde yeni enfeksiyon - hastane sayıları artıyor",
-      "url" : "https://www.diepresse.com/5950317/Oesterreich_Neuinfektionen-erstmals-seit-Jaenner-ueber-3000-?from=rss"
-    }, {
-      "articleLength" : 2840,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 395,
-      "id" : "HsPenmMi",
-      "imgUrl" : "https://image.kurier.at/images/original/4997568/46-176340875.jpg",
+      "articleLength" : 4115,
+      "articlePartsSize" : 18,
+      "articleWordCount" : 556,
+      "id" : "m4NIDBaq",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
       "publisher" : "kurier.at",
-      "titleSource" : "Vom Parlament in den Gerichtssaal: FPÖ-Politiker gesteht Millionenbetrug",
-      "titleTarget" : "Parlamentodan mahkeme salonuna: FPÖ politikacısı milyonlarca dolandırıcılığı kabul etti",
-      "url" : "https://kurier.at/chronik/oesterreich/vom-parlament-in-den-gerichtssaal-fpoe-politiker-gesteht-millionenbetrug/401216892"
+      "titleSource" : "Erneut über 3.000 Neuinfektionen in Österreich",
+      "titleTarget" : "Yine Avusturya'da 3.000'den fazla yeni enfeksiyon",
+      "url" : "https://kurier.at/chronik/oesterreich/erneut-ueber-3000-neuinfektionen-in-oesterreich/401217213"
+    }, {
+      "articleLength" : 2361,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 343,
+      "id" : "v7Q8bhwq",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/6/c/5950828/CAF51422-C845-49E8-87EA-14D1E48F7E4B_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Neuinfektionen bleiben über 3000 - Inzidenz bei 200er-Marke",
+      "titleTarget" : "Yeni enfeksiyonlar 3000'in üzerinde kalıyor - insidans 200 işaretinde",
+      "url" : "https://www.diepresse.com/5950828/Oesterreich_Neuinfektionen-bleiben-ueber-3000-Inzidenz-bei-200erMarke?from=rss"
+    }, {
+      "articleLength" : 2200,
+      "articlePartsSize" : 10,
+      "articleWordCount" : 299,
+      "id" : "YfF7pGsB",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/2/1/5950753/CORONA--START-DER-AUSREISEKONTROLLEN-IN-WIENER-NEUSTADT_1615631776398861_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Ausreisekontrollen in Wiener Neustadt angelaufen",
+      "titleTarget" : "Wiener Neustadt'ta çıkış kontrolleri başlatıldı",
+      "url" : "https://www.diepresse.com/5950753/Corona_Ausreisekontrollen-in-Wiener-Neustadt-angelaufen?from=rss"
     }, {
       "articleLength" : 8417,
       "articlePartsSize" : 37,
@@ -174,87 +185,37 @@
       "titleTarget" : "Bir yıllık tecrit: boşluğun Avusturya'ya geldiği gün",
       "url" : "https://kurier.at/chronik/oesterreich/der-tag-an-dem-die-leere-nach-oesterreich-kam/401217030"
     }, {
-      "articleLength" : 1266,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 173,
-      "id" : "GbQ8FjAG",
+      "articleLength" : 6564,
+      "articlePartsSize" : 30,
+      "articleWordCount" : 908,
+      "id" : "zaL2r7SN",
       "publisher" : "derstandard.at",
-      "titleSource" : "Wiener Donaukanal erhält neue mobile WC-Anlagen",
-      "titleTarget" : "Viyana Tuna Kanalı yeni mobil tuvalet tesislerine kavuştu",
-      "url" : "https://www.derstandard.at/story/2000124996358/aufstellung-neuer-mobiler-wc-anlagen-amwiener-donaukanal-vereinbart?ref=rss"
+      "titleSource" : "Finanzministerium hat Kaufverträge für Impfstoffmengen genehmigt",
+      "titleTarget" : "Hazine Bakanlığı, aşı miktarları için satın alma sözleşmelerini onayladı",
+      "url" : "https://www.derstandard.at/story/2000125020218/finanzministerium-hat-kaufvertraege-fuer-reduzierte-impfstoffmengen-genehmigt?ref=rss"
     }, {
-      "articleLength" : 1058,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 149,
-      "id" : "Typ4Mj9y",
-      "imgUrl" : "https://image.kurier.at/images/original/4880229/virus.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Corona-Reproduktionszahl österreichweit bei 1,09",
-      "titleTarget" : "1.09'da Avusturya genelinde Corona çoğaltma sayısı",
-      "url" : "https://kurier.at/chronik/oesterreich/reproduktionszahl-des-coronavirus-oesterreichweit-bei-109/401216811"
-    }, {
-      "articleLength" : 5957,
-      "articlePartsSize" : 27,
-      "articleWordCount" : 805,
-      "id" : "Ff3YwSUY",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Verschwörungstheoretiker anfälliger für Antisemitismus",
-      "titleTarget" : "Komplo teorisyenleri antisemitizme daha yatkın",
-      "url" : "https://www.derstandard.at/story/2000124998329/verschwoerungstheoretiker-anfaelliger-fuer-antisemitismus?ref=rss"
-    }, {
-      "articleLength" : 2208,
-      "articlePartsSize" : 10,
-      "articleWordCount" : 319,
-      "id" : "9oituX7h",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/4/8/5950536/41D37767-1A71-4568-A3C3-20CF7998D575_v0_h.jpg",
+      "articleLength" : 1495,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 199,
+      "id" : "udMego6z",
       "publisher" : "diepresse.com",
-      "titleSource" : "Lokale auf Wiener Märkten dürfen bald auch am Sonntag öffnen",
-      "titleTarget" : "Viyana pazarlarındaki barlar da yakında pazar günleri açılacak",
-      "url" : "https://www.diepresse.com/5950536/Nach-Corona_Lokale-auf-Wiener-Maerkten-duerfen-bald-auch-am?from=rss"
+      "titleSource" : "Corona-Demos in Wien bisher ruhig",
+      "titleTarget" : "Viyana'daki Corona demoları şimdiye kadar sessiz kaldı",
+      "url" : "https://www.diepresse.com/5950833/Kein-PolizeiEinsatz_CoronaDemos-in-Wien-bisher-ruhig?from=rss"
+    }, {
+      "articleLength" : 1436,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 217,
+      "id" : "s5HdqGGU",
+      "imgUrl" : "https://image.kurier.at/images/original/4999092/46-176135890.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Eine Million Impfdosen in Ö verabreicht + Erneut über 3.000 Neuinfektionen",
+      "titleTarget" : "Avusturya'da bir milyon aşı dozu uygulandı + yine 3.000'den fazla yeni enfeksiyon",
+      "url" : "https://kurier.at/chronik/oesterreich/astra-zeneca-liefert-noch-weniger-impfstoff-an-eu/401217174"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "articleLength" : 1072,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 128,
-      "id" : "j2mqAU17",
-      "imgUrl" : "https://image.kurier.at/images/original/4996515/46-165517092.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Proll, Kirchschlager, Dorfer: Verfassungsklage gegen Kultur-Lockdown",
-      "titleTarget" : "Proll, Kirchschlager, Dorfer: Kültürün kilitlenmesine karşı anayasal dava",
-      "url" : "https://kurier.at/kultur/proll-kirchschlager-dorfer-verfassungsklage-gegen-kultur-lockdown/401216259"
-    }, {
-      "articleLength" : 1677,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 249,
-      "id" : "v8vQ9p9t",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/1/e/5950238/January-20-2021-Washington-DC-USA-Inaugural-youth-poet-laureate-AMANDA-GORMAN-delivers-a-poem-at-the-ceremony-for-P_1615544616400556_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Amanda Gorman: Ein weiterer Übersetzer darf nicht",
-      "titleTarget" : "Amanda Gorman: Başka bir çevirmene izin verilmiyor",
-      "url" : "https://www.diepresse.com/5950238/Amanda-Gorman_Ein-weiterer-Uebersetzer-darf-nicht?from=rss"
-    }, {
-      "articleLength" : 9662,
-      "articlePartsSize" : 45,
-      "articleWordCount" : 1366,
-      "id" : "YcqfVniW",
-      "imgUrl" : "https://image.kurier.at/images/original/4997292/46-176346987.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "\"Unvergessene Fernseh-Momente\": \"Kottan\"-Regisseur Peter Patzak ist tot",
-      "titleTarget" : "\"Unutulmaz televizyon anları\": \"Kottan\" yönetmen Peter Patzak öldü",
-      "url" : "https://kurier.at/kultur/medien/kottan-regisseur-peter-patzak-ist-gestorben/401216517"
-    }, {
-      "articleLength" : 1326,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 207,
-      "id" : "W0wO44dr",
-      "imgUrl" : "https://image.kurier.at/images/original/4995699/46-175535496.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Anna Baar und ihr \"unmögliches\" Buch",
-      "titleTarget" : "Anna Baar ve \"imkansız\" kitabı",
-      "url" : "https://kurier.at/kultur/buch/anna-baar-und-ihr-unmoegliches-buch/401215761"
-    }, {
       "articleLength" : 2399,
       "articlePartsSize" : 11,
       "articleWordCount" : 316,
@@ -265,58 +226,67 @@
       "titleTarget" : "Blimlinger: Şu anda ORF yasasıyla ilgili herhangi bir müzakere yok",
       "url" : "https://www.diepresse.com/5950685/Medien_Blimlinger_Derzeit-keine-Verhandlungen-zu-ORFGesetz?from=rss"
     }, {
-      "articleLength" : 4836,
-      "articlePartsSize" : 25,
-      "articleWordCount" : 678,
-      "id" : "klWBwjcN",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/6/b/5950571/81648356-1EC1-4817-A291-7D75253914A3_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Streaming-Tipps: Gefangen im Luxusleben",
-      "titleTarget" : "Akış İpuçları: Lüks Yaşamda Hapsolmuş",
-      "url" : "https://www.diepresse.com/5950571/Das-Beste-auf-Netflix-Amazon-und-Co_StreamingTipps_Gefangen-im?from=rss"
+      "articleLength" : 2685,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 383,
+      "id" : "ixnSTLpI",
+      "imgUrl" : "https://image.kurier.at/images/original/3491482/78350011448552922_BLD_Online.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Jan Böhmermann mit bissiger Kritik in Causa Ischgl",
+      "titleTarget" : "Jan Böhmermann, Ischgl davasında sert eleştirilerle",
+      "url" : "https://kurier.at/kultur/medien/ischgl-jan-boehmermann-holte-im-tv-zum-rundumschlag-aus/401217270"
     }, {
-      "articleLength" : 5085,
-      "articlePartsSize" : 23,
-      "articleWordCount" : 732,
-      "id" : "RvUpbD0t",
+      "articleLength" : 2458,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 385,
+      "id" : "xCOaqlvc",
+      "imgUrl" : "https://image.kurier.at/images/original/4997793/46-109213106.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Molden und Nino aus Wien: Zwei kreative Fetzenschädeln und ein Clown",
+      "titleTarget" : "Viyana'dan Molden ve Nino: İki yaratıcı yırtık pırtık kafatası ve bir palyaço",
+      "url" : "https://kurier.at/kultur/ernst-molden-und-nino-aus-wien-zwei-kreative-fetzenschaedeln-und-ein-clown/401216970"
+    }, {
+      "articleLength" : 4663,
+      "articlePartsSize" : 21,
+      "articleWordCount" : 667,
+      "id" : "eqwB4qDJ",
       "publisher" : "derstandard.at",
-      "titleSource" : "\"Kottan\"-Regisseur Peter Patzak gestorben",
-      "titleTarget" : "\"Kottan\" yönetmen Peter Patzak öldü",
-      "url" : "https://www.derstandard.at/story/2000124998452/kottan-regisseur-peter-patzak-verstorben?ref=rss"
+      "titleSource" : "Hans Platzgumer: Ein Tiroler über Sturschädeln und Schuldfragen",
+      "titleTarget" : "Hans Platzgumer: İnatçı kafatasları ve suçluluk soruları hakkında bir Tirol uzmanı",
+      "url" : "https://www.derstandard.at/story/2000124997525/hans-platzgumer-ein-tiroler-ueber-sturschaedeln-und-schuldfragen?ref=rss"
+    }, {
+      "articleLength" : 3712,
+      "articlePartsSize" : 17,
+      "articleWordCount" : 591,
+      "id" : "TGk8GOsK",
+      "imgUrl" : "https://image.kurier.at/images/original/4997721/46-107679021.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "\"Vorstadtmann\" Juergen Maurer: \"Man muss auch loslassen können“",
+      "titleTarget" : "\"Vorstadtmann\" Juergen Maurer: \"Bırakabilmelisin\"",
+      "url" : "https://kurier.at/kultur/vorstadtmann-juergen-maurer-man-muss-auch-loslassen-koennen/401216955"
+    }, {
+      "articleLength" : 1539,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 241,
+      "id" : "vJn3u2M9",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Hallo, wie geht’s?",
+      "titleTarget" : "Merhaba nasılsın?",
+      "url" : "https://www.derstandard.at/story/2000124997733/hallo-wie-gehts?ref=rss"
+    }, {
+      "articleLength" : 468,
+      "articlePartsSize" : 2,
+      "articleWordCount" : 66,
+      "id" : "Wng02BUr",
+      "imgUrl" : "https://image.kurier.at/images/original/4998870/46-164797166.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Lukrativster Kinofilm der Geschichte: \"Avatar“ überholte die \"Avengers“",
+      "titleTarget" : "Tarihteki en kazançlı film: \"Avatar\", \"Yenilmezler\" i geride bıraktı",
+      "url" : "https://kurier.at/kultur/lukrativster-kinofilm-der-geschichte-avatar-ueberholte-die-avengers/401217489"
     } ]
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
-      "articleLength" : 2200,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 284,
-      "id" : "XnqVJlGp",
-      "imgUrl" : "https://image.kurier.at/images/original/4997232/46-176338535.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Laut EU sind schwere allergische Reaktionen bei Astra Zeneca möglich",
-      "titleTarget" : "AB'ye göre, Astra Zeneca'da ciddi alerjik reaksiyonlar mümkündür",
-      "url" : "https://kurier.at/wissen/gesundheit/schwere-allergische-reaktionen-sind-bei-astra-zeneca-eine-moegliche-nebenwirkung/401216670"
-    }, {
-      "articleLength" : 3566,
-      "articlePartsSize" : 16,
-      "articleWordCount" : 484,
-      "id" : "05HTPWKn",
-      "imgUrl" : "https://image.kurier.at/images/original/4997397/46-176144971.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Wieso die Corona-Impfung indirekt vor Thrombosen schützen kann",
-      "titleTarget" : "Korona aşısı neden dolaylı olarak tromboza karşı koruyabilir?",
-      "url" : "https://kurier.at/wissen/gesundheit/wieso-die-corona-impfung-indirekt-vor-thrombosen-schuetzen-kann/401216823"
-    }, {
-      "articleLength" : 2481,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 339,
-      "id" : "v1QUSDBH",
-      "imgUrl" : "https://image.kurier.at/images/original/4988386/46-176216041.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Britische Virus-Variante drängt den Wildtyp weiter zurück",
-      "titleTarget" : "İngiliz virüs varyantı, vahşi tipi daha da ileri götürüyor",
-      "url" : "https://kurier.at/wissen/gesundheit/britische-virus-variante-draengt-den-wildtyp-weiter-zurueck-in-oesterreich/401216430"
-    }, {
       "articleLength" : 5953,
       "articlePartsSize" : 26,
       "articleWordCount" : 787,
@@ -326,85 +296,85 @@
       "titleTarget" : "Sars-CoV-2 pankreasa zarar verebilir",
       "url" : "https://www.derstandard.at/story/2000124797178/sars-cov-2-kann-die-bauchspeicheldruese-schaedigen?ref=rss"
     }, {
-      "articleLength" : 1568,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 209,
-      "id" : "wC2QlfcF",
+      "articleLength" : 8773,
+      "articlePartsSize" : 40,
+      "articleWordCount" : 1248,
+      "id" : "bDWZbeMU",
       "publisher" : "derstandard.at",
-      "titleSource" : "Welche Drogen nehmen Sie in Zeiten von Corona?",
-      "titleTarget" : "Corona zamanlarında hangi ilaçları kullanıyorsunuz?",
-      "url" : "https://www.derstandard.at/story/2000124998516/welche-drogen-nehmen-sie-in-zeiten-von-corona?ref=rss"
+      "titleSource" : "Wie lange dauert es noch?",
+      "titleTarget" : "Ne kadar sürecek?",
+      "url" : "https://www.derstandard.at/story/2000125005282/wie-lange-dauert-es-noch?ref=rss"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "articleLength" : 1690,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 251,
-      "id" : "fAlAYd6Y",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/4/1/5950529/37B7645A-3AB5-4A6E-B7E3-EA00635933FB_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Liensberger in Åre nur von Vlhova geschlagen",
-      "titleTarget" : "Åre'de Liensberger, sadece Vlhova'ya yenildi",
-      "url" : "https://www.diepresse.com/5950529/SkiWeltcup_Liensberger-in-Are-nur-von-Vlhova-geschlagen?from=rss"
-    }, {
-      "articleLength" : 1829,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 270,
-      "id" : "S2JIjJzH",
-      "imgUrl" : "https://image.kurier.at/images/original/4997133/46-131665430.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Comeback von Schobesberger bei Rapid nach 16 Monaten Pause",
-      "titleTarget" : "Schobesberger, 16 aylık aradan sonra Rapid'de geri dönüş yaptı",
-      "url" : "https://kurier.at/sport/fussball/comeback-von-philipp-schobesberger-bei-rapid-nach-16-monaten-pause/401216577"
-    }, {
-      "articleLength" : 3219,
+      "articleLength" : 2491,
       "articlePartsSize" : 13,
-      "articleWordCount" : 477,
-      "id" : "ELoR8D8M",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Norwegischer Boykott der WM in Katar? \"Wir müssen groß denken\"",
-      "titleTarget" : "Katar'daki Dünya Kupası'nı Norveç boykotu mu? \"Büyük düşünmeliyiz\"",
-      "url" : "https://www.derstandard.at/story/2000125002924/wm-boykott-durch-haaland-und-co-wir-muessen-gross-denken?ref=rss"
+      "articleWordCount" : 383,
+      "id" : "1nWA7u0W",
+      "imgUrl" : "https://image.kurier.at/images/original/4998855/46-176368546.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Liensberger beendet mit Sieg lange Durststrecke der ÖSV-Damen",
+      "titleTarget" : "Liensberger, ÖSV kadınlarının uzun kuraklık dönemini zaferle bitiriyor",
+      "url" : "https://kurier.at/sport/wintersport/ski-alpin-katharina-liensberger-sorgt-fuer-ersten-saison-sieg-der-oesv-damen/401217306"
     }, {
-      "articleLength" : 935,
-      "articlePartsSize" : 4,
-      "articleWordCount" : 136,
-      "id" : "UESv3fiG",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/4/4/5950532/7AC705CF-A0E8-4C38-83BE-13AA82EE0516_v0_h.jpg",
+      "articleLength" : 4194,
+      "articlePartsSize" : 18,
+      "articleWordCount" : 633,
+      "id" : "FMxBI8F7",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/7/7/5950839/584729A4-E464-4739-90FF-82A8E638C239_v0_l.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "Israel öffnet Fußballstadien für Geimpfte",
-      "titleTarget" : "İsrail aşılananlara futbol stadyumları açıyor",
-      "url" : "https://www.diepresse.com/5950532/Zuschauer_Israel-oeffnet-Fussballstadien-fuer-Geimpfte?from=rss"
+      "titleSource" : "Katharina Liensberger feiert ihren ersten Weltcupsieg",
+      "titleTarget" : "Katharina Liensberger ilk Dünya Kupası zaferini kutluyor",
+      "url" : "https://www.diepresse.com/5950839/Katharina-Liensberger-feiert-ihren-ersten-Weltcupsieg?from=rss"
     }, {
-      "articleLength" : 6773,
-      "articlePartsSize" : 29,
-      "articleWordCount" : 958,
-      "id" : "LfubtpHU",
+      "articleLength" : 2491,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 383,
+      "id" : "1HTIfkZN",
+      "imgUrl" : "https://image.kurier.at/images/original/4998561/46-176360072.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Liensberger bei Slalom in Aare erneut auf Podestplatz-Kurs",
+      "titleTarget" : "Liensberger, Aare'deki slalom'da podyumda bitirmek için tekrar rotada",
+      "url" : "https://kurier.at/sport/wintersport/ski-alpin-katharina-liensberger-bei-slalom-in-aare-auf-podestplatz-kurs-zweite-hinter-shiffrin/401217306"
+    }, {
+      "articleLength" : 4689,
+      "articlePartsSize" : 20,
+      "articleWordCount" : 723,
+      "id" : "6IFICpP0",
       "publisher" : "derstandard.at",
-      "titleSource" : "Sonntag: Rapid-Coach Kühbauer warnt vor Hartbergs \"riesigem Kader\"",
-      "titleTarget" : "Pazar: Hızlı teknik direktör Kühbauer, Hartberg'in \"büyük kadrosu\" konusunda uyardı",
-      "url" : "https://www.derstandard.at/story/2000125003585/sonntag-rapid-empfaengt-hartberg-austria-bei-sturm?ref=rss"
+      "titleSource" : "Burgstaller bei St. Pauli: Das hat der Kiez noch nicht gesehen",
+      "titleTarget" : "St. Pauli yakınlarındaki Burgstaller: Kiez bunu daha önce hiç görmemişti",
+      "url" : "https://www.derstandard.at/story/2000125015952/burgstaller-bei-st-pauli-das-hat-der-kiez-noch-nicht?ref=rss"
     }, {
-      "articleLength" : 1414,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 205,
-      "id" : "N3k9UdnF",
-      "imgUrl" : "https://image.kurier.at/images/original/4997049/46-148854280.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Israels Fans dürfen zurück ins Stadion - wenn sie geimpft sind",
-      "titleTarget" : "İsrailli taraftarlar aşılanmışlarsa stadyuma geri dönebilirler",
-      "url" : "https://kurier.at/sport/fussball/israels-fussballfans-duerfen-zurueck-ins-stadion-wenn-sie-geimpft-sind/401216529"
+      "articleLength" : 2411,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 368,
+      "id" : "4Xl9WM6A",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/6/5/5950821/055658CA-D2FE-492C-A7B8-0C3F45F31F2F_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Marco Odermatt siegt überlegen in Kranjska Gora",
+      "titleTarget" : "Marco Odermatt, Kranjska Gora'da kazandı",
+      "url" : "https://www.diepresse.com/5950821/Marco-Odermatt-siegt-ueberlegen-in-Kranjska-Gora?from=rss"
     }, {
-      "articleLength" : 3313,
-      "articlePartsSize" : 17,
-      "articleWordCount" : 458,
-      "id" : "QbQYkGFJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4997856/46-176118056.jpg",
+      "articleLength" : 6896,
+      "articlePartsSize" : 31,
+      "articleWordCount" : 1101,
+      "id" : "Z7IM8uds",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Liensberger holt ersten Weltcupsieg im Åre-Slalom",
+      "titleTarget" : "Liensberger, Åre slalomunda ilk Dünya Kupası zaferini kazandı",
+      "url" : "https://www.derstandard.at/story/2000125019123/liensberger-jagt-shiffrin-im-aare-slalom?ref=rss"
+    }, {
+      "articleLength" : 964,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 141,
+      "id" : "XUQASYF0",
+      "imgUrl" : "https://image.kurier.at/images/original/4998639/schiri.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Wie Kinder und Jugendliche ab 15. März wieder trainieren dürfen",
-      "titleTarget" : "15 Mart'tan itibaren çocuklar ve gençler nasıl yeniden antrenman yapabilir?",
-      "url" : "https://kurier.at/sport/wie-kinder-und-jugendliche-ab-15-maerz-wieder-trainieren-duerfen/401216994"
+      "titleSource" : "Brasilianischer Schiedsrichter urinierte am Mittelkreis",
+      "titleTarget" : "Brezilyalı hakem orta daireye işedi",
+      "url" : "https://kurier.at/sport/fussball/skandal-brasilianischer-schiedsrichter-urinierte-am-mittelkreis-vor-spielanpfiff/401217339"
     } ]
   } ],
   "country" : "austria",
