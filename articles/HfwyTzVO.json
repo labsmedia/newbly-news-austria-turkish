@@ -1,0 +1,17 @@
+{
+  "id" : "HfwyTzVO",
+  "url" : "https://kurier.at/wirtschaft/datenleck-tausende-testergebnisse-schlecht-geschuetzt-im-netz/401221908",
+  "category" : "ECONOMICS",
+  "publisher" : "kurier.at",
+  "publishedOn" : "2021-03-18T07:35:52Z[UTC]",
+  "author" : "Vanessa Gaigg, Nina Weißensteiner",
+  "imageUrl" : "https://image.kurier.at/images/original/4995576/46-175733900.jpg",
+  "imageCopyright" : "EPA/SOEREN STACHE / POOL",
+  "sourceCountry" : "austria",
+  "sourceLanguage" : "german",
+  "targetLanguage" : "turkish",
+  "articleTitle" : "Datenleck: Tausende Testergebnisse schlecht geschützt im Netz",
+  "articleTitleTranslated" : "Veri sızıntısı: Ağda kötü korunan binlerce test sonucu",
+  "articleContent" : [ "Schlecht geschützt standen laut einem Bericht des Standard die Testergebnisse von zahlreichen Testeinrichtungen in Deutschland und Österreicher im Netz. Eine österreichische FH und mehrere Corona-Testzentren in Berlin, München und Mannheim waren laut dem Bericht betroffen. ", "Das Datenleck entstand durch eine Software beim Wiener Start-up Medicus AI, das auch digitale Infrastruktur für Testungen anbietet. Durch die Lücke konnten Nutzer zumindest temporär sensible Datensätze, die für einen Corona-Test angegeben wurden, auslesen. ", "Der Standard beruft sich auf eine Analyse, die Sicherheitsforscher des deutschen IT-Kollektivs Zerforschung gemacht hat und auch der Süddeutschen Zeitung und dem Rundfunk Berlin-Brandenburg vorliegt.", "Laut dieser waren zum Zeitpunkt der Schließung des Datenlecks zumindest 136.000 Datensätze aus über 100 Testzentren auslesbar. Medicus AI wollte diese Zahl gegenüber der Zeitung nicht bestätigen und räumte lediglich 5.774 betroffene Ergebnisse ein.", "Offenbar war durch eine Änderung der eigenen Identifikationsnummer bei Abruf eines Tests möglich, Befunde anderer Nutzer aufzurufen - und damit Name, Adresse, Staatsbürgerschaft, Geburtsdatum, Handynummer, E-Mail und falls angegeben auch Nummer von Pass- oder Personalausweis einsehbar. " ],
+  "articleContentTranslated" : [ "Standardın bir raporuna göre, Almanya ve Avusturya'daki çok sayıda test tesisinin test sonuçları internette zayıf bir şekilde korunuyordu. Rapora göre, bir Avusturya uygulamalı bilimler üniversitesi ve Berlin, Münih ve Mannheim'daki birkaç korona test merkezi etkilendi.", "Veri sızıntısı, test için dijital altyapı da sunan Viyana'daki Medicus AI'daki yazılımdan kaynaklandı. Boşluk, kullanıcıların en azından geçici olarak bir korona testi için belirlenen hassas veri setlerini okumasını sağladı.", "Standart, Süddeutsche Zeitung ve Berlin-Brandenburg yayın şirketi için de mevcut olan Alman BT kolektifi Zerforschung'daki güvenlik araştırmacıları tarafından yürütülen bir analize dayanmaktadır.", "Buna göre, veri sızıntısı kapatıldığında 100'den fazla test merkezinden en az 136.000 veri kaydı okunabilir durumdaydı. Medicus AI bu sayıyı gazeteye doğrulamak istemedi ve sadece 5,774 etkilenen sonucu kabul etti.", "Açıktır ki, bir testi çağırırken kişinin kendi kimlik numarasını değiştirerek, diğer kullanıcıların bulgularını ve dolayısıyla isim, adres, vatandaşlık, doğum tarihi, cep telefonu numarası, e-posta ve eğer belirtilirse, pasaport veya kimlik numarası." ]
+}
