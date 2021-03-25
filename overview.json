@@ -2,35 +2,54 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "articleLength" : 2572,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 346,
-      "id" : "yTZgYtwo",
-      "imgUrl" : "https://image.kurier.at/images/original/5923680/46-176566460.jpg",
+      "articleLength" : 2374,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 332,
+      "id" : "XNUuMEzI",
+      "imgUrl" : "https://image.kurier.at/images/original/5924838/20210325-ABD0007-1-1.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Anschober: Werden mehr impfen, indem wir Abstand zwischen Impfstichen ausweiten",
-      "titleTarget" : "Anschober: Aşılama sokmaları arasındaki mesafeyi artırarak daha fazla aşı yapacak mı?",
-      "url" : "https://kurier.at/politik/inland/anschober-werden-mehr-impfen-indem-wir-abstand-zwischen-impfstichen-ausweiten/401330496"
+      "titleSource" : "Vizekanzler Kogler: Eintrittstests werden Schlüssel für \"fast alles\"",
+      "titleTarget" : "Şansölye Yardımcısı Kogler: Giriş testleri \"neredeyse her şeyin\" anahtarı haline geliyor",
+      "url" : "https://kurier.at/politik/inland/vizekanzler-kogler-eintrittstests-werden-schluessel-fuer-fast-alles/401331276"
     }, {
-      "articleLength" : 903,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 119,
-      "id" : "yRuOox73",
-      "imgUrl" : "https://image.kurier.at/images/original/5924736/46-176611884.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Lebensgefährte von Brigitte Bierlein verstorben",
-      "titleTarget" : "Brigitte Bierlein'in ortağı öldü",
-      "url" : "https://kurier.at/politik/inland/politik-von-innen/lebensgefaehrte-von-brigitte-bierlein-verstorben/401331015"
-    }, {
-      "articleLength" : 3218,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 432,
-      "id" : "wIIcwaCu",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/d/4/5956308/E88A7B7C-5AC4-4321-BE77-201002E4A5A8_v0_l.jpg",
+      "articleLength" : 4408,
+      "articlePartsSize" : 19,
+      "articleWordCount" : 602,
+      "id" : "OsCoklRK",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/d/f/5956831/D301AEBE-8E27-4A23-9178-284D468EA6B2_v0_l.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "Nationalrat beschließt Uni-Novelle",
-      "titleTarget" : "Ulusal Konsey üniversite değişikliğine karar veriyor",
-      "url" : "https://www.diepresse.com/5956308/Mindestanforderungen_Nationalrat-beschliesst-UniNovelle?from=rss"
+      "titleSource" : "Wollte das Finanzministerium bei Impfstoffen sparen?",
+      "titleTarget" : "Hazine aşılardan tasarruf etmek mi istedi?",
+      "url" : "https://www.diepresse.com/5956831/Kleiner-UAusschuss_Wollte-das-Finanzministerium-bei-Impfstoffen-sparen?from=rss"
+    }, {
+      "articleLength" : 3385,
+      "articlePartsSize" : 15,
+      "articleWordCount" : 496,
+      "id" : "DXS6s9wU",
+      "imgUrl" : "https://image.kurier.at/images/original/5925582/46-175641794.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Experten befürchten jetzt: \"Werden April im Lockdown verbringen\"",
+      "titleTarget" : "Uzmanlar artık korkuyor: \"Nisan ayını kilit altında geçirecek\"",
+      "url" : "https://kurier.at/politik/inland/experten-befuerchten-jetzt-werden-april-im-lockdown-verbringen/401331513"
+    }, {
+      "articleLength" : 8016,
+      "articlePartsSize" : 36,
+      "articleWordCount" : 1156,
+      "id" : "WxTanQtF",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Dokument zeigt, wie dem Gesundheitsressort anfangs Kostendeckel fürs Impfen verpasst wurde",
+      "titleTarget" : "Belge, sağlık departmanına başlangıçta aşılama için nasıl bir maliyet üst sınırı verildiğini göstermektedir.",
+      "url" : "https://www.derstandard.at/story/2000125341298/dokument-zeigt-wie-dem-gesundheitsressort-anfangs-kostendeckel-fuers-impfen-verpasst?ref=rss"
+    }, {
+      "articleLength" : 3004,
+      "articlePartsSize" : 14,
+      "articleWordCount" : 417,
+      "id" : "IztzR8Zt",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/6/b/5956459/6DAD3A79-52FE-4D56-9004-531E41722D3B_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Ein Land im Ferienfieber",
+      "titleTarget" : "Tatil ateşinde bir ülke",
+      "url" : "https://www.diepresse.com/5956459/Morgenglosse_Ein-Land-im-Ferienfieber?from=rss"
     }, {
       "articleLength" : 6272,
       "articlePartsSize" : 27,
@@ -42,37 +61,56 @@
       "titleTarget" : "Doğu Avusturya'da kilitlenme: ticaret kapanıyor, uzaktan eğitim geliyor",
       "url" : "https://www.diepresse.com/5956567/CoronaMassnahmen_Lockdown-in-Ostoesterreich_Handel-schliesst?from=rss"
     }, {
-      "articleLength" : 5641,
-      "articlePartsSize" : 24,
-      "articleWordCount" : 802,
-      "id" : "4XpqF7tr",
+      "articleLength" : 6719,
+      "articlePartsSize" : 32,
+      "articleWordCount" : 963,
+      "id" : "3MFbQ3wg",
       "publisher" : "derstandard.at",
-      "titleSource" : "Kurz wirft Kickl Verführung zur Sorglosigkeit in der Corona-Misere vor",
-      "titleTarget" : "Kısaca, Kickl korona sefaletinde dikkatsizliği baştan çıkarmakla suçluyor",
-      "url" : "https://www.derstandard.at/story/2000125312513/kurz-wirft-kickl-verfuehrung-zur-sorglosigkeit-in-der-corona-misere?ref=rss"
-    }, {
-      "articleLength" : 5958,
-      "articlePartsSize" : 27,
-      "articleWordCount" : 752,
-      "id" : "sRUT0Ir3",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Der unendliche Skandalfall BVT: Mobbing, Misstrauen und abgesaugte Handys",
-      "titleTarget" : "Hiç bitmeyen BVT skandalı: zorbalık, güvensizlik ve emilen cep telefonları",
-      "url" : "https://www.derstandard.at/story/2000125330604/der-unendliche-skandalfall-bvt-mobbing-und-misstrauen?ref=rss"
-    }, {
-      "articleLength" : 3004,
-      "articlePartsSize" : 14,
-      "articleWordCount" : 417,
-      "id" : "IztzR8Zt",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/6/b/5956459/6DAD3A79-52FE-4D56-9004-531E41722D3B_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Ein Land im Ferienfieber",
-      "titleTarget" : "Tatil ateşinde bir ülke",
-      "url" : "https://www.diepresse.com/5956459/Morgenglosse_Ein-Land-im-Ferienfieber?from=rss"
+      "titleSource" : "Neue Gurgelstudie zeigt: Gut getestete Schulumgebung wirkt",
+      "titleTarget" : "Yeni Gurgel çalışması gösteriyor: İyi test edilmiş okul ortamı işe yarıyor",
+      "url" : "https://www.derstandard.at/story/2000125352022/neue-gurgelstudie-zeigt-gut-getestete-schulumgebung-wirkt?ref=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
+      "articleLength" : 3899,
+      "articlePartsSize" : 18,
+      "articleWordCount" : 571,
+      "id" : "l8PCBmgc",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/4/9/5/5956757/DE4C3659-3456-4758-AE63-6E8F156FE1C9_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "AUA baut mehr Jobs ab: Kündigungen drohen",
+      "titleTarget" : "AUA daha fazla işi kesiyor: işten çıkarma riski var",
+      "url" : "https://www.diepresse.com/5956757/Luftfahrt_AUA_Bis-2030-werden-weitere-650-Jobs-abgebaut?from=rss"
+    }, {
+      "articleLength" : 3899,
+      "articlePartsSize" : 18,
+      "articleWordCount" : 571,
+      "id" : "iG5YJMqH",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/4/9/5/5956757/DE4C3659-3456-4758-AE63-6E8F156FE1C9_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "AUA baut mehr Jobs ab: Kündigungen drohen",
+      "titleTarget" : "AUA daha fazla işi kesiyor: işten çıkarma riski var",
+      "url" : "https://www.diepresse.com/5956757/Luftfahrt_AUA-baut-mehr-Jobs-ab_Kuendigungen-drohen?from=rss"
+    }, {
+      "articleLength" : 2364,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 315,
+      "id" : "DW8nCTe1",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Fisch aus Aquakulturen trägt zur Überfischung der Meere bei",
+      "titleTarget" : "Su ürünleri yetiştiriciliğinden gelen balıklar, denizlerin aşırı avlanmasına katkıda bulunuyor",
+      "url" : "https://www.derstandard.at/story/2000125334075/fisch-aus-aquakulturen-traegt-zur-ueberfischung-der-meere-bei?ref=rss"
+    }, {
+      "articleLength" : 2656,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 336,
+      "id" : "PCor4M5G",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Autolobby schreibt an Kurz: Kein Aus für Verbrennungsmotor",
+      "titleTarget" : "Autolobby, Kurz'a yazıyor: Yanmalı motora izin yok",
+      "url" : "https://www.derstandard.at/story/2000125338635/autolobby-schreibt-an-kurz-kein-aus-fuer-verbrennungsmotor?ref=rss"
+    }, {
       "articleLength" : 3227,
       "articlePartsSize" : 13,
       "articleWordCount" : 447,
@@ -83,24 +121,15 @@
       "titleTarget" : "Yakında sadece negatif bir testle alışveriş",
       "url" : "https://kurier.at/wirtschaft/einkaufen-bald-nur-noch-mit-negativem-test/401330817"
     }, {
-      "articleLength" : 1095,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 158,
-      "id" : "4Tc7eCbO",
-      "imgUrl" : "https://image.kurier.at/images/original/5156475/yzUxTC5bG6djfithhfVocR8BeUC.jpg",
+      "articleLength" : 2273,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 322,
+      "id" : "Z0qNcABE",
+      "imgUrl" : "https://image.kurier.at/images/original/4967269/20210226-ABD0059-1-1.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Lego gewinnt vor Gericht: Der Legostein ist schutzwürdig",
-      "titleTarget" : "Lego mahkemede kazanır: Lego tuğlası korumaya değer",
-      "url" : "https://kurier.at/wirtschaft/lego-gewinnt-vor-gericht-der-legostein-ist-schutzwuerdig/401330343"
-    }, {
-      "articleLength" : 3684,
-      "articlePartsSize" : 16,
-      "articleWordCount" : 487,
-      "id" : "HdD0kKIr",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Mehrere EU-Staaten fordern Koppelung von Agrargeld an faire Arbeitsbedingungen",
-      "titleTarget" : "Birkaç AB ülkesi, tarımsal paranın adil çalışma koşullarına bağlanması çağrısında bulunuyor",
-      "url" : "https://www.derstandard.at/story/2000125325896/mehrere-eu-staaten-fordern-koppelung-von-agrargeld-an-faire-arbeitsbedingungen?ref=rss"
+      "titleSource" : "AUA baut bis 2023 mehr als 650 Jobs ab",
+      "titleTarget" : "AUA, 2023 yılına kadar 650'den fazla işten çıkaracak",
+      "url" : "https://kurier.at/wirtschaft/aua-baut-bis-2023-mehr-als-650-jobs-ab/401331132"
     }, {
       "articleLength" : 2118,
       "articlePartsSize" : 10,
@@ -111,48 +140,19 @@
       "titleSource" : "CO2-Konzentration trotz Corona-Pandemie auf Rekordhoch",
       "titleTarget" : "Korona salgınına rağmen rekor düzeyde yüksek CO2 konsantrasyonu",
       "url" : "https://kurier.at/wirtschaft/co2-konzentration-trotz-corona-pandemie-auf-rekordhoch/401330946"
-    }, {
-      "articleLength" : 2473,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 342,
-      "id" : "QslMEofD",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Maskenhersteller demaskiert sich selbst und legt Dokumente offen",
-      "titleTarget" : "Maske üreticisi maskesini kaldırır ve belgeleri ortaya çıkarır",
-      "url" : "https://www.derstandard.at/story/2000125314827/maskenhersteller-demaskiert-sich-selbst-und-legt-dokumente-offen?ref=rss"
-    }, {
-      "articleLength" : 2616,
-      "articlePartsSize" : 10,
-      "articleWordCount" : 332,
-      "id" : "IVsKtLVx",
-      "imgUrl" : "https://image.kurier.at/images/original/5924625/46-175951728.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Brief an Kanzler: Autolobby gegen Aus des Verbrennungsmotors",
-      "titleTarget" : "Şansölyeye Mektup: İçten yanmalı motorun sonuna karşı araba lobisi",
-      "url" : "https://kurier.at/wirtschaft/brief-an-kanzler-autolobby-gegen-aus-des-verbrennungsmotors/401330925"
-    }, {
-      "articleLength" : 1318,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 166,
-      "id" : "676tGCF8",
-      "imgUrl" : "https://image.kurier.at/images/original/4888284/20210122-ABD0009-1-1.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Video-Simulation zum Beinahe-Blackout im Jänner veröffentlicht",
-      "titleTarget" : "Ocak ayında yayınlanan neredeyse karartmanın video simülasyonu",
-      "url" : "https://kurier.at/wirtschaft/video-simulation-zum-beinahe-blackout-im-jaenner-veroeffentlicht/401330064"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "articleLength" : 4270,
-      "articlePartsSize" : 20,
-      "articleWordCount" : 625,
-      "id" : "iSBWgo49",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/b/4/5956532/reiterreither_16165993869589_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Ein Zero-Waste-Wochenmarkt im Siebenten",
-      "titleTarget" : "Yedinci sırada sıfır atık haftalık pazar",
-      "url" : "https://www.diepresse.com/5956532/Stadtleben_Ein-ZeroWasteWochenmarkt-im-Siebenten?from=rss"
+      "articleLength" : 3323,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 470,
+      "id" : "oZsN67lw",
+      "imgUrl" : "https://image.kurier.at/images/original/5924133/46-176613665.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Lockdown im Osten Österreichs ab Gründonnerstag - hier sind die Details",
+      "titleTarget" : "Maundy Perşembe günü doğu Avusturya'da kilitlenme - ayrıntılar burada",
+      "url" : "https://kurier.at/chronik/oesterreich/live-details-zum-lockdown-im-osten-werden-verkuendet/401330622"
     }, {
       "articleLength" : 4565,
       "articlePartsSize" : 21,
@@ -164,104 +164,77 @@
       "titleTarget" : "Sağlık psikoloğu spor tesisleri açmak için hararetle",
       "url" : "https://www.diepresse.com/5956669/Coronavirus_Gesundheitspsychologe-vehement-fuer-SportstaettenOeffnung?from=rss"
     }, {
-      "articleLength" : 3323,
+      "articleLength" : 3115,
       "articlePartsSize" : 13,
-      "articleWordCount" : 470,
-      "id" : "oZsN67lw",
-      "imgUrl" : "https://image.kurier.at/images/original/5924133/46-176613665.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Lockdown im Osten Österreichs ab Gründonnerstag - hier sind die Details",
-      "titleTarget" : "Maundy Perşembe günü doğu Avusturya'da kilitlenme - ayrıntılar burada",
-      "url" : "https://kurier.at/chronik/oesterreich/live-details-zum-lockdown-im-osten-werden-verkuendet/401330622"
-    }, {
-      "articleLength" : 2646,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 364,
-      "id" : "BwPpjKn3",
+      "articleWordCount" : 455,
+      "id" : "XRQqFNLG",
       "publisher" : "derstandard.at",
-      "titleSource" : "Weitere Regenbogenfahne in Vorarlberg angezündet",
-      "titleTarget" : "Vorarlberg'de başka bir gökkuşağı bayrağı yakıldı",
-      "url" : "https://www.derstandard.at/story/2000125321712/weitere-regenbogenfahne-in-vorarlberg-angezuendet?ref=rss"
+      "titleSource" : "Schleppschiffe bekommen Containerschiff im Suezkanal nicht frei",
+      "titleTarget" : "Römorkör gemileri konteyner gemisini Süveyş Kanalı'nda serbest bırakmayacak",
+      "url" : "https://www.derstandard.at/story/2000125338969/schlepper-bekommen-container-schiff-im-suezkanal-nicht-frei?ref=rss"
     }, {
-      "articleLength" : 2417,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 363,
-      "id" : "qNtloqVz",
-      "imgUrl" : "https://image.kurier.at/images/original/5923248/46-173840170.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Sogar Schönborn kritisiert das Nein zu Segnung homosexueller Paare",
-      "titleTarget" : "Schönborn bile eşcinsel çiftlerin hayır duasını eleştiriyor",
-      "url" : "https://kurier.at/chronik/oesterreich/sogar-schoenborn-kritisiert-das-nein-zu-segnung-homosexueller-paare/401330262"
-    }, {
-      "articleLength" : 7001,
-      "articlePartsSize" : 32,
-      "articleWordCount" : 980,
-      "id" : "uAfi4DoT",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Was die Osterruhe für die Ostregion bedeutet",
-      "titleTarget" : "Doğu bölgesi için Paskalya tatili ne anlama geliyor?",
-      "url" : "https://www.derstandard.at/story/2000125328942/osterruhe-laengere-ferien-einreisebeschraenkungen-die-ostregion-ringt-um-regeln?ref=rss"
-    }, {
-      "articleLength" : 1330,
+      "articleLength" : 1499,
       "articlePartsSize" : 6,
-      "articleWordCount" : 196,
-      "id" : "0GeVsnaP",
+      "articleWordCount" : 201,
+      "id" : "kBVjLpoh",
+      "imgUrl" : "https://image.kurier.at/images/original/5918868/20210323-ABD0030-1-1.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Experten befürchten: \"Werden April im Lockdown verbringen\" + 3.124 Neuinfektionen in Ö",
+      "titleTarget" : "Uzmanlar korkuyor: \"Nisan ayını kilit altında geçirecek\" + Avusturya'da 3.124 yeni enfeksiyon",
+      "url" : "https://kurier.at/chronik/oesterreich/astrazeneca-impfstoff-trotz-schlechterer-daten-hoch-wirksam/401330907"
+    }, {
+      "articleLength" : 2524,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 338,
+      "id" : "S9lNhVqb",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/7/d/5956989/8A2E2D96-5022-4660-807C-497EA602EC33_v0_h.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "5000 Euro Strafe für Linzer Wirtin, die Café im Lockdown öffnete",
-      "titleTarget" : "Kafeyi kilitli olarak açan Linz'in ev sahibine 5000 Euro para cezası",
-      "url" : "https://www.diepresse.com/5956411/Lockdown_5000-Euro-Strafe-fuer-Linzer-Wirtin-die-Cafe-im-Lockdown?from=rss"
+      "titleSource" : "Auf den Schneeberg nur mit Antigentest",
+      "titleTarget" : "Schneeberg'de yalnızca bir antijen testi ile",
+      "url" : "https://www.diepresse.com/5956989/Ausreisetestpflicht_Auf-den-Schneeberg-nur-mit-Antigentest?from=rss"
+    }, {
+      "articleLength" : 17738,
+      "articlePartsSize" : 77,
+      "articleWordCount" : 2429,
+      "id" : "U9f7IvnZ",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/8/f/5956495/Brother-and-sister-sitting-in-kitchen-together-eating-waffles-Fort-Worth-TX-United-States-PUBLICATIONxINxGERxSUIxAUTxO_1616665460207929_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Zuhausebleiben in Wien, Essen gehen in Bregenz: Der regionale Regel-Dschungel",
+      "titleTarget" : "Viyana'da evde kalmak, Bregenz'de yemek yemek: bölgesel kurallar ormanı",
+      "url" : "https://www.diepresse.com/5956495/CoronaMassnahmen_Zuhausebleiben-in-Wien-Essen-gehen-in-Bregenz_?from=rss"
+    }, {
+      "articleLength" : 5295,
+      "articlePartsSize" : 24,
+      "articleWordCount" : 742,
+      "id" : "7uftBDD0",
+      "imgUrl" : "https://image.kurier.at/images/original/5925408/46-175894932.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "\"Wellenbrecher\" kommt für Ostösterreich: Die wichtigsten Punkte zum Lockdown",
+      "titleTarget" : "\"Wellenbrecher\" Doğu Avusturya için geliyor: Kilitlenme ile ilgili en önemli noktalar",
+      "url" : "https://kurier.at/chronik/oesterreich/die-sechs-wichtigsten-punkte-zum-ost-lockdown/401330799"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "articleLength" : 780,
-      "articlePartsSize" : 4,
-      "articleWordCount" : 110,
-      "id" : "fq3N7kOg",
-      "imgUrl" : "https://image.kurier.at/images/original/5923890/46-112297907.jpg",
+      "articleLength" : 4032,
+      "articlePartsSize" : 18,
+      "articleWordCount" : 556,
+      "id" : "AAOeY3kY",
+      "imgUrl" : "https://image.kurier.at/images/original/5923812/46-176597848.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Daniel Küblböck offiziell für tot erklärt",
-      "titleTarget" : "Daniel Küblböck resmen ölü ilan etti",
-      "url" : "https://kurier.at/kultur/daniel-kueblboeck-offiziell-fuer-tot-erklaert/401330655"
+      "titleSource" : "Heimische Streaming-Plattform: Das Kino soll lei(n)wand bleiben",
+      "titleTarget" : "Yurtiçi yayın platformu: Sinema duvarda kalmalı",
+      "url" : "https://kurier.at/kultur/heimische-streaming-plattform-das-kino-praesent-halten/401330595"
     }, {
-      "articleLength" : 2210,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 292,
-      "id" : "JGyjOT1K",
-      "imgUrl" : "https://image.kurier.at/images/original/4746537/46-168701272.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Kulturstaatssekretärin: „Ich habe den Mai noch nicht aufgegeben“",
-      "titleTarget" : "Devlet Kültür Bakanı: \"Henüz Mayıs'tan vazgeçmedim\"",
-      "url" : "https://kurier.at/kultur/kulturstaatssekretaerin-ich-habe-den-mai-noch-nicht-aufgegeben/401330097"
-    }, {
-      "articleLength" : 2032,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 293,
-      "id" : "apmZSlO0",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Kultur-Wiederöffnung im Frühjahr fraglich",
-      "titleTarget" : "İlkbaharda kültür yeniden açılıyor şüpheli",
-      "url" : "https://www.derstandard.at/story/2000125319838/interessensvertreter-draengen-auf-schnelle-oeffnung-der-kultur?ref=rss"
-    }, {
-      "articleLength" : 1288,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 176,
-      "id" : "vPAvEDls",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/4/d/5956685/FILE-PHOTO-Chloe-Zhao-accepts-the-Best-Director---Motion-Picture-award-for-Nomadland-in-this-handout-photo-from-the-78th-Annual-Golden-Globe-Awards-in-New-York_1616654608951142.jpg",
+      "articleLength" : 3922,
+      "articlePartsSize" : 18,
+      "articleWordCount" : 564,
+      "id" : "DMq4qFv1",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/d/8/5957080/CC1E067B-6ED3-4CE0-AB18-C7E1769F8F52_v0_h.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "\"Nomadland\" gewinnt wichtigen US-Produzentenpreis",
-      "titleTarget" : "\"Nomadland\" önemli ABD yapımcı ödülünü kazandı",
-      "url" : "https://www.diepresse.com/5956685/Auszeichnung_Nomadland-gewinnt-wichtigen-USProduzentenpreis?from=rss"
-    }, {
-      "articleLength" : 4346,
-      "articlePartsSize" : 20,
-      "articleWordCount" : 691,
-      "id" : "u2PMC8zx",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/8/d/5955981/MAXI2780cMaxParovskyNU_1616595384942853_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Kuhglocken und Pumas in der Nacht",
-      "titleTarget" : "Gece çıngırakları ve pumalar",
-      "url" : "https://www.diepresse.com/5955981/Interview_Kuhglocken-und-Pumas-in-der-Nacht?from=rss"
+      "titleSource" : "\"Die Wahrheit erfassen\": Filmregisseur Bertrand Tavernier verstorben",
+      "titleTarget" : "\"Gerçeği Anlamak\": Film yönetmeni Bertrand Tavernier vefat etti",
+      "url" : "https://www.diepresse.com/5957080/Nachruf_Die-Wahrheit-erfassen_Filmregisseur-Bertrand-Tavernier?from=rss"
     }, {
       "articleLength" : 415,
       "articlePartsSize" : 2,
@@ -273,46 +246,66 @@
       "titleTarget" : "Doğu bölgesindeki müzeler 1-6 Nisan tarihleri arasında kapanıyor.",
       "url" : "https://kurier.at/kultur/museen-der-ostregion-schliessen-zwischen-1-und-64/401330796"
     }, {
-      "articleLength" : 2091,
+      "articleLength" : 2002,
       "articlePartsSize" : 9,
-      "articleWordCount" : 278,
-      "id" : "yzQ7nR0X",
+      "articleWordCount" : 257,
+      "id" : "S15NrO1n",
       "publisher" : "derstandard.at",
-      "titleSource" : "Ronald Pohls \"Mittel-Alter\": Nichts ist infektiöser als der Kommunismus",
-      "titleTarget" : "Ronald Pohl'un \"Orta Çağ\" ı: Hiçbir şey komünizmden daha bulaşıcı değildir",
-      "url" : "https://www.derstandard.at/story/2000125286291/ronald-pohls-mittel-alter-nicht-ist-infektioeser-als-der-kommunismus?ref=rss"
+      "titleSource" : "Fachverband für Film- und Musikwirtschaft unterstützt Quoten-Petition",
+      "titleTarget" : "Film ve müzik endüstrisi profesyonel birliği kota dilekçesini destekliyor",
+      "url" : "https://www.derstandard.at/story/2000125355717/fachverband-fuer-film-und-musikwirtschaft-unterstuetzt-quoten-petition?ref=rss"
+    }, {
+      "articleLength" : 4882,
+      "articlePartsSize" : 22,
+      "articleWordCount" : 706,
+      "id" : "1tHlmegZ",
+      "imgUrl" : "https://image.kurier.at/images/original/3370132/78350011447705990_BLD_Online.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Albertina-Chef zu Kultur-Lockdown: \"Alle sind verunsichert und deprimiert\"",
+      "titleTarget" : "Albertina patronu kültüre kilitlendi: \"Herkes güvensiz ve depresyonda\"",
+      "url" : "https://kurier.at/kultur/albertina-chef-zu-kultur-lockdown-alle-sind-verunsichert-und-deprimiert/401331825"
+    }, {
+      "articleLength" : 1119,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 152,
+      "id" : "ns5IaCLH",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Rap-Musiker Questlove zum Musikdirektor der Oscar-Gala ernannt",
+      "titleTarget" : "Rap müzisyeni Questlove, Oscar Gala Müzik Direktörü seçildi",
+      "url" : "https://www.derstandard.at/story/2000125343069/rap-musiker-questlove-zum-musikdirektor-der-oscar-gala-ernannt?ref=rss"
+    }, {
+      "articleLength" : 5947,
+      "articlePartsSize" : 27,
+      "articleWordCount" : 788,
+      "id" : "4uzn2xQ6",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/3/e/5956926/24F81977-D01A-4B90-B32C-2D5951944250_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "\"Keine Anhaltspunkte\": \"Bild\"-Chefredakteur Julian Reichelt wieder im Amt",
+      "titleTarget" : "\"İpucu yok\": \"Bild\" yazı işleri müdürü Julian Reichelt ofise geri döndü",
+      "url" : "https://www.diepresse.com/5956926/Medienkonzern_Keine-Anhaltspunkte_BildChefredakteur-Julian?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
-      "articleLength" : 1784,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 276,
-      "id" : "V88KrDZK",
-      "imgUrl" : "https://image.kurier.at/images/original/5923260/46-175234178.jpg",
+      "articleLength" : 1687,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 210,
+      "id" : "TI2I0q9Z",
+      "imgUrl" : "https://image.kurier.at/images/original/4469441/46-165737818.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Aktuell stirbt in Österreich einer von 100 Corona-Infizierten",
-      "titleTarget" : "Şu anda Avusturya'da korona bulaşan her 100 kişiden biri ölüyor",
-      "url" : "https://kurier.at/wissen/gesundheit/corona-krise-aktuell-stirbt-in-oesterreich-einer-von-100-infizierten/401330256"
+      "titleSource" : "Deutsche Forscher entwickeln Schluckimpfung gegen Sars-CoV2",
+      "titleTarget" : "Alman araştırmacılar Sars-CoV2'ye karşı ağızdan aşı geliştirdi",
+      "url" : "https://kurier.at/wissen/gesundheit/deutsche-forscher-entwickeln-schluckimpfung-gegen-sars-cov2/401331156"
     }, {
-      "articleLength" : 3035,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 388,
-      "id" : "uq5pgWiK",
-      "imgUrl" : "https://image.kurier.at/images/original/4997397/46-176144971.jpg",
+      "articleLength" : 3567,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 497,
+      "id" : "kPwWvfn5",
+      "imgUrl" : "https://image.kurier.at/images/original/5925288/46-175895758.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Experten empfehlen längeres Impf-Intervall bei mRNA-Vakzinen",
-      "titleTarget" : "Uzmanlar, mRNA aşıları için daha uzun aşılama aralıkları önermektedir",
-      "url" : "https://kurier.at/wissen/gesundheit/experten-empfehlen-laengeres-impf-intervall-bei-mrna-vakzinen/401330475"
-    }, {
-      "articleLength" : 28,
-      "articlePartsSize" : 1,
-      "articleWordCount" : 4,
-      "id" : "4L5Y0oea",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Der Corona-Alltag der Risikopatienten",
-      "titleTarget" : "Riskli hastaların günlük koronası",
-      "url" : "https://www.derstandard.at/jetzt/livebericht/2000125323943/der-corona-alltag-der-risikopatienten?ref=rss"
+      "titleSource" : "Österreichs Risikopatienten sollen bald geimpft werden",
+      "titleTarget" : "Avusturya'nın yüksek riskli hastaları yakında aşılanacak",
+      "url" : "https://kurier.at/wissen/gesundheit/risikopatienten-sollen-bald-geimpft-werden/401331288"
     }, {
       "articleLength" : 3968,
       "articlePartsSize" : 16,
@@ -323,15 +316,24 @@
       "titleTarget" : "Aşı doktoru: \"Aşı güven meselesidir\"",
       "url" : "https://www.derstandard.at/story/2000125329966/impfaerztin-so-bekommen-wir-die-pandemie-nie-in-den-griff?ref=rss"
     }, {
-      "articleLength" : 3462,
-      "articlePartsSize" : 17,
-      "articleWordCount" : 462,
-      "id" : "JMM7ZxSF",
-      "imgUrl" : "https://image.kurier.at/images/original/5923068/46-176412182.jpg",
+      "articleLength" : 2036,
+      "articlePartsSize" : 10,
+      "articleWordCount" : 267,
+      "id" : "GtYY7GP0",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Corona-Impfung: Schwangere geben laut Studie Antikörper an Babys weiter",
+      "titleTarget" : "Korona aşısı: Araştırmaya göre hamile kadınlar antikorları bebeklere geçiriyor",
+      "url" : "https://www.derstandard.at/story/2000125351868/corona-impfung-schwangere-geben-laut-studie-antikoerper-an-babys-weiter?ref=rss"
+    }, {
+      "articleLength" : 2248,
+      "articlePartsSize" : 10,
+      "articleWordCount" : 297,
+      "id" : "wAUtyxjE",
+      "imgUrl" : "https://image.kurier.at/images/original/5924610/46-176618981.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Deutschland: Astra Zeneca informiert über Thrombose-Anzeichen",
-      "titleTarget" : "Almanya: Astra Zeneca tromboz belirtileri hakkında bilgi verdi",
-      "url" : "https://kurier.at/wissen/gesundheit/deutschland-astra-zeneca-informiert-ueber-anzeichen-einer-thrombose/401330169"
+      "titleSource" : "Astra Zeneca sieht hohe Wirksamkeit durch aktualisierte Daten bestätigt",
+      "titleTarget" : "Astra Zeneca, güncellenmiş verilerle onaylanan yüksek düzeyde bir etkinlik görüyor",
+      "url" : "https://kurier.at/wissen/gesundheit/astra-zeneca-sieht-hohe-wirksamkeit-durch-aktualisierte-daten-bestaetigt/401330910"
     }, {
       "articleLength" : 7086,
       "articlePartsSize" : 31,
@@ -342,10 +344,59 @@
       "titleSource" : "Sputnik V: So gut ist der Impfstoff aus Russland",
       "titleTarget" : "Sputnik V: Rusya'dan gelen aşı bu kadar iyi",
       "url" : "https://kurier.at/wissen/gesundheit/sputnik-v-so-gut-ist-der-impfstoff-aus-russland/401330955"
+    }, {
+      "articleLength" : 1093,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 159,
+      "id" : "pIWtQw9L",
+      "imgUrl" : "https://image.kurier.at/images/original/5924781/46-176320779.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Die Hälfte der Israelis erhielt bereits zweite Impfdosis",
+      "titleTarget" : "İsraillilerin yarısına şimdiden ikinci doz aşı yapıldı",
+      "url" : "https://kurier.at/wissen/gesundheit/die-haelfte-der-israelis-erhielt-bereits-zweite-impfdosis/401331048"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
+      "articleLength" : 4334,
+      "articlePartsSize" : 20,
+      "articleWordCount" : 582,
+      "id" : "bF92m1YV",
+      "imgUrl" : "https://image.kurier.at/images/original/4997856/46-176118056.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Sport-Öffnung gefordert: \"Stimmung sinkt gerade ins Resignative\"",
+      "titleTarget" : "Spor açılışı talep etti: \"Ruh hali, istifa edenlere batıyor\"",
+      "url" : "https://kurier.at/sport/sport-oeffnung-gefordert-stimmung-sinkt-gerade-ins-resignative/401331075"
+    }, {
+      "articleLength" : 4289,
+      "articlePartsSize" : 20,
+      "articleWordCount" : 644,
+      "id" : "TWHsDKa0",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/f/2/5957106/901F572B-DE8F-46FF-8CF2-9ACDE6A3337B_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Weltmeister aus Mattighofen",
+      "titleTarget" : "Mattighofen'den dünya şampiyonu",
+      "url" : "https://www.diepresse.com/5957106/MotoGP_Weltmeister-aus-Mattighofen?from=rss"
+    }, {
+      "articleLength" : 941,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 143,
+      "id" : "dcDO8Owx",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Auch Zweitligist GAK startet ein Frauenteam",
+      "titleTarget" : "İkinci lig GAK da bir kadın takımı kuruyor",
+      "url" : "https://www.derstandard.at/story/2000125344317/auch-der-gak-startet-ein-frauenteam?ref=rss"
+    }, {
+      "articleLength" : 4842,
+      "articlePartsSize" : 21,
+      "articleWordCount" : 697,
+      "id" : "NKyTsoEe",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/f/1/5956849/F5BAD26D-9582-45EB-A473-D432BF449BEC_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Oranje-Fehlstart folgt \"Alarmstufe 1\"",
+      "titleTarget" : "Turuncu yanlış başlangıç \"uyarı seviyesi 1\" i izler",
+      "url" : "https://www.diepresse.com/5956849/OranjeFehlstart-folgt-Alarmstufe-1?from=rss"
+    }, {
       "articleLength" : 1831,
       "articlePartsSize" : 9,
       "articleWordCount" : 264,
@@ -356,63 +407,25 @@
       "titleTarget" : "Fukuşima'da Tokyo Yaz Oyunları öncesinde meşale rölesi başladı",
       "url" : "https://www.diepresse.com/5956683/Olympia_Fackellauf-vor-TokioSommerspielen-in-Fukushima-gestartet?from=rss"
     }, {
-      "articleLength" : 1062,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 158,
-      "id" : "oOxSD2h0",
-      "imgUrl" : "https://image.kurier.at/images/original/5923362/46-118489760.jpg",
+      "articleLength" : 1338,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 192,
+      "id" : "hcrpFzXU",
+      "imgUrl" : "https://image.kurier.at/images/original/4197929/46-148787879.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "5.000 Geimpfte wollen Israel zur Sensation treiben",
-      "titleTarget" : "5.000 aşılı insan İsrail'i heyecanlandırmak istiyor",
-      "url" : "https://kurier.at/sport/fussball/fussball-wm-qualifikation-5000-geimpfte-wollen-israel-zur-sensation-treiben/401330373"
+      "titleSource" : "Annemarie Moser-Pröll & Franz Klammer: Beinbrüche und Zufälle",
+      "titleTarget" : "Annemarie Moser-Pröll & Franz Klammer: Kırık bacaklar ve tesadüfler",
+      "url" : "https://kurier.at/sport/kolumne-tagebuch-annemarie-moser-proell-franz-klammer-beinbrueche-und-zufaelle/401330532"
     }, {
-      "articleLength" : 774,
+      "articleLength" : 863,
       "articlePartsSize" : 4,
-      "articleWordCount" : 107,
-      "id" : "8P0VGdCc",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/f/7/5956599/3926BFD3-1BA4-4B8F-9143-6B01F9E5A2F8_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Felix Magath beendet Tätigkeit bei Admira",
-      "titleTarget" : "Felix Magath, Admira'dan ayrılıyor",
-      "url" : "https://www.diepresse.com/5956599/Bundesliga_Felix-Magath-beendet-Taetigkeit-bei-Admira?from=rss"
-    }, {
-      "articleLength" : 2561,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 383,
-      "id" : "ZnZ7UTnf",
-      "imgUrl" : "https://image.kurier.at/images/original/5923875/46-156031845.jpg",
+      "articleWordCount" : 120,
+      "id" : "WXk96fV3",
+      "imgUrl" : "https://image.kurier.at/images/original/5925930/guerini.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Paukenschlag: Felix Magath tritt bei der Admira ab",
-      "titleTarget" : "Patlama: Felix Magath, Admira'dan istifa etti",
-      "url" : "https://kurier.at/sport/fussball/paukenschlag-felix-magath-tritt-bei-der-admira-ab/401330640"
-    }, {
-      "articleLength" : 1590,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 236,
-      "id" : "8RUx0pQq",
-      "imgUrl" : "https://image.kurier.at/images/original/4859784/46-173719034.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Ex-FIFA-Boss Blatter für 6 Jahre und 8 Monate gesperrt",
-      "titleTarget" : "Eski FIFA patronu Blatter 6 yıl 8 ay yasaklandı",
-      "url" : "https://kurier.at/sport/fussball/ex-fifa-boss-blatter-fuer-6-jahre-und-8-monate-gesperrt/401330229"
-    }, {
-      "articleLength" : 2830,
-      "articlePartsSize" : 14,
-      "articleWordCount" : 404,
-      "id" : "cLgjgtdW",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Eiskunstlauf: Mikutina bei WM-Debüt im Kurzprogramm 11.",
-      "titleTarget" : "Artistik patinaj: Mikutina, kısa program 11'de Dünya Kupası'nın başlangıcını yapıyor.",
-      "url" : "https://www.derstandard.at/story/2000125337396/eiskunstlauf-mikutina-nach-glaenzendem-wm-debuet-im-kurzprogramm-11?ref=rss"
-    }, {
-      "articleLength" : 1662,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 233,
-      "id" : "1T35m9vt",
-      "publisher" : "derstandard.at",
-      "titleSource" : "ÖTV hofft weiter auf Zuschlag für Teil des Davis-Cup-Finales",
-      "titleTarget" : "ÖTV hala Davis Kupası finalinin bir bölümünü kazanmayı umuyor",
-      "url" : "https://www.derstandard.at/story/2000125323139/oetv-hofft-weiter-auf-zuschlag-fuer-teil-des-davis-cup?ref=rss"
+      "titleSource" : "19-jährige italienische Fußball-Hoffnung starb bei Autounfall",
+      "titleTarget" : "19 yaşındaki İtalyan futbolu, trafik kazasında hayatını kaybetti",
+      "url" : "https://kurier.at/sport/fussball/19-jaehrige-italienische-fussball-hoffnung-daniel-guerini-starb-bei-autounfall/401331726"
     } ]
   } ],
   "country" : "austria",
