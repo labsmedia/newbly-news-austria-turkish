@@ -2,54 +2,25 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "articleLength" : 3829,
-      "articlePartsSize" : 18,
-      "articleWordCount" : 517,
-      "id" : "vW12vquW",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/f/0/5958640/Outbreak-of-the-coronavirus-disease-COVID-19-in-Vienna_1617024517201464_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Wien will Lockdown bis 11. April verlängern",
-      "titleTarget" : "Viyana tecrit süresini 11 Nisan'a kadar uzatmak istiyor",
-      "url" : "https://www.diepresse.com/5958640/Ostoesterreich_Wien-will-Lockdown-bis-11-April-verlaengern?from=rss"
-    }, {
-      "articleLength" : 3829,
-      "articlePartsSize" : 18,
-      "articleWordCount" : 517,
-      "id" : "P9oTBZI1",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/f/0/5958640/AC8C16E2-4C07-444E-BF27-AE5BEF369E45_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Wird der Lockdown in Wien verlängert?",
-      "titleTarget" : "Viyana'daki tecrit uzatılacak mı?",
-      "url" : "https://www.diepresse.com/5958640/Ostoesterreich_Wird-der-Lockdown-in-Wien-verlaengert?from=rss"
-    }, {
-      "articleLength" : 4344,
+      "articleLength" : 4379,
       "articlePartsSize" : 20,
-      "articleWordCount" : 579,
-      "id" : "8zW6NVCW",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/9/f/5958559/BDE21AA5-BCDC-49CA-B825-346D9EFD0C57_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Neos zu Schmid-Chats: \"Sittenbild eines korrupten Systems von Macht und Günstlingswirtschaft\"",
-      "titleTarget" : "Neos zu Schmid-Sohbetleri: \"Bozuk bir güç ve iltimas sisteminin ahlaki\"",
-      "url" : "https://www.diepresse.com/5958559/Causa-Oebag_Neos-zu-SchmidChats_Sittenbild-eines-korrupten?from=rss"
-    }, {
-      "articleLength" : 5413,
-      "articlePartsSize" : 23,
-      "articleWordCount" : 737,
-      "id" : "SOZhxCT0",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Öbag-Aufsichtsrat stellt sich hinter Alleinvorstand Schmid, Opposition fordert Rücktritt",
-      "titleTarget" : "Öbag denetim kurulu tek direktör Schmid'in arkasında duruyor, muhalefet istifa istiyor",
-      "url" : "https://www.derstandard.at/story/2000125436080/oebag-aufsichtsrat-stellt-sich-hinter-alleinvorstand-schmid?ref=rss"
-    }, {
-      "articleLength" : 4591,
-      "articlePartsSize" : 20,
-      "articleWordCount" : 675,
-      "id" : "N3qNcdBs",
-      "imgUrl" : "https://image.kurier.at/images/original/4829718/78350011458037462_BLD_Online.jpg",
+      "articleWordCount" : 576,
+      "id" : "IhrHRauA",
+      "imgUrl" : "https://image.kurier.at/images/original/5937015/20210329-ABD0027-1-1.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Schmid nach Bestellung zum ÖBAG-Chef: \"Ich liebe meinen Kanzler\"",
-      "titleTarget" : "Schmid, ÖBAG patronuna atandıktan sonra: \"Şansölyemi seviyorum\"",
-      "url" : "https://kurier.at/politik/inland/schmid-nach-bestellung-zum-oebag-chef-ich-liebe-meinen-kanzler/401334606"
+      "titleSource" : "Nach Auftauchen von Chats: \"Schmid und Blümel rücktrittsreif\"",
+      "titleTarget" : "Sohbetler göründükten sonra: \"Schmid ve Blümel çekilmeye hazır\"",
+      "url" : "https://kurier.at/politik/inland/nach-auftauchen-von-chats-schmid-und-bluemel-ruecktrittsreif/401335395"
+    }, {
+      "articleLength" : 7098,
+      "articlePartsSize" : 31,
+      "articleWordCount" : 1003,
+      "id" : "x5qp5sO5",
+      "imgUrl" : "https://image.kurier.at/images/original/5937348/46-175990497.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Oster-Lockdown im Osten: Wien verlängert bis 11. April - zur Not im Alleingang",
+      "titleTarget" : "Doğudaki Paskalya kilitlenmesi: Viyana 11 Nisan'a kadar uzatıldı - gerekirse tek başına",
+      "url" : "https://kurier.at/politik/inland/oster-lockdown-ein-und-ausreisen-im-osten-nur-noch-in-ausnahmefaellen/401334825"
     }, {
       "articleLength" : 6458,
       "articlePartsSize" : 29,
@@ -60,29 +31,48 @@
       "titleTarget" : "\"Müdahale yapıldı\": Maliye Bakanlığı'nda ÖVP ortamında iş araması",
       "url" : "https://www.derstandard.at/story/2000125446567/intervention-erledigt-die-jobsuche-des-oevp-umfelds-im-finanzministerium?ref=rss"
     }, {
-      "articleLength" : 2745,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 379,
-      "id" : "FGUmYddo",
-      "imgUrl" : "https://image.kurier.at/images/original/4916020/81670356458757578_BLD_Online.jpg",
+      "articleLength" : 1257,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 183,
+      "id" : "TpDK8rJM",
+      "imgUrl" : "https://image.kurier.at/images/original/5926203/46-176630912.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Virologin warnt: \"Impfung schützt schlechter vor dieser Mutante\"",
-      "titleTarget" : "Virolog uyarıyor: \"Aşılama bu mutanta karşı koruma sağlamaz\"",
-      "url" : "https://kurier.at/politik/inland/virologin-warnt-impfung-schuetzt-schlechter-vor-dieser-mutante/401334669"
+      "titleSource" : "Kurz wollte bei Kirchenprivilegien \"Vollgas geben\"",
+      "titleTarget" : "Kurz kilise ayrıcalıklarına \"tam gaz vermek\" istedi",
+      "url" : "https://kurier.at/politik/inland/kurz-wollte-bei-kirchenprivilegien-vollgas-geben/401335593"
+    }, {
+      "articleLength" : 1414,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 191,
+      "id" : "E505Cdkg",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Staatsanwälte prüfen Regierungspläne für Einschränkung von Razzien bei Behörden",
+      "titleTarget" : "Savcılar, hükümetin yetkililere yönelik baskınları azaltma planlarını inceliyor",
+      "url" : "https://www.derstandard.at/story/2000125436953/staatsanwaelte-pruefen-regierungsplaene-fuer-einschraenkung-der-razzien-bei-behoerden?ref=rss"
+    }, {
+      "articleLength" : 6353,
+      "articlePartsSize" : 28,
+      "articleWordCount" : 897,
+      "id" : "bUS0Ggn4",
+      "imgUrl" : "https://image.kurier.at/images/original/4237988/46-163799493.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Wien verschärft Lockdown vorerst im Alleingang - wie es dazu kam und was gilt",
+      "titleTarget" : "Viyana şu an için tek başına kapatmayı sıkılaştırıyor - nasıl ortaya çıktı ve ne geçerli?",
+      "url" : "https://kurier.at/politik/inland/wien-verschaerft-lockdown-vorerst-im-alleingang-wie-es-dazu-kam-und-was-gilt/401335590"
+    }, {
+      "articleLength" : 3493,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 435,
+      "id" : "5rRlKu5U",
+      "imgUrl" : "https://image.kurier.at/images/original/5937954/46-151351877.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Nach Schönborn-Kritik: \"Keine Waffenlieferungen in Konfliktregionen“",
+      "titleTarget" : "Schönborn eleştirisinden sonra: \"Çatışma bölgelerinde silah teslimi yok\"",
+      "url" : "https://kurier.at/politik/inland/es-gibt-keine-waffenlieferungen-in-konfliktregionen/401335569"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "articleLength" : 1863,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 241,
-      "id" : "M02u9Kfk",
-      "imgUrl" : "https://image.kurier.at/images/original/3640760/78370011349609796_BLD_Online.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Streiks bei Amazon in Deutschland im Ostergeschäft",
-      "titleTarget" : "Paskalya işinde Almanya'da Amazon'da grevler",
-      "url" : "https://kurier.at/wirtschaft/streiks-bei-amazon-in-deutschland-im-ostergeschaeft/401335137"
-    }, {
       "articleLength" : 1159,
       "articlePartsSize" : 5,
       "articleWordCount" : 136,
@@ -93,14 +83,15 @@
       "titleTarget" : "Sosyal taraflar, Doğu'daki kargaşanın hafifletilmesi için baskı yapmaya devam ediyor",
       "url" : "https://kurier.at/wirtschaft/sozialpartner-draengen-bei-ost-lockdown-weiter-auf-entschaerfung/401335374"
     }, {
-      "articleLength" : 4038,
-      "articlePartsSize" : 21,
-      "articleWordCount" : 552,
-      "id" : "2xdV0RSV",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Ein Lebenszeichen der Industrie",
-      "titleTarget" : "Sektör için bir yaşam belirtisi",
-      "url" : "https://www.diepresse.com/5958542/Auftragsboom_Ein-Lebenszeichen-der-Industrie?from=rss"
+      "articleLength" : 1863,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 241,
+      "id" : "M02u9Kfk",
+      "imgUrl" : "https://image.kurier.at/images/original/3640760/78370011349609796_BLD_Online.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Streiks bei Amazon in Deutschland im Ostergeschäft",
+      "titleTarget" : "Paskalya işinde Almanya'da Amazon'da grevler",
+      "url" : "https://kurier.at/wirtschaft/streiks-bei-amazon-in-deutschland-im-ostergeschaeft/401335137"
     }, {
       "articleLength" : 4985,
       "articlePartsSize" : 24,
@@ -112,47 +103,27 @@
       "titleTarget" : "Amazon, Alabama'daki İlk ABD Birliğini Kuruyor mu?",
       "url" : "https://kurier.at/wirtschaft/bekommt-amazon-seine-erste-us-gewerkschaft-in-alabama/401334780"
     }, {
-      "articleLength" : 4141,
-      "articlePartsSize" : 18,
-      "articleWordCount" : 598,
-      "id" : "s24CnNyI",
+      "articleLength" : 7344,
+      "articlePartsSize" : 32,
+      "articleWordCount" : 994,
+      "id" : "JzqictsO",
       "publisher" : "derstandard.at",
-      "titleSource" : "Österreich muss Emissionen laut Wissenschaftern bis 2030 um die Hälfte reduzieren",
-      "titleTarget" : "Bilim insanlarına göre, Avusturya'nın emisyonları 2030'a kadar yarı yarıya azaltması gerekiyor",
-      "url" : "https://www.derstandard.at/story/2000125426344/oesterreich-muss-emissionenlaut-wissenschaftern-bis-2030-um-die-haelfte-reduzieren?ref=rss"
+      "titleSource" : "Kraftwerk und Schafweide: Zu Besuch auf der größten Solaranlage Österreichs",
+      "titleTarget" : "Enerji santrali ve koyun merası: Avusturya'nın en büyük güneş enerjisi santraline ziyaret",
+      "url" : "https://www.derstandard.at/story/2000125291254/kraftwerk-und-schafweide-zu-besuch-auf-der-groessten-solaranlage-oesterreichs?ref=rss"
+    }, {
+      "articleLength" : 4038,
+      "articlePartsSize" : 21,
+      "articleWordCount" : 552,
+      "id" : "2xdV0RSV",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Ein Lebenszeichen der Industrie",
+      "titleTarget" : "Sektör için bir yaşam belirtisi",
+      "url" : "https://www.diepresse.com/5958542/Auftragsboom_Ein-Lebenszeichen-der-Industrie?from=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "articleLength" : 4954,
-      "articlePartsSize" : 22,
-      "articleWordCount" : 701,
-      "id" : "fCrM7mxX",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/5/d/5958493/Outbreak-of-the-coronavirus-disease-COVID-19-in-Vienna_1617008392803284_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Lockdown im Osten Österreichs: Für Ein- und Ausreisen braucht es gute Gründe",
-      "titleTarget" : "Doğu Avusturya'da kilitlenme: Ülkeye girip çıkmak için iyi nedenlere ihtiyacınız var",
-      "url" : "https://www.diepresse.com/5958493/Verordnung_Lockdown-im-Osten-Oesterreichs_Fuer-Ein-und-Ausreisen?from=rss"
-    }, {
-      "articleLength" : 2815,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 401,
-      "id" : "b1trXP0X",
-      "imgUrl" : "https://image.kurier.at/images/original/4861956/20210109-ABD0004-1-1.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Intensivstationen so stark belastet wie vor zweitem Lockdown",
-      "titleTarget" : "İkinci kilitlenmeden önceki kadar yoğun bakım üniteleri",
-      "url" : "https://kurier.at/chronik/oesterreich/intensivstationen-so-stark-belastet-wie-vor-zweitem-lockdown/401334963"
-    }, {
-      "articleLength" : 3311,
-      "articlePartsSize" : 14,
-      "articleWordCount" : 486,
-      "id" : "4RCy40FZ",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Containerschiff Ever Given nach Blockade freigelegt, Suezkanal wieder befahrbar",
-      "titleTarget" : "Süveyş Kanalı ablukası: Hiç Verilen konteyner gemisi açığa çıktı",
-      "url" : "https://www.derstandard.at/story/2000125429579/suezkanal-blockade-containerschiff-ever-given-freigelegt?ref=rss"
-    }, {
       "articleLength" : 4018,
       "articlePartsSize" : 18,
       "articleWordCount" : 546,
@@ -162,15 +133,6 @@
       "titleSource" : "Intensivmediziner Hasibeder für Lockdown in ganz Österreich",
       "titleTarget" : "Yoğun bakım doktoru Hasibeder, Avusturya genelinde kilitlenme nedeniyle",
       "url" : "https://www.diepresse.com/5958459/Coronavirus_Intensivmediziner-Hasibeder-fuer-Lockdown-in-ganz?from=rss"
-    }, {
-      "articleLength" : 7236,
-      "articlePartsSize" : 34,
-      "articleWordCount" : 1079,
-      "id" : "S6mnTZhX",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Details zur Osterruhe: Take-away soll erlaubt bleiben, Click & Collect auch",
-      "titleTarget" : "Paskalya dinlenmesiyle ilgili ayrıntılar: Paket servisine izin verilmeli, Tıkla ve Topla",
-      "url" : "https://www.derstandard.at/story/2000125397815/alltagsprobleme-was-ist-waehrend-der-osterruhe-erlaubt?ref=rss"
     }, {
       "articleLength" : 2851,
       "articlePartsSize" : 12,
@@ -191,6 +153,44 @@
       "titleSource" : "Wieso die Infektionszahlen in Vorarlberg stark steigen",
       "titleTarget" : "Vorarlberg'deki enfeksiyonların sayısı neden keskin bir şekilde artıyor?",
       "url" : "https://kurier.at/chronik/oesterreich/wieso-die-infektionszahlen-in-vorarlberg-stark-steigen/401335131"
+    }, {
+      "articleLength" : 1730,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 220,
+      "id" : "T96MiSBi",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Österreich verschärft Corona-Testpflicht für Pendler",
+      "titleTarget" : "Avusturya, taşıtlar için korona testi zorunluluğunu sıkılaştırdı",
+      "url" : "https://www.diepresse.com/5958853/Pandemie_Oesterreich-verschaerft-CoronaTestpflicht-fuer-Pendler?from=rss"
+    }, {
+      "articleLength" : 1060,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 155,
+      "id" : "NeAXPMyx",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Mutter und Tochter tot in Auto: Schmauchspuren an der Hand von Frau",
+      "titleTarget" : "Anne ve kızı arabada öldü: kadının elindeki duman izleri",
+      "url" : "https://www.diepresse.com/5958833/Niederoesterreich_Mutter-und-Tochter-tot-in-Auto_Schmauchspuren?from=rss"
+    }, {
+      "articleLength" : 3504,
+      "articlePartsSize" : 15,
+      "articleWordCount" : 483,
+      "id" : "mYh3B5Yv",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "publisher" : "kurier.at",
+      "titleSource" : "Knapp über 3.000 Corona-Neuinfektionen in Österreich",
+      "titleTarget" : "Avusturya'da 3.000'den fazla yeni korona enfeksiyonu",
+      "url" : "https://kurier.at/chronik/oesterreich/knapp-ueber-3000-corona-neuinfektionen-in-oesterreich/401334762"
+    }, {
+      "articleLength" : 1687,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 246,
+      "id" : "BW5I36gs",
+      "imgUrl" : "https://image.kurier.at/images/original/5938128/46-176716216.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Johnson & Johnson liefert Impfstoff ab 19. April in die EU",
+      "titleTarget" : "Ö + Virologin'de yaklaşık 3.000 yeni enfeksiyon: \"Aşılama mutantlara karşı koruma sağlamaz\"",
+      "url" : "https://kurier.at/chronik/oesterreich/virologin-warnt-impfung-schuetzt-schlechter-vor-mutante-merkel-fordert-notbremse/401334708"
     } ]
   }, {
     "category" : "CULTURE",
@@ -205,6 +205,16 @@
       "titleTarget" : "Ottakring'deki parka Arik Brauer'in adı verilmiştir.",
       "url" : "https://www.diepresse.com/5958517/Wien_Park-in-Ottakring-wird-nach-Arik-Brauer-benannt?from=rss"
     }, {
+      "articleLength" : 1450,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 202,
+      "id" : "SBSb1UsR",
+      "imgUrl" : "https://image.kurier.at/images/original/5937894/46-150196232.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Neue \"Grand Show\" mit Conchita Wurst in Berlin geplant",
+      "titleTarget" : "Conchita Wurst ile Berlin'de yeni \"Büyük Gösteri\" planlanıyor",
+      "url" : "https://kurier.at/kultur/neue-grand-show-mit-tom-neuwirth-alias-conchita-wurst-in-berliner-friedrichstadt-palast-geplant/401335521"
+    }, {
       "articleLength" : 1817,
       "articlePartsSize" : 9,
       "articleWordCount" : 259,
@@ -214,6 +224,15 @@
       "titleSource" : "Online-Theaterfestival \"Zoom in\" mit Wiener Kollektiv Nesterval",
       "titleTarget" : "Viyana kolektifi Nesterval ile çevrimiçi tiyatro festivali \"Yakınlaştır\"",
       "url" : "https://www.diepresse.com/5958513/OnlineTheaterfestival-Zoom-in-mit-Wiener-Kollektiv-Nesterval?from=rss"
+    }, {
+      "articleLength" : 2388,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 329,
+      "id" : "GmD6Ncgt",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Wahlkampfkosten: Urteil im Verfahren ÖVP gegen \"Falter\"",
+      "titleTarget" : "Seçim kampanyası masrafları: ÖVP davasında \"Falter\" aleyhindeki karar",
+      "url" : "https://www.diepresse.com/5958851/Handelsgericht_Wahlkampfkosten_Urteil-im-Verfahren-OeVP-gegen-Falter?from=rss"
     }, {
       "articleLength" : 10232,
       "articlePartsSize" : 48,
@@ -225,23 +244,25 @@
       "titleTarget" : "ORF-Talk: \"Zaten biraz yırtık\" cümlesiyle",
       "url" : "https://kurier.at/kultur/medien/orf-talk-zu-corona-bei-dieser-nachricht-hats-mich-schon-a-bissl-grissen/401335299"
     }, {
-      "articleLength" : 2830,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 395,
-      "id" : "lx5OJWGg",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Christian Thielemann findet bei Bruckner 11 Symphonien",
-      "titleTarget" : "Christian Thielemann, Bruckner'da 11 senfoni buldu",
-      "url" : "https://www.derstandard.at/story/2000125431872/christian-thielemann-findet-bei-bruckner-11-symphonien?ref=rss"
+      "articleLength" : 1330,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 200,
+      "id" : "LJksNtXr",
+      "imgUrl" : "https://image.kurier.at/images/original/5937609/46-150648534.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Ich bin dann mal wieder da: Kerkeling beendet Bildschirmpause",
+      "titleTarget" : "Sonra tekrar döneceğim: Kerkeling ekran arasını bitirir",
+      "url" : "https://kurier.at/kultur/medien/ich-bin-dann-mal-wieder-da-hape-kerkeling-beendet-bildschirmpause/401335347"
     }, {
-      "articleLength" : 3723,
-      "articlePartsSize" : 16,
-      "articleWordCount" : 536,
-      "id" : "Jc0RSTAj",
-      "publisher" : "derstandard.at",
-      "titleSource" : "\"Late Night Group Therapy\": Das Internet wird nicht mehr demokratisch",
-      "titleTarget" : "\"Gece Geç Grup Terapisi\": İnternet artık demokratik hale gelmiyor",
-      "url" : "https://www.derstandard.at/story/2000125436000/late-night-group-therapydas-internet-wird-nicht-mehr-demokratisch?ref=rss"
+      "articleLength" : 1972,
+      "articlePartsSize" : 10,
+      "articleWordCount" : 292,
+      "id" : "C5dOX8Hm",
+      "imgUrl" : "https://image.kurier.at/images/original/5937867/46-170455144.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Oscar-Verleihung wird heuer in Hongkong nicht übertragen",
+      "titleTarget" : "Akademi Ödülleri bu yıl Hong Kong'da yayınlanmayacak",
+      "url" : "https://kurier.at/kultur/oscar-verleihung-wird-heuer-in-hongkong-nicht-uebertragen/401335503"
     } ]
   }, {
     "category" : "HEALTH",
@@ -256,6 +277,16 @@
       "titleTarget" : "14 gün süreyle yoğun bakım doktoru",
       "url" : "https://kurier.at/wissen/gesundheit/intensivmediziner-fuer-harten-lockdown-fuer-14-tage/401334735"
     }, {
+      "articleLength" : 1577,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 216,
+      "id" : "Z0On5Zqn",
+      "imgUrl" : "https://image.kurier.at/images/original/5937963/46-176644158.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Corona: Weitere Studie bekräftigt Wirksamkeit der mRNA-Vakzine",
+      "titleTarget" : "Corona: Başka bir çalışma, mRNA aşısının etkinliğini doğruladı",
+      "url" : "https://kurier.at/wissen/gesundheit/corona-weitere-studie-bekraeftigt-wirksamkeit-der-mrna-vakzine/401335566"
+    }, {
       "articleLength" : 2993,
       "articlePartsSize" : 14,
       "articleWordCount" : 422,
@@ -265,16 +296,6 @@
       "titleSource" : "Corona: WHO-Bericht stützt die Tier-Mensch-Übertragung",
       "titleTarget" : "Corona: WHO raporu, hayvandan insana bulaşmayı destekliyor",
       "url" : "https://kurier.at/wissen/gesundheit/corona-who-bericht-stuetzt-die-tier-mensch-uebertragung/401334882"
-    }, {
-      "articleLength" : 979,
-      "articlePartsSize" : 4,
-      "articleWordCount" : 144,
-      "id" : "o0m55IDQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4712127/46-168327256.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Diesen Weg nahm das Coronavirus",
-      "titleTarget" : "Koronavirüs bu yolu kullandı",
-      "url" : "https://kurier.at/wissen/gesundheit/diesen-weg-nahm-das-coronavirus/401335284"
     }, {
       "articleLength" : 3965,
       "articlePartsSize" : 18,
@@ -293,20 +314,30 @@
       "titleSource" : "Schuldspruch in Prozess um tödliche Schlankheitspillen in Frankreich",
       "titleTarget" : "Fransa'da ölümcül zayıflama hapları davasında suçlu kararı",
       "url" : "https://www.derstandard.at/story/2000125442086/schuldspruch-im-prozess-um-toedliche-schlankheits-pillen-in-frankreich?ref=rss"
+    }, {
+      "articleLength" : 979,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 144,
+      "id" : "o0m55IDQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4712127/46-168327256.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Diesen Weg nahm das Coronavirus",
+      "titleTarget" : "Koronavirüs bu yolu kullandı",
+      "url" : "https://kurier.at/wissen/gesundheit/diesen-weg-nahm-das-coronavirus/401335284"
+    }, {
+      "articleLength" : 2369,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 324,
+      "id" : "U9uUkiql",
+      "imgUrl" : "https://image.kurier.at/images/original/3334933/46-144452983.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Schuldspruch im Prozess um Schlankheits-Tabletten in Frankreich",
+      "titleTarget" : "Fransa'daki zayıflama hapı denemesinde suçlu kararı",
+      "url" : "https://kurier.at/wissen/gesundheit/schuldspruch-im-prozess-um-schlankheits-tabletten-in-frankreich/401335437"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "articleLength" : 3524,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 500,
-      "id" : "T9OLo2aD",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/e/c/5958380/4F7C9DE7-308D-42DF-B187-90C21A9D7E0D_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "WM-Qualifikation: Österreich besiegt Färöer nach Rückstand",
-      "titleTarget" : "Dünya Kupası elemeleri: Avusturya geride kaldıktan sonra Faroe Adaları'nı mağlup etti",
-      "url" : "https://www.diepresse.com/5958380/Gruppe-F_WMQualifikation_Oesterreich-besiegt-Faeroeer-nach-Rueckstand?from=rss"
-    }, {
       "articleLength" : 2618,
       "articlePartsSize" : 13,
       "articleWordCount" : 399,
@@ -337,24 +368,15 @@
       "titleTarget" : "Kayakçı Tande komadan uyandı",
       "url" : "https://www.diepresse.com/5958482/Nach-Sturz_Skispringer-Tande-ist-aus-dem-Koma-erwacht?from=rss"
     }, {
-      "articleLength" : 7265,
-      "articlePartsSize" : 31,
-      "articleWordCount" : 1090,
-      "id" : "puWDL3yQ",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Souverän: Österreich schlägt Färöer nach Fehlstart noch 3:1",
-      "titleTarget" : "Egemen: Avusturya, yanlış bir başlangıçtan sonra Faroe Adaları'nı 3: 1 yendi",
-      "url" : "https://www.derstandard.at/story/2000125428591/souveraen-oesterreich-schlaegt-faeroeer-nach-fehlstart-noch-31?ref=rss"
-    }, {
-      "articleLength" : 3611,
-      "articlePartsSize" : 16,
-      "articleWordCount" : 534,
-      "id" : "jOj1BvrL",
-      "imgUrl" : "https://image.kurier.at/images/original/5935158/46-176702821.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Erst gestolpert, dann souverän: ÖFB-Pflichtsieg gegen die Färöer",
-      "titleTarget" : "Önce tökezledi, sonra egemen: ÖFB'nin Faroe Adaları'na karşı zorunlu zaferi",
-      "url" : "https://kurier.at/sport/fussball/wm-qualifikation-oesterreich-feiert-31-pflichtsieg-gegen-die-faeroeer/401334336"
+      "articleLength" : 4758,
+      "articlePartsSize" : 21,
+      "articleWordCount" : 700,
+      "id" : "85JQJkX9",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/5/6/5958486/44D4B05A-1935-441C-808E-8E4CF5847942_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "WM-Qualifikation: Zittersiege für Spanien und Deutschland",
+      "titleTarget" : "Dünya Kupası elemeleri: İspanya ve Almanya için zafer",
+      "url" : "https://www.diepresse.com/5958486/WM-2022_WMQualifikation_Zittersiege-fuer-Spanien-und-Deutschland?from=rss"
     }, {
       "articleLength" : 1849,
       "articlePartsSize" : 8,
@@ -364,6 +386,25 @@
       "titleSource" : "Tande nach Unfall in Planica aus dem Koma erwacht",
       "titleTarget" : "Tande, Planica'da bir kaza geçirdikten sonra komadan uyandı",
       "url" : "https://www.derstandard.at/story/2000125434363/skispringer-tande-aus-dem-koma-erwacht?ref=rss"
+    }, {
+      "articleLength" : 2035,
+      "articlePartsSize" : 10,
+      "articleWordCount" : 298,
+      "id" : "H70Bm1bm",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Neues \"Zuhause\" für die Formel 1 im ORF: Bussi, Schatzi!",
+      "titleTarget" : "ORF'de Formula 1 için yeni \"yuva\": Bussi, Schatzi!",
+      "url" : "https://www.derstandard.at/story/2000125437217/neues-zuhause-fuer-die-formel-1-im-orf-bussi-schatzi?ref=rss"
+    }, {
+      "articleLength" : 648,
+      "articlePartsSize" : 3,
+      "articleWordCount" : 104,
+      "id" : "zMoFg5aM",
+      "imgUrl" : "https://image.kurier.at/images/original/5937534/46-176718288.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Der Stellenwert der Kicker-Gewerkschaft ist hoch wie nie",
+      "titleTarget" : "Kicker sendikasının konumu her zamankinden daha yüksek",
+      "url" : "https://kurier.at/sport/fussball/der-stellenwert-der-kicker-gewerkschaft-ist-so-hoch-wie-nie/401335317"
     } ]
   } ],
   "country" : "austria",
